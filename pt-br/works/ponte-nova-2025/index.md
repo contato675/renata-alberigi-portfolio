@@ -4,7 +4,8 @@ https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ponte-nova-20
 
 **Artista:** Renata Alberigi
 **Ano:** 2025
-**Técnica:** Pintura feita à mão
+**Técnica:** Óleo sobre tela
+**Dimensões:** 120 × 80 cm
 **Título original:** Ponte nova
 
 ![Ponte nova — Uma paisagem de rio rochoso, águas vermelhas e âmbar e vegetação verde.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-01.webp)
@@ -25,6 +26,6 @@ https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ponte-nova-20
 
 ## Contato
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Obras e fotografias preservam seus respectivos direitos. Nenhuma licença de reprodução é concedida.

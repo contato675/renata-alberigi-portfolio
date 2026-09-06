@@ -4,9 +4,9 @@ https://contato675.github.io/renata-alberigi-portfolio/
 
 > Brazilian painter & visual artist
 
-Painting made by hand. Renata works with oil and acrylic painting, inspired by trees, rocks and river waters. A separate collection presents her hand-drawn digital paintings.
+Brazilian painter and visual artist, born in Petrolina, Pernambuco, in 1993 and based in Caeté-Açu, in Bahia’s Chapada Diamantina. Self-taught, she has painted since childhood. Her practice focuses on hand-painted works in oil and acrylic, alongside portraits, installations and hand-drawn digital work.
 
-Caeté-Açu · Chapada Diamantina · Bahia
+Caeté-Açu · Chapada Diamantina · Bahia - Brazil
 
 ## About
 
@@ -17,29 +17,33 @@ Renata Alberigi is a Brazilian painter and visual artist, born in Petrolina, Per
 
 ### Hand-painted works
 
-- [Amor incondicional](https://contato675.github.io/renata-alberigi-portfolio/works/amor-incondicional-2026/index.md): 2026; Hand-painted artwork.
-- [Ponte nova](https://contato675.github.io/renata-alberigi-portfolio/works/ponte-nova-2025/index.md): 2025; Hand-painted artwork.
-- [Maternidade](https://contato675.github.io/renata-alberigi-portfolio/works/maternidade-2026/index.md): 2026; Hand-painted artwork.
-- [Maternidade1](https://contato675.github.io/renata-alberigi-portfolio/works/maternidade1-2025/index.md): 2025; Hand-painted artwork.
-- [Lar](https://contato675.github.io/renata-alberigi-portfolio/works/lar-2026/index.md): 2026; Hand-painted artwork.
-- [Aureo](https://contato675.github.io/renata-alberigi-portfolio/works/aureo-2025/index.md): 2025; Hand-painted artwork.
-- [ANALOGIAEU part4](https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-part4-2024/index.md): 2024; Hand-painted artwork.
-- [Correnteza](https://contato675.github.io/renata-alberigi-portfolio/works/correnteza-2024/index.md): 2024; Hand-painted artwork.
-- [ANALOGIAEU](https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-2018/index.md): 2018; Hand-painted artwork.
+- [Amor incondicional](https://contato675.github.io/renata-alberigi-portfolio/works/amor-incondicional-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
+- [Ponte nova](https://contato675.github.io/renata-alberigi-portfolio/works/ponte-nova-2025/index.md): 2025; Oil on canvas; 120 × 80 cm.
+- [Maternidade](https://contato675.github.io/renata-alberigi-portfolio/works/maternidade-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
+- [Maternidade 1](https://contato675.github.io/renata-alberigi-portfolio/works/maternidade1-2025/index.md): 2025; Acrylic and pastel on canvas, varnished; 100 × 80 cm.
+- [Lar](https://contato675.github.io/renata-alberigi-portfolio/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120 cm.
+- [Áureo](https://contato675.github.io/renata-alberigi-portfolio/works/aureo-2025/index.md): 2025; Oil on canvas; 40 × 60 cm.
+- [ANALOGIAEU part4](https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-part4-2024/index.md): 2024; Oil on canvas; 100 × 80 cm.
+- [Correnteza](https://contato675.github.io/renata-alberigi-portfolio/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 × 100 cm.
+- [ANALOGIAEU](https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-2018/index.md): 2018; Acrylic on canvas; 130 × 800 cm.
 
 ### Hand-drawn digital paintings
 
 - [Mãe](https://contato675.github.io/renata-alberigi-portfolio/works/digital-01/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 02](https://contato675.github.io/renata-alberigi-portfolio/works/digital-02/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 03](https://contato675.github.io/renata-alberigi-portfolio/works/digital-03/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 04](https://contato675.github.io/renata-alberigi-portfolio/works/digital-04/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 05](https://contato675.github.io/renata-alberigi-portfolio/works/digital-05/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 06](https://contato675.github.io/renata-alberigi-portfolio/works/digital-06/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 07](https://contato675.github.io/renata-alberigi-portfolio/works/digital-07/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 08](https://contato675.github.io/renata-alberigi-portfolio/works/digital-08/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 09](https://contato675.github.io/renata-alberigi-portfolio/works/digital-09/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 10](https://contato675.github.io/renata-alberigi-portfolio/works/digital-10/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Digital painting 11](https://contato675.github.io/renata-alberigi-portfolio/works/digital-11/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Renascida](https://contato675.github.io/renata-alberigi-portfolio/works/digital-02/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Fluir](https://contato675.github.io/renata-alberigi-portfolio/works/digital-03/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Balanço](https://contato675.github.io/renata-alberigi-portfolio/works/digital-04/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Alexandrina](https://contato675.github.io/renata-alberigi-portfolio/works/digital-05/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Nara](https://contato675.github.io/renata-alberigi-portfolio/works/digital-06/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Nadine](https://contato675.github.io/renata-alberigi-portfolio/works/digital-07/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Sol](https://contato675.github.io/renata-alberigi-portfolio/works/digital-08/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Fernanda](https://contato675.github.io/renata-alberigi-portfolio/works/digital-09/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Raio Rubi](https://contato675.github.io/renata-alberigi-portfolio/works/digital-10/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Capa do Disco de Rap](https://contato675.github.io/renata-alberigi-portfolio/works/digital-11/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+
+### Brand Design Collection
+
+- [RUADOFLOW — Brand Design Collection](https://contato675.github.io/renata-alberigi-portfolio/works/ruadoflow-brand-design-2024-2025/index.md): Collection period: 2024–2025; Illustration and apparel design.
 
 ## ANALOGIAEU - Um Sonho de Renata Ribero
 
@@ -55,6 +59,6 @@ A film from the ANALOGIAEU body of work, selected for this portfolio. Original t
 
 ## Contact
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Artwork and photographs retain their respective rights. No reproduction licence is granted.

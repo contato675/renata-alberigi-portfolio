@@ -4,7 +4,8 @@ https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/lar-2026/
 
 **Artista:** Renata Alberigi
 **Ano:** 2026
-**Técnica:** Pintura feita à mão
+**Técnica:** Acrílica e giz pastel sobre tela, envernizada
+**Dimensões:** 100 × 120 cm
 **Título original:** Lar
 
 ![Lar — Árvores e raízes entrelaçadas em uma paisagem de pintura densa, rosa e verde.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-01.webp)
@@ -37,6 +38,6 @@ https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/lar-2026/
 
 ## Contato
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Obras e fotografias preservam seus respectivos direitos. Nenhuma licença de reprodução é concedida.

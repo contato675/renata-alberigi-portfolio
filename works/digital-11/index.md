@@ -1,17 +1,16 @@
-# Digital painting 11
+# Capa do Disco de Rap
 
 https://contato675.github.io/renata-alberigi-portfolio/works/digital-11/
 
 **Artist:** Renata Alberigi
 **Collection period:** 2024–2026
 **Medium:** Hand-drawn digital painting
+**Original title:** Capa do Disco de Rap
 
-Descriptive catalogue label; the original title has not been supplied.
-
-![Digital painting 11 — hand-drawn digital painting, image 1.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-11/image-01.webp)
+![Capa do Disco de Rap — hand-drawn digital painting, image 1.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-11/image-01.webp)
 
 ## Contact
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Artwork and photographs retain their respective rights. No reproduction licence is granted.

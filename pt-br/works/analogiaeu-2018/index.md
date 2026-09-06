@@ -4,7 +4,8 @@ https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-20
 
 **Artista:** Renata Alberigi
 **Ano:** 2018
-**Técnica:** Pintura feita à mão
+**Técnica:** Acrílica sobre tela
+**Dimensões:** 130 × 800 cm
 **Título original:** ANALOGIAEU
 
 ![ANALOGIAEU — Formas ramificadas azuis e douradas em uma composição de pintura detalhada.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-01.webp)
@@ -27,6 +28,6 @@ https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-20
 
 ## Contato
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Obras e fotografias preservam seus respectivos direitos. Nenhuma licença de reprodução é concedida.

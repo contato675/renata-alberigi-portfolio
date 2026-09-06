@@ -8,8 +8,8 @@
       "jobTitle": "Pintora e artista visual brasileira",
       "description": "Renata Alberigi é pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada em Caeté-Açu, na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão. Árvores, rochas e águas de rios são suas principais fontes de inspiração. As formas, texturas e movimentos desses elementos alimentam um processo de criação que mantém o gesto manual presente tanto na pintura quanto no meio digital. Mãe desde 2019, Renata mantém seu próprio ateliê de pintura em Caeté-Açu, onde desenvolve uma produção autoral independente em contato cotidiano com a paisagem da Chapada Diamantina. Entre seus trabalhos, destaca-se ANALOGIAEU, série de pinturas construída entre 2014 e 2019 e apresentada em espaços como o Museu de Antropologia do Vale do Paraíba e o Espaço Tomie Ohtake, no EducaMais Jacareí. Sua trajetória também inclui oficinas e palestras para crianças, jovens e professores, além da atuação como diretora de arte da RUADOFLOW entre 2016 e 2026. Ao longo desse percurso, reúne a criação em ateliê, o design de roupas e de capas de CDs, a participação em exposições e instalações e a experiência de compartilhar práticas artísticas em espaços culturais e educativos.",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/",
-      "email": "ataneribero@gmail.com",
-      "image": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/perfil/renata-alberigi.webp"
+      "email": "estudiorenascida@gmail.com",
+      "image": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/perfil/renata-alberigi-c758528aa6.webp"
     },
     {
       "@type": "VisualArtwork",
@@ -22,7 +22,8 @@
       "dateCreated": "2026",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
-      "artMedium": "Pintura feita à mão",
+      "artMedium": "Óleo sobre tela",
+      "size": "100 × 80 cm",
       "inLanguage": "pt-BR",
       "image": [
         {
@@ -136,7 +137,8 @@
       "dateCreated": "2025",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
-      "artMedium": "Pintura feita à mão",
+      "artMedium": "Óleo sobre tela",
+      "size": "120 × 80 cm",
       "inLanguage": "pt-BR",
       "image": [
         {
@@ -208,7 +210,8 @@
       "dateCreated": "2026",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
-      "artMedium": "Pintura feita à mão",
+      "artMedium": "Óleo sobre tela",
+      "size": "100 × 80 cm",
       "inLanguage": "pt-BR",
       "image": [
         {
@@ -301,104 +304,105 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade1-2025/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade1-2025/",
-      "name": "Maternidade1",
+      "name": "Maternidade 1",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
       "dateCreated": "2025",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
-      "artMedium": "Pintura feita à mão",
+      "artMedium": "Acrílica e giz pastel sobre tela, envernizada",
+      "size": "100 × 80 cm",
       "inLanguage": "pt-BR",
       "image": [
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-01.webp",
-          "caption": "Maternidade1 — Uma trama de árvores, galhos e pequenas marcas rosas e verdes.",
+          "caption": "Maternidade 1 — Uma trama de árvores, galhos e pequenas marcas rosas e verdes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-02.webp",
-          "caption": "Maternidade1 — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-03.webp",
-          "caption": "Maternidade1 — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-04.webp",
-          "caption": "Maternidade1 — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-05.webp",
-          "caption": "Maternidade1 — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-06.webp",
-          "caption": "Maternidade1 — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-07.webp",
-          "caption": "Maternidade1 — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-08.webp",
-          "caption": "Maternidade1 — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-09.webp",
-          "caption": "Maternidade1 — Fotografia 9 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 9 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-10.webp",
-          "caption": "Maternidade1 — Fotografia 10 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 10 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-11.webp",
-          "caption": "Maternidade1 — Fotografia 11 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 11 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-12.webp",
-          "caption": "Maternidade1 — Fotografia 12 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 12 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-13.webp",
-          "caption": "Maternidade1 — Fotografia 13 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade 1 — Fotografia 13 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         }
@@ -415,7 +419,8 @@
       "dateCreated": "2026",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
-      "artMedium": "Pintura feita à mão",
+      "artMedium": "Acrílica e giz pastel sobre tela, envernizada",
+      "size": "100 × 120 cm",
       "inLanguage": "pt-BR",
       "image": [
         {
@@ -522,69 +527,70 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/aureo-2025/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/aureo-2025/",
-      "name": "Aureo",
+      "name": "Áureo",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
       "dateCreated": "2025",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
-      "artMedium": "Pintura feita à mão",
+      "artMedium": "Óleo sobre tela",
+      "size": "40 × 60 cm",
       "inLanguage": "pt-BR",
       "image": [
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-01.webp",
-          "caption": "Aureo — Formações rochosas iluminadas junto a águas escuras sob um céu azul.",
+          "caption": "Áureo — Formações rochosas iluminadas junto a águas escuras sob um céu azul.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-02.webp",
-          "caption": "Aureo — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "caption": "Áureo — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-03.webp",
-          "caption": "Aureo — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "caption": "Áureo — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-04.webp",
-          "caption": "Aureo — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "caption": "Áureo — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-05.webp",
-          "caption": "Aureo — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "caption": "Áureo — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-06.webp",
-          "caption": "Aureo — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "caption": "Áureo — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-07.webp",
-          "caption": "Aureo — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "caption": "Áureo — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-08.webp",
-          "caption": "Aureo — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "caption": "Áureo — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         }
@@ -601,7 +607,8 @@
       "dateCreated": "2024",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
-      "artMedium": "Pintura feita à mão",
+      "artMedium": "Óleo sobre tela",
+      "size": "100 × 80 cm",
       "inLanguage": "pt-BR",
       "image": [
         {
@@ -664,16 +671,17 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/correnteza-2024/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/correnteza-2024/",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/correnteza-2022/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/correnteza-2022/",
       "name": "Correnteza",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
-      "dateCreated": "2024",
+      "dateCreated": "2022",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
-      "artMedium": "Pintura feita à mão",
+      "artMedium": "Óleo sobre tela",
+      "size": "70 × 100 cm",
       "inLanguage": "pt-BR",
       "image": [
         {
@@ -745,7 +753,8 @@
       "dateCreated": "2018",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
-      "artMedium": "Pintura feita à mão",
+      "artMedium": "Acrílica sobre tela",
+      "size": "130 × 800 cm",
       "inLanguage": "pt-BR",
       "image": [
         {
@@ -840,7 +849,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-02/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-02/",
-      "name": "Pintura digital 02",
+      "name": "Renascida",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -853,35 +862,35 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-01.webp",
-          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 1.",
+          "caption": "Renascida — pintura digital feita à mão, imagem 1.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-02.webp",
-          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 2.",
+          "caption": "Renascida — pintura digital feita à mão, imagem 2.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-03.webp",
-          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 3.",
+          "caption": "Renascida — pintura digital feita à mão, imagem 3.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-04.webp",
-          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 4.",
+          "caption": "Renascida — pintura digital feita à mão, imagem 4.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-05.webp",
-          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 5.",
+          "caption": "Renascida — pintura digital feita à mão, imagem 5.",
           "width": 640,
           "height": 800
         }
@@ -891,7 +900,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-03/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-03/",
-      "name": "Pintura digital 03",
+      "name": "Fluir",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -904,35 +913,35 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-01.webp",
-          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 1.",
+          "caption": "Fluir — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-02.webp",
-          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 2.",
+          "caption": "Fluir — pintura digital feita à mão, imagem 2.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-03.webp",
-          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 3.",
+          "caption": "Fluir — pintura digital feita à mão, imagem 3.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-04.webp",
-          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 4.",
+          "caption": "Fluir — pintura digital feita à mão, imagem 4.",
           "width": 944,
           "height": 1180
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-05.webp",
-          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 5.",
+          "caption": "Fluir — pintura digital feita à mão, imagem 5.",
           "width": 1080,
           "height": 1350
         }
@@ -942,7 +951,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-04/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-04/",
-      "name": "Pintura digital 04",
+      "name": "Balanço",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -955,28 +964,28 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-01.webp",
-          "caption": "Pintura digital 04 — pintura digital feita à mão, imagem 1.",
+          "caption": "Balanço — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-02.webp",
-          "caption": "Pintura digital 04 — pintura digital feita à mão, imagem 2.",
+          "caption": "Balanço — pintura digital feita à mão, imagem 2.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-03.webp",
-          "caption": "Pintura digital 04 — pintura digital feita à mão, imagem 3.",
+          "caption": "Balanço — pintura digital feita à mão, imagem 3.",
           "width": 916,
           "height": 1144
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-04.webp",
-          "caption": "Pintura digital 04 — pintura digital feita à mão, imagem 4.",
+          "caption": "Balanço — pintura digital feita à mão, imagem 4.",
           "width": 1080,
           "height": 1349
         }
@@ -986,7 +995,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-05/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-05/",
-      "name": "Pintura digital 05",
+      "name": "Alexandrina",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -999,14 +1008,14 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-05/image-01.webp",
-          "caption": "Pintura digital 05 — pintura digital feita à mão, imagem 1.",
+          "caption": "Alexandrina — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-05/image-02.webp",
-          "caption": "Pintura digital 05 — pintura digital feita à mão, imagem 2.",
+          "caption": "Alexandrina — pintura digital feita à mão, imagem 2.",
           "width": 944,
           "height": 1180
         }
@@ -1016,7 +1025,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-06/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-06/",
-      "name": "Pintura digital 06",
+      "name": "Nara",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -1029,7 +1038,7 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-06/image-01.webp",
-          "caption": "Pintura digital 06 — pintura digital feita à mão, imagem 1.",
+          "caption": "Nara — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1352
         }
@@ -1039,7 +1048,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-07/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-07/",
-      "name": "Pintura digital 07",
+      "name": "Nadine",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -1052,7 +1061,7 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-07/image-01.webp",
-          "caption": "Pintura digital 07 — pintura digital feita à mão, imagem 1.",
+          "caption": "Nadine — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1080
         }
@@ -1062,7 +1071,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-08/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-08/",
-      "name": "Pintura digital 08",
+      "name": "Sol",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -1075,14 +1084,14 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-08/image-01.webp",
-          "caption": "Pintura digital 08 — pintura digital feita à mão, imagem 1.",
+          "caption": "Sol — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-08/image-02.webp",
-          "caption": "Pintura digital 08 — pintura digital feita à mão, imagem 2.",
+          "caption": "Sol — pintura digital feita à mão, imagem 2.",
           "width": 1080,
           "height": 1349
         }
@@ -1092,7 +1101,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-09/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-09/",
-      "name": "Pintura digital 09",
+      "name": "Fernanda",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -1105,21 +1114,21 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-01.webp",
-          "caption": "Pintura digital 09 — pintura digital feita à mão, imagem 1.",
+          "caption": "Fernanda — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-02.webp",
-          "caption": "Pintura digital 09 — pintura digital feita à mão, imagem 2.",
+          "caption": "Fernanda — pintura digital feita à mão, imagem 2.",
           "width": 720,
           "height": 900
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-03.webp",
-          "caption": "Pintura digital 09 — pintura digital feita à mão, imagem 3.",
+          "caption": "Fernanda — pintura digital feita à mão, imagem 3.",
           "width": 1080,
           "height": 1350
         }
@@ -1129,7 +1138,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-10/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-10/",
-      "name": "Pintura digital 10",
+      "name": "Raio Rubi",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -1142,28 +1151,28 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-01.webp",
-          "caption": "Pintura digital 10 — pintura digital feita à mão, imagem 1.",
+          "caption": "Raio Rubi — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-02.webp",
-          "caption": "Pintura digital 10 — pintura digital feita à mão, imagem 2.",
+          "caption": "Raio Rubi — pintura digital feita à mão, imagem 2.",
           "width": 536,
           "height": 670
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-03.webp",
-          "caption": "Pintura digital 10 — pintura digital feita à mão, imagem 3.",
+          "caption": "Raio Rubi — pintura digital feita à mão, imagem 3.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-04.webp",
-          "caption": "Pintura digital 10 — pintura digital feita à mão, imagem 4.",
+          "caption": "Raio Rubi — pintura digital feita à mão, imagem 4.",
           "width": 1080,
           "height": 1350
         }
@@ -1173,7 +1182,7 @@
       "@type": "VisualArtwork",
       "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-11/",
       "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-11/",
-      "name": "Pintura digital 11",
+      "name": "Capa do Disco de Rap",
       "creator": {
         "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
       },
@@ -1186,7 +1195,485 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-11/image-01.webp",
-          "caption": "Pintura digital 11 — pintura digital feita à mão, imagem 1.",
+          "caption": "Capa do Disco de Rap — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ruadoflow-brand-design-2024-2025/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ruadoflow-brand-design-2024-2025/",
+      "name": "RUADOFLOW — Coleção de design",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2025",
+      "keywords": "Design de marca",
+      "genre": "Ilustração e design para vestuário",
+      "inLanguage": "pt-BR",
+      "description": "Uma coleção completa desenhada por Renata Alberigi para a RUADOFLOW entre 2024 e 2025, com lançamento oficial no site da marca. As imagens apresentam seus designs aplicados a camisetas e moletons.",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-01.webp",
+          "caption": "Camiseta oversized — design 01 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-02.webp",
+          "caption": "Camiseta oversized, vista frontal — design 02 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-03.webp",
+          "caption": "Camiseta oversized, vista das costas — design 03 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-04.webp",
+          "caption": "Camiseta oversized, vista das costas — design 04 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-05.webp",
+          "caption": "Camiseta oversized, vista frontal — design 05 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-06.webp",
+          "caption": "Camiseta oversized, vista frontal — design 06 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-07.webp",
+          "caption": "Camiseta oversized, vista das costas — design 07 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-08.webp",
+          "caption": "Camiseta oversized, vista das costas — design 08 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-09.webp",
+          "caption": "Camiseta oversized, vista frontal — design 09 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-10.webp",
+          "caption": "Camiseta oversized, vista das costas — design 10 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-11.webp",
+          "caption": "Camiseta oversized, vista das costas — design 11 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-12.webp",
+          "caption": "Camiseta oversized, vista frontal — design 12 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-13.webp",
+          "caption": "Camiseta oversized, vista frontal — design 13 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-14.webp",
+          "caption": "Camiseta oversized, vista das costas — design 14 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-15.webp",
+          "caption": "Camiseta oversized, vista frontal — design 15 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-16.webp",
+          "caption": "Camiseta oversized, vista das costas — design 16 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-17.webp",
+          "caption": "Camiseta oversized, vista frontal — design 17 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-18.webp",
+          "caption": "Camiseta oversized, vista das costas — design 18 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-19.webp",
+          "caption": "Camiseta oversized, vista das costas — design 19 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-20.webp",
+          "caption": "Camiseta oversized, vista frontal — design 20 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-21.webp",
+          "caption": "Camiseta oversized, vista frontal — design 21 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-22.webp",
+          "caption": "Camiseta oversized, vista das costas — design 22 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-23.webp",
+          "caption": "Camiseta oversized, vista das costas — design 23 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-24.webp",
+          "caption": "Camiseta oversized, vista das costas — design 24 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-25.webp",
+          "caption": "Camiseta oversized, vista das costas — design 25 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-26.webp",
+          "caption": "Camiseta oversized, vista frontal — design 26 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-27.webp",
+          "caption": "Camiseta oversized, vista das costas — design 27 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-28.webp",
+          "caption": "Camiseta oversized, vista das costas — design 28 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-29.webp",
+          "caption": "Camiseta oversized, vista frontal — design 29 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-30.webp",
+          "caption": "Camiseta oversized, vista frontal — design 30 da coleção RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-31.webp",
+          "caption": "Moletom com capuz, vista das costas — design 31 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-32.webp",
+          "caption": "Moletom com capuz, vista das costas — design 32 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-33.webp",
+          "caption": "Moletom com capuz, vista das costas — design 33 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-34.webp",
+          "caption": "Moletom com capuz, vista das costas — design 34 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-35.webp",
+          "caption": "Moletom com capuz, vista das costas — design 35 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-36.webp",
+          "caption": "Moletom com capuz, vista frontal — design 36 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-37.webp",
+          "caption": "Moletom com capuz, vista frontal — design 37 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-38.webp",
+          "caption": "Moletom com capuz, vista das costas — design 38 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-39.webp",
+          "caption": "Moletom com capuz, vista das costas — design 39 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-40.webp",
+          "caption": "Moletom com capuz, vista das costas — design 40 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-41.webp",
+          "caption": "Moletom com capuz, vista frontal — design 41 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-42.webp",
+          "caption": "Moletom com capuz, vista frontal — design 42 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-43.webp",
+          "caption": "Moletom com capuz, vista das costas — design 43 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-44.webp",
+          "caption": "Moletom com capuz, vista frontal — design 44 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-45.webp",
+          "caption": "Moletom com capuz, vista das costas — design 45 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-46.webp",
+          "caption": "Moletom com capuz, vista frontal — design 46 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-47.webp",
+          "caption": "Moletom com capuz, vista frontal — design 47 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-48.webp",
+          "caption": "Moletom com capuz, vista frontal — design 48 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-49.webp",
+          "caption": "Moletom com capuz, vista das costas — design 49 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-50.webp",
+          "caption": "Moletom com capuz, vista das costas — design 50 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-51.webp",
+          "caption": "Moletom com capuz, vista das costas — design 51 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-52.webp",
+          "caption": "Moletom com capuz, vista frontal — design 52 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-53.webp",
+          "caption": "Moletom com capuz, vista frontal — design 53 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-54.webp",
+          "caption": "Moletom com capuz, vista das costas — design 54 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-55.webp",
+          "caption": "Moletom com capuz, vista das costas — design 55 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-56.webp",
+          "caption": "Moletom com capuz, vista das costas — design 56 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-57.webp",
+          "caption": "Moletom com capuz, vista das costas — design 57 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-58.webp",
+          "caption": "Moletom com capuz, vista frontal — design 58 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-59.webp",
+          "caption": "Moletom com capuz, vista das costas — design 59 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-60.webp",
+          "caption": "Moletom com capuz, vista das costas — design 60 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-61.webp",
+          "caption": "Moletom com capuz, vista das costas — design 61 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-62.webp",
+          "caption": "Moletom com capuz, vista das costas — design 62 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-63.webp",
+          "caption": "Moletom com capuz, vista das costas — design 63 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-64.webp",
+          "caption": "Moletom com capuz, vista das costas — design 64 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-65.webp",
+          "caption": "Moletom com capuz, vista frontal — design 65 da coleção RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-66.webp",
+          "caption": "Moletom com capuz, vista frontal — design 66 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         }

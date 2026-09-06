@@ -4,7 +4,8 @@ https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-2018/
 
 **Artist:** Renata Alberigi
 **Year:** 2018
-**Medium:** Hand-painted artwork
+**Medium:** Acrylic on canvas
+**Dimensions:** 130 × 800 cm
 **Original title:** ANALOGIAEU
 
 ![ANALOGIAEU — Branching blue and golden shapes in an intricately painted composition.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-01.webp)
@@ -27,6 +28,6 @@ https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-2018/
 
 ## Contact
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Artwork and photographs retain their respective rights. No reproduction licence is granted.

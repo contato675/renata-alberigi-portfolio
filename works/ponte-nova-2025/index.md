@@ -4,7 +4,8 @@ https://contato675.github.io/renata-alberigi-portfolio/works/ponte-nova-2025/
 
 **Artist:** Renata Alberigi
 **Year:** 2025
-**Medium:** Hand-painted artwork
+**Medium:** Oil on canvas
+**Dimensions:** 120 × 80 cm
 **Original title:** Ponte nova
 
 ![Ponte nova — A rocky river landscape with red and amber water and green vegetation.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-01.webp)
@@ -25,6 +26,6 @@ https://contato675.github.io/renata-alberigi-portfolio/works/ponte-nova-2025/
 
 ## Contact
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Artwork and photographs retain their respective rights. No reproduction licence is granted.

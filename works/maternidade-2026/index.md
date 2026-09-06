@@ -4,7 +4,8 @@ https://contato675.github.io/renata-alberigi-portfolio/works/maternidade-2026/
 
 **Artist:** Renata Alberigi
 **Year:** 2026
-**Medium:** Hand-painted artwork
+**Medium:** Oil on canvas
+**Dimensions:** 100 × 80 cm
 **Original title:** Maternidade
 
 ![Maternidade — A narrow blue river surrounded by red rocks and green trees.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-01.webp)
@@ -33,6 +34,6 @@ https://contato675.github.io/renata-alberigi-portfolio/works/maternidade-2026/
 
 ## Contact
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Artwork and photographs retain their respective rights. No reproduction licence is granted.

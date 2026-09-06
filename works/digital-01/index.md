@@ -11,6 +11,6 @@ https://contato675.github.io/renata-alberigi-portfolio/works/digital-01/
 
 ## Contact
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Artwork and photographs retain their respective rights. No reproduction licence is granted.

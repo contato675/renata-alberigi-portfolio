@@ -4,7 +4,8 @@ https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade-2
 
 **Artista:** Renata Alberigi
 **Ano:** 2026
-**Técnica:** Pintura feita à mão
+**Técnica:** Óleo sobre tela
+**Dimensões:** 100 × 80 cm
 **Título original:** Maternidade
 
 ![Maternidade — Um rio azul estreito cercado por rochas avermelhadas e árvores verdes.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-01.webp)
@@ -33,6 +34,6 @@ https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade-2
 
 ## Contato
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Obras e fotografias preservam seus respectivos direitos. Nenhuma licença de reprodução é concedida.

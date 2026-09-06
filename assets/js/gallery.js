@@ -21,7 +21,8 @@ function show(dialog, anchor) {
   dialog.showModal();
   document.documentElement.classList.add('viewer-open');
   dialog.querySelector('[data-close]')?.focus();
-  rails.get(dialog)?.go(Number(dialog.dataset.cover), false);
+  const start=Number(anchor?.dataset.start);
+  rails.get(dialog)?.go(Number.isSafeInteger(start)&&start>=0?start:Number(dialog.dataset.cover), false);
 }
 function requestClose() {
   if (ownsHistoryEntry) { ownsHistoryEntry = false; history.back(); }
@@ -113,15 +114,4 @@ for (const button of document.querySelectorAll('[data-video]')) {
     button.parentElement.replaceWith(iframe);
     iframe.focus();
   }, {once:true});
-}
-const gridButton = document.querySelector('[data-grid-toggle]');
-if (gridButton) {
-  gridButton.hidden = false;
-  gridButton.addEventListener('click', () => {
-    const enabled = document.body.classList.toggle('grid-on');
-    gridButton.setAttribute('aria-pressed', String(enabled));
-  });
-  document.addEventListener('keydown', (event) => {
-    if (event.key.toLowerCase() === 'g' && !event.ctrlKey && !event.metaKey && !event.altKey && !event.target.isContentEditable && !/^(INPUT|TEXTAREA|SELECT)$/.test(event.target.tagName) && !active) gridButton.click();
-  });
 }

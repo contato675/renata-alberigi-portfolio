@@ -4,7 +4,8 @@ https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-part4-20
 
 **Artist:** Renata Alberigi
 **Year:** 2024
-**Medium:** Hand-painted artwork
+**Medium:** Oil on canvas
+**Dimensions:** 100 × 80 cm
 **Original title:** ANALOGIAEU part4
 
 ![ANALOGIAEU part4 — A richly coloured tree trunk and roots in a pink landscape.](https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-01.webp)
@@ -25,6 +26,6 @@ https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-part4-20
 
 ## Contact
 
-ataneribero@gmail.com
+estudiorenascida@gmail.com
 
 © Renata Alberigi. Artwork and photographs retain their respective rights. No reproduction licence is granted.
