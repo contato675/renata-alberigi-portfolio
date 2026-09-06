@@ -1,31 +1,24 @@
 # 04 · GitHub Pages e publicação
 
-## Estado da fase 0
-Repositório: `contato675/renata-alberigi-portfolio`, privado, branch main.
-Pages não ativado; não há URL de site publicado. O endereço abaixo é apenas o endereço esperado quando houver publicação:
-`https://contato675.github.io/renata-alberigi-portfolio/`
+## Estado
+Repositório independente `contato675/renata-alberigi-portfolio`, privado; main preservado. Pages não ativado. Push/PR não são deploy. Endereço planejado: `https://contato675.github.io/renata-alberigi-portfolio/`.
 
-## Funcionamento
-Pages entrega arquivos estáticos HTML/CSS/JavaScript e imagens a partir do repositório. Não executa backend, não usa Supabase e não requer chave de IA. Nosso build simples produz `dist/`; somente essa pasta deve ser publicada, nunca os documentos internos ou o repositório inteiro.
-Todos os paths de assets são relativos. Isso evita a quebra de `/assets/...` quando o site está no subdiretório `/renata-alberigi-portfolio/`. Um domínio próprio pode ser configurado depois, sem ser obrigatório.
+## Build e URLs
+Node gera HTML estático para entrada inglesa, versão `pt-br/` e páginas permanentes de cada obra publicada. Paths usam `site.origin` + `site.basePath`, de modo que funcionem no subdiretório de Pages e, se autorizado, na raiz de um domínio próprio. Markdown e descoberta seguem o mesmo prefixo. Apenas `dist/` aprovado pode ser publicado; nunca `docs/`, fixtures, originais ou todo o repositório.
 
-## Visibilidade e custo
-GitHub Free oferece Pages em repositórios públicos. Planos elegíveis pagos também permitem fontes privadas; não presumimos o plano da conta. O site Pages normalmente é público mesmo quando a fonte é privada; controles privados têm elegibilidade específica. Não usar repositório privado como promessa de sigilo do conteúdo publicado.
-Não alterar a visibilidade por conta própria. Para o caminho gratuito, revisar todo o histórico e conteúdo primeiro e obter autorização para tornar ESTE repositório público. O acesso a outros projetos privados não é alterado.
+`npm run build` é SEMPRE preview com noindex e robots conservador. `npm run build:release` exige as mesmas condições de `check:publish` e só então gera metadados indexáveis e sitemap com páginas públicas. Não enviar preview ao Pages e chamar isso de lançamento.
 
-## Sequência futura de publicação
-1. Implementar layout/viewer, carregar mídias e concluir revisão visual.
-2. Confirmar autorização editorial e `npm run check:publish` sem falhas.
-3. Decidir manter fonte privada em plano elegível ou mudar o repo para público com autorização.
-4. Settings > Pages > Build and deployment > Source: GitHub Actions.
-5. Ativar workflow revisado: checkout mínimo sem credenciais persistidas, setup-node, verify, gate de publicação, build, configure-pages, upload-pages-artifact (dist), deploy-pages. Pin de cada action em commit oficial revisado. Usar environment github-pages e permissões mínimas contents:read, pages:write, id-token:write; somente job de deploy pode escrever Pages.
-6. Começar com workflow_dispatch (disparo deliberado); push automático só após aceite.
-7. Confirmar deploy pela execução real e HTTP do endereço, testar assets no subdiretório, teclado/mobile e PDF. Não afirmar publicação apenas porque houve push.
+## Exigência da raiz para robots.txt
+Em um projeto Pages, o arquivo gerado em `/renata-alberigi-portfolio/robots.txt` NÃO controla crawlers. Estes procuram `https://contato675.github.io/robots.txt`. O llms.txt pode ser publicado na subpasta, com descoberta explícita no HTML, mas não confundir isso com a regra do robots.
+Caminhos possíveis: configurar domínio próprio para este portfólio e `basePath: "/"`; ou revisar/instalar o robots na raiz do site de usuário `contato675.github.io`, sem conflitar com outras páginas. Não criar/editar esse outro repositório nesta entrega. `robotsRootVerified` só pode tornar-se true depois de conferência HTTP real da política efetiva.
 
-Um workflow de deploy não foi ativado nesta fase para evitar site incompleto e uso desnecessário de Actions privados. A verificação local já funciona sem npm install. Integração contínua e pins definitivos entram com a implementação.
+## Gates para lançar
+Material real + revisão humana dos idiomas; `phase: "ready"`, `implementationComplete: true`, `publicationApproved: true`; root policy efetiva; `npm run verify`; auditoria Apple-like e inspeção visual; `npm run check:publish`; `npm run build:release`.
+Revisar a elegibilidade do plano GitHub ou autorizar explicitamente a mudança de visibilidade. Um repositório privado não promete que seu site Pages será privado.
+Só depois ativar workflow deliberado (`workflow_dispatch`) para configure-pages/upload-pages-artifact/deploy-pages, actions pinadas e permissões mínimas. Não há workflow de publicação ativo nesta PR. Verificar execução e HTTP do domínio, rotas profundas, MIME de Markdown/texto, assets, idioma, canonicals e root robots após deploy.
 
-## Limite de uso comercial
-Este projeto é apresentação artística/portfólio, não checkout, SaaS ou loja. GitHub Pages não deve ser usado para site primariamente voltado a transações comerciais. Uma futura loja, pagamento ou área autenticada exige avaliar outra hospedagem.
+## Escopo comercial
+Não há loja, catálogo comercial, checkout ou integração Gumroad nesta implementação. Uma evolução para transações requer outra avaliação de hospedagem e políticas do Pages. Não criar dados de preços/Offer para tentar influenciar recomendações de IA.
 
 ## Rollback
-Reverter o commit defeituoso por novo commit e executar novamente o deploy conhecido. Nunca force-push no histórico compartilhado. Fotografias sensíveis publicadas por erro exigem procedimento próprio; simples revert não remove versões públicas anteriores.
+Revert por novo commit e deploy conhecido; nunca force-push. Reversão não elimina automaticamente fotografias do histórico ou caches públicos. Revisar a seleção antes de publicar.

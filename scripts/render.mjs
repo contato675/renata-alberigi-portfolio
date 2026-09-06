@@ -1,0 +1,68 @@
+import {escapeHtml as e} from './content.mjs';
+import {localized as l, localePath, LOCALES} from './i18n.mjs';
+export const localUrl = (site, relative = '') => site.basePath + relative;
+export const absoluteUrl = (site, relative = '') => site.origin + localUrl(site, relative);
+export const pagePath = (locale, work) => localePath(locale) + (work ? `works/${work.id}/` : '');
+export const publicWorks = (data) => data.works.filter((work) => work.status === 'published');
+export function paragraphs(text) {
+  return text.split(/\n\s*\n|(?=Entre seus trabalhos,)|(?=Sua trajetória também inclui)|(?=Among her works is)|(?=Her experience also includes)/).filter(Boolean).map((p) => `<p>${e(p.trim())}</p>`).join('\n');
+}
+function picture(image, locale, site, eager = false, extra = '') {
+  return `<img src="${e(localUrl(site,image.path))}" alt="${e(l(image.alt,locale))}" width="${image.width}" height="${image.height}" loading="${eager ? 'eager' : 'lazy'}" decoding="async" draggable="false" ${extra}>`;
+}
+function guides(preview) {
+  return preview ? '<div class="guides" aria-hidden="true">' + '<i></i>'.repeat(12) + '</div>' : '';
+}
+function localeNav(data, locale, work) {
+  return `<nav class="locale-nav" aria-label="${e(data.dictionaries[locale].language)}">${LOCALES.map((other) => `<a class="control" data-locale-link href="${e(localUrl(data.site,pagePath(other,work)))}" lang="${other}" hreflang="${other}"${locale === other ? ' aria-current="page"' : ''}>${other === 'en' ? 'English' : 'Português'}</a>`).join('')}</nav>`;
+}
+function facts(work, locale, u) {
+  return `<dl><dt>${e(u.year)}</dt><dd itemprop="dateCreated">${e(work.year)}</dd><dt>${e(u.technique)}</dt><dd itemprop="artMedium">${e(l(work.technique,locale))}</dd><dt>${e(u.dimensions)}</dt><dd>${e(work.dimensions)}</dd>${work.originalTitle ? `<dt>${e(u.originalTitle)}</dt><dd>${e(work.originalTitle)}</dd>` : ''}</dl>${work.description ? paragraphs(l(work.description,locale)) : ''}`;
+}
+function card(work, data, locale) {
+  const {site} = data, u = data.dictionaries[locale];
+  return `<li class="project"><a href="${e(localUrl(site,pagePath(locale,work)))}" data-open-project="${e(work.id)}" aria-labelledby="card-${e(work.id)}"><figure>${picture(work.images[work.cover],locale,site)}<figcaption class="caption"><h3 id="card-${e(work.id)}">${e(l(work.title,locale))}</h3><p>${e(work.year)} · ${e(l(work.technique,locale))}</p>${work.images.length > 1 ? `<span class="project-number">${work.images.length} ${e(u.images)}</span>` : ''}</figcaption></figure></a></li>`;
+}
+function dialog(work, data, locale) {
+  const {site} = data, u = data.dictionaries[locale];
+  return `<dialog class="viewer" data-project="${e(work.id)}" data-cover="${work.cover}" aria-labelledby="viewer-${e(work.id)}"><div class="viewer-head"><h2 id="viewer-${e(work.id)}">${e(l(work.title,locale))}</h2><button type="button" data-close>${e(u.close)}</button></div><div class="viewer-layout"><div class="viewer-media"><div class="image-rail" role="region" aria-label="${e(l(work.title,locale))}">${work.images.map((im, i) => `<figure aria-label="${e(u.image)} ${i+1} ${e(u.of)} ${work.images.length}">${picture(im,locale,site)}${im.caption ? `<figcaption>${e(l(im.caption,locale))}</figcaption>` : ''}</figure>`).join('')}</div><div class="viewer-controls"${work.images.length === 1 ? ' hidden' : ''}><button type="button" data-prev>${e(u.previous)}</button><output aria-live="polite" aria-atomic="true" data-of="${e(u.of)}">${work.cover+1} ${e(u.of)} ${work.images.length}</output><button type="button" data-next>${e(u.next)}</button></div></div><aside>${facts(work,locale,u)}<a class="control" href="${e(localUrl(site,pagePath(locale,work)))}">${e(u.openFull)}</a><a class="control" hreflang="${locale === 'en' ? 'pt-BR' : 'en'}" href="${e(localUrl(site,pagePath(locale === 'en' ? 'pt-BR' : 'en',work)))}">${e(u.viewLanguage)}</a></aside></div></dialog>`;
+}
+function film(data, locale, preview) {
+  const {artist,site} = data, u = data.dictionaries[locale], video = artist.featuredVideo;
+  if (!video && !preview) return '';
+  let body = `<div class="placeholder video-slot"><p>${e(u.filmPending)}</p><p>${e(u.filmNote)}</p></div>`;
+  if (video) {
+    const embed = video.provider === 'youtube' ? `https://www.youtube-nocookie.com/embed/${video.id}` : `https://player.vimeo.com/video/${video.id}`;
+    const original = video.provider === 'youtube' ? `https://www.youtube.com/watch?v=${video.id}` : `https://vimeo.com/${video.id}`;
+    body = `<div class="video-poster">${picture(video.poster,locale,site)}<button type="button" class="video-button" data-video="${e(embed)}" data-title="${e(l(video.title,locale))}" hidden>${e(u.watch)}</button></div><a class="control" href="${e(original)}" rel="noopener noreferrer">${e(u.externalVideo)}</a><div class="bio">${paragraphs(l(video.transcript,locale))}</div>`;
+  }
+  return `<section id="film" aria-labelledby="film-title"><div class="section-heading"><p class="eyebrow">02 / ${e(u.video)}</p><h2 id="film-title">${e(video ? l(video.title,locale) : u.filmTitle)}</h2></div>${body}</section>`;
+}
+function home(data, locale, preview) {
+  const {artist,site} = data, u = data.dictionaries[locale], works = publicWorks(data);
+  const portrait = artist.portrait ? `<figure class="portrait">${picture(artist.portrait,locale,site,true,'itemprop="image"')}</figure>` : (preview ? `<div class="placeholder portrait">${e(u.portraitPending)}</div>` : '');
+  return `<section class="grid hero" aria-labelledby="name" itemscope itemtype="https://schema.org/Person" itemid="${e(absoluteUrl(site,'#artist'))}"><div class="hero-copy"><p class="eyebrow" itemprop="jobTitle">01 / ${e(l(artist.role,locale))}</p><h1 id="name" itemprop="name">${e(artist.name)}</h1><p class="intro" itemprop="description">${e(l(artist.intro,locale))}</p><p class="meta">${e(artist.location)}</p><a class="control" href="#about">${e(u.readBio)}</a></div>${portrait}${guides(preview)}</section>
+  ${film(data,locale,preview)}
+  <section id="works" aria-labelledby="works-title"><div class="section-heading"><p class="eyebrow">03 / ${e(u.works)}</p><h2 id="works-title">${e(u.selection)}</h2><p class="meta">${e(u.selectionNote)}</p></div>${works.length ? `<ul class="gallery grid">${works.map((work) => card(work,data,locale)).join('')}${guides(false)}</ul>` : `<div class="placeholder"><p>${e(u.emptyTitle)}</p><p>${e(u.emptyText)}</p></div>`}</section>
+  <section id="about" class="grid" aria-labelledby="about-title"><div class="section-title section-heading"><p class="eyebrow">04 / ${e(u.bioLabel)}</p><h2 id="about-title">${e(artist.name)}</h2></div><div class="section-content bio">${paragraphs(l(artist.bio,locale))}</div>${guides(preview)}</section>
+  ${artist.studioImages.length ? `<section id="studio" aria-labelledby="studio-title"><h2 id="studio-title">${e(u.studio)}</h2><div class="grid">${artist.studioImages.map((im) => `<figure class="project">${picture(im,locale,site)}${im.caption ? `<figcaption>${e(l(im.caption,locale))}</figcaption>` : ''}</figure>`).join('')}</div></section>` : ''}`;
+}
+function workPage(work,data,locale) {
+  const {site,artist} = data, u = data.dictionaries[locale];
+  return `<article itemscope itemtype="https://schema.org/VisualArtwork" itemid="${e(absoluteUrl(site,pagePath(locale,work)))}"><div class="work-heading"><a class="control" href="${e(localUrl(site,pagePath(locale)))}#works">${e(u.back)}</a><h1 itemprop="name">${e(l(work.title,locale))}</h1><p itemprop="creator" itemscope itemtype="https://schema.org/Person"><span itemprop="name">${e(artist.name)}</span></p></div><div class="grid"><div class="work-images">${work.images.map((im,i) => `<figure>${picture(im,locale,site,i === 0,'itemprop="image"')}${im.caption ? `<figcaption>${e(l(im.caption,locale))}</figcaption>` : ''}</figure>`).join('')}</div><aside class="work-info">${facts(work,locale,u)}</aside></div></article>`;
+}
+export function renderPage(data,template,locale,{work=null,release=false,notFound=false}={}) {
+  const {artist,site} = data, u = data.dictionaries[locale], preview = !release;
+  const route = pagePath(locale,work), canonical = absoluteUrl(site,route);
+  const homeUrl = localUrl(site,pagePath(locale));
+  const title = notFound ? `${u.notFound} — ${artist.name}` : `${work ? l(work.title,locale) : artist.name} — ${l(artist.role,locale)}`;
+  const description = work ? (work.description ? l(work.description,locale) : `${l(work.title,locale)} · ${work.year} · ${l(work.technique,locale)} · ${work.dimensions}`) : l(artist.intro,locale);
+  const header = `<header><div class="wrap header-inner"><a class="brand control" href="${e(homeUrl)}">${e(artist.name)}</a><nav aria-label="${e(u.mainNav)}"><a class="control" href="${e(homeUrl)}#works">${e(u.works)}</a>${artist.featuredVideo || preview ? `<a class="control" href="${e(homeUrl)}#film">${e(u.video)}</a>` : ''}<a class="control" href="${e(homeUrl)}#about">${e(u.about)}</a><a class="control" href="#contact">${e(u.contact)}</a></nav>${localeNav(data,locale,work)}</div></header>`;
+  const footer = `<footer id="contact"><div class="wrap"><p class="eyebrow">${e(u.contact)}</p><p>${e(u.contactIntro)}</p><div class="footer-links"><a class="control" href="mailto:${e(artist.email)}">${e(artist.email)}</a>${artist.pdf ? `<a class="control" href="${e(localUrl(site,artist.pdf))}" type="application/pdf">${e(u.pdf)}</a>` : ''}<a class="control" href="${e(localUrl(site,route+'index.md'))}">${e(u.machine)}</a></div><p class="meta">${e(u.rights)}</p>${preview ? `<button type="button" class="grid-toggle" data-grid-toggle aria-pressed="false" hidden>${e(u.grid)}</button>` : ''}</div></footer>`;
+  const alternates = LOCALES.map((lang) => `<link rel="alternate" hreflang="${lang}" href="${e(absoluteUrl(site,pagePath(lang,work)))}">`).join('\n') + `\n<link rel="alternate" hreflang="x-default" href="${e(absoluteUrl(site,pagePath('en',work)))}">`;
+  const values = {LANG:locale,ROBOTS:release && !notFound ? 'index,follow,max-image-preview:large' : 'noindex,follow',TITLE:e(title),DESCRIPTION:e(description),CANONICAL:e(canonical),OGLOCALE:locale === 'en' ? 'en_US' : 'pt_BR',ALTERNATES:alternates,BASE:e(site.basePath),LLMS:e(absoluteUrl(site,'llms.txt')),MARKDOWN:e(absoluteUrl(site,route+'index.md')),DATA:e(absoluteUrl(site,localePath(locale)+'portfolio.json')),STAGE:preview ? 'review' : 'published',SKIP:e(u.skip),HEADER:header,NOTICE:preview ? `<div class="wrap notice">${e(u.preview)}</div>` : '',MAIN:notFound ? `<section><h1>${e(u.notFound)}</h1><p>${e(u.notFoundText)}</p><a class="control" href="${e(homeUrl)}">${e(u.home)}</a></section>` : (work ? workPage(work,data,locale) : home(data,locale,preview)),FOOTER:footer,DIALOGS:work || notFound ? '' : publicWorks(data).map((w) => dialog(w,data,locale)).join('\n')};
+  return template.replace(/\{\{([A-Z]+)\}\}/g, (_, key) => {
+    if (!(key in values)) throw new Error(`Unknown template placeholder: ${key}`);
+    return values[key];
+  });
+}

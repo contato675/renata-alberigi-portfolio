@@ -19,16 +19,14 @@
       "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
     },
     "title": {
-      "type": "string",
-      "minLength": 1
+      "$ref": "#/$defs/localized"
     },
     "year": {
       "type": "string",
       "minLength": 1
     },
     "technique": {
-      "type": "string",
-      "minLength": 1
+      "$ref": "#/$defs/localized"
     },
     "dimensions": {
       "type": "string",
@@ -41,10 +39,10 @@
       ]
     },
     "description": {
-      "type": "string"
+      "$ref": "#/$defs/localized"
     },
     "category": {
-      "type": "string"
+      "$ref": "#/$defs/localized"
     },
     "cover": {
       "type": "integer",
@@ -68,8 +66,7 @@
             "pattern": "^assets/images/[a-z0-9][a-z0-9/_.-]*\\.(webp|jpg|jpeg|png|avif)$"
           },
           "alt": {
-            "type": "string",
-            "minLength": 1
+            "$ref": "#/$defs/localized"
           },
           "width": {
             "type": "integer",
@@ -80,8 +77,32 @@
             "minimum": 1
           },
           "caption": {
-            "type": "string"
+            "$ref": "#/$defs/localized"
           }
+        }
+      }
+    },
+    "originalTitle": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "$defs": {
+    "localized": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "en",
+        "pt-BR"
+      ],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pt-BR": {
+          "type": "string",
+          "minLength": 1
         }
       }
     }

@@ -1,35 +1,30 @@
-# 01 · Direção visual
+# 01 · Direção visual — Apple-like + Müller
 
-## Conceito: galeria, não aplicativo
-O conteúdo é a arte de Renata. A interface funciona como a parede de uma exposição: ordem, silêncio visual e boa leitura. A inspiração Cosmos está na descoberta por imagens e no agrupamento de conteúdos, não na cópia de seu layout, marca ou acervo.
+## Autoridade escolhida
+Substituição integral da direção anterior: a régua passa a ser a auditoria Apple-like, mantendo a grade Müller solicitada. Fonte verificável: `docs/design-system/STUDIO_KIT_PLATFORMS.md` e matriz de auditoria de design da SSSOM no master `f4e913efc377e13419c19bfb4199940b6469f431`. Não existe neste projeto uma alegação de leitura da skill ausente `apple-interface-premium`.
 
-**Decisão:** grade editorial de projetos na página principal + visualizador de imagens grandes dentro de cada projeto. Não usar um único carrossel como a única forma de descobrir o portfólio: isso esconderia toda a seleção atrás de sucessivos cliques.
+Apple-like significa hierarquia, clareza, resposta, consistência e contenção — não copiar o site da Apple ou revestir a galeria de vidro. A arte fornece a personalidade. Blur, sombras decorativas, gradientes, grandes cartões administrativos, contadores sociais e movimento ornamental não pertencem à composição.
 
-## Princípios adaptados da SSSOM
-A skill Müller-Brockmann foi lida, junto de Hallmark, AGENTS, Constituição Art. 6 e guardrails de gesto mobile. Aplicar grid verificável, ritmo de 8px, hierarquia por escala/peso/espaço e microinterações discretas. Não portar backend, React ou dependências da SSSOM apenas por associação visual.
-A cópia local consultada não foi confirmada como master atualizado. A proveniência exata está em `06-fontes-e-decisoes.md`; não declarar leitura de uma skill Apple de nome diferente sem evidência.
+## Composição
+Galeria editorial branca com retrato/release, vídeo em destaque e grade de projetos. Cada projeto abre um visualizador e possui também uma página estática completa. A grade permite descobrir a seleção; o visualizador aprofunda uma obra sem esconder as demais em um único carrossel global.
 
-## Sistema visual proposto
-| Elemento | Decisão |
+| Elemento | Contrato |
 |---|---|
-| Fundo | Branco `#FFFFFF`; cinza `#F6F6F6` somente em suportes de interface |
-| Texto | Grafite `#171717`; secundário `#626262` |
-| Separadores | `#E7E7E7`; nunca uma moldura pesada em cada pintura |
-| Cor de destaque | Grafite; as cores das obras são os verdadeiros destaques |
-| Títulos | Outfit, pesos 500–600, proposta sujeita à composição com as imagens |
-| Corpo | Plus Jakarta Sans, pesos 400–500, tamanho confortável |
-| Fontes nesta fase | Somente fallbacks declarados; nenhum arquivo de fonte foi copiado ou distribuído |
-| Texto | Alinhado à esquerda; coluna de release até 64 caracteres de largura aproximada |
-| Cantos | UI 12–16px; fotografias das obras sem máscara que corte as extremidades |
-| Sombras | Ausentes nas pinturas; muito suaves somente onde houver sobreposição funcional |
-| Cabeçalho | Nome tipográfico, navegação curta; sem logo inventado |
+| Fundo | Branco #FFFFFF; apoio funcional #F6F6F6 |
+| Texto | Grafite #171717; secundário #626262 |
+| Divisórias | #E7E7E7, discretas; não delimitam o foco sozinhas |
+| Tipografia | Stack de sistema: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif |
+| Hierarquia | Escala/peso/espaço, títulos de peso 500; sem fonte proprietária distribuída |
+| Corpo | 16px base, entrelinha 24px; aceita preferências de tamanho do usuário |
+| Controle | Alvo mínimo 44 CSS px, foco visível, estado coerente |
+| Movimento | Controles 150ms; overlay 220ms; redução de movimento obrigatória |
+| Fotografias | Proporção original, sem recorte de bordas, tint, máscara, brilho ou sombra |
 
-Não usar gradiente azul/roxo, fundo creme genérico, textura falsa de papel, brilho sobre a arte, moldura digital pesada, cursor personalizado, animação 3D ou carrossel em autoplay.
+## Grade verificável
+Mobile <768: 4 colunas, gutter16, margem16. Tablet 768–1023: 8 colunas, gutter24, margem32. Desktop >=1024: 12 colunas, gutter24, margem48. Invólucro máximo1488; baseline de8px. Títulos, texto, retrato, vídeo, galeria e ficha se posicionam pelas mesmas linhas.
+Os guias de desenvolvimento vivem na mesma caixa CSS do conteúdo e leem os mesmos tokens. Botão/tecla G somente no preview. Acima e abaixo da largura máxima, a auditoria mede aderência das bordas às colunas.
 
-## Grade estrutural
-Desktop >= 1024px: 12 colunas, gutter 24px, margem 48px; largura útil máxima 1392px dentro de um invólucro de 1488px. Tablet 768–1023px: 8 colunas, gutter 24px, margem 32px. Mobile <768px: 4 colunas, gutter 16px, margem 16px. Baseline 8px; espaçamentos em múltiplos de 8px. Tokens são a fonte única dos valores.
+A composição não deforma uma pintura para encaixá-la na baseline. A imagem conserva sua proporção; o suporte e os espaços adotam o ritmo. O aumento de texto acessível também prevalece sobre uma baseline rigidamente fixa. Observações ópticas de glifos são registradas no navegador com a fonte realmente carregada, não corrigidas por mutação `.style` nem usadas como falsa prova de perfeição estética.
 
-Título, release, retrato, vídeo, galeria e rodapé compartilham as mesmas linhas de coluna. Subgrid pode ser usado com fallback explícito. Um overlay de desenvolvimento deve ficar no mesmo contêiner do conteúdo; não pode ficar ativo para visitantes por padrão.
-
-## Conflitos resolvidos
-Hallmark admite gradientes e cantos generosos; aqui a contenção da grade e a integridade das obras prevalecem. A skill Müller exemplifica correção óptica por mutação `.style`; não copiar essa técnica: os guardrails de frontend prevalecem. Fazer ajustes ópticos por CSS verificado, somente quando necessários. Uma imagem de arte não será cortada nem deformada para obedecer à baseline; alinhar o módulo/suporte, preservando a imagem inteira dentro dele.
+## Revisão obrigatória
+Aplicar a régua da skill local original `apple-like-design-audit` a TODA a galeria, incluindo estados vazio, carregado, detalhe, visualizador, vídeo e troca de idioma. A composição final precisa de inspeção com as fotografias reais, não só retângulos de calibração.

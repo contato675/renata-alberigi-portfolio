@@ -1,8 +1,14 @@
 {
-  "phase": "planning",
+  "phase": "implementation",
   "implementationComplete": false,
   "publicationApproved": false,
-  "defaultLocale": "pt-BR",
+  "defaultLocale": "en",
   "repo": "contato675/renata-alberigi-portfolio",
-  "basePath": "/renata-alberigi-portfolio/"
+  "basePath": "/renata-alberigi-portfolio/",
+  "locales": [
+    "en",
+    "pt-BR"
+  ],
+  "origin": "https://contato675.github.io",
+  "robotsRootVerified": false
 }

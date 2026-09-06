@@ -22,3 +22,6 @@ private/
 *.wav
 *.key
 *.pem
+
+artifacts/
+portfolio-update.*

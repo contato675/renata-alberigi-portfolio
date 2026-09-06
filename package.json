@@ -1,6 +1,6 @@
 {
   "name": "renata-alberigi-portfolio",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "engines": {
@@ -12,6 +12,9 @@
     "build": "node scripts/build.mjs",
     "verify": "npm run check && npm test && npm run build",
     "preview": "node scripts/serve.mjs",
-    "check:publish": "node scripts/check.mjs --publish"
+    "check:publish": "node scripts/check.mjs --publish",
+    "build:release": "node scripts/build.mjs --release",
+    "design:apple": "node scripts/design-audit.mjs",
+    "i18n:check": "node scripts/check.mjs"
   }
 }

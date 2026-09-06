@@ -1,52 +1,33 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="{{LANG}}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="noindex,nofollow">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
-  <title>{{NAME}} — estrutura de portfólio</title>
-  <meta name="description" content="Estrutura de revisão do portfólio de Renata Alberigi, ainda sem obras cadastradas.">
-  <link rel="stylesheet" href="assets/css/tokens.css">
-  <link rel="stylesheet" href="assets/css/scaffold.css">
+  <meta name="robots" content="{{ROBOTS}}">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; frame-src https://www.youtube-nocookie.com https://player.vimeo.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>{{TITLE}}</title>
+  <meta name="description" content="{{DESCRIPTION}}">
+  <meta property="og:title" content="{{TITLE}}">
+  <meta property="og:description" content="{{DESCRIPTION}}">
+  <meta property="og:url" content="{{CANONICAL}}">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="{{OGLOCALE}}">
+  <link rel="canonical" href="{{CANONICAL}}">
+  {{ALTERNATES}}
+  <link rel="describedby" href="{{LLMS}}" type="text/plain">
+  <link rel="alternate" type="text/markdown" href="{{MARKDOWN}}" title="Markdown">
+  <link rel="alternate" type="application/ld+json" href="{{DATA}}" title="Structured portfolio data">
+  <link rel="stylesheet" href="{{BASE}}assets/css/tokens.css">
+  <link rel="stylesheet" href="{{BASE}}assets/css/gallery.css">
+  <link rel="stylesheet" href="{{BASE}}assets/css/scaffold.css">
+  <script src="{{BASE}}assets/js/gallery.js" defer></script>
 </head>
-<body data-stage="planning">
-  <a class="skip" href="#conteudo">Pular para o conteúdo</a>
-  <header>
-    <div class="wrap header-inner">
-      <a class="brand" href="#conteudo">{{NAME}}</a>
-      <nav aria-label="Principal"><a href="#obras">Obras</a><a href="#video">Vídeo</a><a href="#sobre">Sobre</a><a href="#contato">Contato</a></nav>
-    </div>
-  </header>
-  <div class="wrap notice">Estrutura de revisão · Fase 0 · Mídias ainda não fornecidas · Não publicado</div>
-  <main id="conteudo" class="wrap">
-    <section class="grid" aria-labelledby="nome">
-      <div class="hero-copy">
-        <p class="eyebrow">01 / {{ROLE}}</p>
-        <h1 id="nome">{{NAME}}</h1>
-        <p class="intro">{{INTRO}}</p>
-        <p class="meta">{{LOCATION}}</p>
-        <a href="#sobre">Ler apresentação completa</a>
-      </div>
-      <div class="slot portrait"><strong>Retrato da artista</strong><p>Foto real pendente.</p></div>
-    </section>
-    <section id="video" aria-labelledby="titulo-video">
-      <p class="eyebrow section-head">02 / Vídeo em destaque</p>
-      <h2 id="titulo-video">Arte em movimento</h2>
-      <div class="slot video-slot"><strong>Vídeo e capa pendentes</strong><p>Reprodução somente após clique na implementação.</p></div>
-    </section>
-    <section id="obras" aria-labelledby="titulo-obras">
-      <p class="eyebrow section-head">03 / Seleção visual</p>
-      <h2 id="titulo-obras">Obras selecionadas</h2>
-      <p class="meta">A seleção será apresentada em grade. Cada projeto abrirá suas imagens e sua ficha.</p>
-      <div class="slot"><strong>Nenhuma obra cadastrada</strong><p>As fotografias e informações reais da artista entram na próxima etapa.</p></div>
-    </section>
-    <section id="sobre" aria-labelledby="titulo-sobre">
-      <p class="eyebrow section-head">04 / Sobre a artista</p>
-      <h2 id="titulo-sobre">{{NAME}}</h2>
-      <div class="bio">{{BIO}}</div>
-    </section>
-  </main>
-  <footer id="contato"><div class="wrap"><p class="eyebrow">Contato</p><a href="mailto:{{EMAIL}}">{{EMAIL}}</a><p class="meta">O link para o PDF será incluído quando o arquivo final estiver pronto.</p></div></footer>
+<body data-stage="{{STAGE}}">
+  <a class="skip" href="#content">{{SKIP}}</a>
+  {{HEADER}}
+  {{NOTICE}}
+  <main id="content" class="wrap">{{MAIN}}</main>
+  {{FOOTER}}
+  {{DIALOGS}}
 </body>
 </html>

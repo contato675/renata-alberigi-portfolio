@@ -1,25 +1,25 @@
-# 06 · Fontes, proveniência e decisões
+# 06 · Fontes e decisões — 06/09/2026
 
-## Documentos internos efetivamente lidos
-Consulta somente leitura da cópia local da SSSOM em 06/09/2026:
-- `.agents/skills/muller-brockmann-grid/SKILL.md`: grade, baseline, alinhamento, verificação; a própria skill registra licença de origem não confirmada. Não copiada para este repo.
-- `.agents/skills/hallmark/SKILL.md`: tipografia, hierarquia, contenção visual e microinterações.
-- `AGENTS.md`: preferir CSS, redução de movimento, estabilidade de layout e restrições de frontend.
-- `plans/CONSTITUTION.md`: Art. 6 — disciplina de grade; precedência de segurança.
-- `docs/product/MOBILE_INTERACTION_GUARDRAILS.md`: rolagem vertical e lock de gesto.
+## Proveniência interna verificável
+SSSOM consultada somente para leitura. `git rev-parse origin/master` e `git ls-remote origin refs/heads/master` concordaram no SHA `f4e913efc377e13419c19bfb4199940b6469f431`.
+Fontes Apple-like efetivamente lidas desse master: `docs/design-system/STUDIO_KIT_PLATFORMS.md`, `docs/plans/SLICE-04-DESIGN-AUDIT-MATRIX.md`, e início do harness `scripts/design-audit.spec.ts`. Este portfólio implementa um auditor pequeno próprio; não copia os mocks/autenticação/backend do auditor da SSSOM.
+Fontes de grade e gesto lidas: `.agents/skills/muller-brockmann-grid/SKILL.md`, `docs/product/MOBILE_INTERACTION_GUARDRAILS.md`, AGENTS e Constituição Art.6. A skill original não é redistribuída. Nenhum arquivo chamado `apple-interface-premium/SKILL.md` foi localizado; não atribuir a ele este trabalho.
+A skill `apple-like-design-audit` deste repositório é um contrato original e explícito da presente implementação. Não é certificação da Apple.
 
-Não foi confirmado o SHA dessa cópia local, nem que corresponda ao master remoto atual. A leitura da rota `.agent/skills/apple-interface-premium/SKILL.md` não se completou; o plano não se atribui a esse arquivo. Apple-like é a direção solicitada pelo usuário, adaptada a partir dos princípios efetivamente lidos, não uma alegação de cópia daquela skill.
-A biografia provém da versão aprovada na conversa; não houve verificação externa das credenciais e datas da artista. Fotografias ainda não recebidas.
+## Primárias públicas consultadas
+- Apple HIG / Accessibility: https://developer.apple.com/design/human-interface-guidelines/accessibility
+- Apple / UI design dos and don'ts: https://developer.apple.com/design/tips/
+- Apple / Design principles: https://developer.apple.com/design/human-interface-guidelines/design-principles
+- llms.txt, proposta v2 consultada: https://llmstxt.org/
+- Google / robots na raiz: https://developers.google.com/crawling/docs/robots-txt/create-robots-txt
+- Google / recursos IA e website: https://developers.google.com/search/docs/appearance/ai-features
+- Google / versões localizadas: https://developers.google.com/search/docs/specialty/international/localized-versions
+- OpenAI / crawlers oficiais: https://developers.openai.com/api/docs/bots
+- GitHub / Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+- GitHub / domínio próprio: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
+- GitHub / limites: https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
+- GitHub / arquivos grandes: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
+- GitHub / LFS: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage
 
-## Referências públicas primárias — consultadas em 06/09/2026
-- GitHub Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
-- Limites Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
-- Arquivos grandes: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
-- Git LFS: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage
-- Workflow Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
-- Dialog acessível: https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/
-- Carrossel acessível: https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
-- Cosmos, referência de descoberta visual: https://www.cosmos.so/
-
-## Decisões e limites
-Layout, paleta, medidas, orçamento de mídia e sequência editorial são propostas deste projeto, não requisitos impostos por GitHub, Cosmos ou programas de residência. Não copiar fotos/obras desses sites. Não há dependência ou afiliação com Apple/Cosmos/SSSOM no produto público. Nenhuma inscrição, mensagem ou candidatura foi enviada.
+## Limites factuais
+A biografia é o texto fornecido/aprovado pelo usuário; tradução não equivale a nova verificação de credenciais. Não foi identificado processo de seleção da Gumroad baseado em LLMs; não se implementa candidatura ou integração presumida. O objetivo confirmado é tornar o portfólio legível por agentes, não prometer resultado em plataforma.
