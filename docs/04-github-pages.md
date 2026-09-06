@@ -1,3 +1,5 @@
+> Atualização 06/09/2026: domínio autorizado `renataalberigi.com.br`, base `/`, CNAME gerado e preview público mantido sem indexação. Estado e DNS em [12-dominio-personalizado.md](12-dominio-personalizado.md). O texto abaixo descreve fases anteriores e não confirma DNS/HTTPS ativos.
+
 # 04 · GitHub Pages e publicação
 
 ## Estado

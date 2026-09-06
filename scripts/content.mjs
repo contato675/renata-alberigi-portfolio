@@ -1,4 +1,5 @@
 import path from 'node:path';
+import {hostingErrors} from './hosting.mjs';
 import {validateLocalized, validateTranslations, LOCALES} from './i18n.mjs';
 export function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, (c) => ({'&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'}[c]));
@@ -56,7 +57,7 @@ export function validateWorks(works) {
   return errors;
 }
 export function validateContent({artist, site, works, dictionaries}) {
-  const errors = [...validateWorks(works), ...validateTranslations(dictionaries)];
+  const errors = [...validateWorks(works), ...validateTranslations(dictionaries), ...hostingErrors(site)];
   if (artist.name !== 'Renata Alberigi') errors.push('Unexpected artist identity.');
   for (const key of ['role','intro','bio','location']) errors.push(...validateLocalized(artist[key], `artist.${key}`));
   if (!/^[^\s@<>"']+@[^\s@<>"']+\.[^\s@<>"']+$/.test(artist.email ?? '')) errors.push('Invalid public email.');
@@ -87,7 +88,7 @@ export function publicationErrors({artist,site,works}) {
   if (!Array.isArray(works) || !works.some((w) => w?.status === 'published')) errors.push('No approved artworks.');
   if (!artist.portrait || !artist.featuredVideo || !artist.pdf) errors.push('Final portrait, film or PDF pending.');
   if (!LOCALES.every((locale) => artist.editorialReview?.[locale])) errors.push('English/Portuguese editorial review pending.');
-  if (site.basePath !== '/' && !site.robotsRootVerified) errors.push('robots.txt at the origin root has not been verified.');
+  if (!site.robotsRootVerified) errors.push('robots.txt at the origin root has not been verified.');
   return errors;
 }
 

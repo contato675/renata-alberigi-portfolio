@@ -39,3 +39,6 @@ After reviewing and committing the source branch: `node scripts/publish-preview.
 
 ## Latest editorial revision
 21 projects: 9 physical paintings, 11 digital paintings and one RUADOFLOW brand design collection (66 images, 2024–2025). New portrait, reviewed specifications, corrected Correnteza year (2022), real digital titles, updated studio email and mobile navigation drawer. [Checklist and evidence](docs/11-revisao-editorial-e-brand.md).
+
+## Custom domain configuration
+The owner requested `renataalberigi.com.br`. The build now uses the domain root, persists CNAME and preserves EN/PT-BR routes. DNS, ownership verification and HTTPS activation are tracked separately in [the domain handoff](docs/12-dominio-personalizado.md). Uncommitted artwork edits in the original workstation checkout are not part of this isolated domain change.

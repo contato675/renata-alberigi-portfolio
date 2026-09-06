@@ -24,6 +24,7 @@ const output=path.join(root,'dist');
 await buildSite(root,{release:false});
 const entries=JSON.parse(await fs.readFile(path.join(output,'.build-manifest.json'),'utf8'));
 if(!entries.includes('index.html')||!entries.includes('.nojekyll'))throw new Error('Incomplete build.');
+if(data.site.customDomain && (!entries.includes('CNAME') || (await fs.readFile(path.join(output,'CNAME'),'utf8')).trim()!==data.site.customDomain))throw new Error('Custom domain would be lost during publication.');
 const temp=await fs.mkdtemp(path.join(os.tmpdir(),'renata-pages-preview-'));
 let pushedCommit;
 try {
@@ -47,7 +48,7 @@ try {
   const target=path.join(temp,entry);await fs.mkdir(path.dirname(target),{recursive:true});await fs.writeFile(target,content);
   hashes[entry]=createHash('sha256').update(content).digest('hex');
  }
- await fs.writeFile(path.join(temp,'preview-build.json'),JSON.stringify({repo,mode:'public-preview-noindex',sourceCommit:source,builtAt:new Date().toISOString(),files:entries.length,hashes},null,2)+'\n');
+ await fs.writeFile(path.join(temp,'preview-build.json'),JSON.stringify({repo,mode:'public-preview-noindex',origin:data.site.origin,basePath:data.site.basePath,customDomain:data.site.customDomain||null,sourceCommit:source,builtAt:new Date().toISOString(),files:entries.length,hashes},null,2)+'\n');
  run(temp,'add','--all');run(temp,'commit','-m','deploy: public noindex preview of PR #1 at '+source.slice(0,8));
  pushedCommit=run(temp,'rev-parse','HEAD');run(temp,'push','origin','HEAD:refs/heads/'+branch);
  const actual=run(temp,'ls-remote','--heads','origin','refs/heads/'+branch).split(/\s/)[0];

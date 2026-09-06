@@ -1,3 +1,4 @@
+import {customDomainFiles} from './hosting.mjs';
 import {addRouteAliases} from './route-aliases.mjs';
 import {readFile,mkdir,writeFile,readdir,lstat,rm,rename} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
@@ -11,7 +12,7 @@ export function generatePages(data,template,{release=false}={}) {
   const errors=validateContent(data);
   if (release) errors.push(...publicationErrors(data));
   if (errors.length) throw new Error(errors.join('\n'));
-  const files=new Map();
+  const files=customDomainFiles(data.site);
   for (const locale of LOCALES) {
     for (const work of [null,...publicWorks(data)]) {
       const route=pagePath(locale,work);

@@ -4,13 +4,14 @@
   "publicationApproved": false,
   "defaultLocale": "en",
   "repo": "contato675/renata-alberigi-portfolio",
-  "basePath": "/renata-alberigi-portfolio/",
+  "basePath": "/",
   "locales": [
     "en",
     "pt-BR"
   ],
-  "origin": "https://contato675.github.io",
+  "origin": "https://renataalberigi.com.br",
   "robotsRootVerified": false,
   "previewPublic": true,
-  "previewApproved": true
+  "previewApproved": true,
+  "customDomain": "renataalberigi.com.br"
 }
