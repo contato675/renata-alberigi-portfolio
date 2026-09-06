@@ -16,11 +16,17 @@ export function containedPath(root, relative) {
 export function validateImage(image, label = 'Image') {
   if (!image || typeof image !== 'object' || Array.isArray(image)) return [`${label}: invalid image.`];
   const errors = [];
-  if (Object.keys(image).some((key) => !['path','alt','width','height','caption'].includes(key))) errors.push(`${label}: unknown image field.`);
+  if (Object.keys(image).some((key) => !['path','alt','width','height','caption','variants'].includes(key))) errors.push(`${label}: unknown image field.`);
   if (!safeAssetPath(image.path)) errors.push(`${label}: invalid image path.`);
   errors.push(...validateLocalized(image.alt, `${label}.alt`));
   if (!Number.isSafeInteger(image.width) || image.width <= 0 || !Number.isSafeInteger(image.height) || image.height <= 0) errors.push(`${label}: invalid image dimensions.`);
   errors.push(...validateLocalized(image.caption, `${label}.caption`, true));
+  if(image.variants !== undefined){
+    if(!Array.isArray(image.variants)) errors.push(`${label}: invalid image variants.`);
+    else for(const v of image.variants){
+      if(!v||Object.keys(v).some(k=>!['path','width','height'].includes(k))||!safeAssetPath(v.path)||!Number.isInteger(v.width)||!Number.isInteger(v.height)||v.width<=0||v.height<=0||v.width>=image.width||Math.abs(v.width/v.height-image.width/image.height)>.01) errors.push(`${label}: invalid variant.`);
+    }
+  }
   return errors;
 }
 export function validateWorks(works) {
@@ -29,9 +35,13 @@ export function validateWorks(works) {
   for (const [index, work] of works.entries()) {
     const label = `Work ${index + 1}`;
     if (!work || typeof work !== 'object' || Array.isArray(work)) { errors.push(`${label}: invalid record.`); continue; }
-    const keys = ['id','title','originalTitle','year','technique','dimensions','status','cover','images','description','category'];
+    const keys = ['id','title','originalTitle','year','technique','dimensions','status','cover','images','description','category','collection','titleStatus','yearIsCollectionPeriod'];
     if (Object.keys(work).some((key) => !keys.includes(key))) errors.push(`${label}: unknown field.`);
-    for (const key of ['id','year','dimensions']) if (typeof work[key] !== 'string' || !work[key].trim()) errors.push(`${label}: ${key} required.`);
+    for (const key of ['id','year']) if (typeof work[key] !== 'string' || !work[key].trim()) errors.push(`${label}: ${key} required.`);
+    if(work.dimensions!==null && (typeof work.dimensions!=='string'||!work.dimensions.trim()))errors.push(`${label}: invalid dimensions.`);
+    if(work.collection!==undefined&&!['paintings','digital'].includes(work.collection))errors.push(`${label}: invalid collection.`);
+    if(work.titleStatus!==undefined&&work.titleStatus!=='catalogue-label')errors.push(`${label}: invalid title status.`);
+    if(work.yearIsCollectionPeriod!==undefined&&typeof work.yearIsCollectionPeriod!=='boolean')errors.push(`${label}: invalid date precision.`);
     for (const key of ['title','technique']) errors.push(...validateLocalized(work[key], `${label}.${key}`));
     for (const key of ['description','category']) errors.push(...validateLocalized(work[key], `${label}.${key}`, true));
     if ('originalTitle' in work && (typeof work.originalTitle !== 'string' || !work.originalTitle.trim())) errors.push(`${label}: invalid original title.`);
@@ -62,10 +72,11 @@ export function validateContent({artist, site, works, dictionaries}) {
   if (!Array.isArray(artist.studioImages)) errors.push('studioImages must be an array.');
   else artist.studioImages.forEach((im) => errors.push(...validateImage(im, 'Studio')));
   if (artist.pdf !== null && !(typeof artist.pdf === 'string' && /^downloads\/[a-z0-9-]+\.pdf$/.test(artist.pdf))) errors.push('Invalid PDF path.');
-  if (artist.featuredVideo) {
-    const video = artist.featuredVideo;
+  if(artist.additionalVideos!==undefined&&!Array.isArray(artist.additionalVideos))errors.push('Invalid additional videos.');
+  if(artist.pdfPt && !/^downloads\/[a-z0-9-]+\.pdf$/.test(artist.pdfPt))errors.push('Invalid Portuguese PDF path.');
+  for (const video of allVideos(artist)) {
     if (!['youtube','vimeo'].includes(video.provider) || !/^[a-zA-Z0-9_-]+$/.test(video.id ?? '') || (video.provider === 'vimeo' && !/^\d+$/.test(video.id))) errors.push('Invalid video provider/id.');
-    errors.push(...validateLocalized(video.title, 'Video title'), ...validateLocalized(video.transcript, 'Video transcript'), ...validateImage(video.poster, 'Video poster'));
+    errors.push(...validateLocalized(video.title, 'Video title'), ...validateLocalized(video.transcript??undefined, 'Video transcript',true), ...validateLocalized(video.description,'Video description',true), ...validateImage(video.poster, 'Video poster'));
   }
   for (const locale of LOCALES) if (typeof artist.editorialReview?.[locale] !== 'boolean') errors.push(`Missing editorial review status: ${locale}.`);
   return errors;
@@ -79,3 +90,7 @@ export function publicationErrors({artist,site,works}) {
   if (site.basePath !== '/' && !site.robotsRootVerified) errors.push('robots.txt at the origin root has not been verified.');
   return errors;
 }
+
+export const allVideos = artist => [artist.featuredVideo,...(Array.isArray(artist.additionalVideos)?artist.additionalVideos:[])].filter(Boolean);
+export const imagePaths = images => images.flatMap(im=>[im.path,...(im.variants||[]).map(v=>v.path)]);
+export const pdfPath = (artist,locale) => locale==='pt-BR'?(artist.pdfPt||artist.pdf):artist.pdf;

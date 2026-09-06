@@ -1,1 +1,1692 @@
-[]
+[
+  {
+    "id": "amor-incondicional-2026",
+    "title": {
+      "en": "Amor incondicional",
+      "pt-BR": "Amor incondicional"
+    },
+    "originalTitle": "Amor incondicional",
+    "year": "2026",
+    "technique": {
+      "en": "Hand-painted artwork",
+      "pt-BR": "Pintura feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "paintings",
+    "category": {
+      "en": "Hand-painted works",
+      "pt-BR": "Pinturas feitas à mão"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-01.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — A pink river between rocks, with an orange-flowering tree beneath a cloudy sky.",
+          "pt-BR": "Amor incondicional — Um rio rosa entre rochas, com uma árvore de flores alaranjadas sob um céu de nuvens."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/amor-incondicional-2026/image-01-640.webp",
+            "width": 640,
+            "height": 853
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-02.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 2 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-03.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 3 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-04.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Amor incondicional — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 4 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-05.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 5 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-06.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 6 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-07.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 7 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-08.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 8 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-09.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 9 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 9 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-10.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 10 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 10 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-11.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 11 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 11 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-12.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Amor incondicional — Photograph 12 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 12 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-13.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 13 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 13 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/amor-incondicional-2026/image-14.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Amor incondicional — Photograph 14 of the hand-painted work and its details.",
+          "pt-BR": "Amor incondicional — Fotografia 14 da pintura feita à mão e de seus detalhes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ponte-nova-2025",
+    "title": {
+      "en": "Ponte nova",
+      "pt-BR": "Ponte nova"
+    },
+    "originalTitle": "Ponte nova",
+    "year": "2025",
+    "technique": {
+      "en": "Hand-painted artwork",
+      "pt-BR": "Pintura feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "paintings",
+    "category": {
+      "en": "Hand-painted works",
+      "pt-BR": "Pinturas feitas à mão"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/ponte-nova-2025/image-01.webp",
+        "width": 1440,
+        "height": 1800,
+        "alt": {
+          "en": "Ponte nova — A rocky river landscape with red and amber water and green vegetation.",
+          "pt-BR": "Ponte nova — Uma paisagem de rio rochoso, águas vermelhas e âmbar e vegetação verde."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/ponte-nova-2025/image-01-640.webp",
+            "width": 640,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/ponte-nova-2025/image-02.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Ponte nova — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "Ponte nova — Fotografia 2 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/ponte-nova-2025/image-03.webp",
+        "width": 1440,
+        "height": 1800,
+        "alt": {
+          "en": "Ponte nova — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "Ponte nova — Fotografia 3 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/ponte-nova-2025/image-04.webp",
+        "width": 1440,
+        "height": 1800,
+        "alt": {
+          "en": "Ponte nova — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "Ponte nova — Fotografia 4 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/ponte-nova-2025/image-05.webp",
+        "width": 1440,
+        "height": 1800,
+        "alt": {
+          "en": "Ponte nova — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "Ponte nova — Fotografia 5 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/ponte-nova-2025/image-06.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Ponte nova — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "Ponte nova — Fotografia 6 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/ponte-nova-2025/image-07.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Ponte nova — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "Ponte nova — Fotografia 7 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/ponte-nova-2025/image-08.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Ponte nova — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "Ponte nova — Fotografia 8 da pintura feita à mão e de seus detalhes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "maternidade-2026",
+    "title": {
+      "en": "Maternidade",
+      "pt-BR": "Maternidade"
+    },
+    "originalTitle": "Maternidade",
+    "year": "2026",
+    "technique": {
+      "en": "Hand-painted artwork",
+      "pt-BR": "Pintura feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "paintings",
+    "category": {
+      "en": "Hand-painted works",
+      "pt-BR": "Pinturas feitas à mão"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/maternidade-2026/image-01.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Maternidade — A narrow blue river surrounded by red rocks and green trees.",
+          "pt-BR": "Maternidade — Um rio azul estreito cercado por rochas avermelhadas e árvores verdes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-02.webp",
+        "width": 1080,
+        "height": 1440,
+        "alt": {
+          "en": "Maternidade — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 2 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-03.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Maternidade — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 3 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-04.webp",
+        "width": 960,
+        "height": 1280,
+        "alt": {
+          "en": "Maternidade — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 4 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-05.webp",
+        "width": 1200,
+        "height": 1600,
+        "alt": {
+          "en": "Maternidade — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 5 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-06.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Maternidade — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 6 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-07.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Maternidade — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 7 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-08.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Maternidade — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 8 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-09.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Maternidade — Photograph 9 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 9 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-10.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Maternidade — Photograph 10 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 10 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-11.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Maternidade — Photograph 11 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 11 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade-2026/image-12.webp",
+        "width": 1440,
+        "height": 1920,
+        "alt": {
+          "en": "Maternidade — Photograph 12 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade — Fotografia 12 da pintura feita à mão e de seus detalhes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "maternidade1-2025",
+    "title": {
+      "en": "Maternidade1",
+      "pt-BR": "Maternidade1"
+    },
+    "originalTitle": "Maternidade1",
+    "year": "2025",
+    "technique": {
+      "en": "Hand-painted artwork",
+      "pt-BR": "Pintura feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "paintings",
+    "category": {
+      "en": "Hand-painted works",
+      "pt-BR": "Pinturas feitas à mão"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-01.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — A network of trees, branches and small pink and green marks.",
+          "pt-BR": "Maternidade1 — Uma trama de árvores, galhos e pequenas marcas rosas e verdes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-02.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 2 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-03.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 3 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-04.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 4 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-05.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 5 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-06.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 6 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-07.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 7 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-08.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 8 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-09.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 9 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 9 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-10.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 10 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 10 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-11.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 11 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 11 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-12.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 12 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 12 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/maternidade1-2025/image-13.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Maternidade1 — Photograph 13 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade1 — Fotografia 13 da pintura feita à mão e de seus detalhes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "lar-2026",
+    "title": {
+      "en": "Lar",
+      "pt-BR": "Lar"
+    },
+    "originalTitle": "Lar",
+    "year": "2026",
+    "technique": {
+      "en": "Hand-painted artwork",
+      "pt-BR": "Pintura feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "paintings",
+    "category": {
+      "en": "Hand-painted works",
+      "pt-BR": "Pinturas feitas à mão"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/lar-2026/image-01.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Lar — Interwoven trees and roots across a densely painted pink and green landscape.",
+          "pt-BR": "Lar — Árvores e raízes entrelaçadas em uma paisagem de pintura densa, rosa e verde."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-02.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Lar — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 2 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-03.webp",
+        "width": 1200,
+        "height": 1600,
+        "alt": {
+          "en": "Lar — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 3 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-04.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Lar — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 4 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-05.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Lar — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 5 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-06.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Lar — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 6 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-07.webp",
+        "width": 1200,
+        "height": 1600,
+        "alt": {
+          "en": "Lar — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 7 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-08.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Lar — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 8 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-09.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Lar — Photograph 9 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 9 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-10.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Lar — Photograph 10 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 10 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-11.webp",
+        "width": 1080,
+        "height": 1440,
+        "alt": {
+          "en": "Lar — Photograph 11 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 11 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-12.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Lar — Photograph 12 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 12 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-13.webp",
+        "width": 1200,
+        "height": 1600,
+        "alt": {
+          "en": "Lar — Photograph 13 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 13 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/lar-2026/image-14.webp",
+        "width": 1080,
+        "height": 1129,
+        "alt": {
+          "en": "Lar — Photograph 14 of the hand-painted work and its details.",
+          "pt-BR": "Lar — Fotografia 14 da pintura feita à mão e de seus detalhes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "aureo-2025",
+    "title": {
+      "en": "Aureo",
+      "pt-BR": "Aureo"
+    },
+    "originalTitle": "Aureo",
+    "year": "2025",
+    "technique": {
+      "en": "Hand-painted artwork",
+      "pt-BR": "Pintura feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "paintings",
+    "category": {
+      "en": "Hand-painted works",
+      "pt-BR": "Pinturas feitas à mão"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/aureo-2025/image-01.webp",
+        "width": 960,
+        "height": 1280,
+        "alt": {
+          "en": "Aureo — Sunlit rock formations beside dark water under a blue sky.",
+          "pt-BR": "Aureo — Formações rochosas iluminadas junto a águas escuras sob um céu azul."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/aureo-2025/image-01-640.webp",
+            "width": 640,
+            "height": 853
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/aureo-2025/image-02.webp",
+        "width": 1440,
+        "height": 1800,
+        "alt": {
+          "en": "Aureo — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "Aureo — Fotografia 2 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/aureo-2025/image-03.webp",
+        "width": 640,
+        "height": 853,
+        "alt": {
+          "en": "Aureo — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "Aureo — Fotografia 3 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/aureo-2025/image-04.webp",
+        "width": 960,
+        "height": 1280,
+        "alt": {
+          "en": "Aureo — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "Aureo — Fotografia 4 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/aureo-2025/image-05.webp",
+        "width": 960,
+        "height": 1280,
+        "alt": {
+          "en": "Aureo — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "Aureo — Fotografia 5 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/aureo-2025/image-06.webp",
+        "width": 960,
+        "height": 1280,
+        "alt": {
+          "en": "Aureo — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "Aureo — Fotografia 6 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/aureo-2025/image-07.webp",
+        "width": 960,
+        "height": 1280,
+        "alt": {
+          "en": "Aureo — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "Aureo — Fotografia 7 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/aureo-2025/image-08.webp",
+        "width": 960,
+        "height": 1280,
+        "alt": {
+          "en": "Aureo — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "Aureo — Fotografia 8 da pintura feita à mão e de seus detalhes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "analogiaeu-part4-2024",
+    "title": {
+      "en": "ANALOGIAEU part4",
+      "pt-BR": "ANALOGIAEU part4"
+    },
+    "originalTitle": "ANALOGIAEU part4",
+    "year": "2024",
+    "technique": {
+      "en": "Hand-painted artwork",
+      "pt-BR": "Pintura feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "paintings",
+    "category": {
+      "en": "Hand-painted works",
+      "pt-BR": "Pinturas feitas à mão"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/analogiaeu-part4-2024/image-01.webp",
+        "width": 1440,
+        "height": 1440,
+        "alt": {
+          "en": "ANALOGIAEU part4 — A richly coloured tree trunk and roots in a pink landscape.",
+          "pt-BR": "ANALOGIAEU part4 — Um tronco e suas raízes em muitas cores, em uma paisagem rosa."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/analogiaeu-part4-2024/image-01-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-part4-2024/image-02.webp",
+        "width": 1440,
+        "height": 1440,
+        "alt": {
+          "en": "ANALOGIAEU part4 — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU part4 — Fotografia 2 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-part4-2024/image-03.webp",
+        "width": 1440,
+        "height": 1440,
+        "alt": {
+          "en": "ANALOGIAEU part4 — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU part4 — Fotografia 3 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-part4-2024/image-04.webp",
+        "width": 1440,
+        "height": 1440,
+        "alt": {
+          "en": "ANALOGIAEU part4 — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU part4 — Fotografia 4 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-part4-2024/image-05.webp",
+        "width": 1440,
+        "height": 1440,
+        "alt": {
+          "en": "ANALOGIAEU part4 — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU part4 — Fotografia 5 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-part4-2024/image-06.webp",
+        "width": 1440,
+        "height": 1440,
+        "alt": {
+          "en": "ANALOGIAEU part4 — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU part4 — Fotografia 6 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-part4-2024/image-07.webp",
+        "width": 1440,
+        "height": 1800,
+        "alt": {
+          "en": "ANALOGIAEU part4 — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU part4 — Fotografia 7 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-part4-2024/image-08.webp",
+        "width": 1440,
+        "height": 1440,
+        "alt": {
+          "en": "ANALOGIAEU part4 — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU part4 — Fotografia 8 da pintura feita à mão e de seus detalhes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "correnteza-2024",
+    "title": {
+      "en": "Correnteza",
+      "pt-BR": "Correnteza"
+    },
+    "originalTitle": "Correnteza",
+    "year": "2024",
+    "technique": {
+      "en": "Hand-painted artwork",
+      "pt-BR": "Pintura feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "paintings",
+    "category": {
+      "en": "Hand-painted works",
+      "pt-BR": "Pinturas feitas à mão"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/correnteza-2024/image-01.webp",
+        "width": 859,
+        "height": 1073,
+        "alt": {
+          "en": "Correnteza — A pale river winding through a landscape of rocks and vegetation.",
+          "pt-BR": "Correnteza — Um rio claro serpenteando por uma paisagem de rochas e vegetação."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/correnteza-2024/image-01-640.webp",
+            "width": 640,
+            "height": 799
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/correnteza-2024/image-02.webp",
+        "width": 858,
+        "height": 1071,
+        "alt": {
+          "en": "Correnteza — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "Correnteza — Fotografia 2 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/correnteza-2024/image-03.webp",
+        "width": 900,
+        "height": 1124,
+        "alt": {
+          "en": "Correnteza — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "Correnteza — Fotografia 3 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/correnteza-2024/image-04.webp",
+        "width": 892,
+        "height": 1115,
+        "alt": {
+          "en": "Correnteza — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "Correnteza — Fotografia 4 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/correnteza-2024/image-05.webp",
+        "width": 900,
+        "height": 1125,
+        "alt": {
+          "en": "Correnteza — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "Correnteza — Fotografia 5 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/correnteza-2024/image-06.webp",
+        "width": 899,
+        "height": 1122,
+        "alt": {
+          "en": "Correnteza — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "Correnteza — Fotografia 6 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/correnteza-2024/image-07.webp",
+        "width": 900,
+        "height": 1124,
+        "alt": {
+          "en": "Correnteza — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "Correnteza — Fotografia 7 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/correnteza-2024/image-08.webp",
+        "width": 899,
+        "height": 1123,
+        "alt": {
+          "en": "Correnteza — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "Correnteza — Fotografia 8 da pintura feita à mão e de seus detalhes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "analogiaeu-2018",
+    "title": {
+      "en": "ANALOGIAEU",
+      "pt-BR": "ANALOGIAEU"
+    },
+    "originalTitle": "ANALOGIAEU",
+    "year": "2018",
+    "technique": {
+      "en": "Hand-painted artwork",
+      "pt-BR": "Pintura feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "paintings",
+    "category": {
+      "en": "Hand-painted works",
+      "pt-BR": "Pinturas feitas à mão"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/analogiaeu-2018/image-01.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "ANALOGIAEU — Branching blue and golden shapes in an intricately painted composition.",
+          "pt-BR": "ANALOGIAEU — Formas ramificadas azuis e douradas em uma composição de pintura detalhada."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/analogiaeu-2018/image-01-640.webp",
+            "width": 640,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-2018/image-02.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "ANALOGIAEU — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU — Fotografia 2 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-2018/image-03.webp",
+        "width": 1080,
+        "height": 810,
+        "alt": {
+          "en": "ANALOGIAEU — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU — Fotografia 3 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-2018/image-04.webp",
+        "width": 848,
+        "height": 848,
+        "alt": {
+          "en": "ANALOGIAEU — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU — Fotografia 4 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-2018/image-05.webp",
+        "width": 480,
+        "height": 600,
+        "alt": {
+          "en": "ANALOGIAEU — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU — Fotografia 5 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-2018/image-06.webp",
+        "width": 1080,
+        "height": 610,
+        "alt": {
+          "en": "ANALOGIAEU — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU — Fotografia 6 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-2018/image-07.webp",
+        "width": 480,
+        "height": 600,
+        "alt": {
+          "en": "ANALOGIAEU — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU — Fotografia 7 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-2018/image-08.webp",
+        "width": 720,
+        "height": 900,
+        "alt": {
+          "en": "ANALOGIAEU — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU — Fotografia 8 da pintura feita à mão e de seus detalhes."
+        }
+      },
+      {
+        "path": "assets/images/obras/analogiaeu-2018/image-09.webp",
+        "width": 720,
+        "height": 900,
+        "alt": {
+          "en": "ANALOGIAEU — Photograph 9 of the hand-painted work and its details.",
+          "pt-BR": "ANALOGIAEU — Fotografia 9 da pintura feita à mão e de seus detalhes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "digital-01",
+    "title": {
+      "en": "Mãe",
+      "pt-BR": "Mãe"
+    },
+    "originalTitle": "Mãe",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-01/image-01.webp",
+        "width": 1440,
+        "height": 1440,
+        "alt": {
+          "en": "Mãe — hand-drawn digital painting, image 1.",
+          "pt-BR": "Mãe — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-01/image-01-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "digital-02",
+    "title": {
+      "en": "Digital painting 02",
+      "pt-BR": "Pintura digital 02"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-02/image-01.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Digital painting 02 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 1."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-02/image-02.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Digital painting 02 — hand-drawn digital painting, image 2.",
+          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 2."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-02/image-03.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Digital painting 02 — hand-drawn digital painting, image 3.",
+          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 3."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-02/image-04.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Digital painting 02 — hand-drawn digital painting, image 4.",
+          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 4."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-02/image-05.webp",
+        "width": 640,
+        "height": 800,
+        "alt": {
+          "en": "Digital painting 02 — hand-drawn digital painting, image 5.",
+          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 5."
+        }
+      }
+    ]
+  },
+  {
+    "id": "digital-03",
+    "title": {
+      "en": "Digital painting 03",
+      "pt-BR": "Pintura digital 03"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-03/image-01.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 03 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-03/image-01-640.webp",
+            "width": 640,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/digital-03/image-02.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 03 — hand-drawn digital painting, image 2.",
+          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 2."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-03/image-03.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 03 — hand-drawn digital painting, image 3.",
+          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 3."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-03/image-04.webp",
+        "width": 944,
+        "height": 1180,
+        "alt": {
+          "en": "Digital painting 03 — hand-drawn digital painting, image 4.",
+          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 4."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-03/image-05.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 03 — hand-drawn digital painting, image 5.",
+          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 5."
+        }
+      }
+    ]
+  },
+  {
+    "id": "digital-04",
+    "title": {
+      "en": "Digital painting 04",
+      "pt-BR": "Pintura digital 04"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-04/image-01.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 04 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 04 — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-04/image-01-640.webp",
+            "width": 640,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/digital-04/image-02.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 04 — hand-drawn digital painting, image 2.",
+          "pt-BR": "Pintura digital 04 — pintura digital feita à mão, imagem 2."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-04/image-03.webp",
+        "width": 916,
+        "height": 1144,
+        "alt": {
+          "en": "Digital painting 04 — hand-drawn digital painting, image 3.",
+          "pt-BR": "Pintura digital 04 — pintura digital feita à mão, imagem 3."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-04/image-04.webp",
+        "width": 1080,
+        "height": 1349,
+        "alt": {
+          "en": "Digital painting 04 — hand-drawn digital painting, image 4.",
+          "pt-BR": "Pintura digital 04 — pintura digital feita à mão, imagem 4."
+        }
+      }
+    ]
+  },
+  {
+    "id": "digital-05",
+    "title": {
+      "en": "Digital painting 05",
+      "pt-BR": "Pintura digital 05"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-05/image-01.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 05 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 05 — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-05/image-01-640.webp",
+            "width": 640,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/digital-05/image-02.webp",
+        "width": 944,
+        "height": 1180,
+        "alt": {
+          "en": "Digital painting 05 — hand-drawn digital painting, image 2.",
+          "pt-BR": "Pintura digital 05 — pintura digital feita à mão, imagem 2."
+        }
+      }
+    ]
+  },
+  {
+    "id": "digital-06",
+    "title": {
+      "en": "Digital painting 06",
+      "pt-BR": "Pintura digital 06"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-06/image-01.webp",
+        "width": 1080,
+        "height": 1352,
+        "alt": {
+          "en": "Digital painting 06 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 06 — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-06/image-01-640.webp",
+            "width": 640,
+            "height": 801
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "digital-07",
+    "title": {
+      "en": "Digital painting 07",
+      "pt-BR": "Pintura digital 07"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-07/image-01.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Digital painting 07 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 07 — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-07/image-01-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "digital-08",
+    "title": {
+      "en": "Digital painting 08",
+      "pt-BR": "Pintura digital 08"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-08/image-01.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 08 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 08 — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-08/image-01-640.webp",
+            "width": 640,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/digital-08/image-02.webp",
+        "width": 1080,
+        "height": 1349,
+        "alt": {
+          "en": "Digital painting 08 — hand-drawn digital painting, image 2.",
+          "pt-BR": "Pintura digital 08 — pintura digital feita à mão, imagem 2."
+        }
+      }
+    ]
+  },
+  {
+    "id": "digital-09",
+    "title": {
+      "en": "Digital painting 09",
+      "pt-BR": "Pintura digital 09"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-09/image-01.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 09 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 09 — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-09/image-01-640.webp",
+            "width": 640,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/digital-09/image-02.webp",
+        "width": 720,
+        "height": 900,
+        "alt": {
+          "en": "Digital painting 09 — hand-drawn digital painting, image 2.",
+          "pt-BR": "Pintura digital 09 — pintura digital feita à mão, imagem 2."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-09/image-03.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 09 — hand-drawn digital painting, image 3.",
+          "pt-BR": "Pintura digital 09 — pintura digital feita à mão, imagem 3."
+        }
+      }
+    ]
+  },
+  {
+    "id": "digital-10",
+    "title": {
+      "en": "Digital painting 10",
+      "pt-BR": "Pintura digital 10"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-10/image-01.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 10 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 10 — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-10/image-01-640.webp",
+            "width": 640,
+            "height": 800
+          }
+        ]
+      },
+      {
+        "path": "assets/images/obras/digital-10/image-02.webp",
+        "width": 536,
+        "height": 670,
+        "alt": {
+          "en": "Digital painting 10 — hand-drawn digital painting, image 2.",
+          "pt-BR": "Pintura digital 10 — pintura digital feita à mão, imagem 2."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-10/image-03.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 10 — hand-drawn digital painting, image 3.",
+          "pt-BR": "Pintura digital 10 — pintura digital feita à mão, imagem 3."
+        }
+      },
+      {
+        "path": "assets/images/obras/digital-10/image-04.webp",
+        "width": 1080,
+        "height": 1350,
+        "alt": {
+          "en": "Digital painting 10 — hand-drawn digital painting, image 4.",
+          "pt-BR": "Pintura digital 10 — pintura digital feita à mão, imagem 4."
+        }
+      }
+    ]
+  },
+  {
+    "id": "digital-11",
+    "title": {
+      "en": "Digital painting 11",
+      "pt-BR": "Pintura digital 11"
+    },
+    "titleStatus": "catalogue-label",
+    "year": "2024–2026",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Hand-drawn digital painting",
+      "pt-BR": "Pintura digital feita à mão"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "digital",
+    "category": {
+      "en": "Digital paintings",
+      "pt-BR": "Pinturas digitais"
+    },
+    "images": [
+      {
+        "path": "assets/images/obras/digital-11/image-01.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Digital painting 11 — hand-drawn digital painting, image 1.",
+          "pt-BR": "Pintura digital 11 — pintura digital feita à mão, imagem 1."
+        },
+        "variants": [
+          {
+            "path": "assets/images/obras/digital-11/image-01-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      }
+    ]
+  }
+]

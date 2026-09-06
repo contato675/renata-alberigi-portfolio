@@ -1,25 +1,85 @@
 {
   "name": "Renata Alberigi",
   "role": {
-    "en": "Brazilian visual artist",
-    "pt-BR": "Artista visual brasileira"
+    "en": "Brazilian painter & visual artist",
+    "pt-BR": "Pintora e artista visual brasileira"
   },
   "location": "Caeté-Açu · Chapada Diamantina · Bahia",
   "email": "ataneribero@gmail.com",
   "bio": {
-    "pt-BR": "Renata Alberigi é artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada em Caeté-Açu, na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que reúne pinturas a óleo e com tinta acrílica, retratos, instalações e trabalhos digitais feitos à mão. Árvores, rochas e águas de rios são suas principais fontes de inspiração. As formas, texturas e movimentos desses elementos alimentam um processo de criação que mantém o gesto manual presente tanto na pintura quanto no meio digital. Mãe desde 2019, Renata mantém seu próprio ateliê de pintura em Caeté-Açu, onde desenvolve uma produção autoral independente em contato cotidiano com a paisagem da Chapada Diamantina. Entre seus trabalhos, destaca-se ANALOGIAEU, série de pinturas construída entre 2014 e 2019 e apresentada em espaços como o Museu de Antropologia do Vale do Paraíba e o Espaço Tomie Ohtake, no EducaMais Jacareí. Sua trajetória também inclui oficinas e palestras para crianças, jovens e professores, além da atuação como diretora de arte da RUADOFLOW entre 2016 e 2026. Ao longo desse percurso, reúne a criação em ateliê, o design de roupas e de capas de CDs, a participação em exposições e instalações e a experiência de compartilhar práticas artísticas em espaços culturais e educativos.",
-    "en": "Renata Alberigi is a Brazilian visual artist, born in Petrolina, Pernambuco, in 1993 and based in Caeté-Açu, in the Chapada Diamantina region of Bahia. Self-taught, she has painted since childhood. Her practice encompasses oil and acrylic painting, portraits, installations and hand-drawn digital work. Trees, rocks and river waters are her main sources of inspiration. Their forms, textures and movements inform a creative process that preserves the handmade gesture in both painting and digital media. A mother since 2019, Renata runs her own painting studio in Caeté-Açu, where she develops an independent artistic practice in daily contact with the landscape of Chapada Diamantina. Among her works is ANALOGIAEU, a painting series developed between 2014 and 2019 and presented at venues including the Museu de Antropologia do Vale do Paraíba and Espaço Tomie Ohtake at EducaMais Jacareí. Her experience also includes workshops and talks for children, young people and teachers, as well as serving as art director of RUADOFLOW from 2016 to 2026. Her practice brings together studio work, clothing and CD cover design, participation in exhibitions and installations, and the sharing of artistic practices in cultural and educational settings."
+    "pt-BR": "Renata Alberigi é pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada em Caeté-Açu, na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão. Árvores, rochas e águas de rios são suas principais fontes de inspiração. As formas, texturas e movimentos desses elementos alimentam um processo de criação que mantém o gesto manual presente tanto na pintura quanto no meio digital. Mãe desde 2019, Renata mantém seu próprio ateliê de pintura em Caeté-Açu, onde desenvolve uma produção autoral independente em contato cotidiano com a paisagem da Chapada Diamantina. Entre seus trabalhos, destaca-se ANALOGIAEU, série de pinturas construída entre 2014 e 2019 e apresentada em espaços como o Museu de Antropologia do Vale do Paraíba e o Espaço Tomie Ohtake, no EducaMais Jacareí. Sua trajetória também inclui oficinas e palestras para crianças, jovens e professores, além da atuação como diretora de arte da RUADOFLOW entre 2016 e 2026. Ao longo desse percurso, reúne a criação em ateliê, o design de roupas e de capas de CDs, a participação em exposições e instalações e a experiência de compartilhar práticas artísticas em espaços culturais e educativos.",
+    "en": "Renata Alberigi is a Brazilian painter and visual artist, born in Petrolina, Pernambuco, in 1993 and based in Caeté-Açu, in the Chapada Diamantina region of Bahia. Self-taught, she has painted since childhood. Her practice centres on paintings made by hand in oil and acrylic, alongside portraits, installations and hand-drawn digital work. Trees, rocks and river waters are her main sources of inspiration. Their forms, textures and movements inform a creative process that preserves the handmade gesture in both painting and digital media. A mother since 2019, Renata runs her own painting studio in Caeté-Açu, where she develops an independent artistic practice in daily contact with the landscape of Chapada Diamantina. Among her works is ANALOGIAEU, a painting series developed between 2014 and 2019 and presented at venues including the Museu de Antropologia do Vale do Paraíba and Espaço Tomie Ohtake at EducaMais Jacareí. Her experience also includes workshops and talks for children, young people and teachers, as well as serving as art director of RUADOFLOW from 2016 to 2026. Her practice brings together studio work, clothing and CD cover design, participation in exhibitions and installations, and the sharing of artistic practices in cultural and educational settings."
   },
   "intro": {
-    "en": "Self-taught visual artist working with oil and acrylic painting, portraiture, installations and hand-drawn digital art. Trees, rocks and river waters inform her creative process.",
-    "pt-BR": "Artista visual autodidata. Pinturas a óleo e acrílica, retratos, instalações e criação digital manual. Árvores, rochas e águas de rios alimentam seu processo de criação."
+    "en": "Painting made by hand. Renata works with oil and acrylic painting, inspired by trees, rocks and river waters. A separate collection presents her hand-drawn digital paintings.",
+    "pt-BR": "Pintura feita à mão. Renata trabalha com pintura a óleo e acrílica, inspirada por árvores, rochas e águas de rios. Uma coleção separada apresenta suas pinturas digitais feitas à mão."
   },
-  "portrait": null,
-  "featuredVideo": null,
+  "portrait": {
+    "path": "assets/images/perfil/renata-alberigi.webp",
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Artist portrait supplied for Renata Alberigi’s portfolio.",
+      "pt-BR": "Retrato de apresentação fornecido para o portfólio de Renata Alberigi."
+    },
+    "variants": [
+      {
+        "path": "assets/images/perfil/renata-alberigi-640.webp",
+        "width": 640,
+        "height": 480
+      }
+    ]
+  },
+  "featuredVideo": {
+    "provider": "youtube",
+    "id": "Q1bbei1X3VA",
+    "title": {
+      "en": "ANALOGIAEU - Um Sonho de Renata Ribero",
+      "pt-BR": "ANALOGIAEU - Um Sonho de Renata Ribero"
+    },
+    "transcript": null,
+    "poster": {
+      "path": "assets/images/video/film-1.webp",
+      "width": 1280,
+      "height": 720,
+      "alt": {
+        "en": "YouTube thumbnail: ANALOGIAEU - Um Sonho de Renata Ribero",
+        "pt-BR": "Imagem de capa do YouTube: ANALOGIAEU - Um Sonho de Renata Ribero"
+      }
+    },
+    "description": {
+      "en": "A film from the ANALOGIAEU body of work, selected for this portfolio. Original title preserved.",
+      "pt-BR": "Vídeo do trabalho ANALOGIAEU selecionado para este portfólio. Título original preservado."
+    }
+  },
   "pdf": null,
   "studioImages": [],
   "editorialReview": {
     "en": false,
     "pt-BR": true
-  }
+  },
+  "additionalVideos": [
+    {
+      "provider": "youtube",
+      "id": "hS3SNQcha2o",
+      "title": {
+        "en": "ANALOGIAEU- P.ARTE 5",
+        "pt-BR": "ANALOGIAEU- P.ARTE 5"
+      },
+      "transcript": null,
+      "poster": {
+        "path": "assets/images/video/film-2.webp",
+        "width": 1280,
+        "height": 720,
+        "alt": {
+          "en": "YouTube thumbnail: ANALOGIAEU- P.ARTE 5",
+          "pt-BR": "Imagem de capa do YouTube: ANALOGIAEU- P.ARTE 5"
+        }
+      },
+      "description": {
+        "en": "A film from the ANALOGIAEU body of work, selected for this portfolio. Original title preserved.",
+        "pt-BR": "Vídeo do trabalho ANALOGIAEU selecionado para este portfólio. Título original preservado."
+      }
+    }
+  ]
 }

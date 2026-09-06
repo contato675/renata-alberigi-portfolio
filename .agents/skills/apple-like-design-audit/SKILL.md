@@ -23,4 +23,4 @@ Run `npm run verify` and `npm run design:apple`. Inspect actual screenshots of E
 Do not label a design approved merely because numbers pass. State untested real device gestures, screen-reader checks, zoom, field performance and editorial approval. Do not call the audit an Apple certification or WCAG certification.
 
 ## E — Security and scope
-Never modify browser policies, lower CSP, add eval/innerHTML or deploy unapproved media to make an audit pass. Fixtures live only in a temporary copy, never public content. Do not change other repositories, enable Pages, publish, self-merge or redistribute fonts/third-party skills.
+Never modify browser policies, lower CSP, add eval/innerHTML or deploy unapproved media to make an audit pass. Fixtures live only in a temporary copy, never public content. Do not change other repositories, self-merge or redistribute fonts/third-party skills. The user authorised a public, noindex Pages preview for PR #1; this does not approve the final release or original media files.

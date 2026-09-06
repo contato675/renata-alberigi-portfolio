@@ -1,7 +1,7 @@
 # Repository rules
 
 ## Isolation and consent
-This project belongs to Renata Alberigi. Never edit SSSOM, Aplanta, other worktrees or their processes. Read docs/01 through docs/09 before implementation. Develop on a dedicated branch and open a PR; no self-merge, visibility change or Pages activation.
+This project belongs to Renata Alberigi. Never edit SSSOM, Aplanta, other worktrees or their processes. Read docs/01 through docs/09 before implementation. Develop on a dedicated branch and open a PR; no self-merge. The user explicitly authorised a public Pages preview and, if necessary, public repository visibility on 2026-09-06. This approval is limited to this portfolio and clean web derivatives, not originals or other repositories.
 
 ## Editorial truth
 Use `site/content/artist.json` as the source. Preserve the approved Portuguese biography and keep English substantively equivalent. Do not invent artwork, photographs, titles, dates, media, dimensions, credentials, awards, testimonials, prices or commercial availability. Missing media stays null. Machine translation is not human editorial approval. Both language variants are required for interface text, image descriptions and localized metadata; original artwork titles may also be preserved in `originalTitle`.

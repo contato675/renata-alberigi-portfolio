@@ -16,6 +16,8 @@ export async function createFixtures(root,fixtureRoot,data) {
     images.push({path:relative,width,height,alt:{en:`Calibration image ${i+1}; not an artwork or artist portrait`,'pt-BR':`Imagem de calibração ${i+1}; não é obra ou retrato da artista`},caption:{en:'Technical layout fixture — not an artwork','pt-BR':'Fixture técnica de layout — não é uma obra'}});
   }
   data.works=[0,1,2].map((i)=>({id:`audit-${i}`,status:'published',title:{en:`Layout fixture ${i+1} — not an artwork`,'pt-BR':`Fixture de layout ${i+1} — não é uma obra`},year:'Test only',technique:{en:'Technical test','pt-BR':'Teste técnico'},dimensions:'640 × 960 / 960 × 640 px',description:{en:'These neutral media test portrait, landscape and square layouts. They do not represent Renata’s artistic practice.','pt-BR':'Estas mídias neutras testam composições verticais, horizontais e quadradas. Não representam a produção artística de Renata.'},cover:0,images:i===1?[images[1]]:[images[i],images[(i+1)%3],images[(i+2)%3]]}));
+  data.artist.additionalVideos=[];
+  data.artist.pdf=null; data.artist.pdfPt=null;
   data.artist.portrait=images[0];
   data.artist.featuredVideo={provider:'youtube',id:'audit-only',poster:images[1],title:{en:'Technical video fixture','pt-BR':'Fixture técnica de vídeo'},transcript:{en:'Technical transcript fixture. No real film has been supplied.','pt-BR':'Fixture técnica de transcrição. Nenhum filme real foi fornecido.'}};
   return data;

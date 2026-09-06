@@ -7,7 +7,7 @@ export function inspectLayout() {
   const imageProblems=[...document.images].filter(visible).filter((im)=>!im.complete||im.naturalWidth===0||!im.hasAttribute('alt')||!im.getAttribute('width')||!im.getAttribute('height')||im.getAttribute('draggable')!=='false').map((im)=>im.getAttribute('src'));
   let maxGridDrift=0;
   const offsets=[];
-  for(const el of document.querySelectorAll('.hero-copy,.portrait,.section-title,.section-content,.project,.work-images,.work-info')) {
+  for(const el of document.querySelectorAll('.hero-copy,.portrait,.section-title,.section-content,.project,.film-card,.work-images,.work-info')) {
     const parent=el.parentElement;if(!parent.classList.contains('grid'))continue;
     const css=getComputedStyle(parent),rect=parent.getBoundingClientRect(),box=el.getBoundingClientRect();
     const tracks=css.gridTemplateColumns.split(' ').map(parseFloat),gap=parseFloat(css.columnGap),starts=[],ends=[];

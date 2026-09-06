@@ -1,6 +1,6 @@
 import {readFile, readdir, lstat, realpath} from 'node:fs/promises';
 import path from 'node:path';
-import {validateContent, containedPath} from './content.mjs';
+import {validateContent, containedPath, allVideos, imagePaths} from './content.mjs';
 import {LOCALES} from './i18n.mjs';
 export async function loadContent(root) {
   const load = async (name) => JSON.parse(await readFile(path.join(root, 'site/content', name), 'utf8'));
@@ -27,8 +27,8 @@ export async function verifyFiles(root, data) {
   };
   await scan(base);
   const {artist,works} = data;
-  const images = [artist.portrait, artist.featuredVideo?.poster, ...artist.studioImages, ...works.flatMap((w) => w.images)].filter(Boolean);
-  const paths = [...images.map((im) => im.path), artist.pdf].filter(Boolean);
+  const images = [artist.portrait, ...allVideos(artist).map(v=>v.poster), ...artist.studioImages, ...works.flatMap((w) => w.images)].filter(Boolean);
+  const paths = [...imagePaths(images), artist.pdf, artist.pdfPt].filter(Boolean);
   const baseReal = await realpath(base);
   for (const relative of paths) {
     try {

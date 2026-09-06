@@ -105,7 +105,8 @@ for (const button of document.querySelectorAll('[data-video]')) {
     iframe.src = button.dataset.video;
     iframe.title = button.dataset.title;
     iframe.className = 'video-frame';
-    iframe.allow = 'fullscreen; picture-in-picture';
+    iframe.allow = 'encrypted-media; fullscreen; picture-in-picture';
+    iframe.tabIndex = 0;
     iframe.setAttribute('allowfullscreen', '');
     iframe.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-presentation');
     iframe.referrerPolicy = 'strict-origin-when-cross-origin';

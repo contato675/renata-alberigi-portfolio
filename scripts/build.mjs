@@ -2,7 +2,7 @@ import {readFile,mkdir,writeFile,readdir,lstat,rm,rename} from 'node:fs/promises
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 import {loadContent,verifyFiles} from './load.mjs';
-import {validateContent,publicationErrors,containedPath} from './content.mjs';
+import {validateContent,publicationErrors,containedPath,allVideos,imagePaths} from './content.mjs';
 import {LOCALES,localePath} from './i18n.mjs';
 import {renderPage,pagePath,publicWorks} from './render.mjs';
 import {pageMarkdown,llmsIndex,robotsText,sitemap,structuredPortfolio} from './discovery.mjs';
@@ -20,7 +20,7 @@ export function generatePages(data,template,{release=false}={}) {
     files.set(localePath(locale)+'portfolio.json',JSON.stringify(structuredPortfolio(data,locale),null,2)+'\n');
   }
   files.set('llms.txt',llmsIndex(data,{release}));
-  files.set('llms-full.txt',`# ${data.artist.name} — public bilingual portfolio\n\n`+(!release?'Review build. Not published.\n\n':'')+LOCALES.map((locale)=>[null,...publicWorks(data)].map((work)=>pageMarkdown(data,locale,work)).join('\n---\n\n')).join('\n---\n\n'));
+  files.set('llms-full.txt',`# ${data.artist.name} — public bilingual portfolio\n\n`+(!release?(data.site.previewPublic?'Public preview for editorial review.\n\n':'Review build. Not published.\n\n'):'')+LOCALES.map((locale)=>[null,...publicWorks(data)].map((work)=>pageMarkdown(data,locale,work)).join('\n---\n\n')).join('\n---\n\n'));
   files.set('robots.txt',robotsText(data.site,{release}));
   files.set('sitemap.xml',sitemap(data,{release}));
   files.set('404.html',renderPage(data,template,'en',{release,notFound:true}));
@@ -51,8 +51,8 @@ export async function buildSite(root,{output=path.join(root,'dist'),data=null,re
   const template=await readFile(path.join(root,'site/index.template.html'),'utf8');
   const files=generatePages(data,template,{release});
   for (const rel of ['assets/css/tokens.css','assets/css/scaffold.css','assets/css/gallery.css','assets/js/gallery.js']) files.set(rel,await readFile(path.join(root,'site',rel)));
-  const images=[data.artist.portrait,data.artist.featuredVideo?.poster,...data.artist.studioImages,...publicWorks(data).flatMap((w)=>w.images)].filter(Boolean);
-  for (const rel of new Set([...images.map((im)=>im.path),data.artist.pdf].filter(Boolean))) files.set(rel,await readFile(containedPath(path.join(root,'site'),rel)));
+  const images=[data.artist.portrait,...allVideos(data.artist).map(v=>v.poster),...data.artist.studioImages,...publicWorks(data).flatMap((w)=>w.images)].filter(Boolean);
+  for (const rel of new Set([...imagePaths(images),data.artist.pdf,data.artist.pdfPt].filter(Boolean))) files.set(rel,await readFile(containedPath(path.join(root,'site'),rel)));
   await assertOwnedOutput(output);
   const stage=output+`.stage-${process.pid}`;
   let stageCreated=false;
