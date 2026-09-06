@@ -1,0 +1,24 @@
+:root {
+  --paper: #ffffff;
+  --support: #f6f6f6;
+  --ink: #171717;
+  --muted: #626262;
+  --line: #e7e7e7;
+  --font-body: "Plus Jakarta Sans", Arial, sans-serif;
+  --font-display: "Outfit", Arial, sans-serif;
+  --cols: 4;
+  --gutter: 16px;
+  --margin: 16px;
+  --baseline: 8px;
+  --leading: 24px;
+  --maxw: 1488px;
+  --radius-ui: 16px;
+  --motion-fast: 160ms;
+  --motion-enter: 240ms;
+}
+@media (min-width: 768px) {
+  :root { --cols: 8; --gutter: 24px; --margin: 32px; }
+}
+@media (min-width: 1024px) {
+  :root { --cols: 12; --margin: 48px; }
+}

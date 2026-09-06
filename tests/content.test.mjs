@@ -1,0 +1,17 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {escapeHtml,safeAssetPath,containedPath,validateWorks} from '../scripts/content.mjs';
+const image = {path:'assets/images/obras/teste/01.webp',alt:'Fixture de teste, não é uma obra real',width:800,height:1200};
+const work = () => ({id:'fixture-teste',title:'Fixture técnica',year:'2000',technique:'Teste',dimensions:'Teste',status:'draft',cover:0,images:[{...image}]});
+test('conteúdo editorial é escapado',()=>assert.equal(escapeHtml('<img onerror="x">'), '&lt;img onerror=&quot;x&quot;&gt;'));
+test('path relativo aprovado',()=>assert.equal(safeAssetPath(image.path),true));
+test('traversal e URL externa rejeitados',()=>{assert.equal(safeAssetPath('assets/images/../../segredo.jpg'),false);assert.equal(safeAssetPath('https://exemplo.com/a.jpg'),false);});
+test('escopo de arquivo não pode sair da raiz',()=>assert.throws(()=>containedPath('/safe','../secret')));
+test('lista vazia permitida para scaffold',()=>assert.deepEqual(validateWorks([]),[]));
+test('registro válido no contrato',()=>assert.deepEqual(validateWorks([work()]),[]));
+test('ID duplicado rejeitado',()=>assert.ok(validateWorks([work(),work()]).some(x=>x.includes('repetido'))));
+test('capa fora da lista rejeitada',()=>{const w=work();w.cover=4;assert.ok(validateWorks([w]).some(x=>x.includes('capa')));});
+test('alt vazio rejeitado',()=>{const w=work();w.images[0].alt='';assert.ok(validateWorks([w]).some(x=>x.includes('alt')));});
+test('registro nulo rejeitado sem crash',()=>assert.ok(validateWorks([null]).length));
+test('campo desconhecido rejeitado',()=>{const w=work();w.secret='não publicar';assert.ok(validateWorks([w]).length);});
+test('dimensões de foto obrigatórias',()=>{const w=work();w.images[0].height=0;assert.ok(validateWorks([w]).length);});
