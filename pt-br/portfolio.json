@@ -3,21 +3,21 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist",
+      "@id": "https://renataalberigi.com.br/#artist",
       "name": "Renata Alberigi",
       "jobTitle": "Pintora e artista visual brasileira",
       "description": "Renata Alberigi é pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada em Caeté-Açu, na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão. Árvores, rochas e águas de rios são suas principais fontes de inspiração. As formas, texturas e movimentos desses elementos alimentam um processo de criação que mantém o gesto manual presente tanto na pintura quanto no meio digital. Mãe desde 2019, Renata mantém seu próprio ateliê de pintura em Caeté-Açu, onde desenvolve uma produção autoral independente em contato cotidiano com a paisagem da Chapada Diamantina. Entre seus trabalhos, destaca-se ANALOGIAEU, série de pinturas construída entre 2014 e 2019 e apresentada em espaços como o Museu de Antropologia do Vale do Paraíba e o Espaço Tomie Ohtake, no EducaMais Jacareí. Sua trajetória também inclui oficinas e palestras para crianças, jovens e professores, além da atuação como diretora de arte da RUADOFLOW entre 2016 e 2026. Ao longo desse percurso, reúne a criação em ateliê, o design de roupas e de capas de CDs, a participação em exposições e instalações e a experiência de compartilhar práticas artísticas em espaços culturais e educativos.",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/",
+      "url": "https://renataalberigi.com.br/pt-br/",
       "email": "estudiorenascida@gmail.com",
-      "image": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/perfil/renata-alberigi-c758528aa6.webp"
+      "image": "https://renataalberigi.com.br/assets/images/perfil/renata-alberigi-c758528aa6.webp"
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/amor-incondicional-2026/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/amor-incondicional-2026/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/",
+      "url": "https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/",
       "name": "Amor incondicional",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "dateCreated": "2026",
       "artform": "Painting",
@@ -28,98 +28,98 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-01.webp",
           "caption": "Amor incondicional — Um rio rosa entre rochas, com uma árvore de flores alaranjadas sob um céu de nuvens.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-02.webp",
           "caption": "Amor incondicional — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-03.webp",
           "caption": "Amor incondicional — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-04.webp",
           "caption": "Amor incondicional — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-05.webp",
           "caption": "Amor incondicional — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-06.webp",
           "caption": "Amor incondicional — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-07.webp",
           "caption": "Amor incondicional — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-08.webp",
           "caption": "Amor incondicional — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-09.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-09.webp",
           "caption": "Amor incondicional — Fotografia 9 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-10.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-10.webp",
           "caption": "Amor incondicional — Fotografia 10 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-11.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-11.webp",
           "caption": "Amor incondicional — Fotografia 11 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-12.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-12.webp",
           "caption": "Amor incondicional — Fotografia 12 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-13.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-13.webp",
           "caption": "Amor incondicional — Fotografia 13 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-14.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-14.webp",
           "caption": "Amor incondicional — Fotografia 14 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
@@ -128,11 +128,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ponte-nova-2025/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ponte-nova-2025/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/",
+      "url": "https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/",
       "name": "Ponte nova",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "dateCreated": "2025",
       "artform": "Painting",
@@ -143,56 +143,56 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-01.webp",
           "caption": "Ponte nova — Uma paisagem de rio rochoso, águas vermelhas e âmbar e vegetação verde.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-02.webp",
           "caption": "Ponte nova — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-03.webp",
           "caption": "Ponte nova — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-04.webp",
           "caption": "Ponte nova — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-05.webp",
           "caption": "Ponte nova — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-06.webp",
           "caption": "Ponte nova — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-07.webp",
           "caption": "Ponte nova — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-08.webp",
           "caption": "Ponte nova — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
@@ -201,11 +201,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade-2026/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade-2026/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/maternidade-2026/",
+      "url": "https://renataalberigi.com.br/pt-br/works/maternidade-2026/",
       "name": "Maternidade",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "dateCreated": "2026",
       "artform": "Painting",
@@ -216,84 +216,84 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-01.webp",
           "caption": "Maternidade — Um rio azul estreito cercado por rochas avermelhadas e árvores verdes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-02.webp",
           "caption": "Maternidade — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 1080,
           "height": 1440
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-03.webp",
           "caption": "Maternidade — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-04.webp",
           "caption": "Maternidade — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-05.webp",
           "caption": "Maternidade — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 1200,
           "height": 1600
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-06.webp",
           "caption": "Maternidade — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-07.webp",
           "caption": "Maternidade — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-08.webp",
           "caption": "Maternidade — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-09.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-09.webp",
           "caption": "Maternidade — Fotografia 9 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-10.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-10.webp",
           "caption": "Maternidade — Fotografia 10 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-11.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-11.webp",
           "caption": "Maternidade — Fotografia 11 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-12.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-12.webp",
           "caption": "Maternidade — Fotografia 12 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
@@ -302,11 +302,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade1-2025/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade1-2025/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/maternidade1-2025/",
+      "url": "https://renataalberigi.com.br/pt-br/works/maternidade1-2025/",
       "name": "Maternidade 1",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "dateCreated": "2025",
       "artform": "Painting",
@@ -317,91 +317,91 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-01.webp",
           "caption": "Maternidade 1 — Uma trama de árvores, galhos e pequenas marcas rosas e verdes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-02.webp",
           "caption": "Maternidade 1 — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-03.webp",
           "caption": "Maternidade 1 — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-04.webp",
           "caption": "Maternidade 1 — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-05.webp",
           "caption": "Maternidade 1 — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-06.webp",
           "caption": "Maternidade 1 — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-07.webp",
           "caption": "Maternidade 1 — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-08.webp",
           "caption": "Maternidade 1 — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-09.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-09.webp",
           "caption": "Maternidade 1 — Fotografia 9 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-10.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-10.webp",
           "caption": "Maternidade 1 — Fotografia 10 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-11.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-11.webp",
           "caption": "Maternidade 1 — Fotografia 11 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-12.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-12.webp",
           "caption": "Maternidade 1 — Fotografia 12 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-13.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-13.webp",
           "caption": "Maternidade 1 — Fotografia 13 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
@@ -410,11 +410,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/lar-2026/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/lar-2026/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/lar-2026/",
+      "url": "https://renataalberigi.com.br/pt-br/works/lar-2026/",
       "name": "Lar",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "dateCreated": "2026",
       "artform": "Painting",
@@ -425,98 +425,98 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-01.webp",
           "caption": "Lar — Árvores e raízes entrelaçadas em uma paisagem de pintura densa, rosa e verde.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-02.webp",
           "caption": "Lar — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-03.webp",
           "caption": "Lar — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 1200,
           "height": 1600
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-04.webp",
           "caption": "Lar — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-05.webp",
           "caption": "Lar — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-06.webp",
           "caption": "Lar — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-07.webp",
           "caption": "Lar — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 1200,
           "height": 1600
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-08.webp",
           "caption": "Lar — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-09.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-09.webp",
           "caption": "Lar — Fotografia 9 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-10.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-10.webp",
           "caption": "Lar — Fotografia 10 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-11.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-11.webp",
           "caption": "Lar — Fotografia 11 da pintura feita à mão e de seus detalhes.",
           "width": 1080,
           "height": 1440
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-12.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-12.webp",
           "caption": "Lar — Fotografia 12 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-13.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-13.webp",
           "caption": "Lar — Fotografia 13 da pintura feita à mão e de seus detalhes.",
           "width": 1200,
           "height": 1600
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-14.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-14.webp",
           "caption": "Lar — Fotografia 14 da pintura feita à mão e de seus detalhes.",
           "width": 1080,
           "height": 1129
@@ -525,11 +525,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/aureo-2025/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/aureo-2025/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/aureo-2025/",
+      "url": "https://renataalberigi.com.br/pt-br/works/aureo-2025/",
       "name": "Áureo",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "dateCreated": "2025",
       "artform": "Painting",
@@ -540,56 +540,56 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-01.webp",
           "caption": "Áureo — Formações rochosas iluminadas junto a águas escuras sob um céu azul.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-02.webp",
           "caption": "Áureo — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-03.webp",
           "caption": "Áureo — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-04.webp",
           "caption": "Áureo — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-05.webp",
           "caption": "Áureo — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-06.webp",
           "caption": "Áureo — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-07.webp",
           "caption": "Áureo — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-08.webp",
           "caption": "Áureo — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
@@ -598,11 +598,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-part4-2024/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-part4-2024/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/analogiaeu-part4-2024/",
+      "url": "https://renataalberigi.com.br/pt-br/works/analogiaeu-part4-2024/",
       "name": "ANALOGIAEU part4",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "dateCreated": "2024",
       "artform": "Painting",
@@ -613,56 +613,56 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-01.webp",
           "caption": "ANALOGIAEU part4 — Um tronco e suas raízes em muitas cores, em uma paisagem rosa.",
           "width": 1440,
           "height": 1440
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-02.webp",
           "caption": "ANALOGIAEU part4 — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1440
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-03.webp",
           "caption": "ANALOGIAEU part4 — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1440
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-04.webp",
           "caption": "ANALOGIAEU part4 — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1440
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-05.webp",
           "caption": "ANALOGIAEU part4 — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1440
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-06.webp",
           "caption": "ANALOGIAEU part4 — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1440
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-07.webp",
           "caption": "ANALOGIAEU part4 — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-08.webp",
           "caption": "ANALOGIAEU part4 — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1440
@@ -671,11 +671,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/correnteza-2022/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/correnteza-2022/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/correnteza-2022/",
+      "url": "https://renataalberigi.com.br/pt-br/works/correnteza-2022/",
       "name": "Correnteza",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "dateCreated": "2022",
       "artform": "Painting",
@@ -686,56 +686,56 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-01.webp",
           "caption": "Correnteza — Um rio claro serpenteando por uma paisagem de rochas e vegetação.",
           "width": 859,
           "height": 1073
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-02.webp",
           "caption": "Correnteza — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 858,
           "height": 1071
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-03.webp",
           "caption": "Correnteza — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 900,
           "height": 1124
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-04.webp",
           "caption": "Correnteza — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 892,
           "height": 1115
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-05.webp",
           "caption": "Correnteza — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 900,
           "height": 1125
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-06.webp",
           "caption": "Correnteza — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 899,
           "height": 1122
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-07.webp",
           "caption": "Correnteza — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 900,
           "height": 1124
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-08.webp",
           "caption": "Correnteza — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 899,
           "height": 1123
@@ -744,11 +744,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-2018/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-2018/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/",
+      "url": "https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/",
       "name": "ANALOGIAEU",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "dateCreated": "2018",
       "artform": "Painting",
@@ -759,63 +759,63 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-01.webp",
           "caption": "ANALOGIAEU — Formas ramificadas azuis e douradas em uma composição de pintura detalhada.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-02.webp",
           "caption": "ANALOGIAEU — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-03.webp",
           "caption": "ANALOGIAEU — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 1080,
           "height": 810
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-04.webp",
           "caption": "ANALOGIAEU — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 848,
           "height": 848
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-05.webp",
           "caption": "ANALOGIAEU — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 480,
           "height": 600
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-06.webp",
           "caption": "ANALOGIAEU — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 1080,
           "height": 610
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-07.webp",
           "caption": "ANALOGIAEU — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 480,
           "height": 600
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-08.webp",
           "caption": "ANALOGIAEU — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 720,
           "height": 900
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-09.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-09.webp",
           "caption": "ANALOGIAEU — Fotografia 9 da pintura feita à mão e de seus detalhes.",
           "width": 720,
           "height": 900
@@ -824,11 +824,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-01/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-01/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-01/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-01/",
       "name": "Mãe",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -838,7 +838,7 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-01/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-01/image-01.webp",
           "caption": "Mãe — pintura digital feita à mão, imagem 1.",
           "width": 1440,
           "height": 1440
@@ -847,11 +847,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-02/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-02/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-02/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-02/",
       "name": "Renascida",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -861,35 +861,35 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-01.webp",
           "caption": "Renascida — pintura digital feita à mão, imagem 1.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-02.webp",
           "caption": "Renascida — pintura digital feita à mão, imagem 2.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-03.webp",
           "caption": "Renascida — pintura digital feita à mão, imagem 3.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-04.webp",
           "caption": "Renascida — pintura digital feita à mão, imagem 4.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-05.webp",
           "caption": "Renascida — pintura digital feita à mão, imagem 5.",
           "width": 640,
           "height": 800
@@ -898,11 +898,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-03/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-03/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-03/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-03/",
       "name": "Fluir",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -912,35 +912,35 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-01.webp",
           "caption": "Fluir — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-02.webp",
           "caption": "Fluir — pintura digital feita à mão, imagem 2.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-03.webp",
           "caption": "Fluir — pintura digital feita à mão, imagem 3.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-04.webp",
           "caption": "Fluir — pintura digital feita à mão, imagem 4.",
           "width": 944,
           "height": 1180
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-05.webp",
           "caption": "Fluir — pintura digital feita à mão, imagem 5.",
           "width": 1080,
           "height": 1350
@@ -949,11 +949,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-04/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-04/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-04/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-04/",
       "name": "Balanço",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -963,28 +963,28 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-01.webp",
           "caption": "Balanço — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-02.webp",
           "caption": "Balanço — pintura digital feita à mão, imagem 2.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-03.webp",
           "caption": "Balanço — pintura digital feita à mão, imagem 3.",
           "width": 916,
           "height": 1144
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-04.webp",
           "caption": "Balanço — pintura digital feita à mão, imagem 4.",
           "width": 1080,
           "height": 1349
@@ -993,11 +993,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-05/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-05/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-05/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-05/",
       "name": "Alexandrina",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -1007,14 +1007,14 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-05/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-05/image-01.webp",
           "caption": "Alexandrina — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-05/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-05/image-02.webp",
           "caption": "Alexandrina — pintura digital feita à mão, imagem 2.",
           "width": 944,
           "height": 1180
@@ -1023,11 +1023,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-06/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-06/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-06/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-06/",
       "name": "Nara",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -1037,7 +1037,7 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-06/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-06/image-01.webp",
           "caption": "Nara — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1352
@@ -1046,11 +1046,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-07/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-07/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-07/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-07/",
       "name": "Nadine",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -1060,7 +1060,7 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-07/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-07/image-01.webp",
           "caption": "Nadine — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1080
@@ -1069,11 +1069,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-08/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-08/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-08/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-08/",
       "name": "Sol",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -1083,14 +1083,14 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-08/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-08/image-01.webp",
           "caption": "Sol — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-08/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-08/image-02.webp",
           "caption": "Sol — pintura digital feita à mão, imagem 2.",
           "width": 1080,
           "height": 1349
@@ -1099,11 +1099,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-09/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-09/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-09/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-09/",
       "name": "Fernanda",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -1113,21 +1113,21 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-09/image-01.webp",
           "caption": "Fernanda — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-09/image-02.webp",
           "caption": "Fernanda — pintura digital feita à mão, imagem 2.",
           "width": 720,
           "height": 900
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-09/image-03.webp",
           "caption": "Fernanda — pintura digital feita à mão, imagem 3.",
           "width": 1080,
           "height": 1350
@@ -1136,11 +1136,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-10/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-10/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-10/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-10/",
       "name": "Raio Rubi",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -1150,28 +1150,28 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-01.webp",
           "caption": "Raio Rubi — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-02.webp",
           "caption": "Raio Rubi — pintura digital feita à mão, imagem 2.",
           "width": 536,
           "height": 670
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-03.webp",
           "caption": "Raio Rubi — pintura digital feita à mão, imagem 3.",
           "width": 1080,
           "height": 1350
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-04.webp",
           "caption": "Raio Rubi — pintura digital feita à mão, imagem 4.",
           "width": 1080,
           "height": 1350
@@ -1180,11 +1180,11 @@
     },
     {
       "@type": "VisualArtwork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-11/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-11/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/digital-11/",
+      "url": "https://renataalberigi.com.br/pt-br/works/digital-11/",
       "name": "Capa do Disco de Rap",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2026",
       "artform": "Painting",
@@ -1194,7 +1194,7 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-11/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-11/image-01.webp",
           "caption": "Capa do Disco de Rap — pintura digital feita à mão, imagem 1.",
           "width": 1080,
           "height": 1080
@@ -1203,11 +1203,11 @@
     },
     {
       "@type": "CreativeWork",
-      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ruadoflow-brand-design-2024-2025/",
-      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ruadoflow-brand-design-2024-2025/",
+      "@id": "https://renataalberigi.com.br/pt-br/works/ruadoflow-brand-design-2024-2025/",
+      "url": "https://renataalberigi.com.br/pt-br/works/ruadoflow-brand-design-2024-2025/",
       "name": "RUADOFLOW — Coleção de design",
       "creator": {
-        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+        "@id": "https://renataalberigi.com.br/#artist"
       },
       "temporalCoverage": "2024/2025",
       "keywords": "Design de marca",
@@ -1217,462 +1217,462 @@
       "image": [
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-01.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-01.webp",
           "caption": "Camiseta oversized — design 01 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-02.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-02.webp",
           "caption": "Camiseta oversized, vista frontal — design 02 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-03.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-03.webp",
           "caption": "Camiseta oversized, vista das costas — design 03 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-04.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-04.webp",
           "caption": "Camiseta oversized, vista das costas — design 04 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-05.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-05.webp",
           "caption": "Camiseta oversized, vista frontal — design 05 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-06.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-06.webp",
           "caption": "Camiseta oversized, vista frontal — design 06 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-07.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-07.webp",
           "caption": "Camiseta oversized, vista das costas — design 07 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-08.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-08.webp",
           "caption": "Camiseta oversized, vista das costas — design 08 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-09.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-09.webp",
           "caption": "Camiseta oversized, vista frontal — design 09 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-10.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-10.webp",
           "caption": "Camiseta oversized, vista das costas — design 10 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-11.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-11.webp",
           "caption": "Camiseta oversized, vista das costas — design 11 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-12.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-12.webp",
           "caption": "Camiseta oversized, vista frontal — design 12 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-13.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-13.webp",
           "caption": "Camiseta oversized, vista frontal — design 13 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-14.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-14.webp",
           "caption": "Camiseta oversized, vista das costas — design 14 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-15.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-15.webp",
           "caption": "Camiseta oversized, vista frontal — design 15 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-16.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-16.webp",
           "caption": "Camiseta oversized, vista das costas — design 16 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-17.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-17.webp",
           "caption": "Camiseta oversized, vista frontal — design 17 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-18.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-18.webp",
           "caption": "Camiseta oversized, vista das costas — design 18 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-19.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-19.webp",
           "caption": "Camiseta oversized, vista das costas — design 19 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-20.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-20.webp",
           "caption": "Camiseta oversized, vista frontal — design 20 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-21.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-21.webp",
           "caption": "Camiseta oversized, vista frontal — design 21 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-22.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-22.webp",
           "caption": "Camiseta oversized, vista das costas — design 22 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-23.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-23.webp",
           "caption": "Camiseta oversized, vista das costas — design 23 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-24.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-24.webp",
           "caption": "Camiseta oversized, vista das costas — design 24 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-25.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-25.webp",
           "caption": "Camiseta oversized, vista das costas — design 25 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-26.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-26.webp",
           "caption": "Camiseta oversized, vista frontal — design 26 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-27.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-27.webp",
           "caption": "Camiseta oversized, vista das costas — design 27 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-28.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-28.webp",
           "caption": "Camiseta oversized, vista das costas — design 28 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-29.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-29.webp",
           "caption": "Camiseta oversized, vista frontal — design 29 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-30.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-30.webp",
           "caption": "Camiseta oversized, vista frontal — design 30 da coleção RUADOFLOW.",
           "width": 1920,
           "height": 1920
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-31.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-31.webp",
           "caption": "Moletom com capuz, vista das costas — design 31 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-32.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-32.webp",
           "caption": "Moletom com capuz, vista das costas — design 32 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-33.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-33.webp",
           "caption": "Moletom com capuz, vista das costas — design 33 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-34.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-34.webp",
           "caption": "Moletom com capuz, vista das costas — design 34 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-35.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-35.webp",
           "caption": "Moletom com capuz, vista das costas — design 35 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-36.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-36.webp",
           "caption": "Moletom com capuz, vista frontal — design 36 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-37.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-37.webp",
           "caption": "Moletom com capuz, vista frontal — design 37 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-38.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-38.webp",
           "caption": "Moletom com capuz, vista das costas — design 38 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-39.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-39.webp",
           "caption": "Moletom com capuz, vista das costas — design 39 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-40.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-40.webp",
           "caption": "Moletom com capuz, vista das costas — design 40 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-41.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-41.webp",
           "caption": "Moletom com capuz, vista frontal — design 41 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-42.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-42.webp",
           "caption": "Moletom com capuz, vista frontal — design 42 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-43.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-43.webp",
           "caption": "Moletom com capuz, vista das costas — design 43 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-44.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-44.webp",
           "caption": "Moletom com capuz, vista frontal — design 44 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-45.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-45.webp",
           "caption": "Moletom com capuz, vista das costas — design 45 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-46.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-46.webp",
           "caption": "Moletom com capuz, vista frontal — design 46 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-47.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-47.webp",
           "caption": "Moletom com capuz, vista frontal — design 47 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-48.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-48.webp",
           "caption": "Moletom com capuz, vista frontal — design 48 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-49.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-49.webp",
           "caption": "Moletom com capuz, vista das costas — design 49 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-50.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-50.webp",
           "caption": "Moletom com capuz, vista das costas — design 50 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-51.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-51.webp",
           "caption": "Moletom com capuz, vista das costas — design 51 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-52.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-52.webp",
           "caption": "Moletom com capuz, vista frontal — design 52 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-53.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-53.webp",
           "caption": "Moletom com capuz, vista frontal — design 53 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-54.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-54.webp",
           "caption": "Moletom com capuz, vista das costas — design 54 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-55.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-55.webp",
           "caption": "Moletom com capuz, vista das costas — design 55 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-56.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-56.webp",
           "caption": "Moletom com capuz, vista das costas — design 56 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-57.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-57.webp",
           "caption": "Moletom com capuz, vista das costas — design 57 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-58.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-58.webp",
           "caption": "Moletom com capuz, vista frontal — design 58 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-59.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-59.webp",
           "caption": "Moletom com capuz, vista das costas — design 59 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-60.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-60.webp",
           "caption": "Moletom com capuz, vista das costas — design 60 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-61.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-61.webp",
           "caption": "Moletom com capuz, vista das costas — design 61 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-62.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-62.webp",
           "caption": "Moletom com capuz, vista das costas — design 62 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-63.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-63.webp",
           "caption": "Moletom com capuz, vista das costas — design 63 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-64.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-64.webp",
           "caption": "Moletom com capuz, vista das costas — design 64 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-65.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-65.webp",
           "caption": "Moletom com capuz, vista frontal — design 65 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080
         },
         {
           "@type": "ImageObject",
-          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/brand-design/ruadoflow-2024-2025/image-66.webp",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-66.webp",
           "caption": "Moletom com capuz, vista frontal — design 66 da coleção RUADOFLOW.",
           "width": 1080,
           "height": 1080

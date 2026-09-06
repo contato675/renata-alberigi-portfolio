@@ -1,6 +1,6 @@
 # Renata Alberigi
 
-https://contato675.github.io/renata-alberigi-portfolio/pt-br/
+https://renataalberigi.com.br/pt-br/
 
 > Pintora e artista visual brasileira
 
@@ -17,33 +17,33 @@ Renata Alberigi é pintora e artista visual brasileira, nascida em Petrolina, Pe
 
 ### Pinturas feitas à mão
 
-- [Amor incondicional](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/amor-incondicional-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
-- [Ponte nova](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ponte-nova-2025/index.md): 2025; Óleo sobre tela; 120 × 80 cm.
-- [Maternidade](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
-- [Maternidade 1](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
-- [Lar](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120 cm.
-- [Áureo](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/aureo-2025/index.md): 2025; Óleo sobre tela; 40 × 60 cm.
-- [ANALOGIAEU part4](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-part4-2024/index.md): 2024; Óleo sobre tela; 100 × 80 cm.
-- [Correnteza](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 × 100 cm.
-- [ANALOGIAEU](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-2018/index.md): 2018; Acrílica sobre tela; 130 × 800 cm.
+- [Amor incondicional](https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
+- [Ponte nova](https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/index.md): 2025; Óleo sobre tela; 120 × 80 cm.
+- [Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
+- [Maternidade 1](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
+- [Lar](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120 cm.
+- [Áureo](https://renataalberigi.com.br/pt-br/works/aureo-2025/index.md): 2025; Óleo sobre tela; 40 × 60 cm.
+- [ANALOGIAEU part4](https://renataalberigi.com.br/pt-br/works/analogiaeu-part4-2024/index.md): 2024; Óleo sobre tela; 100 × 80 cm.
+- [Correnteza](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 × 100 cm.
+- [ANALOGIAEU](https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/index.md): 2018; Acrílica sobre tela; 130 × 800 cm.
 
 ### Pinturas digitais feitas à mão
 
-- [Mãe](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-01/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Renascida](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-02/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Fluir](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-03/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Balanço](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-04/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Alexandrina](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-05/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Nara](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-06/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Nadine](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-07/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Sol](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-08/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Fernanda](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-09/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Raio Rubi](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-10/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
-- [Capa do Disco de Rap](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-11/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Mãe](https://renataalberigi.com.br/pt-br/works/digital-01/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Renascida](https://renataalberigi.com.br/pt-br/works/digital-02/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Fluir](https://renataalberigi.com.br/pt-br/works/digital-03/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Balanço](https://renataalberigi.com.br/pt-br/works/digital-04/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Alexandrina](https://renataalberigi.com.br/pt-br/works/digital-05/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Nara](https://renataalberigi.com.br/pt-br/works/digital-06/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Nadine](https://renataalberigi.com.br/pt-br/works/digital-07/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Sol](https://renataalberigi.com.br/pt-br/works/digital-08/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Fernanda](https://renataalberigi.com.br/pt-br/works/digital-09/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Raio Rubi](https://renataalberigi.com.br/pt-br/works/digital-10/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
+- [Capa do Disco de Rap](https://renataalberigi.com.br/pt-br/works/digital-11/index.md): Período da coleção: 2024–2026; Pintura digital feita à mão.
 
 ### Coleção de design de marca
 
-- [RUADOFLOW — Coleção de design](https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ruadoflow-brand-design-2024-2025/index.md): Período da coleção: 2024–2025; Ilustração e design para vestuário.
+- [RUADOFLOW — Coleção de design](https://renataalberigi.com.br/pt-br/works/ruadoflow-brand-design-2024-2025/index.md): Período da coleção: 2024–2025; Ilustração e design para vestuário.
 
 ## ANALOGIAEU - Um Sonho de Renata Ribero
 

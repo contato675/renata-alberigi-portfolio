@@ -1,6 +1,6 @@
 # Renata Alberigi
 
-https://contato675.github.io/renata-alberigi-portfolio/
+https://renataalberigi.com.br/
 
 > Brazilian painter & visual artist
 
@@ -17,33 +17,33 @@ Renata Alberigi is a Brazilian painter and visual artist, born in Petrolina, Per
 
 ### Hand-painted works
 
-- [Amor incondicional](https://contato675.github.io/renata-alberigi-portfolio/works/amor-incondicional-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
-- [Ponte nova](https://contato675.github.io/renata-alberigi-portfolio/works/ponte-nova-2025/index.md): 2025; Oil on canvas; 120 × 80 cm.
-- [Maternidade](https://contato675.github.io/renata-alberigi-portfolio/works/maternidade-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
-- [Maternidade 1](https://contato675.github.io/renata-alberigi-portfolio/works/maternidade1-2025/index.md): 2025; Acrylic and pastel on canvas, varnished; 100 × 80 cm.
-- [Lar](https://contato675.github.io/renata-alberigi-portfolio/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120 cm.
-- [Áureo](https://contato675.github.io/renata-alberigi-portfolio/works/aureo-2025/index.md): 2025; Oil on canvas; 40 × 60 cm.
-- [ANALOGIAEU part4](https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-part4-2024/index.md): 2024; Oil on canvas; 100 × 80 cm.
-- [Correnteza](https://contato675.github.io/renata-alberigi-portfolio/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 × 100 cm.
-- [ANALOGIAEU](https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-2018/index.md): 2018; Acrylic on canvas; 130 × 800 cm.
+- [Amor incondicional](https://renataalberigi.com.br/works/amor-incondicional-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
+- [Ponte nova](https://renataalberigi.com.br/works/ponte-nova-2025/index.md): 2025; Oil on canvas; 120 × 80 cm.
+- [Maternidade](https://renataalberigi.com.br/works/maternidade-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
+- [Maternidade 1](https://renataalberigi.com.br/works/maternidade1-2025/index.md): 2025; Acrylic and pastel on canvas, varnished; 100 × 80 cm.
+- [Lar](https://renataalberigi.com.br/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120 cm.
+- [Áureo](https://renataalberigi.com.br/works/aureo-2025/index.md): 2025; Oil on canvas; 40 × 60 cm.
+- [ANALOGIAEU part4](https://renataalberigi.com.br/works/analogiaeu-part4-2024/index.md): 2024; Oil on canvas; 100 × 80 cm.
+- [Correnteza](https://renataalberigi.com.br/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 × 100 cm.
+- [ANALOGIAEU](https://renataalberigi.com.br/works/analogiaeu-2018/index.md): 2018; Acrylic on canvas; 130 × 800 cm.
 
 ### Hand-drawn digital paintings
 
-- [Mãe](https://contato675.github.io/renata-alberigi-portfolio/works/digital-01/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Renascida](https://contato675.github.io/renata-alberigi-portfolio/works/digital-02/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Fluir](https://contato675.github.io/renata-alberigi-portfolio/works/digital-03/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Balanço](https://contato675.github.io/renata-alberigi-portfolio/works/digital-04/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Alexandrina](https://contato675.github.io/renata-alberigi-portfolio/works/digital-05/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Nara](https://contato675.github.io/renata-alberigi-portfolio/works/digital-06/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Nadine](https://contato675.github.io/renata-alberigi-portfolio/works/digital-07/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Sol](https://contato675.github.io/renata-alberigi-portfolio/works/digital-08/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Fernanda](https://contato675.github.io/renata-alberigi-portfolio/works/digital-09/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Raio Rubi](https://contato675.github.io/renata-alberigi-portfolio/works/digital-10/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
-- [Capa do Disco de Rap](https://contato675.github.io/renata-alberigi-portfolio/works/digital-11/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Mãe](https://renataalberigi.com.br/works/digital-01/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Renascida](https://renataalberigi.com.br/works/digital-02/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Fluir](https://renataalberigi.com.br/works/digital-03/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Balanço](https://renataalberigi.com.br/works/digital-04/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Alexandrina](https://renataalberigi.com.br/works/digital-05/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Nara](https://renataalberigi.com.br/works/digital-06/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Nadine](https://renataalberigi.com.br/works/digital-07/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Sol](https://renataalberigi.com.br/works/digital-08/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Fernanda](https://renataalberigi.com.br/works/digital-09/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Raio Rubi](https://renataalberigi.com.br/works/digital-10/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
+- [Capa do Disco de Rap](https://renataalberigi.com.br/works/digital-11/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 
 ### Brand Design Collection
 
-- [RUADOFLOW — Brand Design Collection](https://contato675.github.io/renata-alberigi-portfolio/works/ruadoflow-brand-design-2024-2025/index.md): Collection period: 2024–2025; Illustration and apparel design.
+- [RUADOFLOW — Brand Design Collection](https://renataalberigi.com.br/works/ruadoflow-brand-design-2024-2025/index.md): Collection period: 2024–2025; Illustration and apparel design.
 
 ## ANALOGIAEU - Um Sonho de Renata Ribero
 
