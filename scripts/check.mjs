@@ -7,5 +7,5 @@ try {
   const errors = await verifyFiles(root,data);
   if (process.argv.includes('--publish')) errors.push(...publicationErrors(data));
   if (errors.length) throw new Error(errors.join('\n'));
-  console.log(`CHECK_OK | locales=en,pt-BR | works=${data.works.length} | publication=${data.site.publicationApproved}`);
+  console.log(`CHECK_OK | locales=${data.site.locales.join(',')} | works=${data.works.length} | publication=${data.site.publicationApproved}`);
 } catch (error) {console.error(`CHECK_FAIL: ${error.message}`);process.exitCode=1;}

@@ -1,3 +1,4 @@
+import {LOCALES,localePath} from './i18n.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -14,20 +15,20 @@ async function key(name,code,modifiers=0){await chrome.call('Input.dispatchKeyEv
 async function capture(name){const {data:bytes}=await chrome.call('Page.captureScreenshot',{format:'jpeg',quality:68,captureBeyondViewport:false});await fs.writeFile(path.join(output,name+'.jpg'),Buffer.from(bytes,'base64'));}
 try {
  chrome=await browser();await chrome.call('Emulation.setEmulatedMedia',{features:[{name:'prefers-reduced-motion',value:'reduce'}]});
- for(const locale of ['en','pt-BR'])for(const width of [320,390,480,768,1023])await check(locale+' mobile drawer '+width,async()=>{
-  await chrome.go(server.url+(locale==='en'?'':'pt-br/'),width,844);
+ for(const locale of LOCALES)for(const width of [320,390,480,768,1023])await check(locale+' mobile drawer '+width,async()=>{
+  await chrome.go(server.url+(localePath(locale)),width,844);
   const closed=await chrome.evaluate(`(()=>{const b=document.querySelector('[data-menu-open]'),r=b.getBoundingClientRect();return {open:!!document.querySelector('dialog[open]'),header:document.querySelector('header').getBoundingClientRect().height,target:r.width>=44&&r.height>=44,desktop:getComputedStyle(document.querySelector('.desktop-navigation')).display,overflow:Math.max(0,document.documentElement.scrollWidth-document.documentElement.clientWidth)};})()`);
   assert.equal(closed.open,false);assert.ok(closed.header<=80);assert.ok(closed.target);assert.equal(closed.desktop,'none');assert.ok(closed.overflow<=1);
   if(width===390)await capture('mobile-'+locale);
   await chrome.evaluate("document.querySelector('[data-menu-open]').click()");
   const opened=await chrome.evaluate(`(()=>{const d=document.querySelector('[data-navigation]');return {open:d.open,links:d.querySelectorAll('.main-nav a').length,locales:d.querySelectorAll('[data-locale-link]').length,expanded:document.querySelector('[data-menu-open]').getAttribute('aria-expanded'),overflow:d.scrollWidth-d.clientWidth,focus:document.activeElement.hasAttribute('data-menu-close'),small:[...d.querySelectorAll('a,button')].filter(el=>{const r=el.getBoundingClientRect();return r.width<44||r.height<44;}).length};})()`);
-  assert.deepEqual(opened,{open:true,links:6,locales:2,expanded:'true',overflow:0,focus:true,small:0});
+  assert.deepEqual(opened,{open:true,links:6,locales:LOCALES.length,expanded:'true',overflow:0,focus:true,small:0});
   if(width===390)await capture('drawer-'+locale);
   await key('Escape',27);assert.equal(await chrome.evaluate("document.querySelector('[data-navigation]').open"),false);
   assert.ok(await chrome.evaluate("document.activeElement.hasAttribute('data-menu-open')"));
  });
- for(const locale of ['en','pt-BR'])for(const width of [1024,1440,1920])await check(locale+' desktop navigation '+width,async()=>{
-  await chrome.go(server.url+(locale==='en'?'':'pt-br/'),width,900);
+ for(const locale of LOCALES)for(const width of [1024,1440,1920])await check(locale+' desktop navigation '+width,async()=>{
+  await chrome.go(server.url+(localePath(locale)),width,900);
   const v=await chrome.evaluate(`({display:getComputedStyle(document.querySelector('.desktop-navigation')).display,menu:getComputedStyle(document.querySelector('[data-menu-open]')).display,name:document.querySelector('header').textContent.includes('Renata Alberigi'),links:document.querySelectorAll('.desktop-navigation .main-nav a').length,overflow:Math.max(0,document.documentElement.scrollWidth-document.documentElement.clientWidth)})`);
   assert.deepEqual(v,{display:'flex',menu:'none',name:false,links:6,overflow:0});
   if(width===1440){await chrome.evaluate("document.querySelector('.portrait img').decode()");await capture('desktop-'+locale);}
@@ -63,7 +64,7 @@ try {
   await chrome.call('Emulation.setScriptExecutionDisabled',{value:true});
   try{await chrome.go(server.url+'pt-br/',390,844);await chrome.evaluate("document.querySelector('.mobile-fallback summary').click()");
    assert.ok(await chrome.evaluate("document.querySelector('.mobile-fallback').open&&document.querySelector('[data-menu-open]').hidden"));
-   assert.equal(await chrome.evaluate("document.querySelectorAll('.mobile-fallback a').length"),8);
+   assert.equal(await chrome.evaluate("document.querySelectorAll('.mobile-fallback a').length"),6+LOCALES.length);
    assert.ok(await chrome.evaluate("document.documentElement.scrollWidth<=innerWidth"));
   }finally{await chrome.call('Emulation.setScriptExecutionDisabled',{value:false});}
  });

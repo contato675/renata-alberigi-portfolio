@@ -1,3 +1,4 @@
+import {LOCALES} from '../i18n.mjs';
 import {deflateSync} from 'node:zlib';
 import {mkdir,writeFile,cp} from 'node:fs/promises';
 import path from 'node:path';
@@ -8,17 +9,18 @@ function png(width,height,tone){const header=Buffer.alloc(13);header.writeUInt32
 export async function createFixtures(root,fixtureRoot,data) {
   await cp(path.join(root,'site'),path.join(fixtureRoot,'site'),{recursive:true});
   data=structuredClone(data);
-  for(const locale of ['en','pt-BR'])data.dictionaries[locale].preview=locale==='en'?'AUDIT FIXTURE · Calibration images only · NOT the artist’s work':'FIXTURE DE AUDITORIA · Imagens de calibração · NÃO são obras da artista';
+  const labels={en:'AUDIT FIXTURE · Calibration images only · NOT the artist’s work','pt-BR':'FIXTURE DE AUDITORIA · Imagens de calibração · NÃO são obras da artista',fr:'EXEMPLE TECHNIQUE · Images de calibration · PAS des œuvres de l’artiste'};
+  for(const locale of LOCALES)data.dictionaries[locale].preview=labels[locale];
   const images=[];
   for(const [i,[width,height,tone]] of [[640,960,220],[960,640,190],[640,640,205]].entries()){
     const relative=`assets/images/obras/audit/calibration-${i}.png`,filename=path.join(fixtureRoot,'site',relative);
     await mkdir(path.dirname(filename),{recursive:true});await writeFile(filename,png(width,height,tone));
-    images.push({path:relative,width,height,alt:{en:`Calibration image ${i+1}; not an artwork or artist portrait`,'pt-BR':`Imagem de calibração ${i+1}; não é obra ou retrato da artista`},caption:{en:'Technical layout fixture — not an artwork','pt-BR':'Fixture técnica de layout — não é uma obra'}});
+    images.push({path:relative,width,height,alt:{en:`Calibration image ${i+1}; not an artwork or artist portrait`,'pt-BR':`Imagem de calibração ${i+1}; não é obra ou retrato da artista`,fr:`Image de calibration ${i+1} ; ni œuvre ni portrait de l’artiste`},caption:{en:'Technical layout fixture — not an artwork','pt-BR':'Fixture técnica de layout — não é uma obra',fr:'Exemple technique de mise en page — pas une œuvre'}});
   }
-  data.works=[0,1,2].map((i)=>({id:`audit-${i}`,status:'published',title:{en:`Layout fixture ${i+1} — not an artwork`,'pt-BR':`Fixture de layout ${i+1} — não é uma obra`},year:'Test only',technique:{en:'Technical test','pt-BR':'Teste técnico'},dimensions:'640 × 960 / 960 × 640 px',description:{en:'These neutral media test portrait, landscape and square layouts. They do not represent Renata’s artistic practice.','pt-BR':'Estas mídias neutras testam composições verticais, horizontais e quadradas. Não representam a produção artística de Renata.'},cover:0,images:i===1?[images[1]]:[images[i],images[(i+1)%3],images[(i+2)%3]]}));
+  data.works=[0,1,2].map((i)=>({id:`audit-${i}`,status:'published',title:{en:`Layout fixture ${i+1} — not an artwork`,'pt-BR':`Fixture de layout ${i+1} — não é uma obra`,fr:`Exemple technique de mise en page ${i+1} — pas une œuvre`},year:'Test only',technique:{en:'Technical test','pt-BR':'Teste técnico',fr:'Test technique'},dimensions:'640 × 960 / 960 × 640 px',description:{en:'These neutral media test portrait, landscape and square layouts. They do not represent Renata’s artistic practice.','pt-BR':'Estas mídias neutras testam composições verticais, horizontais e quadradas. Não representam a produção artística de Renata.',fr:'Ces images neutres servent à tester les mises en page verticales, horizontales et carrées. Elles ne représentent pas la pratique artistique de Renata.'},cover:0,images:i===1?[images[1]]:[images[i],images[(i+1)%3],images[(i+2)%3]]}));
   data.artist.additionalVideos=[];
-  data.artist.pdf=null; data.artist.pdfPt=null;
+  data.artist.pdf=null; data.artist.pdfPt=null; data.artist.pdfFr=null;
   data.artist.portrait=images[0];
-  data.artist.featuredVideo={provider:'youtube',id:'audit-only',poster:images[1],title:{en:'Technical video fixture','pt-BR':'Fixture técnica de vídeo'},transcript:{en:'Technical transcript fixture. No real film has been supplied.','pt-BR':'Fixture técnica de transcrição. Nenhum filme real foi fornecido.'}};
+  data.artist.featuredVideo={provider:'youtube',id:'audit-only',poster:images[1],title:{en:'Technical video fixture','pt-BR':'Fixture técnica de vídeo',fr:'Exemple technique de vidéo'},transcript:{en:'Technical transcript fixture. No real film has been supplied.','pt-BR':'Fixture técnica de transcrição. Nenhum filme real foi fornecido.',fr:'Exemple technique de transcription. Aucun film réel n’a été fourni.'}};
   return data;
 }

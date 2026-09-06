@@ -14,7 +14,6 @@
   "portraitPending": "Retrato da artista aguardando seleção",
   "filmTitle": "Vídeos e prática artística",
   "filmPending": "Filme e capa aguardando seleção",
-  "filmNote": "A reprodução começa somente quando você escolhe assistir.",
   "watch": "Assistir ao filme",
   "externalVideo": "Assistir no YouTube",
   "studio": "Do ateliê",
@@ -36,7 +35,7 @@
   "technique": "Técnica",
   "dimensions": "Dimensões",
   "description": "Sobre esta obra",
-  "viewLanguage": "Ver este projeto em inglês",
+  "viewLanguage": "Ver este projeto em outro idioma",
   "machine": "Versão em texto",
   "rights": "© Renata Alberigi. Obras e fotografias preservam seus respectivos direitos. Nenhuma licença de reprodução é concedida.",
   "grid": "Mostrar grade de layout",
@@ -60,5 +59,12 @@
   "openMenu": "Abrir menu",
   "closeMenu": "Fechar menu",
   "brandNav": "Design de marca",
-  "brandTitle": "Coleção de design de marca"
+  "brandTitle": "Coleção de design de marca",
+  "localeName": "Português",
+  "artist": "Artista",
+  "portfolioBiography": "Portfólio e biografia em português",
+  "portfolioSummary": "Perfil da artista, biografia, contato e obras selecionadas.",
+  "structuredDataTitle": "Dados estruturados do portfólio",
+  "instagram": "Instagram",
+  "instagramProfile": "Instagram de Renata Alberigi"
 }

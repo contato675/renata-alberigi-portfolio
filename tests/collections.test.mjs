@@ -1,3 +1,4 @@
+import {LOCALES,localePath} from '../scripts/i18n.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -9,13 +10,13 @@ import {renderPage} from '../scripts/render.mjs';
 import {pageMarkdown,llmsIndex,structuredPortfolio} from '../scripts/discovery.mjs';
 const root=fileURLToPath(new URL('../',import.meta.url));
 const original=await loadContent(root),template=await readFile(path.join(root,'site/index.template.html'),'utf8');
-const t=(en,pt=en)=>({en,'pt-BR':pt});
+const t=(en,pt=en)=>({en,'pt-BR':pt,fr:en});
 const image={path:'assets/images/obras/test/one.webp',alt:t('A painting'),width:1200,height:1600,variants:[{path:'assets/images/obras/test/small.webp',width:600,height:800}]};
 const work=(collection)=>({id:collection,title:t(collection),year:'2026',technique:t('Hand-painted artwork'),dimensions:null,status:'published',cover:0,collection,images:[image]});
 function data(){const d=structuredClone(original);d.works=[work('paintings'),{...work('digital'),year:'2024–2026',yearIsCollectionPeriod:true,titleStatus:'catalogue-label'}];return d;}
 test('physical paintings are the first collection; digital is distinct',()=>{const html=renderPage(data(),template,'en');assert.ok(html.indexOf('data-collection="paintings"')<html.indexOf('data-collection="digital"'));const main=html.split('<section id="film"')[0];assert.ok(main.includes('data-open-project="paintings"'));assert.ok(!main.includes('data-open-project="digital"'));});
 test('every work owns its own viewer and static page link',()=>{const html=renderPage(data(),template,'en');for(const id of ['paintings','digital']){assert.ok(html.includes(`data-project="${id}"`));assert.ok(html.includes(`/works/${id}/`));}});
-test('unknown physical dimensions are omitted, never fabricated',()=>{const d=data();assert.deepEqual(validateWorks(d.works),[]);for(const locale of ['en','pt-BR']){const html=renderPage(d,template,locale,{work:d.works[0]});assert.doesNotMatch(html,/<dt>Dimensions<|<dt>Dimensões<|>null<|>undefined</);assert.doesNotMatch(pageMarkdown(d,locale,d.works[0]),/null|undefined/);}});
+test('unknown physical dimensions are omitted, never fabricated',()=>{const d=data();assert.deepEqual(validateWorks(d.works),[]);for(const locale of LOCALES){const html=renderPage(d,template,locale,{work:d.works[0]});assert.doesNotMatch(html,/<dt>Dimensions<|<dt>Dimensões<|>null<|>undefined</);assert.doesNotMatch(pageMarkdown(d,locale,d.works[0]),/null|undefined/);}});
 test('collection period is not incorrectly emitted as creation date',()=>{const d=data(),graph=structuredPortfolio(d,'en')['@graph'];assert.equal(graph[1].dateCreated,'2026');assert.equal(graph[2].dateCreated,undefined);assert.equal(graph[2].temporalCoverage,'2024/2026');});
 test('catalogue identifiers are not misrepresented as original titles',()=>{const d=data();assert.ok(renderPage(d,template,'en',{work:d.works[1]}).includes('original title has not been supplied'));assert.ok(pageMarkdown(d,'pt-BR',d.works[1]).includes('título original ainda não foi informado'));});
 test('responsive image variants preserve the full aspect ratio',()=>{assert.deepEqual(validateImage(image),[]);assert.ok(validateImage({...image,variants:[{...image.variants[0],height:10}]}).length>0);assert.ok(validateImage({...image,variants:[{...image.variants[0],path:'../original.jpg'}]}).length>0);});

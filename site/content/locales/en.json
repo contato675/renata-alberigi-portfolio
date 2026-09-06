@@ -14,7 +14,6 @@
   "portraitPending": "Artist portrait awaiting selection",
   "filmTitle": "Films & artistic practice",
   "filmPending": "Film and cover awaiting selection",
-  "filmNote": "Playback starts only when you choose to watch.",
   "watch": "Watch film",
   "externalVideo": "Watch on YouTube",
   "studio": "From the studio",
@@ -36,7 +35,7 @@
   "technique": "Medium",
   "dimensions": "Dimensions",
   "description": "About this work",
-  "viewLanguage": "View this project in Portuguese",
+  "viewLanguage": "View this project in another language",
   "machine": "Text version",
   "rights": "© Renata Alberigi. Artwork and photographs retain their respective rights. No reproduction licence is granted.",
   "grid": "Show layout grid",
@@ -60,5 +59,12 @@
   "openMenu": "Open menu",
   "closeMenu": "Close menu",
   "brandNav": "Brand design",
-  "brandTitle": "Brand Design Collection"
+  "brandTitle": "Brand Design Collection",
+  "localeName": "English",
+  "artist": "Artist",
+  "portfolioBiography": "English portfolio and biography",
+  "portfolioSummary": "Artist profile, biography, contact and selected works.",
+  "structuredDataTitle": "Structured portfolio data",
+  "instagram": "Instagram",
+  "instagramProfile": "Renata Alberigi on Instagram"
 }

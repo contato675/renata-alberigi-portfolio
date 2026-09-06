@@ -1,3 +1,4 @@
+import {LOCALES,localePath} from './i18n.mjs';
 import {inspectMediaMetadata} from './audit/media-metadata.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -13,8 +14,8 @@ async function check(name,run){try{await run();results.push({name,status:'PASS'}
 async function capture(name){const r=await chrome.call('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});await fs.writeFile(path.join(root,'artifacts/apple-like/screenshots/'+name+'.png'),Buffer.from(r.data,'base64'));}
 try{
  chrome=await browser();await chrome.call('Emulation.setEmulatedMedia',{features:[{name:'prefers-reduced-motion',value:'reduce'}]});
- for(const locale of ['en','pt-BR']){
-  await chrome.go(server.url+(locale==='en'?'':'pt-br/'),locale==='en'?1440:390,900);
+ for(const locale of LOCALES){
+  await chrome.go(server.url+(localePath(locale)),locale==='en'?1440:390,900);
   await check(locale+' collection counts and sequence',async()=>{const v=await chrome.evaluate(`({hand:document.querySelectorAll('#works [data-open-project]').length,digital:document.querySelectorAll('#digital [data-open-project]').length,first:document.querySelector('[data-collection]').dataset.collection})`);assert.deepEqual(v,{hand:9,digital:11,first:'paintings'});});
   for(const w of data.works)await check(locale+' viewer '+w.id,async()=>{
    await chrome.evaluate(`document.querySelector('[data-open-project="${w.id}"]').click()`);await pause(80);
@@ -34,8 +35,8 @@ try{
    assert.ok(frames[i].src.startsWith('https://www.youtube-nocookie.com/embed/'+ids[i]));assert.ok(!frames[i].src.includes('autoplay=1'));assert.ok(frames[i].title.length>5);assert.equal(frames[i].referrer,'strict-origin-when-cross-origin');
   }
  });
- await check('all 42 permanent project pages return localized complete HTML',async()=>{
-  for(const locale of ['en','pt-BR'])for(const w of data.works){const url=server.url+(locale==='en'?'':'pt-br/')+'works/'+w.id+'/';const r=await fetch(url),html=await r.text();assert.equal(r.status,200);assert.ok(html.includes('lang="'+locale+'"'));assert.ok(html.includes(w.images.at(-1).path));assert.ok(html.includes('noindex'));}
+ await check(`all ${LOCALES.length*data.works.length} permanent project pages return localized complete HTML`,async()=>{
+  for(const locale of LOCALES)for(const w of data.works){const url=server.url+(localePath(locale))+'works/'+w.id+'/';const r=await fetch(url),html=await r.text();assert.equal(r.status,200);assert.ok(html.includes('lang="'+locale+'"'));assert.ok(html.includes(w.images.at(-1).path));assert.ok(html.includes('noindex'));}
  });
  await check('preview media has no EXIF GPS/XMP metadata and no original file extensions',async()=>{
   const media=await inspectMediaMetadata(root,data);assert.equal(media.personalMetadata,0);assert.ok(media.images>=192);

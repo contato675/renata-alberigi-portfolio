@@ -18,6 +18,7 @@
     "i18n:check": "node scripts/check.mjs",
     "design:navigation": "node scripts/audit-navigation.mjs",
     "design:brand": "node scripts/audit-brand.mjs",
-    "design:media": "node scripts/audit-real-media.mjs"
+    "design:media": "node scripts/audit-real-media.mjs",
+    "design:locales": "node scripts/audit-locale-navigation.mjs"
   }
 }

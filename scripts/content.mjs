@@ -61,6 +61,7 @@ export function validateContent({artist, site, works, dictionaries}) {
   if (artist.name !== 'Renata Alberigi') errors.push('Unexpected artist identity.');
   for (const key of ['role','intro','bio','location']) errors.push(...validateLocalized(artist[key], `artist.${key}`));
   if (!/^[^\s@<>"']+@[^\s@<>"']+\.[^\s@<>"']+$/.test(artist.email ?? '')) errors.push('Invalid public email.');
+  if (typeof artist.instagram !== 'string' || !/^https:\/\/(?:www\.)?instagram\.com\/[A-Za-z0-9._]+\/?$/.test(artist.instagram)) errors.push('Invalid public Instagram profile.');
   if (!['planning','implementation','ready'].includes(site.phase)) errors.push('Invalid phase.');
   for (const key of ['publicationApproved','implementationComplete','robotsRootVerified']) if (typeof site[key] !== 'boolean') errors.push(`Invalid flag: ${key}.`);
   if (site.defaultLocale !== 'en' || JSON.stringify(site.locales) !== JSON.stringify(LOCALES)) errors.push('English-first locale contract violated.');
@@ -74,7 +75,7 @@ export function validateContent({artist, site, works, dictionaries}) {
   else artist.studioImages.forEach((im) => errors.push(...validateImage(im, 'Studio')));
   if (artist.pdf !== null && !(typeof artist.pdf === 'string' && /^downloads\/[a-z0-9-]+\.pdf$/.test(artist.pdf))) errors.push('Invalid PDF path.');
   if(artist.additionalVideos!==undefined&&!Array.isArray(artist.additionalVideos))errors.push('Invalid additional videos.');
-  if(artist.pdfPt && !/^downloads\/[a-z0-9-]+\.pdf$/.test(artist.pdfPt))errors.push('Invalid Portuguese PDF path.');
+  for (const [label, value] of [['Portuguese',artist.pdfPt],['French',artist.pdfFr]]) if(value && !/^downloads\/[a-z0-9-]+\.pdf$/.test(value))errors.push(`Invalid ${label} PDF path.`);
   for (const video of allVideos(artist)) {
     if (!['youtube','vimeo'].includes(video.provider) || !/^[a-zA-Z0-9_-]+$/.test(video.id ?? '') || (video.provider === 'vimeo' && !/^\d+$/.test(video.id))) errors.push('Invalid video provider/id.');
     errors.push(...validateLocalized(video.title, 'Video title'), ...validateLocalized(video.transcript??undefined, 'Video transcript',true), ...validateLocalized(video.description,'Video description',true), ...validateImage(video.poster, 'Video poster'));
@@ -87,11 +88,14 @@ export function publicationErrors({artist,site,works}) {
   if (site.phase !== 'ready' || !site.implementationComplete || !site.publicationApproved) errors.push('Publication not approved/completed.');
   if (!Array.isArray(works) || !works.some((w) => w?.status === 'published')) errors.push('No approved artworks.');
   if (!artist.portrait || !artist.featuredVideo || !artist.pdf) errors.push('Final portrait, film or PDF pending.');
-  if (!LOCALES.every((locale) => artist.editorialReview?.[locale])) errors.push('English/Portuguese editorial review pending.');
+  if (!LOCALES.every((locale) => artist.editorialReview?.[locale])) errors.push('Editorial review pending for supported languages.');
   if (!site.robotsRootVerified) errors.push('robots.txt at the origin root has not been verified.');
   return errors;
 }
 
 export const allVideos = artist => [artist.featuredVideo,...(Array.isArray(artist.additionalVideos)?artist.additionalVideos:[])].filter(Boolean);
 export const imagePaths = images => images.flatMap(im=>[im.path,...(im.variants||[]).map(v=>v.path)]);
-export const pdfPath = (artist,locale) => locale==='pt-BR'?(artist.pdfPt||artist.pdf):artist.pdf;
+export const pdfPath = (artist,locale) => {
+  if (!LOCALES.includes(locale)) throw new Error('Unsupported locale');
+  return ({'pt-BR':artist.pdfPt,fr:artist.pdfFr}[locale]) || artist.pdf;
+};

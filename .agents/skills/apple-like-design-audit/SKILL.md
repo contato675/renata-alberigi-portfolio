@@ -7,7 +7,7 @@ description: Original mandatory audit contract for every gallery, typography, mo
 This is an original project contract, not copied proprietary material. Sources: SSSOM `docs/design-system/STUDIO_KIT_PLATFORMS.md` and `docs/plans/SLICE-04-DESIGN-AUDIT-MATRIX.md` at `f4e913efc377e13419c19bfb4199940b6469f431`; Apple HIG accessibility; source links in docs/06.
 
 ## Inspect before styling
-Read the current render, tokens, gallery behavior and English/Portuguese content. List the states affected: absent media, actual gallery, single/multiple-image viewer, permanent detail, video before/after activation, locale switch and narrow screen. Do not reuse a rejected design authority or copy a dashboard because it is from SSSOM.
+Read the current render, tokens, gallery behavior and English/Portuguese/French content. List the states affected: absent media, actual gallery, single/multiple-image viewer, permanent detail, video before/after activation, locale switch and narrow screen. Do not reuse a rejected design authority or copy a dashboard because it is from SSSOM.
 
 ## A — Content priority
 Art and biography are immediate, readable and true. White/graphite chrome, few controls, no arbitrary accents, gradients, glass, decorative animation or social counters. Preserve full photographs, original proportions/colours and approved titles. No empty decoration posing as artwork.
@@ -19,7 +19,7 @@ One12/8/4 grid with8px rhythm, shared margins/gutters, flush-left hierarchy by s
 44CSSpx project target, visible focus, names, meaningful states, keyboard and Escape. Native scrolling leaves vertical gestures alone. Static anchors remain navigable without JS. Viewer restores focus/position and cooperates with browser history. Single image has no useless pagination. No third-party player before consent click. Motion150ms controls/220ms overlay; reduced-motion disables nonessential effects.
 
 ## D — Evidence, not adjectives
-Run `npm run verify` and `npm run design:apple`. Inspect actual screenshots of EN/PT desktop/mobile/tablet, the gallery, viewer and detail. Record each failed measurement and repair it; rerun after edits. All-new code with synthetic calibration media may pass structural gates but cannot pass final artistic/colour review.
+Run `npm run verify` and `npm run design:apple`. Inspect actual screenshots of EN/PT/FR desktop/mobile/tablet, the gallery, viewer and detail. Record each failed measurement and repair it; rerun after edits. All-new code with synthetic calibration media may pass structural gates but cannot pass final artistic/colour review.
 Do not label a design approved merely because numbers pass. State untested real device gestures, screen-reader checks, zoom, field performance and editorial approval. Do not call the audit an Apple certification or WCAG certification.
 
 ## E — Security and scope

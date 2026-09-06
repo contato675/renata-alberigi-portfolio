@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-06T20:58:48.438Z",
+  "scope": "French locale, locale-scroll fix, video subtitle removal and Instagram footer",
+  "baseSource": "d8759ff5e1f1d17b8fea77f098f21a331f3af0ba",
+  "locales": [
+    "en",
+    "pt-BR",
+    "fr"
+  ],
+  "uiKeys": 68,
+  "localizedEditorialFields": 330,
+  "projects": 21,
+  "artworkImages": 189,
+  "brandCaptions": 66,
+  "unitTests": {
+    "passed": 124,
+    "failed": 0
+  },
+  "buildFiles": 434,
+  "browserGates": {
+    "apple": {
+      "checks": 42,
+      "interactions": 9,
+      "failures": 0,
+      "date": "2026-09-06T20:56:46.825Z"
+    },
+    "navigation": {
+      "checks": 32,
+      "interactions": 0,
+      "failures": 0,
+      "date": "2026-09-06T20:53:27.710Z"
+    },
+    "brand": {
+      "checks": 15,
+      "interactions": 0,
+      "failures": 0,
+      "date": "2026-09-06T20:53:40.805Z"
+    },
+    "media": {
+      "checks": 69,
+      "interactions": 0,
+      "failures": 0,
+      "date": "2026-09-06T20:58:47.916Z"
+    },
+    "locales": {
+      "checks": 38,
+      "interactions": 0,
+      "failures": 0,
+      "date": "2026-09-06T20:55:19.351Z"
+    }
+  },
+  "screenshotsInspected": [
+    "French desktop/mobile",
+    "French navigation drawer",
+    "French gallery viewer",
+    "French films and Instagram footer at 320px"
+  ],
+  "releaseGate": {
+    "blockedAsExpected": true,
+    "publicNoindexPreserved": true
+  },
+  "sourceHashes": {
+    "package.json": "805d0d48c7fd5beefc04e3ee8903fa7f84984f8b517bbfe97fd975922030a233",
+    "schemas/work.schema.json": "4287414d72d9dcc3a1576457ca5ee599ec49da6fcc367f8658b121de7bcf909a",
+    "scripts/audit-brand.mjs": "a8a3cb79e195b3ada7ec98e6297c9d1719a3c6a64d10efa9836de96661c39a4b",
+    "scripts/audit-locale-navigation.mjs": "db78abdeb3d04fe9c49ffa32d3ede893fa4d428596819aa6d2440119c9b44be6",
+    "scripts/audit-navigation.mjs": "936b493e492eae90d64861f0e121f813903db6114439d9a58ffccb165508bcc1",
+    "scripts/audit-real-media.mjs": "0d249fdfee284f7663187741912e8c37734cd648fa948d5192c134da4ef5c7ac",
+    "scripts/audit/fixtures.mjs": "3b4c65c6edf3c82a7b4a5f18940a143e51e25163103ce84668dc7d4f3b8c99d7",
+    "scripts/build.mjs": "976576c9e41870ea74d160d8fb43597ad67035c200b4d87c4315787713dfc9b1",
+    "scripts/check.mjs": "cd1ee20a8e72c39dcb0307468bf9c7b8a567c3c96994c4ab175e927ef5379d3d",
+    "scripts/content.mjs": "e3287d2ac6600cf85965f6a7c103d208fe1fe6ebfea2b1002e6877de910b64ce",
+    "scripts/design-audit.mjs": "dfeb9e23f1b8ae410d61f9be4a7256bd8f3c0340265e08a512e49e48f139c7b5",
+    "scripts/discovery.mjs": "fe75d3495ea00b09f3c74c78a234375a2dd935ca1c603cd0d958b7fc4888aede",
+    "scripts/i18n.mjs": "d8806fb220c2ac1eddea47821235edb9249f016ed625cdd64cfec1410fba56d1",
+    "scripts/load.mjs": "c4e8e3b7e5308f628cd95d8550d99aa604a8931fafeed58c15eab23ebd5fafff",
+    "scripts/render.mjs": "dbfaac3bd47336079cb56ea425a3a0e4a6c3649e1adf220d6e1e15670b8c5c77",
+    "scripts/verify-live-preview.mjs": "aacca68c8ca75a2a95110bb06fbcb75cb021fecf04f0cbd8dbb3feb325fe98bb",
+    "site/assets/css/navigation.css": "1bd9c340c9474362e72e95f15d4cfedb99d57a8c8e110bd3a5ec41c9d716f95c",
+    "site/assets/js/gallery.js": "74247e4387a7754e402a5b455a2320c68e55579b331bd867185337617b449e2d",
+    "site/assets/js/locale-navigation.js": "522876b70b7177156ad7003bc4c4983b184ea534aa69272912f45d7703cb8183",
+    "site/content/artist.json": "f36aa585c5a9384770d50e487efae35212a798f2d486438f4b99183a4f48ec69",
+    "site/content/locales/en.json": "0c516019dc8a99fe19ea816a3c4a3c466d2ee3a7218bade5a4a6e9db1c11785b",
+    "site/content/locales/fr.json": "b81dd234914b9247799e20d066dba7cd8b7850f12c7db2aa90b3023f35d00c9c",
+    "site/content/locales/pt-BR.json": "da020251811ac036da286d7cf7534c74f92360e2f61913c2489417080cf0e475",
+    "site/content/site.json": "2502f687d7ab8dd0139649656776f64046425c90ec2120b3bf8c5ac668ba8f88",
+    "site/content/works.json": "27a596559f3df27d6b1f0439ef3676dbce760c01354e6efd520eeee069f66fde",
+    "site/index.template.html": "2f5dc8d5d851609aa0463bed936846296a67598689253a1709a1ce2aaca1cd60",
+    "tests/brand-collection.test.mjs": "541f033f3f759ce7afb6ad147b6812904a34bfd31c46f1cb8b61f0abe4c1eb7a",
+    "tests/collections.test.mjs": "bb1efbe3b009110209e936ef98749f33279b0058a5de861b4442f7087caacb57",
+    "tests/content.test.mjs": "fc88e18e720be6e65e43aa7a77f5d5cd34b6328e557dd72ec9deeb2a41ca2cfd",
+    "tests/custom-domain.test.mjs": "52e1a864733c71e54296bdbf7a4eb231ddd0d888b9c18db7724b75aecef26f5b",
+    "tests/discovery.test.mjs": "3806a740fb906b3fbdcf1b4d19f940afd39381a4172f13aa59fce831a84da49d",
+    "tests/editorial-revision.test.mjs": "4f35995bbac94c25710903d68be63485c054359c7e03b10cfccbfe3befb8df7c",
+    "tests/footer-video.test.mjs": "69676c7138afb73363fbf757c642985a24575e68f3ef5aade999319949d8d799",
+    "tests/french-i18n.test.mjs": "0b981a6b6f1e1f02b541f40ad39cdcc0459ad4339c64b226760359a4217ef9c0",
+    "tests/locale-navigation.test.mjs": "cf47d47fe793d8c3f185ce69d28400194832f36de14eb2864dc8c729b6e7d2de"
+  },
+  "limits": [
+    "Human editorial review of English and French remains pending",
+    "Browser emulation is not physical-device or screen-reader-user testing",
+    "Live deployment must still be verified against the published receipt"
+  ]
+}

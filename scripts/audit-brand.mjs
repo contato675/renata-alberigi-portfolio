@@ -1,3 +1,4 @@
+import {LOCALES,localePath} from './i18n.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -12,8 +13,8 @@ async function check(name,run){try{await run();results.push({name,status:'PASS'}
 async function capture(name){const {data:bytes}=await chrome.call('Page.captureScreenshot',{format:'jpeg',quality:65,captureBeyondViewport:false});await fs.writeFile(path.join(output,name+'.jpg'),Buffer.from(bytes,'base64'));}
 try{
  chrome=await browser();await chrome.call('Emulation.setEmulatedMedia',{features:[{name:'prefers-reduced-motion',value:'reduce'}]});
- for(const locale of ['en','pt-BR'])for(const width of [390,768,1440])await check(locale+' one-row brand collection '+width,async()=>{
-  await chrome.go(server.url+(locale==='en'?'':'pt-br/'),width,900);await chrome.evaluate("document.getElementById('brand-design').scrollIntoView({behavior:'instant'})");await pause(180);
+ for(const locale of LOCALES)for(const width of [390,768,1440])await check(locale+' one-row brand collection '+width,async()=>{
+  await chrome.go(server.url+(localePath(locale)),width,900);await chrome.evaluate("document.getElementById('brand-design').scrollIntoView({behavior:'instant'})");await pause(180);
   const v=await chrome.evaluate(`(()=>{const rail=document.querySelector('.brand-rail'),items=[...rail.children],tops=items.map(e=>e.getBoundingClientRect().top);return {count:items.length,rows:Math.max(...tops)-Math.min(...tops),overflow:Math.max(0,document.documentElement.scrollWidth-document.documentElement.clientWidth),hasHorizontal:rail.scrollWidth>rail.clientWidth,afterDigital:document.querySelector('#digital').nextElementSibling.id,fit:getComputedStyle(rail.querySelector('img')).objectFit,link:document.querySelector('.brand-actions a').pathname};})()`);
   assert.equal(v.count,66);assert.equal(v.rows,0);assert.equal(v.overflow,0);assert.ok(v.hasHorizontal);assert.equal(v.afterDigital,'brand-design');assert.equal(v.fit,'contain');assert.ok(v.link.endsWith('/works/'+work.id+'/'));
   await chrome.evaluate("document.querySelector('[data-brand-next]').click()");await pause(120);assert.ok(await chrome.evaluate("document.querySelector('.brand-rail').scrollLeft>0"));
@@ -24,8 +25,8 @@ try{
   await chrome.evaluate("document.querySelectorAll('.brand-rail a')[7].click()");await pause(120);const v=await chrome.evaluate("({count:document.querySelector('dialog[data-project][open]').querySelectorAll('.image-rail img').length,index:document.querySelector('dialog[data-project][open] output').textContent})");assert.equal(v.count,66);assert.ok(v.index.startsWith('8 '));
   await chrome.evaluate("document.querySelector('dialog[data-project][open] [data-close]').click()");await pause(120);
  });
- for(const locale of ['en','pt-BR'])await check(locale+' complete project page with every design',async()=>{
-  await chrome.go(server.url+(locale==='en'?'':'pt-br/')+'works/'+work.id+'/',locale==='en'?1440:390,900);
+ for(const locale of LOCALES)await check(locale+' complete project page with every design',async()=>{
+  await chrome.go(server.url+(localePath(locale))+'works/'+work.id+'/',locale==='en'?1440:390,900);
   const v=await chrome.evaluate("({images:document.querySelectorAll('.brand-full-gallery img').length,h1:document.querySelectorAll('h1').length,overflow:Math.max(0,document.documentElement.scrollWidth-document.documentElement.clientWidth),last:!!document.getElementById('brand-image-66')})");assert.deepEqual(v,{images:66,h1:1,overflow:0,last:true});
   await capture('brand-page-'+locale);
   await chrome.evaluate("document.querySelector('.brand-full-gallery [data-start=\"65\"]').click()");await pause(120);assert.ok((await chrome.evaluate("document.querySelector('dialog[data-project][open] output').textContent")).startsWith('66 '));assert.ok(await chrome.evaluate("document.querySelector('dialog[data-project][open] [data-next]').disabled"));

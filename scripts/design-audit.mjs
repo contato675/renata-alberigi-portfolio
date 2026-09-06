@@ -1,3 +1,4 @@
+import {LOCALES,localePath} from './i18n.mjs';
 import {mkdir,writeFile,mkdtemp,rm} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
@@ -49,8 +50,8 @@ try {
   chrome=await browser();
   const browserVersion=await chrome.call('Browser.getVersion');
   for(const [kind,base] of [['actual',real.url],['fixture',fixture.url]]) {
-    for(const locale of ['en','pt-BR']) for(const width of widths) {
-      const url=base+(locale==='en'?'':'pt-br/');
+    for(const locale of LOCALES) for(const width of widths) {
+      const url=base+(localePath(locale));
       await chrome.go(url,width,width<768?844:1000);
       await prepareVisualMedia();
       const metrics=await chrome.evaluate(`(${inspectLayout.toString()})()`);
@@ -144,7 +145,7 @@ try {
     assert.ok(drift<=1);await screenshot('grid-overlay-1920');
   });
   const failures=results.filter((r)=>r.status==='FAIL').length+checks.filter((r)=>r.status==='FAIL').length;
-  const report={date:new Date().toISOString(),browser:browserVersion.product,platform:process.platform,policy:'Apple-like + Müller-Brockmann; no certification by Apple',status:failures?'FAIL':'PASS_WITH_EDITORIAL_PENDING',scope:{actual:`Portfolio preview with ${data.works.length} supplied artwork records and their photographs`,fixture:'Isolated neutral calibration media, not real artwork; never part of dist/',widths,locales:['en','pt-BR']},results,checks,environmentResources,environmentNote:environmentResources.length?'Observed OS antivirus injection, not app code. Security software was not disabled; external hosts are reported without query strings.':null,pending:['Final artist approval of titles, years, medium per work and photographic colour','Human review of the English biography','VoiceOver/TalkBack and real iOS/Android touch gestures','Real browser 200% text zoom and media fidelity/colour','Field performance measurements and live origin-root robots verification'],failures};
+  const report={date:new Date().toISOString(),browser:browserVersion.product,platform:process.platform,policy:'Apple-like + Müller-Brockmann; no certification by Apple',status:failures?'FAIL':'PASS_WITH_EDITORIAL_PENDING',scope:{actual:`Portfolio preview with ${data.works.length} supplied artwork records and their photographs`,fixture:'Isolated neutral calibration media, not real artwork; never part of dist/',widths,locales:LOCALES},results,checks,environmentResources,environmentNote:environmentResources.length?'Observed OS antivirus injection, not app code. Security software was not disabled; external hosts are reported without query strings.':null,pending:['Final artist approval of titles, years, medium per work and photographic colour','Human review of the English and French translations','VoiceOver/TalkBack and real iOS/Android touch gestures','Real browser 200% text zoom and media fidelity/colour','Field performance measurements and live origin-root robots verification'],failures};
   await writeFile(path.join(output,'report.json'),JSON.stringify(report,null,2)+'\n');
   console.log(`APPLE_AUDIT | ${report.status} | layouts=${results.length} | interactions=${checks.length} | failures=${failures}`);
   for(const result of results.filter((r)=>r.status==='FAIL'))console.log(JSON.stringify(result));

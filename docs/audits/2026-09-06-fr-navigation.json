@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-06T20:53:27.710Z",
+  "browser": "Chrome/152.0.7977.77",
+  "results": [
+    {
+      "name": "en mobile drawer 320",
+      "status": "PASS"
+    },
+    {
+      "name": "en mobile drawer 390",
+      "status": "PASS"
+    },
+    {
+      "name": "en mobile drawer 480",
+      "status": "PASS"
+    },
+    {
+      "name": "en mobile drawer 768",
+      "status": "PASS"
+    },
+    {
+      "name": "en mobile drawer 1023",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR mobile drawer 320",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR mobile drawer 390",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR mobile drawer 480",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR mobile drawer 768",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR mobile drawer 1023",
+      "status": "PASS"
+    },
+    {
+      "name": "fr mobile drawer 320",
+      "status": "PASS"
+    },
+    {
+      "name": "fr mobile drawer 390",
+      "status": "PASS"
+    },
+    {
+      "name": "fr mobile drawer 480",
+      "status": "PASS"
+    },
+    {
+      "name": "fr mobile drawer 768",
+      "status": "PASS"
+    },
+    {
+      "name": "fr mobile drawer 1023",
+      "status": "PASS"
+    },
+    {
+      "name": "en desktop navigation 1024",
+      "status": "PASS"
+    },
+    {
+      "name": "en desktop navigation 1440",
+      "status": "PASS"
+    },
+    {
+      "name": "en desktop navigation 1920",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR desktop navigation 1024",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR desktop navigation 1440",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR desktop navigation 1920",
+      "status": "PASS"
+    },
+    {
+      "name": "fr desktop navigation 1024",
+      "status": "PASS"
+    },
+    {
+      "name": "fr desktop navigation 1440",
+      "status": "PASS"
+    },
+    {
+      "name": "fr desktop navigation 1920",
+      "status": "PASS"
+    },
+    {
+      "name": "Drawer traps Tab and Shift+Tab; Escape restores focus",
+      "status": "PASS"
+    },
+    {
+      "name": "Accessible dialog name and reduced motion",
+      "status": "PASS"
+    },
+    {
+      "name": "Section selection closes the drawer, scrolls and focuses the section",
+      "status": "PASS"
+    },
+    {
+      "name": "Drawer language links preserve the equivalent project route",
+      "status": "PASS"
+    },
+    {
+      "name": "Resizing to desktop closes drawer and restores visible focus",
+      "status": "PASS"
+    },
+    {
+      "name": "Backdrop dismisses tablet drawer without changing the page",
+      "status": "PASS"
+    },
+    {
+      "name": "No JavaScript: native menu disclosure and language links remain usable",
+      "status": "PASS"
+    },
+    {
+      "name": "New portrait loads intact; all old visible chrome has been removed",
+      "status": "PASS"
+    }
+  ],
+  "failures": 0,
+  "limits": [
+    "Browser keyboard/resize and no-JS checks are not physical iOS/Android or screen-reader-user tests",
+    "New specifications come from the user; dimensions without units follow the supplied centimetre convention",
+    "Public preview remains noindex even without a visible review label"
+  ]
+}

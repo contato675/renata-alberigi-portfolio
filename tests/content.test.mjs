@@ -1,11 +1,11 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {escapeHtml,safeAssetPath,containedPath,validateWorks,validateContent,publicationErrors} from '../scripts/content.mjs';
-import {localized,validateTranslations} from '../scripts/i18n.mjs';
+import {localized,validateTranslations,LOCALES,localePath} from '../scripts/i18n.mjs';
 import {loadContent} from '../scripts/load.mjs';
 import {fileURLToPath} from 'node:url';
 const data=await loadContent(fileURLToPath(new URL('../',import.meta.url)));
-const text=(value)=>({en:value,'pt-BR':value});
+const text=(value)=>Object.fromEntries(LOCALES.map(locale=>[locale,value]));
 const image={path:'assets/images/obras/test/01.webp',alt:text('Technical fixture, not real artwork'),width:800,height:1200};
 const work=()=>({id:'fixture-test',title:text('Technical fixture'),year:'2000',technique:text('Test'),dimensions:'Test',status:'draft',cover:0,images:[structuredClone(image)]});
 test('editorial HTML is escaped',()=>assert.equal(escapeHtml('<img onerror="x">'),'&lt;img onerror=&quot;x&quot;&gt;'));
@@ -13,7 +13,7 @@ test('approved relative asset path',()=>assert.equal(safeAssetPath(image.path),t
 test('traversal, URL and protocol relative paths rejected',()=>{for(const p of ['assets/images/../../secret.jpg','https://example.com/a.jpg','//host/a.jpg','assets/images/a/../b.jpg','assets/images//b.jpg'])assert.equal(safeAssetPath(p),false);});
 test('file containment rejects traversal, absolute and backslash',()=>{for(const p of ['../secret','/secret','..\\secret'])assert.throws(()=>containedPath('/safe',p));});
 test('empty works permitted in review phase',()=>assert.deepEqual(validateWorks([]),[]));
-test('bilingual record valid',()=>assert.deepEqual(validateWorks([work()]),[]));
+test('trilingual record valid',()=>assert.deepEqual(validateWorks([work()]),[]));
 test('duplicate work ID rejected',()=>assert.ok(validateWorks([work(),work()]).some((x)=>x.includes('duplicate'))));
 test('out-of-range cover rejected',()=>{const w=work();w.cover=4;assert.ok(validateWorks([w]).some((x)=>x.includes('cover')));});
 test('missing English alt rejected',()=>{const w=work();delete w.images[0].alt.en;assert.ok(validateWorks([w]).some((x)=>x.includes('alt')));});

@@ -1,0 +1,457 @@
+{
+  "date": "2026-09-06T20:55:19.351Z",
+  "live": false,
+  "url": "http://127.0.0.1:62198/",
+  "browser": "Chrome/152.0.7977.77",
+  "locales": [
+    "en",
+    "pt-BR",
+    "fr"
+  ],
+  "results": [
+    {
+      "name": "en -> pt-BR: stale #works at top, 390px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "pt-BR",
+        "path": "/pt-br/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "en -> fr: stale #works at top, 390px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "fr",
+        "path": "/fr/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "pt-BR -> en: stale #works at top, 390px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "en",
+        "path": "/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "pt-BR -> fr: stale #works at top, 390px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "fr",
+        "path": "/fr/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "fr -> en: stale #works at top, 390px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "en",
+        "path": "/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "fr -> pt-BR: stale #works at top, 390px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "pt-BR",
+        "path": "/pt-br/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "en -> pt-BR: stale #works at top, 1440px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "pt-BR",
+        "path": "/pt-br/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "en -> fr: stale #works at top, 1440px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "fr",
+        "path": "/fr/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "pt-BR -> en: stale #works at top, 1440px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "en",
+        "path": "/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "pt-BR -> fr: stale #works at top, 1440px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "fr",
+        "path": "/fr/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "fr -> en: stale #works at top, 1440px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "en",
+        "path": "/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "fr -> pt-BR: stale #works at top, 1440px",
+      "status": "PASS",
+      "before": {
+        "hash": "#works",
+        "y": 0
+      },
+      "after": {
+        "language": "pt-BR",
+        "path": "/pt-br/",
+        "hash": "",
+        "y": 0
+      }
+    },
+    {
+      "name": "en: preserve actual film section despite old #works",
+      "status": "PASS",
+      "before": {
+        "y": 6829,
+        "top": 24.109375
+      },
+      "after": {
+        "language": "pt-BR",
+        "path": "/pt-br/",
+        "hash": "",
+        "y": 6853
+      },
+      "sectionTop": 24.109375
+    },
+    {
+      "name": "en: preserve actual digital section despite old #works",
+      "status": "PASS",
+      "before": {
+        "y": 7824,
+        "top": 24.21875
+      },
+      "after": {
+        "language": "pt-BR",
+        "path": "/pt-br/",
+        "hash": "",
+        "y": 7848
+      },
+      "sectionTop": 24.21875
+    },
+    {
+      "name": "en: preserve actual about section despite old #works",
+      "status": "PASS",
+      "before": {
+        "y": 15233,
+        "top": 24.09375
+      },
+      "after": {
+        "language": "pt-BR",
+        "path": "/pt-br/",
+        "hash": "",
+        "y": 15297
+      },
+      "sectionTop": 24.09375
+    },
+    {
+      "name": "pt-BR: preserve actual film section despite old #works",
+      "status": "PASS",
+      "before": {
+        "y": 6853,
+        "top": 24.109375
+      },
+      "after": {
+        "language": "fr",
+        "path": "/fr/",
+        "hash": "",
+        "y": 6941
+      },
+      "sectionTop": 24.109375
+    },
+    {
+      "name": "pt-BR: preserve actual digital section despite old #works",
+      "status": "PASS",
+      "before": {
+        "y": 7848,
+        "top": 24.21875
+      },
+      "after": {
+        "language": "fr",
+        "path": "/fr/",
+        "hash": "",
+        "y": 7976
+      },
+      "sectionTop": 24.21875
+    },
+    {
+      "name": "pt-BR: preserve actual about section despite old #works",
+      "status": "PASS",
+      "before": {
+        "y": 15297,
+        "top": 24.09375
+      },
+      "after": {
+        "language": "fr",
+        "path": "/fr/",
+        "hash": "",
+        "y": 15449
+      },
+      "sectionTop": 24.28125
+    },
+    {
+      "name": "fr: preserve actual film section despite old #works",
+      "status": "PASS",
+      "before": {
+        "y": 6941,
+        "top": 24.109375
+      },
+      "after": {
+        "language": "en",
+        "path": "/",
+        "hash": "",
+        "y": 6829
+      },
+      "sectionTop": 24.109375
+    },
+    {
+      "name": "fr: preserve actual digital section despite old #works",
+      "status": "PASS",
+      "before": {
+        "y": 7976,
+        "top": 24.21875
+      },
+      "after": {
+        "language": "en",
+        "path": "/",
+        "hash": "",
+        "y": 7824
+      },
+      "sectionTop": 24.21875
+    },
+    {
+      "name": "fr: preserve actual about section despite old #works",
+      "status": "PASS",
+      "before": {
+        "y": 15449,
+        "top": 24.09375
+      },
+      "after": {
+        "language": "en",
+        "path": "/",
+        "hash": "",
+        "y": 15233
+      },
+      "sectionTop": 24.09375
+    },
+    {
+      "name": "en: selecting current language is a no-op",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR: selecting current language is a no-op",
+      "status": "PASS"
+    },
+    {
+      "name": "fr: selecting current language is a no-op",
+      "status": "PASS"
+    },
+    {
+      "name": "en: permanent project route remains equivalent",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR: permanent project route remains equivalent",
+      "status": "PASS"
+    },
+    {
+      "name": "fr: permanent project route remains equivalent",
+      "status": "PASS"
+    },
+    {
+      "name": "French viewer language link opens the equivalent project, not a stale gallery hash",
+      "status": "PASS",
+      "hash": "",
+      "y": 0,
+      "lang": "pt-BR"
+    },
+    {
+      "name": "Back and Forward retain native navigation without replaying a consumed scroll token",
+      "status": "PASS"
+    },
+    {
+      "name": "Disabled sessionStorage keeps native language links working without stale-hash jumps",
+      "status": "PASS"
+    },
+    {
+      "name": "French permanent detail and all three menu links remain usable without JavaScript",
+      "status": "PASS"
+    },
+    {
+      "name": "French desktop, mobile, drawer and gallery use full translated controls without overflow",
+      "status": "PASS"
+    },
+    {
+      "name": "en films without subtitle and Instagram footer 320",
+      "status": "PASS",
+      "subtitle": null,
+      "iframes": 0,
+      "videos": 2,
+      "url": "https://www.instagram.com/renataalberigi/",
+      "label": "Renata Alberigi on Instagram",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "touchTarget": true,
+      "overflow": -15
+    },
+    {
+      "name": "en films without subtitle and Instagram footer 1440",
+      "status": "PASS",
+      "subtitle": null,
+      "iframes": 0,
+      "videos": 2,
+      "url": "https://www.instagram.com/renataalberigi/",
+      "label": "Renata Alberigi on Instagram",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "touchTarget": true,
+      "overflow": -15
+    },
+    {
+      "name": "pt-BR films without subtitle and Instagram footer 320",
+      "status": "PASS",
+      "subtitle": null,
+      "iframes": 0,
+      "videos": 2,
+      "url": "https://www.instagram.com/renataalberigi/",
+      "label": "Instagram de Renata Alberigi",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "touchTarget": true,
+      "overflow": -15
+    },
+    {
+      "name": "pt-BR films without subtitle and Instagram footer 1440",
+      "status": "PASS",
+      "subtitle": null,
+      "iframes": 0,
+      "videos": 2,
+      "url": "https://www.instagram.com/renataalberigi/",
+      "label": "Instagram de Renata Alberigi",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "touchTarget": true,
+      "overflow": -15
+    },
+    {
+      "name": "fr films without subtitle and Instagram footer 320",
+      "status": "PASS",
+      "subtitle": null,
+      "iframes": 0,
+      "videos": 2,
+      "url": "https://www.instagram.com/renataalberigi/",
+      "label": "Renata Alberigi sur Instagram",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "touchTarget": true,
+      "overflow": -15
+    },
+    {
+      "name": "fr films without subtitle and Instagram footer 1440",
+      "status": "PASS",
+      "subtitle": null,
+      "iframes": 0,
+      "videos": 2,
+      "url": "https://www.instagram.com/renataalberigi/",
+      "label": "Renata Alberigi sur Instagram",
+      "target": "_blank",
+      "rel": "noopener noreferrer",
+      "touchTarget": true,
+      "overflow": -15
+    }
+  ],
+  "screenshots": [
+    "fr-detail-no-javascript.jpg",
+    "fr-desktop.jpg",
+    "fr-mobile.jpg",
+    "fr-drawer.jpg",
+    "fr-viewer.jpg",
+    "fr-films-320.jpg",
+    "fr-footer-320.jpg",
+    "fr-films-1440.jpg",
+    "fr-footer-1440.jpg"
+  ],
+  "failures": 0,
+  "limits": [
+    "Browser emulation is not a physical device or screen-reader-user test",
+    "Position restoration requires JavaScript and available tab storage; native links still work without them"
+  ]
+}

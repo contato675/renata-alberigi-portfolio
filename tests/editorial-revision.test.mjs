@@ -1,3 +1,4 @@
+import {LOCALES,localePath} from '../scripts/i18n.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -20,20 +21,20 @@ const specs=[
  ['analogiaeu-2018','ANALOGIAEU','Acrílica sobre tela','Acrylic on canvas','130 × 800 cm']
 ];
 for(const [id,title,pt,en,size] of specs)test('Requested painting specification: '+title,()=>{
- const w=data.works.find(w=>w.id===id);assert.ok(w);assert.deepEqual(w.title,{en:title,'pt-BR':title});assert.deepEqual(w.technique,{en,'pt-BR':pt});assert.equal(w.dimensions,size);
- for(const locale of ['en','pt-BR']){const html=pages.get(pagePath(locale,w)+'index.html'),md=pages.get(pagePath(locale,w)+'index.md');assert.ok(html.includes(size));assert.ok(md.includes(size));assert.ok(html.includes(w.technique[locale]));assert.ok(pages.get('llms.txt').includes(size));const json=JSON.parse(pages.get((locale==='en'?'':'pt-br/')+'portfolio.json'));const record=json['@graph'].find(r=>r.name===title);assert.equal(record.size,size);assert.equal(record.artMedium,w.technique[locale]);}
+ const w=data.works.find(w=>w.id===id);assert.ok(w);assert.deepEqual(w.title,Object.fromEntries(LOCALES.map(locale=>[locale,title])));assert.equal(w.technique.en,en);assert.equal(w.technique['pt-BR'],pt);assert.equal(w.technique.fr,{'Oil on canvas':'Huile sur toile','Acrylic and pastel on canvas, varnished':'Acrylique et pastel sur toile, vernie','Acrylic on canvas':'Acrylique sur toile'}[en]);assert.equal(w.dimensions,size);
+ for(const locale of LOCALES){const html=pages.get(pagePath(locale,w)+'index.html'),md=pages.get(pagePath(locale,w)+'index.md');assert.ok(html.includes(size));assert.ok(md.includes(size));assert.ok(html.includes(w.technique[locale]));assert.ok(pages.get('llms.txt').includes(size));const json=JSON.parse(pages.get((localePath(locale))+'portfolio.json'));const record=json['@graph'].find(r=>r.name===title);assert.equal(record.size,size);assert.equal(record.artMedium,w.technique[locale]);}
 });
 const names=['Renascida','Fluir','Balanço','Alexandrina','Nara','Nadine','Sol','Fernanda','Raio Rubi','Capa do Disco de Rap'];
-for(const [i,name] of names.entries())test('Requested digital title: '+name,()=>{const w=data.works.find(w=>w.id==='digital-'+String(i+2).padStart(2,'0'));assert.deepEqual(w.title,{en:name,'pt-BR':name});assert.equal(w.originalTitle,name);assert.equal(w.titleStatus,undefined);assert.ok(w.images.every(im=>im.alt.en.startsWith(name)&&im.alt['pt-BR'].startsWith(name)));for(const locale of ['en','pt-BR'])assert.ok(pages.get(pagePath(locale,w)+'index.html').includes(name));});
+for(const [i,name] of names.entries())test('Requested digital title: '+name,()=>{const w=data.works.find(w=>w.id==='digital-'+String(i+2).padStart(2,'0'));assert.deepEqual(w.title,Object.fromEntries(LOCALES.map(locale=>[locale,name])));assert.equal(w.originalTitle,name);assert.equal(w.titleStatus,undefined);assert.ok(w.images.every(im=>im.alt.en.startsWith(name)&&im.alt['pt-BR'].startsWith(name)));for(const locale of LOCALES)assert.ok(pages.get(pagePath(locale,w)+'index.html').includes(name));});
 test('Correnteza uses 2022; previously shared pages resolve to the corrected canonical',()=>{
  const w=data.works.find(w=>w.id==='correnteza-2022');assert.equal(w.year,'2022');
- for(const locale of ['en','pt-BR']){const prefix=locale==='en'?'':'pt-br/',html=pages.get(prefix+'works/correnteza-2024/index.html');assert.ok(html);assert.match(html,/<link rel="canonical" href="[^"]*\/correnteza-2022\/">/);assert.match(html,/itemprop="dateCreated">2022<\/dd>/);const md=pages.get(prefix+'works/correnteza-2022/index.md');assert.ok(md.includes('2022'));}
+ for(const locale of LOCALES){const prefix=localePath(locale),html=pages.get(prefix+'works/correnteza-2024/index.html');assert.ok(html);assert.match(html,/<link rel="canonical" href="[^"]*\/correnteza-2022\/">/);assert.match(html,/itemprop="dateCreated">2022<\/dd>/);const md=pages.get(prefix+'works/correnteza-2022/index.md');assert.ok(md.includes('2022'));}
 });
 test('Requested Portuguese introduction replaces the previous summary',()=>{
  const expected='Pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada em Caeté-Açu, na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão.';
  assert.equal(data.artist.intro['pt-BR'],expected);assert.ok(pages.get('pt-br/index.html').includes(expected));assert.ok(data.artist.intro.en.includes('hand-painted works in oil and acrylic'));
 });
-test('Contact and country are consistent in both languages and all public formats',()=>{
+test('Contact and country are consistent in all supported languages and all public formats',()=>{
  assert.equal(data.artist.email,'estudiorenascida@gmail.com');assert.ok(data.artist.location.en.endsWith('Brazil'));assert.ok(data.artist.location['pt-BR'].endsWith('Brasil'));
  for(const [name,body] of pages)if(/\.(html|md|json|txt)$/.test(name)){assert.ok(!body.includes('ataneribero@gmail.com'),name);if(/\.(html|md|json)$/.test(name))assert.ok(body.includes(data.artist.email),name);}
 });
@@ -42,7 +43,7 @@ test('No redundant header name, review banner or grid control; noindex retained'
 });
 test('New portrait has a cache-distinct filename and the source aspect ratio',()=>{assert.equal(data.artist.portrait.path,'assets/images/perfil/renata-alberigi-c758528aa6.webp');assert.equal(data.artist.portrait.width,676);assert.equal(data.artist.portrait.height,806);assert.match(pages.get('index.html'),/renata-alberigi-c758528aa6/);assert.doesNotMatch(pages.get('index.html'),/perfil\/renata-alberigi\.webp/);});
 test('Mobile drawer is localized and backed by no-JavaScript links',()=>{
- for(const locale of ['en','pt-BR']){const html=pages.get((locale==='en'?'':'pt-br/')+'index.html');assert.match(html,/<details class="mobile-fallback"/);assert.match(html,/aria-controls="mobile-navigation" aria-haspopup="dialog" aria-expanded="false"/);assert.match(html,/<dialog id="mobile-navigation"/);assert.ok(html.includes(data.dictionaries[locale].closeMenu));assert.ok(html.includes('assets/js/navigation.js'));}
+ for(const locale of LOCALES){const html=pages.get((localePath(locale))+'index.html');assert.match(html,/<details class="mobile-fallback"/);assert.match(html,/aria-controls="mobile-navigation" aria-haspopup="dialog" aria-expanded="false"/);assert.match(html,/<dialog id="mobile-navigation"/);assert.ok(html.includes(data.dictionaries[locale].closeMenu));assert.ok(html.includes('assets/js/navigation.js'));}
 });
 test('Drawer and gallery contain no unsafe executable insertion',async()=>{
  for(const name of ['navigation.js','gallery.js']){const js=await readFile(path.join(root,'site/assets/js',name),'utf8');assert.doesNotMatch(js,/\.innerHTML\s*=|\.style\.|\beval\s*\(|new Function/);}

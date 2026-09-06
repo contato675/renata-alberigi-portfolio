@@ -1,10 +1,10 @@
 # Renata Alberigi — visual-art portfolio
 
-**English-first · Português (Brasil) · Apple-like + Müller · 6 September 2026.**
+**English-first · Português (Brasil) · Français · Apple-like + Müller · 6 September 2026.**
 Independent repository. Public preview authorized for PR #1; the preview is noindex, not an approved final release. Deployment details and status: [Preview and real media](docs/10-preview-e-midias.md).
 
 ## Implemented foundation
-English is served at the site base path; Brazilian Portuguese at `pt-br/`. Both are complete static HTML, with explicit language links, reciprocal hreflang, self-canonicals and Markdown counterparts. No locale detection or redirect based on the browser language.
+English is served at the site base path; Brazilian Portuguese at `pt-br/`; French at `fr/`. All three are complete static HTML, with explicit language links, reciprocal hreflang, self-canonicals and Markdown counterparts. No locale detection or redirect based on the browser language.
 
 The gallery uses project covers, a native-dialog image viewer, and a permanent static page for each published project. All images and project metadata remain readable without JavaScript. The viewer adds keyboard navigation, browser Back/Forward, reduced-motion handling, and native horizontal scrolling without taking over vertical touch gestures.
 
@@ -26,11 +26,11 @@ The browser audit uses an isolated temporary profile in installed Chrome/Chromiu
 - [Visual direction](docs/01-direcao-visual.md), [layout and interaction](docs/02-layout-interacoes-mobile.md)
 - [Content and media](docs/03-conteudo-e-midias.md), [Pages deployment](docs/04-github-pages.md)
 - [Acceptance and remaining work](docs/05-implementacao-e-aceite.md), [sources](docs/06-fontes-e-decisoes.md)
-- [AI discovery and bilingual architecture](docs/08-ai-i18n.md)
+- [AI discovery and trilingual architecture](docs/08-ai-i18n.md)
 - [Apple-like audit](docs/09-auditoria-apple-like.md), [PDF plan](pdf/README.md)
 
 ## Editorial and deployment safeguards
-Real media incorporated: 9 hand-painted projects, 11 digital projects, 123 artwork images, a portrait and 2 YouTube films. PDF and complete project metadata/transcripts are still pending. Portuguese biography is preserved; the English translation is implemented but awaits human editorial review. Neutral calibration fixtures exist only in an audit-created temporary directory, never in the artist's published content.
+Real media incorporated: 9 hand-painted projects, 11 digital projects, 123 artwork images, a portrait and 2 YouTube films. PDF and complete project metadata/transcripts are still pending. Portuguese biography is preserved; the English and French translations are implemented but await human editorial review. Neutral calibration fixtures exist only in an audit-created temporary directory, never in the artist's published content.
 
 `npm run build` creates a noindex preview. `npm run check:publish` and `npm run build:release` deliberately fail until media, editorial approval, readiness and effective origin-root robots deployment are confirmed. Never publish the preview, change repository visibility, enable Pages, or merge an implementation PR without authorization.
 
@@ -42,3 +42,14 @@ After reviewing and committing the source branch: `node scripts/publish-preview.
 
 ## Custom domain configuration
 The owner requested `renataalberigi.com.br`. The build now uses the domain root, persists CNAME and preserves EN/PT-BR routes. DNS, ownership verification and HTTPS activation are tracked separately in [the domain handoff](docs/12-dominio-personalizado.md). Uncommitted artwork edits in the original workstation checkout are not part of this isolated domain change.
+
+## French and locale-navigation correction
+French is the third complete locale: 68 UI keys, 330 localized content fields, 21 projects and 189 artwork image descriptions. HTML, Markdown, structured data, explicit language selectors and reciprocal hreflang share the same validated source. Original artwork names and all existing EN/PT editorial data are preserved.
+
+Language changes no longer copy stale URL fragments such as `#works`. A short-lived, one-shot tab record restores the current reading landmark on the equivalent page; selecting the current language is a no-op. Static links still work without JavaScript or storage. `npm run design:locales` covers all six language directions, narrow/desktop layouts, section preservation, project routes and browser history. [Implementation and evidence](docs/13-francais-et-navigation.md).
+
+## French, locale navigation and footer update
+
+Three explicit languages: English, Português and Français. Every localized UI/editorial field requires all three values with no silent fallback. The locale switch preserves the actual reading position instead of copying stale section hashes. Video section subtitle removed in every language; Instagram added to every footer from the same validated public artist record.
+
+`npm run design:locales` tests every language-switch direction plus navigation, no-JavaScript fallback, video heading and Instagram. Add `-- --live` only after publication to repeat checks on the configured HTTPS domain. Details: [French and navigation](docs/13-francais-et-navigation.md).
