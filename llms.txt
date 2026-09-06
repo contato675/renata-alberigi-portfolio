@@ -2,7 +2,7 @@
 
 > Brazilian painter & visual artist. Brazilian painter and visual artist, born in Petrolina, Pernambuco, in 1993 and based in Caeté-Açu, in Bahia’s Chapada Diamantina. Self-taught, she has painted since childhood. Her practice focuses on hand-painted works in oil and acrylic, alongside portraits, installations and hand-drawn digital work.
 
-English is the default language. Brazilian Portuguese is available at pt-br/. These documents describe the same portfolio shown to people; there are no additional credentials or private artwork records for agents.
+English is the default language. Brazilian Portuguese is available at pt-br/ and French at fr/. These documents describe the same portfolio shown to people; there are no additional credentials or private artwork records for agents.
 
 Public portfolio preview for editorial review; not the final release.
 
@@ -11,61 +11,84 @@ Artwork titles and credited institutions retain their original names. A listed w
 ## Portfolio
 
 - [English portfolio and biography](https://renataalberigi.com.br/index.md): Artist profile, biography, contact and selected works.
-- [Portfólio e biografia em português](https://renataalberigi.com.br/pt-br/index.md): Artist profile, biography, contact and selected works.
+- [Portfólio e biografia em português](https://renataalberigi.com.br/pt-br/index.md): Perfil da artista, biografia, contato e obras selecionadas.
+- [Portfolio et biographie en français](https://renataalberigi.com.br/fr/index.md): Présentation de l’artiste, biographie, contact et œuvres sélectionnées.
 
 ## Hand-painted works — primary collection
 
 - [Amor incondicional (en)](https://renataalberigi.com.br/works/amor-incondicional-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
 - [Amor incondicional (pt-BR)](https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
+- [Amor incondicional (fr)](https://renataalberigi.com.br/fr/works/amor-incondicional-2026/index.md): 2026; Huile sur toile; 100 × 80 cm.
 - [Ponte nova (en)](https://renataalberigi.com.br/works/ponte-nova-2025/index.md): 2025; Oil on canvas; 120 × 80 cm.
 - [Ponte nova (pt-BR)](https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/index.md): 2025; Óleo sobre tela; 120 × 80 cm.
+- [Ponte nova (fr)](https://renataalberigi.com.br/fr/works/ponte-nova-2025/index.md): 2025; Huile sur toile; 120 × 80 cm.
 - [Maternidade (en)](https://renataalberigi.com.br/works/maternidade-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
 - [Maternidade (pt-BR)](https://renataalberigi.com.br/pt-br/works/maternidade-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
+- [Maternidade (fr)](https://renataalberigi.com.br/fr/works/maternidade-2026/index.md): 2026; Huile sur toile; 100 × 80 cm.
 - [Maternidade 1 (en)](https://renataalberigi.com.br/works/maternidade1-2025/index.md): 2025; Acrylic and pastel on canvas, varnished; 100 × 80 cm.
 - [Maternidade 1 (pt-BR)](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
+- [Maternidade 1 (fr)](https://renataalberigi.com.br/fr/works/maternidade1-2025/index.md): 2025; Acrylique et pastel sur toile, vernie; 100 × 80 cm.
 - [Lar (en)](https://renataalberigi.com.br/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120 cm.
 - [Lar (pt-BR)](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120 cm.
+- [Lar (fr)](https://renataalberigi.com.br/fr/works/lar-2026/index.md): 2026; Acrylique et pastel sur toile, vernie; 100 × 120 cm.
 - [Áureo (en)](https://renataalberigi.com.br/works/aureo-2025/index.md): 2025; Oil on canvas; 40 × 60 cm.
 - [Áureo (pt-BR)](https://renataalberigi.com.br/pt-br/works/aureo-2025/index.md): 2025; Óleo sobre tela; 40 × 60 cm.
+- [Áureo (fr)](https://renataalberigi.com.br/fr/works/aureo-2025/index.md): 2025; Huile sur toile; 40 × 60 cm.
 - [ANALOGIAEU part4 (en)](https://renataalberigi.com.br/works/analogiaeu-part4-2024/index.md): 2024; Oil on canvas; 100 × 80 cm.
 - [ANALOGIAEU part4 (pt-BR)](https://renataalberigi.com.br/pt-br/works/analogiaeu-part4-2024/index.md): 2024; Óleo sobre tela; 100 × 80 cm.
+- [ANALOGIAEU part4 (fr)](https://renataalberigi.com.br/fr/works/analogiaeu-part4-2024/index.md): 2024; Huile sur toile; 100 × 80 cm.
 - [Correnteza (en)](https://renataalberigi.com.br/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 × 100 cm.
 - [Correnteza (pt-BR)](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 × 100 cm.
+- [Correnteza (fr)](https://renataalberigi.com.br/fr/works/correnteza-2022/index.md): 2022; Huile sur toile; 70 × 100 cm.
 - [ANALOGIAEU (en)](https://renataalberigi.com.br/works/analogiaeu-2018/index.md): 2018; Acrylic on canvas; 130 × 800 cm.
 - [ANALOGIAEU (pt-BR)](https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/index.md): 2018; Acrílica sobre tela; 130 × 800 cm.
+- [ANALOGIAEU (fr)](https://renataalberigi.com.br/fr/works/analogiaeu-2018/index.md): 2018; Acrylique sur toile; 130 × 800 cm.
 
 ## Hand-drawn digital paintings — separate collection
 
 - [Mãe (en)](https://renataalberigi.com.br/works/digital-01/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Mãe (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-01/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Mãe (fr)](https://renataalberigi.com.br/fr/works/digital-01/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Renascida (en)](https://renataalberigi.com.br/works/digital-02/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Renascida (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-02/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Renascida (fr)](https://renataalberigi.com.br/fr/works/digital-02/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Fluir (en)](https://renataalberigi.com.br/works/digital-03/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Fluir (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-03/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Fluir (fr)](https://renataalberigi.com.br/fr/works/digital-03/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Balanço (en)](https://renataalberigi.com.br/works/digital-04/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Balanço (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-04/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Balanço (fr)](https://renataalberigi.com.br/fr/works/digital-04/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Alexandrina (en)](https://renataalberigi.com.br/works/digital-05/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Alexandrina (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-05/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Alexandrina (fr)](https://renataalberigi.com.br/fr/works/digital-05/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Nara (en)](https://renataalberigi.com.br/works/digital-06/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Nara (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-06/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Nara (fr)](https://renataalberigi.com.br/fr/works/digital-06/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Nadine (en)](https://renataalberigi.com.br/works/digital-07/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Nadine (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-07/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Nadine (fr)](https://renataalberigi.com.br/fr/works/digital-07/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Sol (en)](https://renataalberigi.com.br/works/digital-08/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Sol (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-08/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Sol (fr)](https://renataalberigi.com.br/fr/works/digital-08/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Fernanda (en)](https://renataalberigi.com.br/works/digital-09/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Fernanda (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-09/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Fernanda (fr)](https://renataalberigi.com.br/fr/works/digital-09/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Raio Rubi (en)](https://renataalberigi.com.br/works/digital-10/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Raio Rubi (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-10/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Raio Rubi (fr)](https://renataalberigi.com.br/fr/works/digital-10/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 - [Capa do Disco de Rap (en)](https://renataalberigi.com.br/works/digital-11/index.md): Collection period: 2024–2026; Hand-drawn digital painting.
 - [Capa do Disco de Rap (pt-BR)](https://renataalberigi.com.br/pt-br/works/digital-11/index.md): Collection period: 2024–2026; Pintura digital feita à mão.
+- [Capa do Disco de Rap (fr)](https://renataalberigi.com.br/fr/works/digital-11/index.md): Collection period: 2024–2026; Peinture numérique dessinée à la main.
 
 ## RUADOFLOW — Brand Design Collection
 
 - [RUADOFLOW — Brand Design Collection (en)](https://renataalberigi.com.br/works/ruadoflow-brand-design-2024-2025/index.md): Collection period: 2024–2025; Illustration and apparel design.
 - [RUADOFLOW — Coleção de design (pt-BR)](https://renataalberigi.com.br/pt-br/works/ruadoflow-brand-design-2024-2025/index.md): Collection period: 2024–2025; Ilustração e design para vestuário.
+- [RUADOFLOW — Collection de design (fr)](https://renataalberigi.com.br/fr/works/ruadoflow-brand-design-2024-2025/index.md): Collection period: 2024–2025; Illustration et création de vêtements.
 
 ## Optional
 
-- [Full bilingual portfolio text](https://renataalberigi.com.br/llms-full.txt): Same public biography and work descriptions in one text document.
+- [Full trilingual portfolio text](https://renataalberigi.com.br/llms-full.txt): Same public biography and work descriptions in one text document.
 - [Structured portfolio (en)](https://renataalberigi.com.br/portfolio.json): Public Person and VisualArtwork data; no prices, stock or unsupported claims.
 - [Structured portfolio (pt-BR)](https://renataalberigi.com.br/pt-br/portfolio.json): Public Person and VisualArtwork data; no prices, stock or unsupported claims.
+- [Structured portfolio (fr)](https://renataalberigi.com.br/fr/portfolio.json): Public Person and VisualArtwork data; no prices, stock or unsupported claims.

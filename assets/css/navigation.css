@@ -42,3 +42,8 @@
 @media (prefers-reduced-motion: reduce) {
   .nav-drawer[open] { animation: none; }
 }
+
+/* Three explicit language choices retain full-size touch targets. */
+.locale-nav { flex-wrap: wrap; }
+.desktop-navigation .main-nav { flex-wrap: wrap; min-width: 0; }
+.desktop-navigation .locale-nav { flex-shrink: 0; }

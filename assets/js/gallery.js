@@ -94,11 +94,6 @@ for (const anchor of document.querySelectorAll('[data-open-project]')) {
 }
 window.addEventListener('popstate', syncHistory);
 syncHistory();
-for (const link of document.querySelectorAll('[data-locale-link]')) {
-  link.addEventListener('click', () => {
-    if (location.hash && !location.hash.startsWith('#project-')) link.hash = location.hash;
-  });
-}
 for (const button of document.querySelectorAll('[data-video]')) {
   button.hidden = false;
   button.addEventListener('click', () => {

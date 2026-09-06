@@ -1,0 +1,1686 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://renataalberigi.com.br/#artist",
+      "name": "Renata Alberigi",
+      "jobTitle": "Peintre et artiste visuelle brésilienne",
+      "description": "Renata Alberigi est une peintre et artiste visuelle brésilienne, née à Petrolina, dans le Pernambouc, en 1993 et établie à Caeté-Açu, dans la Chapada Diamantina, en Bahia. Autodidacte, elle peint depuis l’enfance. Sa pratique se concentre sur des œuvres réalisées à la main, à l’huile et à l’acrylique, et comprend également des portraits, des installations et des œuvres numériques dessinées à la main. Les arbres, les roches et les eaux des rivières sont ses principales sources d’inspiration. Leurs formes, leurs textures et leurs mouvements nourrissent un processus de création qui préserve le geste manuel aussi bien en peinture que dans le travail numérique. Mère depuis 2019, Renata dirige son propre atelier de peinture à Caeté-Açu, où elle développe une pratique artistique indépendante au contact quotidien du paysage de la Chapada Diamantina.\n\nParmi ses œuvres figure ANALOGIAEU, une série de peintures réalisée entre 2014 et 2019 et présentée notamment au Museu de Antropologia do Vale do Paraíba et à l’Espaço Tomie Ohtake, au sein d’EducaMais Jacareí.\n\nSon parcours comprend également des ateliers et des conférences destinés aux enfants, aux jeunes et aux enseignants, ainsi que son activité de directrice artistique de RUADOFLOW entre 2016 et 2026. Il réunit le travail en atelier, la création de vêtements et de pochettes de CD, la participation à des expositions et à des installations, ainsi que le partage de pratiques artistiques dans des espaces culturels et éducatifs.",
+      "url": "https://renataalberigi.com.br/fr/",
+      "email": "estudiorenascida@gmail.com",
+      "sameAs": [
+        "https://www.instagram.com/renataalberigi/"
+      ],
+      "image": "https://renataalberigi.com.br/assets/images/perfil/renata-alberigi-c758528aa6.webp"
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/amor-incondicional-2026/",
+      "url": "https://renataalberigi.com.br/fr/works/amor-incondicional-2026/",
+      "name": "Amor incondicional",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Peintures réalisées à la main",
+      "artMedium": "Huile sur toile",
+      "size": "100 × 80 cm",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-01.webp",
+          "caption": "Amor incondicional — Une rivière rose entre des roches, avec un arbre aux fleurs orangées sous un ciel nuageux.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-02.webp",
+          "caption": "Amor incondicional — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-03.webp",
+          "caption": "Amor incondicional — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-04.webp",
+          "caption": "Amor incondicional — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-05.webp",
+          "caption": "Amor incondicional — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-06.webp",
+          "caption": "Amor incondicional — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-07.webp",
+          "caption": "Amor incondicional — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-08.webp",
+          "caption": "Amor incondicional — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-09.webp",
+          "caption": "Amor incondicional — Photographie 9 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-10.webp",
+          "caption": "Amor incondicional — Photographie 10 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-11.webp",
+          "caption": "Amor incondicional — Photographie 11 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-12.webp",
+          "caption": "Amor incondicional — Photographie 12 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-13.webp",
+          "caption": "Amor incondicional — Photographie 13 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-14.webp",
+          "caption": "Amor incondicional — Photographie 14 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/ponte-nova-2025/",
+      "url": "https://renataalberigi.com.br/fr/works/ponte-nova-2025/",
+      "name": "Ponte nova",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Peintures réalisées à la main",
+      "artMedium": "Huile sur toile",
+      "size": "120 × 80 cm",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-01.webp",
+          "caption": "Ponte nova — Un paysage de rivière rocheuse, aux eaux rouges et ambrées, entouré de végétation verte.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-02.webp",
+          "caption": "Ponte nova — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-03.webp",
+          "caption": "Ponte nova — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-04.webp",
+          "caption": "Ponte nova — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-05.webp",
+          "caption": "Ponte nova — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-06.webp",
+          "caption": "Ponte nova — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-07.webp",
+          "caption": "Ponte nova — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-08.webp",
+          "caption": "Ponte nova — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/maternidade-2026/",
+      "url": "https://renataalberigi.com.br/fr/works/maternidade-2026/",
+      "name": "Maternidade",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Peintures réalisées à la main",
+      "artMedium": "Huile sur toile",
+      "size": "100 × 80 cm",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-01.webp",
+          "caption": "Maternidade — Une étroite rivière bleue entourée de roches rougeâtres et d’arbres verts.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-02.webp",
+          "caption": "Maternidade — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-03.webp",
+          "caption": "Maternidade — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-04.webp",
+          "caption": "Maternidade — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-05.webp",
+          "caption": "Maternidade — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-06.webp",
+          "caption": "Maternidade — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-07.webp",
+          "caption": "Maternidade — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-08.webp",
+          "caption": "Maternidade — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-09.webp",
+          "caption": "Maternidade — Photographie 9 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-10.webp",
+          "caption": "Maternidade — Photographie 10 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-11.webp",
+          "caption": "Maternidade — Photographie 11 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-12.webp",
+          "caption": "Maternidade — Photographie 12 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/maternidade1-2025/",
+      "url": "https://renataalberigi.com.br/fr/works/maternidade1-2025/",
+      "name": "Maternidade 1",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Peintures réalisées à la main",
+      "artMedium": "Acrylique et pastel sur toile, vernie",
+      "size": "100 × 80 cm",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-01.webp",
+          "caption": "Maternidade 1 — Un entrelacs d’arbres, de branches et de petites touches roses et vertes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-02.webp",
+          "caption": "Maternidade 1 — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-03.webp",
+          "caption": "Maternidade 1 — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-04.webp",
+          "caption": "Maternidade 1 — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-05.webp",
+          "caption": "Maternidade 1 — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-06.webp",
+          "caption": "Maternidade 1 — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-07.webp",
+          "caption": "Maternidade 1 — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-08.webp",
+          "caption": "Maternidade 1 — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-09.webp",
+          "caption": "Maternidade 1 — Photographie 9 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-10.webp",
+          "caption": "Maternidade 1 — Photographie 10 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-11.webp",
+          "caption": "Maternidade 1 — Photographie 11 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-12.webp",
+          "caption": "Maternidade 1 — Photographie 12 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-13.webp",
+          "caption": "Maternidade 1 — Photographie 13 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/lar-2026/",
+      "url": "https://renataalberigi.com.br/fr/works/lar-2026/",
+      "name": "Lar",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Peintures réalisées à la main",
+      "artMedium": "Acrylique et pastel sur toile, vernie",
+      "size": "100 × 120 cm",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-01.webp",
+          "caption": "Lar — Des arbres et des racines entrelacés dans un paysage à la peinture dense, rose et vert.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-02.webp",
+          "caption": "Lar — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-03.webp",
+          "caption": "Lar — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-04.webp",
+          "caption": "Lar — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-05.webp",
+          "caption": "Lar — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-06.webp",
+          "caption": "Lar — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-07.webp",
+          "caption": "Lar — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-08.webp",
+          "caption": "Lar — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-09.webp",
+          "caption": "Lar — Photographie 9 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-10.webp",
+          "caption": "Lar — Photographie 10 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-11.webp",
+          "caption": "Lar — Photographie 11 de la peinture réalisée à la main et de ses détails.",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-12.webp",
+          "caption": "Lar — Photographie 12 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-13.webp",
+          "caption": "Lar — Photographie 13 de la peinture réalisée à la main et de ses détails.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-14.webp",
+          "caption": "Lar — Photographie 14 de la peinture réalisée à la main et de ses détails.",
+          "width": 1080,
+          "height": 1129
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/aureo-2025/",
+      "url": "https://renataalberigi.com.br/fr/works/aureo-2025/",
+      "name": "Áureo",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Peintures réalisées à la main",
+      "artMedium": "Huile sur toile",
+      "size": "40 × 60 cm",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-01.webp",
+          "caption": "Áureo — Des formations rocheuses éclairées par le soleil, au bord d’eaux sombres, sous un ciel bleu.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-02.webp",
+          "caption": "Áureo — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-03.webp",
+          "caption": "Áureo — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-04.webp",
+          "caption": "Áureo — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-05.webp",
+          "caption": "Áureo — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-06.webp",
+          "caption": "Áureo — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-07.webp",
+          "caption": "Áureo — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-08.webp",
+          "caption": "Áureo — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/analogiaeu-part4-2024/",
+      "url": "https://renataalberigi.com.br/fr/works/analogiaeu-part4-2024/",
+      "name": "ANALOGIAEU part4",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2024",
+      "artform": "Painting",
+      "keywords": "Peintures réalisées à la main",
+      "artMedium": "Huile sur toile",
+      "size": "100 × 80 cm",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-01.webp",
+          "caption": "ANALOGIAEU part4 — Un tronc d’arbre et ses racines aux couleurs riches dans un paysage rose.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-02.webp",
+          "caption": "ANALOGIAEU part4 — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-03.webp",
+          "caption": "ANALOGIAEU part4 — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-04.webp",
+          "caption": "ANALOGIAEU part4 — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-05.webp",
+          "caption": "ANALOGIAEU part4 — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-06.webp",
+          "caption": "ANALOGIAEU part4 — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-07.webp",
+          "caption": "ANALOGIAEU part4 — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-08.webp",
+          "caption": "ANALOGIAEU part4 — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/correnteza-2022/",
+      "url": "https://renataalberigi.com.br/fr/works/correnteza-2022/",
+      "name": "Correnteza",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2022",
+      "artform": "Painting",
+      "keywords": "Peintures réalisées à la main",
+      "artMedium": "Huile sur toile",
+      "size": "70 × 100 cm",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-01.webp",
+          "caption": "Correnteza — Une rivière claire serpentant dans un paysage de roches et de végétation.",
+          "width": 859,
+          "height": 1073
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-02.webp",
+          "caption": "Correnteza — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "width": 858,
+          "height": 1071
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-03.webp",
+          "caption": "Correnteza — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "width": 900,
+          "height": 1124
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-04.webp",
+          "caption": "Correnteza — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "width": 892,
+          "height": 1115
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-05.webp",
+          "caption": "Correnteza — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "width": 900,
+          "height": 1125
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-06.webp",
+          "caption": "Correnteza — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "width": 899,
+          "height": 1122
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-07.webp",
+          "caption": "Correnteza — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "width": 900,
+          "height": 1124
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-08.webp",
+          "caption": "Correnteza — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "width": 899,
+          "height": 1123
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/analogiaeu-2018/",
+      "url": "https://renataalberigi.com.br/fr/works/analogiaeu-2018/",
+      "name": "ANALOGIAEU",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2018",
+      "artform": "Painting",
+      "keywords": "Peintures réalisées à la main",
+      "artMedium": "Acrylique sur toile",
+      "size": "130 × 800 cm",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-01.webp",
+          "caption": "ANALOGIAEU — Des formes ramifiées bleues et dorées dans une composition peinte avec minutie.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-02.webp",
+          "caption": "ANALOGIAEU — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-03.webp",
+          "caption": "ANALOGIAEU — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "width": 1080,
+          "height": 810
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-04.webp",
+          "caption": "ANALOGIAEU — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "width": 848,
+          "height": 848
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-05.webp",
+          "caption": "ANALOGIAEU — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-06.webp",
+          "caption": "ANALOGIAEU — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "width": 1080,
+          "height": 610
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-07.webp",
+          "caption": "ANALOGIAEU — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-08.webp",
+          "caption": "ANALOGIAEU — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "width": 720,
+          "height": 900
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-09.webp",
+          "caption": "ANALOGIAEU — Photographie 9 de la peinture réalisée à la main et de ses détails.",
+          "width": 720,
+          "height": 900
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-01/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-01/",
+      "name": "Mãe",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-01/image-01.webp",
+          "caption": "Mãe — peinture numérique dessinée à la main, image 1.",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-02/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-02/",
+      "name": "Renascida",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-01.webp",
+          "caption": "Renascida — peinture numérique dessinée à la main, image 1.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-02.webp",
+          "caption": "Renascida — peinture numérique dessinée à la main, image 2.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-03.webp",
+          "caption": "Renascida — peinture numérique dessinée à la main, image 3.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-04.webp",
+          "caption": "Renascida — peinture numérique dessinée à la main, image 4.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-05.webp",
+          "caption": "Renascida — peinture numérique dessinée à la main, image 5.",
+          "width": 640,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-03/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-03/",
+      "name": "Fluir",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-01.webp",
+          "caption": "Fluir — peinture numérique dessinée à la main, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-02.webp",
+          "caption": "Fluir — peinture numérique dessinée à la main, image 2.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-03.webp",
+          "caption": "Fluir — peinture numérique dessinée à la main, image 3.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-04.webp",
+          "caption": "Fluir — peinture numérique dessinée à la main, image 4.",
+          "width": 944,
+          "height": 1180
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-05.webp",
+          "caption": "Fluir — peinture numérique dessinée à la main, image 5.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-04/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-04/",
+      "name": "Balanço",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-01.webp",
+          "caption": "Balanço — peinture numérique dessinée à la main, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-02.webp",
+          "caption": "Balanço — peinture numérique dessinée à la main, image 2.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-03.webp",
+          "caption": "Balanço — peinture numérique dessinée à la main, image 3.",
+          "width": 916,
+          "height": 1144
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-04.webp",
+          "caption": "Balanço — peinture numérique dessinée à la main, image 4.",
+          "width": 1080,
+          "height": 1349
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-05/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-05/",
+      "name": "Alexandrina",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-05/image-01.webp",
+          "caption": "Alexandrina — peinture numérique dessinée à la main, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-05/image-02.webp",
+          "caption": "Alexandrina — peinture numérique dessinée à la main, image 2.",
+          "width": 944,
+          "height": 1180
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-06/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-06/",
+      "name": "Nara",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-06/image-01.webp",
+          "caption": "Nara — peinture numérique dessinée à la main, image 1.",
+          "width": 1080,
+          "height": 1352
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-07/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-07/",
+      "name": "Nadine",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-07/image-01.webp",
+          "caption": "Nadine — peinture numérique dessinée à la main, image 1.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-08/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-08/",
+      "name": "Sol",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-08/image-01.webp",
+          "caption": "Sol — peinture numérique dessinée à la main, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-08/image-02.webp",
+          "caption": "Sol — peinture numérique dessinée à la main, image 2.",
+          "width": 1080,
+          "height": 1349
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-09/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-09/",
+      "name": "Fernanda",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-09/image-01.webp",
+          "caption": "Fernanda — peinture numérique dessinée à la main, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-09/image-02.webp",
+          "caption": "Fernanda — peinture numérique dessinée à la main, image 2.",
+          "width": 720,
+          "height": 900
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-09/image-03.webp",
+          "caption": "Fernanda — peinture numérique dessinée à la main, image 3.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-10/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-10/",
+      "name": "Raio Rubi",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-01.webp",
+          "caption": "Raio Rubi — peinture numérique dessinée à la main, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-02.webp",
+          "caption": "Raio Rubi — peinture numérique dessinée à la main, image 2.",
+          "width": 536,
+          "height": 670
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-03.webp",
+          "caption": "Raio Rubi — peinture numérique dessinée à la main, image 3.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-04.webp",
+          "caption": "Raio Rubi — peinture numérique dessinée à la main, image 4.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/fr/works/digital-11/",
+      "url": "https://renataalberigi.com.br/fr/works/digital-11/",
+      "name": "Capa do Disco de Rap",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Peintures numériques",
+      "artMedium": "Peinture numérique dessinée à la main",
+      "inLanguage": "fr",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-11/image-01.webp",
+          "caption": "Capa do Disco de Rap — peinture numérique dessinée à la main, image 1.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://renataalberigi.com.br/fr/works/ruadoflow-brand-design-2024-2025/",
+      "url": "https://renataalberigi.com.br/fr/works/ruadoflow-brand-design-2024-2025/",
+      "name": "RUADOFLOW — Collection de design",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2025",
+      "keywords": "Design de marque",
+      "genre": "Illustration et création de vêtements",
+      "inLanguage": "fr",
+      "description": "Une collection complète dessinée par Renata Alberigi pour RUADOFLOW entre 2024 et 2025, officiellement lancée sur le site de la marque. Les images présentent ses créations sur des T-shirts et des sweats à capuche.",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-01.webp",
+          "caption": "T-shirt oversize — création 01 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-02.webp",
+          "caption": "T-shirt oversize, vue de face — création 02 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-03.webp",
+          "caption": "T-shirt oversize, vue de dos — création 03 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-04.webp",
+          "caption": "T-shirt oversize, vue de dos — création 04 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-05.webp",
+          "caption": "T-shirt oversize, vue de face — création 05 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-06.webp",
+          "caption": "T-shirt oversize, vue de face — création 06 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-07.webp",
+          "caption": "T-shirt oversize, vue de dos — création 07 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-08.webp",
+          "caption": "T-shirt oversize, vue de dos — création 08 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-09.webp",
+          "caption": "T-shirt oversize, vue de face — création 09 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-10.webp",
+          "caption": "T-shirt oversize, vue de dos — création 10 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-11.webp",
+          "caption": "T-shirt oversize, vue de dos — création 11 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-12.webp",
+          "caption": "T-shirt oversize, vue de face — création 12 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-13.webp",
+          "caption": "T-shirt oversize, vue de face — création 13 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-14.webp",
+          "caption": "T-shirt oversize, vue de dos — création 14 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-15.webp",
+          "caption": "T-shirt oversize, vue de face — création 15 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-16.webp",
+          "caption": "T-shirt oversize, vue de dos — création 16 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-17.webp",
+          "caption": "T-shirt oversize, vue de face — création 17 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-18.webp",
+          "caption": "T-shirt oversize, vue de dos — création 18 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-19.webp",
+          "caption": "T-shirt oversize, vue de dos — création 19 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-20.webp",
+          "caption": "T-shirt oversize, vue de face — création 20 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-21.webp",
+          "caption": "T-shirt oversize, vue de face — création 21 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-22.webp",
+          "caption": "T-shirt oversize, vue de dos — création 22 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-23.webp",
+          "caption": "T-shirt oversize, vue de dos — création 23 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-24.webp",
+          "caption": "T-shirt oversize, vue de dos — création 24 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-25.webp",
+          "caption": "T-shirt oversize, vue de dos — création 25 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-26.webp",
+          "caption": "T-shirt oversize, vue de face — création 26 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-27.webp",
+          "caption": "T-shirt oversize, vue de dos — création 27 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-28.webp",
+          "caption": "T-shirt oversize, vue de dos — création 28 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-29.webp",
+          "caption": "T-shirt oversize, vue de face — création 29 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-30.webp",
+          "caption": "T-shirt oversize, vue de face — création 30 de la collection RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-31.webp",
+          "caption": "Sweat à capuche, vue de dos — création 31 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-32.webp",
+          "caption": "Sweat à capuche, vue de dos — création 32 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-33.webp",
+          "caption": "Sweat à capuche, vue de dos — création 33 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-34.webp",
+          "caption": "Sweat à capuche, vue de dos — création 34 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-35.webp",
+          "caption": "Sweat à capuche, vue de dos — création 35 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-36.webp",
+          "caption": "Sweat à capuche, vue de face — création 36 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-37.webp",
+          "caption": "Sweat à capuche, vue de face — création 37 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-38.webp",
+          "caption": "Sweat à capuche, vue de dos — création 38 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-39.webp",
+          "caption": "Sweat à capuche, vue de dos — création 39 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-40.webp",
+          "caption": "Sweat à capuche, vue de dos — création 40 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-41.webp",
+          "caption": "Sweat à capuche, vue de face — création 41 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-42.webp",
+          "caption": "Sweat à capuche, vue de face — création 42 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-43.webp",
+          "caption": "Sweat à capuche, vue de dos — création 43 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-44.webp",
+          "caption": "Sweat à capuche, vue de face — création 44 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-45.webp",
+          "caption": "Sweat à capuche, vue de dos — création 45 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-46.webp",
+          "caption": "Sweat à capuche, vue de face — création 46 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-47.webp",
+          "caption": "Sweat à capuche, vue de face — création 47 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-48.webp",
+          "caption": "Sweat à capuche, vue de face — création 48 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-49.webp",
+          "caption": "Sweat à capuche, vue de dos — création 49 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-50.webp",
+          "caption": "Sweat à capuche, vue de dos — création 50 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-51.webp",
+          "caption": "Sweat à capuche, vue de dos — création 51 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-52.webp",
+          "caption": "Sweat à capuche, vue de face — création 52 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-53.webp",
+          "caption": "Sweat à capuche, vue de face — création 53 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-54.webp",
+          "caption": "Sweat à capuche, vue de dos — création 54 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-55.webp",
+          "caption": "Sweat à capuche, vue de dos — création 55 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-56.webp",
+          "caption": "Sweat à capuche, vue de dos — création 56 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-57.webp",
+          "caption": "Sweat à capuche, vue de dos — création 57 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-58.webp",
+          "caption": "Sweat à capuche, vue de face — création 58 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-59.webp",
+          "caption": "Sweat à capuche, vue de dos — création 59 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-60.webp",
+          "caption": "Sweat à capuche, vue de dos — création 60 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-61.webp",
+          "caption": "Sweat à capuche, vue de dos — création 61 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-62.webp",
+          "caption": "Sweat à capuche, vue de dos — création 62 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-63.webp",
+          "caption": "Sweat à capuche, vue de dos — création 63 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-64.webp",
+          "caption": "Sweat à capuche, vue de dos — création 64 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-65.webp",
+          "caption": "Sweat à capuche, vue de face — création 65 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-66.webp",
+          "caption": "Sweat à capuche, vue de face — création 66 de la collection RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    }
+  ]
+}
