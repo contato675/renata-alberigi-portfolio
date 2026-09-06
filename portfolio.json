@@ -1,0 +1,1196 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist",
+      "name": "Renata Alberigi",
+      "jobTitle": "Brazilian painter & visual artist",
+      "description": "Renata Alberigi is a Brazilian painter and visual artist, born in Petrolina, Pernambuco, in 1993 and based in Caeté-Açu, in the Chapada Diamantina region of Bahia. Self-taught, she has painted since childhood. Her practice centres on paintings made by hand in oil and acrylic, alongside portraits, installations and hand-drawn digital work. Trees, rocks and river waters are her main sources of inspiration. Their forms, textures and movements inform a creative process that preserves the handmade gesture in both painting and digital media. A mother since 2019, Renata runs her own painting studio in Caeté-Açu, where she develops an independent artistic practice in daily contact with the landscape of Chapada Diamantina. Among her works is ANALOGIAEU, a painting series developed between 2014 and 2019 and presented at venues including the Museu de Antropologia do Vale do Paraíba and Espaço Tomie Ohtake at EducaMais Jacareí. Her experience also includes workshops and talks for children, young people and teachers, as well as serving as art director of RUADOFLOW from 2016 to 2026. Her practice brings together studio work, clothing and CD cover design, participation in exhibitions and installations, and the sharing of artistic practices in cultural and educational settings.",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/",
+      "email": "ataneribero@gmail.com",
+      "image": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/perfil/renata-alberigi.webp"
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/amor-incondicional-2026/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/amor-incondicional-2026/",
+      "name": "Amor incondicional",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Hand-painted works",
+      "artMedium": "Hand-painted artwork",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-01.webp",
+          "caption": "Amor incondicional — A pink river between rocks, with an orange-flowering tree beneath a cloudy sky.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-02.webp",
+          "caption": "Amor incondicional — Photograph 2 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-03.webp",
+          "caption": "Amor incondicional — Photograph 3 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-04.webp",
+          "caption": "Amor incondicional — Photograph 4 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-05.webp",
+          "caption": "Amor incondicional — Photograph 5 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-06.webp",
+          "caption": "Amor incondicional — Photograph 6 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-07.webp",
+          "caption": "Amor incondicional — Photograph 7 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-08.webp",
+          "caption": "Amor incondicional — Photograph 8 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-09.webp",
+          "caption": "Amor incondicional — Photograph 9 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-10.webp",
+          "caption": "Amor incondicional — Photograph 10 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-11.webp",
+          "caption": "Amor incondicional — Photograph 11 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-12.webp",
+          "caption": "Amor incondicional — Photograph 12 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-13.webp",
+          "caption": "Amor incondicional — Photograph 13 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-14.webp",
+          "caption": "Amor incondicional — Photograph 14 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/ponte-nova-2025/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/ponte-nova-2025/",
+      "name": "Ponte nova",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Hand-painted works",
+      "artMedium": "Hand-painted artwork",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-01.webp",
+          "caption": "Ponte nova — A rocky river landscape with red and amber water and green vegetation.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-02.webp",
+          "caption": "Ponte nova — Photograph 2 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-03.webp",
+          "caption": "Ponte nova — Photograph 3 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-04.webp",
+          "caption": "Ponte nova — Photograph 4 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-05.webp",
+          "caption": "Ponte nova — Photograph 5 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-06.webp",
+          "caption": "Ponte nova — Photograph 6 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-07.webp",
+          "caption": "Ponte nova — Photograph 7 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-08.webp",
+          "caption": "Ponte nova — Photograph 8 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/maternidade-2026/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/maternidade-2026/",
+      "name": "Maternidade",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Hand-painted works",
+      "artMedium": "Hand-painted artwork",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-01.webp",
+          "caption": "Maternidade — A narrow blue river surrounded by red rocks and green trees.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-02.webp",
+          "caption": "Maternidade — Photograph 2 of the hand-painted work and its details.",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-03.webp",
+          "caption": "Maternidade — Photograph 3 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-04.webp",
+          "caption": "Maternidade — Photograph 4 of the hand-painted work and its details.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-05.webp",
+          "caption": "Maternidade — Photograph 5 of the hand-painted work and its details.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-06.webp",
+          "caption": "Maternidade — Photograph 6 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-07.webp",
+          "caption": "Maternidade — Photograph 7 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-08.webp",
+          "caption": "Maternidade — Photograph 8 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-09.webp",
+          "caption": "Maternidade — Photograph 9 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-10.webp",
+          "caption": "Maternidade — Photograph 10 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-11.webp",
+          "caption": "Maternidade — Photograph 11 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-12.webp",
+          "caption": "Maternidade — Photograph 12 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/maternidade1-2025/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/maternidade1-2025/",
+      "name": "Maternidade1",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Hand-painted works",
+      "artMedium": "Hand-painted artwork",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-01.webp",
+          "caption": "Maternidade1 — A network of trees, branches and small pink and green marks.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-02.webp",
+          "caption": "Maternidade1 — Photograph 2 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-03.webp",
+          "caption": "Maternidade1 — Photograph 3 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-04.webp",
+          "caption": "Maternidade1 — Photograph 4 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-05.webp",
+          "caption": "Maternidade1 — Photograph 5 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-06.webp",
+          "caption": "Maternidade1 — Photograph 6 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-07.webp",
+          "caption": "Maternidade1 — Photograph 7 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-08.webp",
+          "caption": "Maternidade1 — Photograph 8 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-09.webp",
+          "caption": "Maternidade1 — Photograph 9 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-10.webp",
+          "caption": "Maternidade1 — Photograph 10 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-11.webp",
+          "caption": "Maternidade1 — Photograph 11 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-12.webp",
+          "caption": "Maternidade1 — Photograph 12 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-13.webp",
+          "caption": "Maternidade1 — Photograph 13 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/lar-2026/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/lar-2026/",
+      "name": "Lar",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Hand-painted works",
+      "artMedium": "Hand-painted artwork",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-01.webp",
+          "caption": "Lar — Interwoven trees and roots across a densely painted pink and green landscape.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-02.webp",
+          "caption": "Lar — Photograph 2 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-03.webp",
+          "caption": "Lar — Photograph 3 of the hand-painted work and its details.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-04.webp",
+          "caption": "Lar — Photograph 4 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-05.webp",
+          "caption": "Lar — Photograph 5 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-06.webp",
+          "caption": "Lar — Photograph 6 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-07.webp",
+          "caption": "Lar — Photograph 7 of the hand-painted work and its details.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-08.webp",
+          "caption": "Lar — Photograph 8 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-09.webp",
+          "caption": "Lar — Photograph 9 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-10.webp",
+          "caption": "Lar — Photograph 10 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-11.webp",
+          "caption": "Lar — Photograph 11 of the hand-painted work and its details.",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-12.webp",
+          "caption": "Lar — Photograph 12 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-13.webp",
+          "caption": "Lar — Photograph 13 of the hand-painted work and its details.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-14.webp",
+          "caption": "Lar — Photograph 14 of the hand-painted work and its details.",
+          "width": 1080,
+          "height": 1129
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/aureo-2025/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/aureo-2025/",
+      "name": "Aureo",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Hand-painted works",
+      "artMedium": "Hand-painted artwork",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-01.webp",
+          "caption": "Aureo — Sunlit rock formations beside dark water under a blue sky.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-02.webp",
+          "caption": "Aureo — Photograph 2 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-03.webp",
+          "caption": "Aureo — Photograph 3 of the hand-painted work and its details.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-04.webp",
+          "caption": "Aureo — Photograph 4 of the hand-painted work and its details.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-05.webp",
+          "caption": "Aureo — Photograph 5 of the hand-painted work and its details.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-06.webp",
+          "caption": "Aureo — Photograph 6 of the hand-painted work and its details.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-07.webp",
+          "caption": "Aureo — Photograph 7 of the hand-painted work and its details.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-08.webp",
+          "caption": "Aureo — Photograph 8 of the hand-painted work and its details.",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-part4-2024/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-part4-2024/",
+      "name": "ANALOGIAEU part4",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2024",
+      "artform": "Painting",
+      "keywords": "Hand-painted works",
+      "artMedium": "Hand-painted artwork",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-01.webp",
+          "caption": "ANALOGIAEU part4 — A richly coloured tree trunk and roots in a pink landscape.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-02.webp",
+          "caption": "ANALOGIAEU part4 — Photograph 2 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-03.webp",
+          "caption": "ANALOGIAEU part4 — Photograph 3 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-04.webp",
+          "caption": "ANALOGIAEU part4 — Photograph 4 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-05.webp",
+          "caption": "ANALOGIAEU part4 — Photograph 5 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-06.webp",
+          "caption": "ANALOGIAEU part4 — Photograph 6 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-07.webp",
+          "caption": "ANALOGIAEU part4 — Photograph 7 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-08.webp",
+          "caption": "ANALOGIAEU part4 — Photograph 8 of the hand-painted work and its details.",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/correnteza-2024/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/correnteza-2024/",
+      "name": "Correnteza",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2024",
+      "artform": "Painting",
+      "keywords": "Hand-painted works",
+      "artMedium": "Hand-painted artwork",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-01.webp",
+          "caption": "Correnteza — A pale river winding through a landscape of rocks and vegetation.",
+          "width": 859,
+          "height": 1073
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-02.webp",
+          "caption": "Correnteza — Photograph 2 of the hand-painted work and its details.",
+          "width": 858,
+          "height": 1071
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-03.webp",
+          "caption": "Correnteza — Photograph 3 of the hand-painted work and its details.",
+          "width": 900,
+          "height": 1124
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-04.webp",
+          "caption": "Correnteza — Photograph 4 of the hand-painted work and its details.",
+          "width": 892,
+          "height": 1115
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-05.webp",
+          "caption": "Correnteza — Photograph 5 of the hand-painted work and its details.",
+          "width": 900,
+          "height": 1125
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-06.webp",
+          "caption": "Correnteza — Photograph 6 of the hand-painted work and its details.",
+          "width": 899,
+          "height": 1122
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-07.webp",
+          "caption": "Correnteza — Photograph 7 of the hand-painted work and its details.",
+          "width": 900,
+          "height": 1124
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-08.webp",
+          "caption": "Correnteza — Photograph 8 of the hand-painted work and its details.",
+          "width": 899,
+          "height": 1123
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-2018/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/analogiaeu-2018/",
+      "name": "ANALOGIAEU",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2018",
+      "artform": "Painting",
+      "keywords": "Hand-painted works",
+      "artMedium": "Hand-painted artwork",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-01.webp",
+          "caption": "ANALOGIAEU — Branching blue and golden shapes in an intricately painted composition.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-02.webp",
+          "caption": "ANALOGIAEU — Photograph 2 of the hand-painted work and its details.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-03.webp",
+          "caption": "ANALOGIAEU — Photograph 3 of the hand-painted work and its details.",
+          "width": 1080,
+          "height": 810
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-04.webp",
+          "caption": "ANALOGIAEU — Photograph 4 of the hand-painted work and its details.",
+          "width": 848,
+          "height": 848
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-05.webp",
+          "caption": "ANALOGIAEU — Photograph 5 of the hand-painted work and its details.",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-06.webp",
+          "caption": "ANALOGIAEU — Photograph 6 of the hand-painted work and its details.",
+          "width": 1080,
+          "height": 610
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-07.webp",
+          "caption": "ANALOGIAEU — Photograph 7 of the hand-painted work and its details.",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-08.webp",
+          "caption": "ANALOGIAEU — Photograph 8 of the hand-painted work and its details.",
+          "width": 720,
+          "height": 900
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-09.webp",
+          "caption": "ANALOGIAEU — Photograph 9 of the hand-painted work and its details.",
+          "width": 720,
+          "height": 900
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-01/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-01/",
+      "name": "Mãe",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-01/image-01.webp",
+          "caption": "Mãe — hand-drawn digital painting, image 1.",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-02/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-02/",
+      "name": "Digital painting 02",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-01.webp",
+          "caption": "Digital painting 02 — hand-drawn digital painting, image 1.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-02.webp",
+          "caption": "Digital painting 02 — hand-drawn digital painting, image 2.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-03.webp",
+          "caption": "Digital painting 02 — hand-drawn digital painting, image 3.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-04.webp",
+          "caption": "Digital painting 02 — hand-drawn digital painting, image 4.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-05.webp",
+          "caption": "Digital painting 02 — hand-drawn digital painting, image 5.",
+          "width": 640,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-03/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-03/",
+      "name": "Digital painting 03",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-01.webp",
+          "caption": "Digital painting 03 — hand-drawn digital painting, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-02.webp",
+          "caption": "Digital painting 03 — hand-drawn digital painting, image 2.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-03.webp",
+          "caption": "Digital painting 03 — hand-drawn digital painting, image 3.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-04.webp",
+          "caption": "Digital painting 03 — hand-drawn digital painting, image 4.",
+          "width": 944,
+          "height": 1180
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-05.webp",
+          "caption": "Digital painting 03 — hand-drawn digital painting, image 5.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-04/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-04/",
+      "name": "Digital painting 04",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-01.webp",
+          "caption": "Digital painting 04 — hand-drawn digital painting, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-02.webp",
+          "caption": "Digital painting 04 — hand-drawn digital painting, image 2.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-03.webp",
+          "caption": "Digital painting 04 — hand-drawn digital painting, image 3.",
+          "width": 916,
+          "height": 1144
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-04.webp",
+          "caption": "Digital painting 04 — hand-drawn digital painting, image 4.",
+          "width": 1080,
+          "height": 1349
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-05/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-05/",
+      "name": "Digital painting 05",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-05/image-01.webp",
+          "caption": "Digital painting 05 — hand-drawn digital painting, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-05/image-02.webp",
+          "caption": "Digital painting 05 — hand-drawn digital painting, image 2.",
+          "width": 944,
+          "height": 1180
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-06/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-06/",
+      "name": "Digital painting 06",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-06/image-01.webp",
+          "caption": "Digital painting 06 — hand-drawn digital painting, image 1.",
+          "width": 1080,
+          "height": 1352
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-07/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-07/",
+      "name": "Digital painting 07",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-07/image-01.webp",
+          "caption": "Digital painting 07 — hand-drawn digital painting, image 1.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-08/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-08/",
+      "name": "Digital painting 08",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-08/image-01.webp",
+          "caption": "Digital painting 08 — hand-drawn digital painting, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-08/image-02.webp",
+          "caption": "Digital painting 08 — hand-drawn digital painting, image 2.",
+          "width": 1080,
+          "height": 1349
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-09/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-09/",
+      "name": "Digital painting 09",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-01.webp",
+          "caption": "Digital painting 09 — hand-drawn digital painting, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-02.webp",
+          "caption": "Digital painting 09 — hand-drawn digital painting, image 2.",
+          "width": 720,
+          "height": 900
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-03.webp",
+          "caption": "Digital painting 09 — hand-drawn digital painting, image 3.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-10/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-10/",
+      "name": "Digital painting 10",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-01.webp",
+          "caption": "Digital painting 10 — hand-drawn digital painting, image 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-02.webp",
+          "caption": "Digital painting 10 — hand-drawn digital painting, image 2.",
+          "width": 536,
+          "height": 670
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-03.webp",
+          "caption": "Digital painting 10 — hand-drawn digital painting, image 3.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-04.webp",
+          "caption": "Digital painting 10 — hand-drawn digital painting, image 4.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-11/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/works/digital-11/",
+      "name": "Digital painting 11",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Digital paintings",
+      "artMedium": "Hand-drawn digital painting",
+      "inLanguage": "en",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-11/image-01.webp",
+          "caption": "Digital painting 11 — hand-drawn digital painting, image 1.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    }
+  ]
+}

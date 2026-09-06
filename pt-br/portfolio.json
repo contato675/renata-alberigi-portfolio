@@ -1,0 +1,1196 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist",
+      "name": "Renata Alberigi",
+      "jobTitle": "Pintora e artista visual brasileira",
+      "description": "Renata Alberigi é pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada em Caeté-Açu, na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão. Árvores, rochas e águas de rios são suas principais fontes de inspiração. As formas, texturas e movimentos desses elementos alimentam um processo de criação que mantém o gesto manual presente tanto na pintura quanto no meio digital. Mãe desde 2019, Renata mantém seu próprio ateliê de pintura em Caeté-Açu, onde desenvolve uma produção autoral independente em contato cotidiano com a paisagem da Chapada Diamantina. Entre seus trabalhos, destaca-se ANALOGIAEU, série de pinturas construída entre 2014 e 2019 e apresentada em espaços como o Museu de Antropologia do Vale do Paraíba e o Espaço Tomie Ohtake, no EducaMais Jacareí. Sua trajetória também inclui oficinas e palestras para crianças, jovens e professores, além da atuação como diretora de arte da RUADOFLOW entre 2016 e 2026. Ao longo desse percurso, reúne a criação em ateliê, o design de roupas e de capas de CDs, a participação em exposições e instalações e a experiência de compartilhar práticas artísticas em espaços culturais e educativos.",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/",
+      "email": "ataneribero@gmail.com",
+      "image": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/perfil/renata-alberigi.webp"
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/amor-incondicional-2026/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/amor-incondicional-2026/",
+      "name": "Amor incondicional",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Pinturas feitas à mão",
+      "artMedium": "Pintura feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-01.webp",
+          "caption": "Amor incondicional — Um rio rosa entre rochas, com uma árvore de flores alaranjadas sob um céu de nuvens.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-02.webp",
+          "caption": "Amor incondicional — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-03.webp",
+          "caption": "Amor incondicional — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-04.webp",
+          "caption": "Amor incondicional — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-05.webp",
+          "caption": "Amor incondicional — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-06.webp",
+          "caption": "Amor incondicional — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-07.webp",
+          "caption": "Amor incondicional — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-08.webp",
+          "caption": "Amor incondicional — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-09.webp",
+          "caption": "Amor incondicional — Fotografia 9 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-10.webp",
+          "caption": "Amor incondicional — Fotografia 10 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-11.webp",
+          "caption": "Amor incondicional — Fotografia 11 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-12.webp",
+          "caption": "Amor incondicional — Fotografia 12 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-13.webp",
+          "caption": "Amor incondicional — Fotografia 13 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/amor-incondicional-2026/image-14.webp",
+          "caption": "Amor incondicional — Fotografia 14 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ponte-nova-2025/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/ponte-nova-2025/",
+      "name": "Ponte nova",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Pinturas feitas à mão",
+      "artMedium": "Pintura feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-01.webp",
+          "caption": "Ponte nova — Uma paisagem de rio rochoso, águas vermelhas e âmbar e vegetação verde.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-02.webp",
+          "caption": "Ponte nova — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-03.webp",
+          "caption": "Ponte nova — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-04.webp",
+          "caption": "Ponte nova — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-05.webp",
+          "caption": "Ponte nova — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-06.webp",
+          "caption": "Ponte nova — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-07.webp",
+          "caption": "Ponte nova — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/ponte-nova-2025/image-08.webp",
+          "caption": "Ponte nova — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade-2026/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade-2026/",
+      "name": "Maternidade",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Pinturas feitas à mão",
+      "artMedium": "Pintura feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-01.webp",
+          "caption": "Maternidade — Um rio azul estreito cercado por rochas avermelhadas e árvores verdes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-02.webp",
+          "caption": "Maternidade — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-03.webp",
+          "caption": "Maternidade — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-04.webp",
+          "caption": "Maternidade — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-05.webp",
+          "caption": "Maternidade — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-06.webp",
+          "caption": "Maternidade — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-07.webp",
+          "caption": "Maternidade — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-08.webp",
+          "caption": "Maternidade — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-09.webp",
+          "caption": "Maternidade — Fotografia 9 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-10.webp",
+          "caption": "Maternidade — Fotografia 10 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-11.webp",
+          "caption": "Maternidade — Fotografia 11 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade-2026/image-12.webp",
+          "caption": "Maternidade — Fotografia 12 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade1-2025/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/maternidade1-2025/",
+      "name": "Maternidade1",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Pinturas feitas à mão",
+      "artMedium": "Pintura feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-01.webp",
+          "caption": "Maternidade1 — Uma trama de árvores, galhos e pequenas marcas rosas e verdes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-02.webp",
+          "caption": "Maternidade1 — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-03.webp",
+          "caption": "Maternidade1 — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-04.webp",
+          "caption": "Maternidade1 — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-05.webp",
+          "caption": "Maternidade1 — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-06.webp",
+          "caption": "Maternidade1 — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-07.webp",
+          "caption": "Maternidade1 — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-08.webp",
+          "caption": "Maternidade1 — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-09.webp",
+          "caption": "Maternidade1 — Fotografia 9 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-10.webp",
+          "caption": "Maternidade1 — Fotografia 10 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-11.webp",
+          "caption": "Maternidade1 — Fotografia 11 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-12.webp",
+          "caption": "Maternidade1 — Fotografia 12 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/maternidade1-2025/image-13.webp",
+          "caption": "Maternidade1 — Fotografia 13 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/lar-2026/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/lar-2026/",
+      "name": "Lar",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Pinturas feitas à mão",
+      "artMedium": "Pintura feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-01.webp",
+          "caption": "Lar — Árvores e raízes entrelaçadas em uma paisagem de pintura densa, rosa e verde.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-02.webp",
+          "caption": "Lar — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-03.webp",
+          "caption": "Lar — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-04.webp",
+          "caption": "Lar — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-05.webp",
+          "caption": "Lar — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-06.webp",
+          "caption": "Lar — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-07.webp",
+          "caption": "Lar — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-08.webp",
+          "caption": "Lar — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-09.webp",
+          "caption": "Lar — Fotografia 9 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-10.webp",
+          "caption": "Lar — Fotografia 10 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-11.webp",
+          "caption": "Lar — Fotografia 11 da pintura feita à mão e de seus detalhes.",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-12.webp",
+          "caption": "Lar — Fotografia 12 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-13.webp",
+          "caption": "Lar — Fotografia 13 da pintura feita à mão e de seus detalhes.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/lar-2026/image-14.webp",
+          "caption": "Lar — Fotografia 14 da pintura feita à mão e de seus detalhes.",
+          "width": 1080,
+          "height": 1129
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/aureo-2025/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/aureo-2025/",
+      "name": "Aureo",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Pinturas feitas à mão",
+      "artMedium": "Pintura feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-01.webp",
+          "caption": "Aureo — Formações rochosas iluminadas junto a águas escuras sob um céu azul.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-02.webp",
+          "caption": "Aureo — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-03.webp",
+          "caption": "Aureo — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-04.webp",
+          "caption": "Aureo — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-05.webp",
+          "caption": "Aureo — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-06.webp",
+          "caption": "Aureo — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-07.webp",
+          "caption": "Aureo — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/aureo-2025/image-08.webp",
+          "caption": "Aureo — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-part4-2024/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-part4-2024/",
+      "name": "ANALOGIAEU part4",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2024",
+      "artform": "Painting",
+      "keywords": "Pinturas feitas à mão",
+      "artMedium": "Pintura feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-01.webp",
+          "caption": "ANALOGIAEU part4 — Um tronco e suas raízes em muitas cores, em uma paisagem rosa.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-02.webp",
+          "caption": "ANALOGIAEU part4 — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-03.webp",
+          "caption": "ANALOGIAEU part4 — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-04.webp",
+          "caption": "ANALOGIAEU part4 — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-05.webp",
+          "caption": "ANALOGIAEU part4 — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-06.webp",
+          "caption": "ANALOGIAEU part4 — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-07.webp",
+          "caption": "ANALOGIAEU part4 — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-part4-2024/image-08.webp",
+          "caption": "ANALOGIAEU part4 — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/correnteza-2024/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/correnteza-2024/",
+      "name": "Correnteza",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2024",
+      "artform": "Painting",
+      "keywords": "Pinturas feitas à mão",
+      "artMedium": "Pintura feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-01.webp",
+          "caption": "Correnteza — Um rio claro serpenteando por uma paisagem de rochas e vegetação.",
+          "width": 859,
+          "height": 1073
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-02.webp",
+          "caption": "Correnteza — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "width": 858,
+          "height": 1071
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-03.webp",
+          "caption": "Correnteza — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "width": 900,
+          "height": 1124
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-04.webp",
+          "caption": "Correnteza — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "width": 892,
+          "height": 1115
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-05.webp",
+          "caption": "Correnteza — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "width": 900,
+          "height": 1125
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-06.webp",
+          "caption": "Correnteza — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "width": 899,
+          "height": 1122
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-07.webp",
+          "caption": "Correnteza — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "width": 900,
+          "height": 1124
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/correnteza-2024/image-08.webp",
+          "caption": "Correnteza — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "width": 899,
+          "height": 1123
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-2018/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/analogiaeu-2018/",
+      "name": "ANALOGIAEU",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "dateCreated": "2018",
+      "artform": "Painting",
+      "keywords": "Pinturas feitas à mão",
+      "artMedium": "Pintura feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-01.webp",
+          "caption": "ANALOGIAEU — Formas ramificadas azuis e douradas em uma composição de pintura detalhada.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-02.webp",
+          "caption": "ANALOGIAEU — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-03.webp",
+          "caption": "ANALOGIAEU — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "width": 1080,
+          "height": 810
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-04.webp",
+          "caption": "ANALOGIAEU — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "width": 848,
+          "height": 848
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-05.webp",
+          "caption": "ANALOGIAEU — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-06.webp",
+          "caption": "ANALOGIAEU — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "width": 1080,
+          "height": 610
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-07.webp",
+          "caption": "ANALOGIAEU — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-08.webp",
+          "caption": "ANALOGIAEU — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "width": 720,
+          "height": 900
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/analogiaeu-2018/image-09.webp",
+          "caption": "ANALOGIAEU — Fotografia 9 da pintura feita à mão e de seus detalhes.",
+          "width": 720,
+          "height": 900
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-01/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-01/",
+      "name": "Mãe",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-01/image-01.webp",
+          "caption": "Mãe — pintura digital feita à mão, imagem 1.",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-02/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-02/",
+      "name": "Pintura digital 02",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-01.webp",
+          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 1.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-02.webp",
+          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 2.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-03.webp",
+          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 3.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-04.webp",
+          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 4.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-02/image-05.webp",
+          "caption": "Pintura digital 02 — pintura digital feita à mão, imagem 5.",
+          "width": 640,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-03/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-03/",
+      "name": "Pintura digital 03",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-01.webp",
+          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-02.webp",
+          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 2.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-03.webp",
+          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 3.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-04.webp",
+          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 4.",
+          "width": 944,
+          "height": 1180
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-03/image-05.webp",
+          "caption": "Pintura digital 03 — pintura digital feita à mão, imagem 5.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-04/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-04/",
+      "name": "Pintura digital 04",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-01.webp",
+          "caption": "Pintura digital 04 — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-02.webp",
+          "caption": "Pintura digital 04 — pintura digital feita à mão, imagem 2.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-03.webp",
+          "caption": "Pintura digital 04 — pintura digital feita à mão, imagem 3.",
+          "width": 916,
+          "height": 1144
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-04/image-04.webp",
+          "caption": "Pintura digital 04 — pintura digital feita à mão, imagem 4.",
+          "width": 1080,
+          "height": 1349
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-05/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-05/",
+      "name": "Pintura digital 05",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-05/image-01.webp",
+          "caption": "Pintura digital 05 — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-05/image-02.webp",
+          "caption": "Pintura digital 05 — pintura digital feita à mão, imagem 2.",
+          "width": 944,
+          "height": 1180
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-06/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-06/",
+      "name": "Pintura digital 06",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-06/image-01.webp",
+          "caption": "Pintura digital 06 — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1352
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-07/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-07/",
+      "name": "Pintura digital 07",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-07/image-01.webp",
+          "caption": "Pintura digital 07 — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-08/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-08/",
+      "name": "Pintura digital 08",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-08/image-01.webp",
+          "caption": "Pintura digital 08 — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-08/image-02.webp",
+          "caption": "Pintura digital 08 — pintura digital feita à mão, imagem 2.",
+          "width": 1080,
+          "height": 1349
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-09/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-09/",
+      "name": "Pintura digital 09",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-01.webp",
+          "caption": "Pintura digital 09 — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-02.webp",
+          "caption": "Pintura digital 09 — pintura digital feita à mão, imagem 2.",
+          "width": 720,
+          "height": 900
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-09/image-03.webp",
+          "caption": "Pintura digital 09 — pintura digital feita à mão, imagem 3.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-10/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-10/",
+      "name": "Pintura digital 10",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-01.webp",
+          "caption": "Pintura digital 10 — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-02.webp",
+          "caption": "Pintura digital 10 — pintura digital feita à mão, imagem 2.",
+          "width": 536,
+          "height": 670
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-03.webp",
+          "caption": "Pintura digital 10 — pintura digital feita à mão, imagem 3.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-10/image-04.webp",
+          "caption": "Pintura digital 10 — pintura digital feita à mão, imagem 4.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-11/",
+      "url": "https://contato675.github.io/renata-alberigi-portfolio/pt-br/works/digital-11/",
+      "name": "Pintura digital 11",
+      "creator": {
+        "@id": "https://contato675.github.io/renata-alberigi-portfolio/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitais",
+      "artMedium": "Pintura digital feita à mão",
+      "inLanguage": "pt-BR",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://contato675.github.io/renata-alberigi-portfolio/assets/images/obras/digital-11/image-01.webp",
+          "caption": "Pintura digital 11 — pintura digital feita à mão, imagem 1.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    }
+  ]
+}

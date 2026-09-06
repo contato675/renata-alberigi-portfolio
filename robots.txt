@@ -1,0 +1,5 @@
+# Must be served at https://contato675.github.io/robots.txt to control crawlers.
+# At a project subpath this file is a deployment reference only.
+# robots.txt is not access control or a copyright licence.
+User-agent: *
+Disallow: /renata-alberigi-portfolio/
