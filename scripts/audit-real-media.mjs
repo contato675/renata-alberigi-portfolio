@@ -1,3 +1,4 @@
+import {inspectMediaMetadata} from './audit/media-metadata.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -33,11 +34,11 @@ try{
    assert.ok(frames[i].src.startsWith('https://www.youtube-nocookie.com/embed/'+ids[i]));assert.ok(!frames[i].src.includes('autoplay=1'));assert.ok(frames[i].title.length>5);assert.equal(frames[i].referrer,'strict-origin-when-cross-origin');
   }
  });
- await check('all 40 permanent project pages return localized complete HTML',async()=>{
+ await check('all 42 permanent project pages return localized complete HTML',async()=>{
   for(const locale of ['en','pt-BR'])for(const w of data.works){const url=server.url+(locale==='en'?'':'pt-br/')+'works/'+w.id+'/';const r=await fetch(url),html=await r.text();assert.equal(r.status,200);assert.ok(html.includes('lang="'+locale+'"'));assert.ok(html.includes(w.images.at(-1).path));assert.ok(html.includes('noindex'));}
  });
  await check('preview media has no EXIF GPS/XMP metadata and no original file extensions',async()=>{
-  const manifest=JSON.parse(await fs.readFile(path.join(root,'artifacts/media-inspection/provenance.json'),'utf8'));assert.equal(manifest.length,124);assert.ok(manifest.every(r=>r.metadataRemoved&&r.output.endsWith('.webp')));
+  const media=await inspectMediaMetadata(root,data);assert.equal(media.personalMetadata,0);assert.ok(media.images>=192);
  });
  const report={date:new Date().toISOString(),browser:(await chrome.call('Browser.getVersion')).product,works:data.works.length,artworkImages:data.works.reduce((n,w)=>n+w.images.length,0),results,failures:results.filter(r=>r.status==='FAIL').length,limits:['YouTube frame source and consent verified; playback/network availability controlled by YouTube','Real-device gestures, assistive-technology and artist colour/title approval remain pending']};
  await fs.writeFile(path.join(root,'artifacts/apple-like/real-media-report.json'),JSON.stringify(report,null,2));

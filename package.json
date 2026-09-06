@@ -8,13 +8,16 @@
   },
   "scripts": {
     "check": "node scripts/check.mjs",
-    "test": "node --test",
+    "test": "node --test tests/*.test.mjs",
     "build": "node scripts/build.mjs",
     "verify": "npm run check && npm test && npm run build",
     "preview": "node scripts/serve.mjs",
     "check:publish": "node scripts/check.mjs --publish",
     "build:release": "node scripts/build.mjs --release",
     "design:apple": "node scripts/design-audit.mjs",
-    "i18n:check": "node scripts/check.mjs"
+    "i18n:check": "node scripts/check.mjs",
+    "design:navigation": "node scripts/audit-navigation.mjs",
+    "design:brand": "node scripts/audit-brand.mjs",
+    "design:media": "node scripts/audit-real-media.mjs"
   }
 }

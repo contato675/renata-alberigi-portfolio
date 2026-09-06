@@ -1,0 +1,2764 @@
+{
+  "date": "2026-09-06T18:41:43.405Z",
+  "browser": "Chrome/152.0.7977.77",
+  "platform": "win32",
+  "policy": "Apple-like + Müller-Brockmann; no certification by Apple",
+  "status": "PASS_WITH_EDITORIAL_PENDING",
+  "scope": {
+    "actual": "Portfolio preview with 21 supplied artwork records and their photographs",
+    "fixture": "Isolated neutral calibration media, not real artwork; never part of dist/",
+    "widths": [
+      320,
+      390,
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "locales": [
+      "en",
+      "pt-BR"
+    ]
+  },
+  "results": [
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Brand Design Collection",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Brand Design Collection",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-320.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Brand Design Collection",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Brand Design Collection",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-390.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Brand Design Collection",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Brand Design Collection",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-480.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Brand Design Collection",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Brand Design Collection",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-768.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Brand Design Collection",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Brand Design Collection",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-1024.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Brand Design Collection",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Brand Design Collection",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-1440.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Brand Design Collection",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Brand Design Collection",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-1920.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Coleção de design de marca",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Coleção de design",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-320.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Coleção de design de marca",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Coleção de design",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-390.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Coleção de design de marca",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Coleção de design",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-480.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Coleção de design de marca",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Coleção de design",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-768.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Coleção de design de marca",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Coleção de design",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-1024.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Coleção de design de marca",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Coleção de design",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-1440.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Coleção de design de marca",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade 1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Áureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renascida",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fluir",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Balanço",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Alexandrina",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Nara",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Nadine",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Sol",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fernanda",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Raio Rubi",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Capa do Disco de Rap",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "RUADOFLOW — Coleção de design",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-1920.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-320.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-390.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-480.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-768.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-1024.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-1440.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navigation",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-1920.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-320.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-390.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-480.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-768.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-1024.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-1440.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Navegação",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-1920.png"
+    }
+  ],
+  "checks": [
+    {
+      "name": "native dialog: open, next, previous, Escape, focus and page position",
+      "status": "PASS"
+    },
+    {
+      "name": "keyboard focus remains within native dialog",
+      "status": "PASS"
+    },
+    {
+      "name": "single image hides pagination",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile viewer: intact media, contained layout, close target",
+      "status": "PASS"
+    },
+    {
+      "name": "reduced motion disables overlay animation and smooth scroll",
+      "status": "PASS"
+    },
+    {
+      "name": "browser Back closes gallery and Forward restores it",
+      "status": "PASS"
+    },
+    {
+      "name": "project detail works without JavaScript",
+      "status": "PASS"
+    },
+    {
+      "name": "no player iframe or app third-party before click; OS injection recorded separately",
+      "status": "PASS"
+    },
+    {
+      "name": "grid overlay uses the exact content box",
+      "status": "PASS"
+    }
+  ],
+  "environmentResources": [
+    "http://gc.kis.v2.scr.kaspersky-labs.com"
+  ],
+  "environmentNote": "Observed OS antivirus injection, not app code. Security software was not disabled; external hosts are reported without query strings.",
+  "pending": [
+    "Final artist approval of titles, years, medium per work and photographic colour",
+    "Human review of the English biography",
+    "VoiceOver/TalkBack and real iOS/Android touch gestures",
+    "Real browser 200% text zoom and media fidelity/colour",
+    "Field performance measurements and live origin-root robots verification"
+  ],
+  "failures": 0,
+  "sourceHashes": {
+    "scripts/render.mjs": "d6dd17d41722cbea417bc4941e16aa4615e757df1daff326e9273ddcfde64856",
+    "scripts/navigation.mjs": "9dd1a37371016533458b3c2b69ca1ef36a5d6d72958889d51019e7ba0f9a9254",
+    "scripts/brand-render.mjs": "de29af39c3eed7e156cfd548f9c4288c51d7d7dc375ca7ebe2f7336a1f2fb03d",
+    "scripts/build.mjs": "b4e8f02e0aeb60d5d6143f14cb83d7610037dc22bc2474d5db02569fc6466e7a",
+    "scripts/discovery.mjs": "0d4245014dbbce4a7aa35b155028c8913b6896d798e25a8f8160ddc9cede54f8",
+    "scripts/content.mjs": "878f43fef0102cb5269c4b76c2b44105ee3101607399de9c373bcfe3e28c719f",
+    "scripts/route-aliases.mjs": "717793c3b2a200a600b3e649c057e6aa94a3f007397b69520fc7c9632a212c32",
+    "scripts/design-audit.mjs": "0e0151a2a9ea11e346fc6464506ec3e50745f1c929412b45ef70b72ddffb713c",
+    "scripts/audit-navigation.mjs": "56795de6ab3172f986bcbcf6d6a0e74648c73ecede8fc3030fdbd4393ba53e93",
+    "scripts/audit-brand.mjs": "8f2b552ee26bc19c7672efee69c667ccd0d610e07fde35ba7b8d69b38e388099",
+    "scripts/audit-real-media.mjs": "9c9428564f4bd8db6735c0627e179e20f9b984f960463115181361cc6dc251e6",
+    "site/index.template.html": "75b427b9dba7bf9d400e31b94a17a4d00921a9d60df8358020d6ad4b1c939c83",
+    "site/assets/css/tokens.css": "7e18e4e1e4608b0df3a986f963df5c31f8c5853968a2d63d667341f70bd6efbd",
+    "site/assets/css/scaffold.css": "63785423ae6f002f67a7e51ddc66beaf166f7eafd1ac3f8ac1d0f46873d81a59",
+    "site/assets/css/gallery.css": "1bcda5eb2963ad6061c2ff2c385dd2e4f22d81224aa275bc84c17dcd29a126be",
+    "site/assets/css/navigation.css": "13fd3c3a9de00305c12a5d01a9ba606d23bf1133ab925278b1b97528f809f0a0",
+    "site/assets/css/brand.css": "df135724501187668c30b762de2f6a2142d81e154f0ad2b529711cc82c1c8ff7",
+    "site/assets/js/gallery.js": "060362ccda9b223ddb05b7f7de6cc1131e312eb2ccd771b546b3b57c949b19d3",
+    "site/assets/js/navigation.js": "059342b8d517e180f49717cceb6e71e25c89417b5fc353716b8d8ebb5472c01b",
+    "site/assets/js/brand-carousel.js": "b720dfdec19c95da7bb8c94c9b2003c715d69d02f88566f02fafb9f5836cd8a4",
+    "site/content/artist.json": "e303895dc65931f63d2f3db92aae849f3161659727a327d59e0215e4a41bc237",
+    "site/content/works.json": "1b37bddce2e5033f9e1ba0fa70e0b6bdc0f9bcaf83ec2b57d4943a59148ebdeb",
+    "site/content/locales/en.json": "20dd53d1d5324614b069f852bd3211aab3c0dd511124ad066a913ef2d7ca7652",
+    "site/content/locales/pt-BR.json": "ba661863171b109a273498859598084a86438f822b9bf1a2b37a5946c3cc6d47"
+  },
+  "baseCommit": "f84e37dc25033128e746bd365e9e642a4f7eedb1",
+  "scopeNote": "Editorial revision, new portrait, accessible mobile drawer, complete RUADOFLOW collection; public preview, not final release approval."
+}

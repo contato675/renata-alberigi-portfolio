@@ -8,10 +8,10 @@
     "originalTitle": "Amor incondicional",
     "year": "2026",
     "technique": {
-      "en": "Hand-painted artwork",
-      "pt-BR": "Pintura feita à mão"
+      "en": "Oil on canvas",
+      "pt-BR": "Óleo sobre tela"
     },
-    "dimensions": null,
+    "dimensions": "100 × 80 cm",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -164,10 +164,10 @@
     "originalTitle": "Ponte nova",
     "year": "2025",
     "technique": {
-      "en": "Hand-painted artwork",
-      "pt-BR": "Pintura feita à mão"
+      "en": "Oil on canvas",
+      "pt-BR": "Óleo sobre tela"
     },
-    "dimensions": null,
+    "dimensions": "120 × 80 cm",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -266,10 +266,10 @@
     "originalTitle": "Maternidade",
     "year": "2026",
     "technique": {
-      "en": "Hand-painted artwork",
-      "pt-BR": "Pintura feita à mão"
+      "en": "Oil on canvas",
+      "pt-BR": "Óleo sobre tela"
     },
-    "dimensions": null,
+    "dimensions": "100 × 80 cm",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -391,16 +391,16 @@
   {
     "id": "maternidade1-2025",
     "title": {
-      "en": "Maternidade1",
-      "pt-BR": "Maternidade1"
+      "en": "Maternidade 1",
+      "pt-BR": "Maternidade 1"
     },
-    "originalTitle": "Maternidade1",
+    "originalTitle": "Maternidade 1",
     "year": "2025",
     "technique": {
-      "en": "Hand-painted artwork",
-      "pt-BR": "Pintura feita à mão"
+      "en": "Acrylic and pastel on canvas, varnished",
+      "pt-BR": "Acrílica e giz pastel sobre tela, envernizada"
     },
-    "dimensions": null,
+    "dimensions": "100 × 80 cm",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -414,8 +414,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — A network of trees, branches and small pink and green marks.",
-          "pt-BR": "Maternidade1 — Uma trama de árvores, galhos e pequenas marcas rosas e verdes."
+          "en": "Maternidade 1 — A network of trees, branches and small pink and green marks.",
+          "pt-BR": "Maternidade 1 — Uma trama de árvores, galhos e pequenas marcas rosas e verdes."
         }
       },
       {
@@ -423,8 +423,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 2 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 2 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 2 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -432,8 +432,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 3 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 3 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 3 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -441,8 +441,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 4 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 4 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 4 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -450,8 +450,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 5 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 5 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 5 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -459,8 +459,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 6 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 6 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 6 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -468,8 +468,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 7 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 7 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 7 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -477,8 +477,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 8 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 8 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 8 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -486,8 +486,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 9 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 9 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 9 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 9 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -495,8 +495,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 10 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 10 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 10 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 10 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -504,8 +504,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 11 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 11 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 11 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 11 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -513,8 +513,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 12 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 12 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 12 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 12 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -522,8 +522,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Maternidade1 — Photograph 13 of the hand-painted work and its details.",
-          "pt-BR": "Maternidade1 — Fotografia 13 da pintura feita à mão e de seus detalhes."
+          "en": "Maternidade 1 — Photograph 13 of the hand-painted work and its details.",
+          "pt-BR": "Maternidade 1 — Fotografia 13 da pintura feita à mão e de seus detalhes."
         }
       }
     ]
@@ -537,10 +537,10 @@
     "originalTitle": "Lar",
     "year": "2026",
     "technique": {
-      "en": "Hand-painted artwork",
-      "pt-BR": "Pintura feita à mão"
+      "en": "Acrylic and pastel on canvas, varnished",
+      "pt-BR": "Acrílica e giz pastel sobre tela, envernizada"
     },
-    "dimensions": null,
+    "dimensions": "100 × 120 cm",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -680,16 +680,16 @@
   {
     "id": "aureo-2025",
     "title": {
-      "en": "Aureo",
-      "pt-BR": "Aureo"
+      "en": "Áureo",
+      "pt-BR": "Áureo"
     },
-    "originalTitle": "Aureo",
+    "originalTitle": "Áureo",
     "year": "2025",
     "technique": {
-      "en": "Hand-painted artwork",
-      "pt-BR": "Pintura feita à mão"
+      "en": "Oil on canvas",
+      "pt-BR": "Óleo sobre tela"
     },
-    "dimensions": null,
+    "dimensions": "40 × 60 cm",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -703,8 +703,8 @@
         "width": 960,
         "height": 1280,
         "alt": {
-          "en": "Aureo — Sunlit rock formations beside dark water under a blue sky.",
-          "pt-BR": "Aureo — Formações rochosas iluminadas junto a águas escuras sob um céu azul."
+          "en": "Áureo — Sunlit rock formations beside dark water under a blue sky.",
+          "pt-BR": "Áureo — Formações rochosas iluminadas junto a águas escuras sob um céu azul."
         },
         "variants": [
           {
@@ -719,8 +719,8 @@
         "width": 1440,
         "height": 1800,
         "alt": {
-          "en": "Aureo — Photograph 2 of the hand-painted work and its details.",
-          "pt-BR": "Aureo — Fotografia 2 da pintura feita à mão e de seus detalhes."
+          "en": "Áureo — Photograph 2 of the hand-painted work and its details.",
+          "pt-BR": "Áureo — Fotografia 2 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -728,8 +728,8 @@
         "width": 640,
         "height": 853,
         "alt": {
-          "en": "Aureo — Photograph 3 of the hand-painted work and its details.",
-          "pt-BR": "Aureo — Fotografia 3 da pintura feita à mão e de seus detalhes."
+          "en": "Áureo — Photograph 3 of the hand-painted work and its details.",
+          "pt-BR": "Áureo — Fotografia 3 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -737,8 +737,8 @@
         "width": 960,
         "height": 1280,
         "alt": {
-          "en": "Aureo — Photograph 4 of the hand-painted work and its details.",
-          "pt-BR": "Aureo — Fotografia 4 da pintura feita à mão e de seus detalhes."
+          "en": "Áureo — Photograph 4 of the hand-painted work and its details.",
+          "pt-BR": "Áureo — Fotografia 4 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -746,8 +746,8 @@
         "width": 960,
         "height": 1280,
         "alt": {
-          "en": "Aureo — Photograph 5 of the hand-painted work and its details.",
-          "pt-BR": "Aureo — Fotografia 5 da pintura feita à mão e de seus detalhes."
+          "en": "Áureo — Photograph 5 of the hand-painted work and its details.",
+          "pt-BR": "Áureo — Fotografia 5 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -755,8 +755,8 @@
         "width": 960,
         "height": 1280,
         "alt": {
-          "en": "Aureo — Photograph 6 of the hand-painted work and its details.",
-          "pt-BR": "Aureo — Fotografia 6 da pintura feita à mão e de seus detalhes."
+          "en": "Áureo — Photograph 6 of the hand-painted work and its details.",
+          "pt-BR": "Áureo — Fotografia 6 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -764,8 +764,8 @@
         "width": 960,
         "height": 1280,
         "alt": {
-          "en": "Aureo — Photograph 7 of the hand-painted work and its details.",
-          "pt-BR": "Aureo — Fotografia 7 da pintura feita à mão e de seus detalhes."
+          "en": "Áureo — Photograph 7 of the hand-painted work and its details.",
+          "pt-BR": "Áureo — Fotografia 7 da pintura feita à mão e de seus detalhes."
         }
       },
       {
@@ -773,8 +773,8 @@
         "width": 960,
         "height": 1280,
         "alt": {
-          "en": "Aureo — Photograph 8 of the hand-painted work and its details.",
-          "pt-BR": "Aureo — Fotografia 8 da pintura feita à mão e de seus detalhes."
+          "en": "Áureo — Photograph 8 of the hand-painted work and its details.",
+          "pt-BR": "Áureo — Fotografia 8 da pintura feita à mão e de seus detalhes."
         }
       }
     ]
@@ -788,10 +788,10 @@
     "originalTitle": "ANALOGIAEU part4",
     "year": "2024",
     "technique": {
-      "en": "Hand-painted artwork",
-      "pt-BR": "Pintura feita à mão"
+      "en": "Oil on canvas",
+      "pt-BR": "Óleo sobre tela"
     },
-    "dimensions": null,
+    "dimensions": "100 × 80 cm",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -882,18 +882,18 @@
     ]
   },
   {
-    "id": "correnteza-2024",
+    "id": "correnteza-2022",
     "title": {
       "en": "Correnteza",
       "pt-BR": "Correnteza"
     },
     "originalTitle": "Correnteza",
-    "year": "2024",
+    "year": "2022",
     "technique": {
-      "en": "Hand-painted artwork",
-      "pt-BR": "Pintura feita à mão"
+      "en": "Oil on canvas",
+      "pt-BR": "Óleo sobre tela"
     },
-    "dimensions": null,
+    "dimensions": "70 × 100 cm",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -992,10 +992,10 @@
     "originalTitle": "ANALOGIAEU",
     "year": "2018",
     "technique": {
-      "en": "Hand-painted artwork",
-      "pt-BR": "Pintura feita à mão"
+      "en": "Acrylic on canvas",
+      "pt-BR": "Acrílica sobre tela"
     },
-    "dimensions": null,
+    "dimensions": "130 × 800 cm",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -1137,10 +1137,9 @@
   {
     "id": "digital-02",
     "title": {
-      "en": "Digital painting 02",
-      "pt-BR": "Pintura digital 02"
+      "en": "Renascida",
+      "pt-BR": "Renascida"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1161,8 +1160,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Digital painting 02 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 1."
+          "en": "Renascida — hand-drawn digital painting, image 1.",
+          "pt-BR": "Renascida — pintura digital feita à mão, imagem 1."
         }
       },
       {
@@ -1170,8 +1169,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Digital painting 02 — hand-drawn digital painting, image 2.",
-          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 2."
+          "en": "Renascida — hand-drawn digital painting, image 2.",
+          "pt-BR": "Renascida — pintura digital feita à mão, imagem 2."
         }
       },
       {
@@ -1179,8 +1178,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Digital painting 02 — hand-drawn digital painting, image 3.",
-          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 3."
+          "en": "Renascida — hand-drawn digital painting, image 3.",
+          "pt-BR": "Renascida — pintura digital feita à mão, imagem 3."
         }
       },
       {
@@ -1188,8 +1187,8 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Digital painting 02 — hand-drawn digital painting, image 4.",
-          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 4."
+          "en": "Renascida — hand-drawn digital painting, image 4.",
+          "pt-BR": "Renascida — pintura digital feita à mão, imagem 4."
         }
       },
       {
@@ -1197,19 +1196,19 @@
         "width": 640,
         "height": 800,
         "alt": {
-          "en": "Digital painting 02 — hand-drawn digital painting, image 5.",
-          "pt-BR": "Pintura digital 02 — pintura digital feita à mão, imagem 5."
+          "en": "Renascida — hand-drawn digital painting, image 5.",
+          "pt-BR": "Renascida — pintura digital feita à mão, imagem 5."
         }
       }
-    ]
+    ],
+    "originalTitle": "Renascida"
   },
   {
     "id": "digital-03",
     "title": {
-      "en": "Digital painting 03",
-      "pt-BR": "Pintura digital 03"
+      "en": "Fluir",
+      "pt-BR": "Fluir"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1230,8 +1229,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 03 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 1."
+          "en": "Fluir — hand-drawn digital painting, image 1.",
+          "pt-BR": "Fluir — pintura digital feita à mão, imagem 1."
         },
         "variants": [
           {
@@ -1246,8 +1245,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 03 — hand-drawn digital painting, image 2.",
-          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 2."
+          "en": "Fluir — hand-drawn digital painting, image 2.",
+          "pt-BR": "Fluir — pintura digital feita à mão, imagem 2."
         }
       },
       {
@@ -1255,8 +1254,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 03 — hand-drawn digital painting, image 3.",
-          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 3."
+          "en": "Fluir — hand-drawn digital painting, image 3.",
+          "pt-BR": "Fluir — pintura digital feita à mão, imagem 3."
         }
       },
       {
@@ -1264,8 +1263,8 @@
         "width": 944,
         "height": 1180,
         "alt": {
-          "en": "Digital painting 03 — hand-drawn digital painting, image 4.",
-          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 4."
+          "en": "Fluir — hand-drawn digital painting, image 4.",
+          "pt-BR": "Fluir — pintura digital feita à mão, imagem 4."
         }
       },
       {
@@ -1273,19 +1272,19 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 03 — hand-drawn digital painting, image 5.",
-          "pt-BR": "Pintura digital 03 — pintura digital feita à mão, imagem 5."
+          "en": "Fluir — hand-drawn digital painting, image 5.",
+          "pt-BR": "Fluir — pintura digital feita à mão, imagem 5."
         }
       }
-    ]
+    ],
+    "originalTitle": "Fluir"
   },
   {
     "id": "digital-04",
     "title": {
-      "en": "Digital painting 04",
-      "pt-BR": "Pintura digital 04"
+      "en": "Balanço",
+      "pt-BR": "Balanço"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1306,8 +1305,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 04 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 04 — pintura digital feita à mão, imagem 1."
+          "en": "Balanço — hand-drawn digital painting, image 1.",
+          "pt-BR": "Balanço — pintura digital feita à mão, imagem 1."
         },
         "variants": [
           {
@@ -1322,8 +1321,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 04 — hand-drawn digital painting, image 2.",
-          "pt-BR": "Pintura digital 04 — pintura digital feita à mão, imagem 2."
+          "en": "Balanço — hand-drawn digital painting, image 2.",
+          "pt-BR": "Balanço — pintura digital feita à mão, imagem 2."
         }
       },
       {
@@ -1331,8 +1330,8 @@
         "width": 916,
         "height": 1144,
         "alt": {
-          "en": "Digital painting 04 — hand-drawn digital painting, image 3.",
-          "pt-BR": "Pintura digital 04 — pintura digital feita à mão, imagem 3."
+          "en": "Balanço — hand-drawn digital painting, image 3.",
+          "pt-BR": "Balanço — pintura digital feita à mão, imagem 3."
         }
       },
       {
@@ -1340,19 +1339,19 @@
         "width": 1080,
         "height": 1349,
         "alt": {
-          "en": "Digital painting 04 — hand-drawn digital painting, image 4.",
-          "pt-BR": "Pintura digital 04 — pintura digital feita à mão, imagem 4."
+          "en": "Balanço — hand-drawn digital painting, image 4.",
+          "pt-BR": "Balanço — pintura digital feita à mão, imagem 4."
         }
       }
-    ]
+    ],
+    "originalTitle": "Balanço"
   },
   {
     "id": "digital-05",
     "title": {
-      "en": "Digital painting 05",
-      "pt-BR": "Pintura digital 05"
+      "en": "Alexandrina",
+      "pt-BR": "Alexandrina"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1373,8 +1372,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 05 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 05 — pintura digital feita à mão, imagem 1."
+          "en": "Alexandrina — hand-drawn digital painting, image 1.",
+          "pt-BR": "Alexandrina — pintura digital feita à mão, imagem 1."
         },
         "variants": [
           {
@@ -1389,19 +1388,19 @@
         "width": 944,
         "height": 1180,
         "alt": {
-          "en": "Digital painting 05 — hand-drawn digital painting, image 2.",
-          "pt-BR": "Pintura digital 05 — pintura digital feita à mão, imagem 2."
+          "en": "Alexandrina — hand-drawn digital painting, image 2.",
+          "pt-BR": "Alexandrina — pintura digital feita à mão, imagem 2."
         }
       }
-    ]
+    ],
+    "originalTitle": "Alexandrina"
   },
   {
     "id": "digital-06",
     "title": {
-      "en": "Digital painting 06",
-      "pt-BR": "Pintura digital 06"
+      "en": "Nara",
+      "pt-BR": "Nara"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1422,8 +1421,8 @@
         "width": 1080,
         "height": 1352,
         "alt": {
-          "en": "Digital painting 06 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 06 — pintura digital feita à mão, imagem 1."
+          "en": "Nara — hand-drawn digital painting, image 1.",
+          "pt-BR": "Nara — pintura digital feita à mão, imagem 1."
         },
         "variants": [
           {
@@ -1433,15 +1432,15 @@
           }
         ]
       }
-    ]
+    ],
+    "originalTitle": "Nara"
   },
   {
     "id": "digital-07",
     "title": {
-      "en": "Digital painting 07",
-      "pt-BR": "Pintura digital 07"
+      "en": "Nadine",
+      "pt-BR": "Nadine"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1462,8 +1461,8 @@
         "width": 1080,
         "height": 1080,
         "alt": {
-          "en": "Digital painting 07 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 07 — pintura digital feita à mão, imagem 1."
+          "en": "Nadine — hand-drawn digital painting, image 1.",
+          "pt-BR": "Nadine — pintura digital feita à mão, imagem 1."
         },
         "variants": [
           {
@@ -1473,15 +1472,15 @@
           }
         ]
       }
-    ]
+    ],
+    "originalTitle": "Nadine"
   },
   {
     "id": "digital-08",
     "title": {
-      "en": "Digital painting 08",
-      "pt-BR": "Pintura digital 08"
+      "en": "Sol",
+      "pt-BR": "Sol"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1502,8 +1501,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 08 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 08 — pintura digital feita à mão, imagem 1."
+          "en": "Sol — hand-drawn digital painting, image 1.",
+          "pt-BR": "Sol — pintura digital feita à mão, imagem 1."
         },
         "variants": [
           {
@@ -1518,19 +1517,19 @@
         "width": 1080,
         "height": 1349,
         "alt": {
-          "en": "Digital painting 08 — hand-drawn digital painting, image 2.",
-          "pt-BR": "Pintura digital 08 — pintura digital feita à mão, imagem 2."
+          "en": "Sol — hand-drawn digital painting, image 2.",
+          "pt-BR": "Sol — pintura digital feita à mão, imagem 2."
         }
       }
-    ]
+    ],
+    "originalTitle": "Sol"
   },
   {
     "id": "digital-09",
     "title": {
-      "en": "Digital painting 09",
-      "pt-BR": "Pintura digital 09"
+      "en": "Fernanda",
+      "pt-BR": "Fernanda"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1551,8 +1550,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 09 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 09 — pintura digital feita à mão, imagem 1."
+          "en": "Fernanda — hand-drawn digital painting, image 1.",
+          "pt-BR": "Fernanda — pintura digital feita à mão, imagem 1."
         },
         "variants": [
           {
@@ -1567,8 +1566,8 @@
         "width": 720,
         "height": 900,
         "alt": {
-          "en": "Digital painting 09 — hand-drawn digital painting, image 2.",
-          "pt-BR": "Pintura digital 09 — pintura digital feita à mão, imagem 2."
+          "en": "Fernanda — hand-drawn digital painting, image 2.",
+          "pt-BR": "Fernanda — pintura digital feita à mão, imagem 2."
         }
       },
       {
@@ -1576,19 +1575,19 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 09 — hand-drawn digital painting, image 3.",
-          "pt-BR": "Pintura digital 09 — pintura digital feita à mão, imagem 3."
+          "en": "Fernanda — hand-drawn digital painting, image 3.",
+          "pt-BR": "Fernanda — pintura digital feita à mão, imagem 3."
         }
       }
-    ]
+    ],
+    "originalTitle": "Fernanda"
   },
   {
     "id": "digital-10",
     "title": {
-      "en": "Digital painting 10",
-      "pt-BR": "Pintura digital 10"
+      "en": "Raio Rubi",
+      "pt-BR": "Raio Rubi"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1609,8 +1608,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 10 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 10 — pintura digital feita à mão, imagem 1."
+          "en": "Raio Rubi — hand-drawn digital painting, image 1.",
+          "pt-BR": "Raio Rubi — pintura digital feita à mão, imagem 1."
         },
         "variants": [
           {
@@ -1625,8 +1624,8 @@
         "width": 536,
         "height": 670,
         "alt": {
-          "en": "Digital painting 10 — hand-drawn digital painting, image 2.",
-          "pt-BR": "Pintura digital 10 — pintura digital feita à mão, imagem 2."
+          "en": "Raio Rubi — hand-drawn digital painting, image 2.",
+          "pt-BR": "Raio Rubi — pintura digital feita à mão, imagem 2."
         }
       },
       {
@@ -1634,8 +1633,8 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 10 — hand-drawn digital painting, image 3.",
-          "pt-BR": "Pintura digital 10 — pintura digital feita à mão, imagem 3."
+          "en": "Raio Rubi — hand-drawn digital painting, image 3.",
+          "pt-BR": "Raio Rubi — pintura digital feita à mão, imagem 3."
         }
       },
       {
@@ -1643,19 +1642,19 @@
         "width": 1080,
         "height": 1350,
         "alt": {
-          "en": "Digital painting 10 — hand-drawn digital painting, image 4.",
-          "pt-BR": "Pintura digital 10 — pintura digital feita à mão, imagem 4."
+          "en": "Raio Rubi — hand-drawn digital painting, image 4.",
+          "pt-BR": "Raio Rubi — pintura digital feita à mão, imagem 4."
         }
       }
-    ]
+    ],
+    "originalTitle": "Raio Rubi"
   },
   {
     "id": "digital-11",
     "title": {
-      "en": "Digital painting 11",
-      "pt-BR": "Pintura digital 11"
+      "en": "Capa do Disco de Rap",
+      "pt-BR": "Capa do Disco de Rap"
     },
-    "titleStatus": "catalogue-label",
     "year": "2024–2026",
     "yearIsCollectionPeriod": true,
     "technique": {
@@ -1676,12 +1675,1361 @@
         "width": 1080,
         "height": 1080,
         "alt": {
-          "en": "Digital painting 11 — hand-drawn digital painting, image 1.",
-          "pt-BR": "Pintura digital 11 — pintura digital feita à mão, imagem 1."
+          "en": "Capa do Disco de Rap — hand-drawn digital painting, image 1.",
+          "pt-BR": "Capa do Disco de Rap — pintura digital feita à mão, imagem 1."
         },
         "variants": [
           {
             "path": "assets/images/obras/digital-11/image-01-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      }
+    ],
+    "originalTitle": "Capa do Disco de Rap"
+  },
+  {
+    "id": "ruadoflow-brand-design-2024-2025",
+    "title": {
+      "en": "RUADOFLOW — Brand Design Collection",
+      "pt-BR": "RUADOFLOW — Coleção de design"
+    },
+    "originalTitle": "RUADOFLOW — Brand Design Collection",
+    "year": "2024–2025",
+    "yearIsCollectionPeriod": true,
+    "technique": {
+      "en": "Illustration and apparel design",
+      "pt-BR": "Ilustração e design para vestuário"
+    },
+    "dimensions": null,
+    "status": "published",
+    "cover": 0,
+    "collection": "brand-design",
+    "category": {
+      "en": "Brand design",
+      "pt-BR": "Design de marca"
+    },
+    "description": {
+      "en": "A complete collection drawn by Renata Alberigi for RUADOFLOW between 2024 and 2025 and officially launched on the brand’s website. The images present her designs on T-shirts and hoodies.",
+      "pt-BR": "Uma coleção completa desenhada por Renata Alberigi para a RUADOFLOW entre 2024 e 2025, com lançamento oficial no site da marca. As imagens apresentam seus designs aplicados a camisetas e moletons."
+    },
+    "images": [
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-01.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt — RUADOFLOW collection design 01.",
+          "pt-BR": "Camiseta oversized — design 01 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt — RUADOFLOW collection design 01.",
+          "pt-BR": "Camiseta oversized — design 01 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-01-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-02.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 02.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 02 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 02.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 02 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-02-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-03.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 03.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 03 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 03.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 03 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-03-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-04.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 04.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 04 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 04.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 04 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-04-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-05.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 05.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 05 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 05.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 05 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-05-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-06.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 06.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 06 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 06.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 06 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-06-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-07.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 07.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 07 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 07.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 07 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-07-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-08.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 08.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 08 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 08.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 08 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-08-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-09.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 09.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 09 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 09.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 09 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-09-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-10.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 10.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 10 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 10.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 10 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-10-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-11.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 11.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 11 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 11.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 11 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-11-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-12.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 12.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 12 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 12.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 12 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-12-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-13.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 13.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 13 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 13.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 13 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-13-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-14.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 14.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 14 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 14.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 14 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-14-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-15.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 15.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 15 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 15.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 15 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-15-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-16.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 16.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 16 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 16.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 16 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-16-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-17.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 17.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 17 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 17.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 17 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-17-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-18.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 18.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 18 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 18.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 18 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-18-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-19.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 19.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 19 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 19.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 19 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-19-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-20.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 20.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 20 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 20.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 20 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-20-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-21.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 21.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 21 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 21.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 21 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-21-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-22.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 22.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 22 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 22.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 22 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-22-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-23.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 23.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 23 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 23.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 23 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-23-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-24.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 24.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 24 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 24.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 24 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-24-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-25.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 25.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 25 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 25.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 25 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-25-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-26.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 26.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 26 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 26.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 26 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-26-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-27.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 27.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 27 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 27.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 27 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-27-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-28.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 28.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 28 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, back view — RUADOFLOW collection design 28.",
+          "pt-BR": "Camiseta oversized, vista das costas — design 28 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-28-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-29.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 29.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 29 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 29.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 29 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-29-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-30.webp",
+        "width": 1920,
+        "height": 1920,
+        "alt": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 30.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 30 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Oversized T-shirt, front view — RUADOFLOW collection design 30.",
+          "pt-BR": "Camiseta oversized, vista frontal — design 30 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-30-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-31.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 31.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 31 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 31.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 31 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-31-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-32.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 32.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 32 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 32.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 32 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-32-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-33.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 33.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 33 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 33.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 33 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-33-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-34.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 34.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 34 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 34.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 34 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-34-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-35.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 35.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 35 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 35.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 35 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-35-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-36.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 36.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 36 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 36.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 36 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-36-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-37.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 37.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 37 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 37.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 37 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-37-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-38.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 38.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 38 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 38.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 38 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-38-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-39.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 39.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 39 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 39.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 39 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-39-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-40.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 40.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 40 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 40.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 40 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-40-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-41.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 41.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 41 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 41.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 41 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-41-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-42.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 42.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 42 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 42.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 42 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-42-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-43.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 43.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 43 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 43.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 43 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-43-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-44.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 44.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 44 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 44.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 44 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-44-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-45.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 45.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 45 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 45.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 45 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-45-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-46.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 46.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 46 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 46.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 46 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-46-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-47.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 47.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 47 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 47.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 47 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-47-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-48.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 48.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 48 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 48.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 48 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-48-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-49.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 49.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 49 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 49.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 49 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-49-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-50.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 50.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 50 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 50.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 50 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-50-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-51.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 51.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 51 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 51.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 51 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-51-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-52.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 52.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 52 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 52.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 52 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-52-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-53.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 53.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 53 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 53.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 53 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-53-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-54.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 54.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 54 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 54.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 54 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-54-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-55.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 55.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 55 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 55.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 55 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-55-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-56.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 56.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 56 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 56.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 56 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-56-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-57.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 57.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 57 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 57.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 57 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-57-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-58.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 58.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 58 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 58.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 58 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-58-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-59.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 59.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 59 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 59.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 59 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-59-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-60.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 60.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 60 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 60.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 60 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-60-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-61.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 61.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 61 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 61.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 61 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-61-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-62.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 62.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 62 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 62.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 62 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-62-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-63.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 63.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 63 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 63.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 63 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-63-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-64.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 64.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 64 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, back view — RUADOFLOW collection design 64.",
+          "pt-BR": "Moletom com capuz, vista das costas — design 64 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-64-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-65.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 65.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 65 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 65.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 65 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-65-640.webp",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      {
+        "path": "assets/images/brand-design/ruadoflow-2024-2025/image-66.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 66.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 66 da coleção RUADOFLOW."
+        },
+        "caption": {
+          "en": "Hoodie, front view — RUADOFLOW collection design 66.",
+          "pt-BR": "Moletom com capuz, vista frontal — design 66 da coleção RUADOFLOW."
+        },
+        "variants": [
+          {
+            "path": "assets/images/brand-design/ruadoflow-2024-2025/image-66-640.webp",
             "width": 640,
             "height": 640
           }

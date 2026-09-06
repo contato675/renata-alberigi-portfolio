@@ -36,3 +36,6 @@ Real media incorporated: 9 hand-painted projects, 11 digital projects, 123 artwo
 
 ## Approved preview publication
 After reviewing and committing the source branch: `node scripts/publish-preview.mjs --confirm-public-preview`. Publishes only generated files to `pages-preview`, never merges main or changes repository visibility. Configure Pages separately after permission checks. See docs/10.
+
+## Latest editorial revision
+21 projects: 9 physical paintings, 11 digital paintings and one RUADOFLOW brand design collection (66 images, 2024–2025). New portrait, reviewed specifications, corrected Correnteza year (2022), real digital titles, updated studio email and mobile navigation drawer. [Checklist and evidence](docs/11-revisao-editorial-e-brand.md).

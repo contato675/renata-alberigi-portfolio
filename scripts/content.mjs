@@ -39,7 +39,7 @@ export function validateWorks(works) {
     if (Object.keys(work).some((key) => !keys.includes(key))) errors.push(`${label}: unknown field.`);
     for (const key of ['id','year']) if (typeof work[key] !== 'string' || !work[key].trim()) errors.push(`${label}: ${key} required.`);
     if(work.dimensions!==null && (typeof work.dimensions!=='string'||!work.dimensions.trim()))errors.push(`${label}: invalid dimensions.`);
-    if(work.collection!==undefined&&!['paintings','digital'].includes(work.collection))errors.push(`${label}: invalid collection.`);
+    if(work.collection!==undefined&&!['paintings','digital','brand-design'].includes(work.collection))errors.push(`${label}: invalid collection.`);
     if(work.titleStatus!==undefined&&work.titleStatus!=='catalogue-label')errors.push(`${label}: invalid title status.`);
     if(work.yearIsCollectionPeriod!==undefined&&typeof work.yearIsCollectionPeriod!=='boolean')errors.push(`${label}: invalid date precision.`);
     for (const key of ['title','technique']) errors.push(...validateLocalized(work[key], `${label}.${key}`));
@@ -58,7 +58,7 @@ export function validateWorks(works) {
 export function validateContent({artist, site, works, dictionaries}) {
   const errors = [...validateWorks(works), ...validateTranslations(dictionaries)];
   if (artist.name !== 'Renata Alberigi') errors.push('Unexpected artist identity.');
-  for (const key of ['role','intro','bio']) errors.push(...validateLocalized(artist[key], `artist.${key}`));
+  for (const key of ['role','intro','bio','location']) errors.push(...validateLocalized(artist[key], `artist.${key}`));
   if (!/^[^\s@<>"']+@[^\s@<>"']+\.[^\s@<>"']+$/.test(artist.email ?? '')) errors.push('Invalid public email.');
   if (!['planning','implementation','ready'].includes(site.phase)) errors.push('Invalid phase.');
   for (const key of ['publicationApproved','implementationComplete','robotsRootVerified']) if (typeof site[key] !== 'boolean') errors.push(`Invalid flag: ${key}.`);

@@ -54,5 +54,11 @@
   "catalogueLabel": "Descriptive catalogue label; the original title has not been supplied.",
   "collectionPeriod": "Collection period",
   "viewPaintings": "Explore the paintings",
-  "archive": "Archive"
+  "archive": "Archive",
+  "menu": "Menu",
+  "menuTitle": "Navigation",
+  "openMenu": "Open menu",
+  "closeMenu": "Close menu",
+  "brandNav": "Brand design",
+  "brandTitle": "Brand Design Collection"
 }

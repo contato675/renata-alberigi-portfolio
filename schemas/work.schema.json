@@ -118,7 +118,8 @@
     "collection": {
       "enum": [
         "paintings",
-        "digital"
+        "digital",
+        "brand-design"
       ]
     },
     "titleStatus": {

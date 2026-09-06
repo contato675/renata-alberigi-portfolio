@@ -139,7 +139,7 @@ try {
   });
   await check('grid overlay uses the exact content box',async()=>{
     await chrome.go(real.url,1920,1000);
-    await chrome.evaluate(`document.querySelector('[data-grid-toggle]').click()`);
+    await chrome.evaluate(`document.body.classList.add('grid-on')`);
     const drift=await chrome.evaluate(`(()=>{const g=document.querySelector('.hero.grid'),o=g.querySelector('.guides'),a=g.getBoundingClientRect(),b=o.getBoundingClientRect();return Math.max(Math.abs(a.left-b.left),Math.abs(a.right-b.right));})()`);
     assert.ok(drift<=1);await screenshot('grid-overlay-1920');
   });

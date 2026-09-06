@@ -54,5 +54,11 @@
   "catalogueLabel": "Identificação descritiva do catálogo; o título original ainda não foi informado.",
   "collectionPeriod": "Período da coleção",
   "viewPaintings": "Ver as pinturas",
-  "archive": "Arquivo"
+  "archive": "Arquivo",
+  "menu": "Menu",
+  "menuTitle": "Navegação",
+  "openMenu": "Abrir menu",
+  "closeMenu": "Fechar menu",
+  "brandNav": "Design de marca",
+  "brandTitle": "Coleção de design de marca"
 }

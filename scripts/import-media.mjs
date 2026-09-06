@@ -4,6 +4,8 @@ import path from 'node:path';
 import {fileURLToPath,pathToFileURL} from 'node:url';
 import {createHash} from 'node:crypto';
 const root=fileURLToPath(new URL('../',import.meta.url));
+const existingWorks=JSON.parse(await fs.readFile(path.join(root,'site/content/works.json'),'utf8'));
+if(existingWorks.length)throw new Error('Initial import only: preserve the existing reviewed catalogue. Use a targeted media update.');
 const source=process.argv[2];
 if(!source||!process.env.SHARP_MODULE)throw new Error('Usage: SHARP_MODULE=<sharp entry> node scripts/import-media.mjs <input-folder>');
 const {default:sharp}=await import(pathToFileURL(process.env.SHARP_MODULE));

@@ -1,3 +1,4 @@
+import {addRouteAliases} from './route-aliases.mjs';
 import {readFile,mkdir,writeFile,readdir,lstat,rm,rename} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
@@ -19,6 +20,7 @@ export function generatePages(data,template,{release=false}={}) {
     }
     files.set(localePath(locale)+'portfolio.json',JSON.stringify(structuredPortfolio(data,locale),null,2)+'\n');
   }
+  addRouteAliases(files,data,template,{release});
   files.set('llms.txt',llmsIndex(data,{release}));
   files.set('llms-full.txt',`# ${data.artist.name} — public bilingual portfolio\n\n`+(!release?(data.site.previewPublic?'Public preview for editorial review.\n\n':'Review build. Not published.\n\n'):'')+LOCALES.map((locale)=>[null,...publicWorks(data)].map((work)=>pageMarkdown(data,locale,work)).join('\n---\n\n')).join('\n---\n\n'));
   files.set('robots.txt',robotsText(data.site,{release}));
@@ -50,7 +52,7 @@ export async function buildSite(root,{output=path.join(root,'dist'),data=null,re
   if (errors.length) throw new Error(errors.join('\n'));
   const template=await readFile(path.join(root,'site/index.template.html'),'utf8');
   const files=generatePages(data,template,{release});
-  for (const rel of ['assets/css/tokens.css','assets/css/scaffold.css','assets/css/gallery.css','assets/js/gallery.js']) files.set(rel,await readFile(path.join(root,'site',rel)));
+  for (const rel of ['assets/css/tokens.css','assets/css/scaffold.css','assets/css/gallery.css','assets/js/gallery.js','assets/css/navigation.css','assets/js/navigation.js','assets/css/brand.css','assets/js/brand-carousel.js']) files.set(rel,await readFile(path.join(root,'site',rel)));
   const images=[data.artist.portrait,...allVideos(data.artist).map(v=>v.poster),...data.artist.studioImages,...publicWorks(data).flatMap((w)=>w.images)].filter(Boolean);
   for (const rel of new Set([...imagePaths(images),data.artist.pdf,data.artist.pdfPt].filter(Boolean))) files.set(rel,await readFile(containedPath(path.join(root,'site'),rel)));
   await assertOwnedOutput(output);
