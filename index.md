@@ -4,13 +4,13 @@ https://renataalberigi.com.br/
 
 > Brazilian painter & visual artist
 
-Brazilian painter and visual artist, born in Petrolina, Pernambuco, in 1993 and based in Caeté-Açu, in Bahia’s Chapada Diamantina. Self-taught, she has painted since childhood. Her practice focuses on hand-painted works in oil and acrylic, alongside portraits, installations and hand-drawn digital work.
+Brazilian painter and visual artist, born in Petrolina, Pernambuco, in 1993 and based in Chapada Diamantina, Bahia. Self-taught, she has painted since childhood. Her practice focuses on hand-painted works in oil and acrylic, alongside portraits, installations and hand-drawn digital work.
 
-Caeté-Açu · Chapada Diamantina · Bahia - Brazil
+Chapada Diamantina · Bahia - Brazil
 
 ## About
 
-Renata Alberigi is a Brazilian painter and visual artist, born in Petrolina, Pernambuco, in 1993 and based in Caeté-Açu, in the Chapada Diamantina region of Bahia. Self-taught, she has painted since childhood. Her practice centres on paintings made by hand in oil and acrylic, alongside portraits, installations and hand-drawn digital work. Trees, rocks and river waters are her main sources of inspiration. Their forms, textures and movements inform a creative process that preserves the handmade gesture in both painting and digital media. A mother since 2019, Renata runs her own painting studio in Caeté-Açu, where she develops an independent artistic practice in daily contact with the landscape of Chapada Diamantina. Among her works is ANALOGIAEU, a painting series developed between 2014 and 2019 and presented at venues including the Museu de Antropologia do Vale do Paraíba and Espaço Tomie Ohtake at EducaMais Jacareí. Her experience also includes workshops and talks for children, young people and teachers, as well as serving as art director of RUADOFLOW from 2016 to 2026. Her practice brings together studio work, clothing and CD cover design, participation in exhibitions and installations, and the sharing of artistic practices in cultural and educational settings.
+Renata Alberigi is a Brazilian painter and visual artist, born in Petrolina, Pernambuco, in 1993 and based in Chapada Diamantina, Bahia. Self-taught, she has painted since childhood. Her practice centres on paintings made by hand in oil and acrylic, alongside portraits, installations and hand-drawn digital work. Trees, rocks and river waters are her main sources of inspiration. Their forms, textures and movements inform a creative process that preserves the handmade gesture in both painting and digital media. A mother since 2019, Renata runs her own painting studio in Chapada Diamantina, Bahia, where she develops an independent artistic practice in daily contact with the landscape of Chapada Diamantina. Among her works is ANALOGIAEU, a painting series developed between 2014 and 2019 and presented at venues including the Museu de Antropologia do Vale do Paraíba and Espaço Tomie Ohtake at EducaMais Jacareí. Her experience also includes workshops and talks for children, young people and teachers, as well as serving as art director of RUADOFLOW from 2016 to 2026. Her practice brings together studio work, clothing and CD cover design, participation in exhibitions and installations, and the sharing of artistic practices in cultural and educational settings.
 
 ## Selected works
 

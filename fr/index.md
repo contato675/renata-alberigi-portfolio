@@ -4,13 +4,13 @@ https://renataalberigi.com.br/fr/
 
 > Peintre et artiste visuelle brésilienne
 
-Peintre et artiste visuelle brésilienne, née à Petrolina, dans le Pernambouc, en 1993 et établie à Caeté-Açu, dans la Chapada Diamantina, en Bahia. Autodidacte, elle peint depuis l’enfance. Sa pratique se concentre sur des œuvres réalisées à la main, à l’huile et à l’acrylique, et comprend également des portraits, des installations et des œuvres numériques dessinées à la main.
+Peintre et artiste visuelle brésilienne, née à Petrolina, dans le Pernambouc, en 1993 et établie dans la Chapada Diamantina, en Bahia. Autodidacte, elle peint depuis l’enfance. Sa pratique se concentre sur des œuvres réalisées à la main, à l’huile et à l’acrylique, et comprend également des portraits, des installations et des œuvres numériques dessinées à la main.
 
-Caeté-Açu · Chapada Diamantina · Bahia - Brésil
+Chapada Diamantina · Bahia - Brésil
 
 ## À propos
 
-Renata Alberigi est une peintre et artiste visuelle brésilienne, née à Petrolina, dans le Pernambouc, en 1993 et établie à Caeté-Açu, dans la Chapada Diamantina, en Bahia. Autodidacte, elle peint depuis l’enfance. Sa pratique se concentre sur des œuvres réalisées à la main, à l’huile et à l’acrylique, et comprend également des portraits, des installations et des œuvres numériques dessinées à la main. Les arbres, les roches et les eaux des rivières sont ses principales sources d’inspiration. Leurs formes, leurs textures et leurs mouvements nourrissent un processus de création qui préserve le geste manuel aussi bien en peinture que dans le travail numérique. Mère depuis 2019, Renata dirige son propre atelier de peinture à Caeté-Açu, où elle développe une pratique artistique indépendante au contact quotidien du paysage de la Chapada Diamantina.
+Renata Alberigi est une peintre et artiste visuelle brésilienne, née à Petrolina, dans le Pernambouc, en 1993 et établie dans la Chapada Diamantina, en Bahia. Autodidacte, elle peint depuis l’enfance. Sa pratique se concentre sur des œuvres réalisées à la main, à l’huile et à l’acrylique, et comprend également des portraits, des installations et des œuvres numériques dessinées à la main. Les arbres, les roches et les eaux des rivières sont ses principales sources d’inspiration. Leurs formes, leurs textures et leurs mouvements nourrissent un processus de création qui préserve le geste manuel aussi bien en peinture que dans le travail numérique. Mère depuis 2019, Renata dirige son propre atelier de peinture dans la Chapada Diamantina, en Bahia, où elle développe une pratique artistique indépendante au contact quotidien du paysage de la Chapada Diamantina.
 
 Parmi ses œuvres figure ANALOGIAEU, une série de peintures réalisée entre 2014 et 2019 et présentée notamment au Museu de Antropologia do Vale do Paraíba et à l’Espaço Tomie Ohtake, au sein d’EducaMais Jacareí.
 
