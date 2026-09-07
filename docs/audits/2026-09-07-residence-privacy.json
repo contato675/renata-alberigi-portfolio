@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-07T18:28:48.344Z",
+  "baseline": "e4ee5369b80564257b7a3973a757f30a154843da",
+  "locales": [
+    "en",
+    "pt-BR",
+    "fr"
+  ],
+  "tests": 137,
+  "privacyRegressionTests": 13,
+  "buildFiles": 434,
+  "publicTextFiles": 157,
+  "appleLayouts": 42,
+  "appleInteractions": 9,
+  "appleFailures": 0,
+  "copyLayouts": 6,
+  "browser": "Chrome/152.0.7977.77",
+  "sourceHashes": {
+    "site/content/artist.json": "d3739539d0f5d48966e055a7d2e9726cfdc99f17b76e95c1590615e7869427c4",
+    "scripts/verify-live-preview.mjs": "7be2b1cc2fa3ffac8e93b09aed82d7637fcb2198643569f9ba3296f99408afcb",
+    "tests/residence-privacy.test.mjs": "8e1bd486be6386b7c1cf15f28f9a0415198a9f5b312d21ad2eb1e74e4aec0502"
+  },
+  "limits": [
+    "Public-site revision only, not history/archive removal",
+    "Viewport emulation, not physical-device certification"
+  ]
+}

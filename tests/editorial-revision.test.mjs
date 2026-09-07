@@ -31,7 +31,7 @@ test('Correnteza uses 2022; previously shared pages resolve to the corrected can
  for(const locale of LOCALES){const prefix=localePath(locale),html=pages.get(prefix+'works/correnteza-2024/index.html');assert.ok(html);assert.match(html,/<link rel="canonical" href="[^"]*\/correnteza-2022\/">/);assert.match(html,/itemprop="dateCreated">2022<\/dd>/);const md=pages.get(prefix+'works/correnteza-2022/index.md');assert.ok(md.includes('2022'));}
 });
 test('Requested Portuguese introduction replaces the previous summary',()=>{
- const expected='Pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada em Caeté-Açu, na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão.';
+ const expected='Pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão.';
  assert.equal(data.artist.intro['pt-BR'],expected);assert.ok(pages.get('pt-br/index.html').includes(expected));assert.ok(data.artist.intro.en.includes('hand-painted works in oil and acrylic'));
 });
 test('Contact and country are consistent in all supported languages and all public formats',()=>{
