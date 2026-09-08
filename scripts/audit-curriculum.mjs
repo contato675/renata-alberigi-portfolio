@@ -22,7 +22,7 @@ try{
  for(const locale of LOCALES)for(const width of [320,390,480,768,1024,1440,1920])await check(locale+' CV '+width,async()=>{
   await chrome.go(base+cvPath(locale),width,1000);const m=await chrome.evaluate('('+inspectLayout.toString()+')()');
   assert.equal(m.overflow,0);assert.equal(m.h1,1);assert.equal(m.language,locale);assert.equal(m.smallControls.length,0);assert.equal(m.unnamedControls.length,0);assert.ok(m.maxGridDrift<=1);assert.ok(m.bodyContrast>=4.5);
-  assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),34);assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-section").length'),5);
+  assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),33);assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-section").length'),5);
   assert.equal(await chrome.evaluate('document.querySelector("[data-cv-menu]").getAttribute("aria-current")'),'page');
   if([390,768,1440].includes(width))await capture(locale+'-'+width);return {metrics:m};
  });
@@ -50,7 +50,7 @@ try{
  }
  for(const locale of LOCALES)await check(locale+' no JavaScript curriculum and native navigation',async()=>{
   await chrome.call('Emulation.setScriptExecutionDisabled',{value:true});
-  try{await chrome.go(base+cvPath(locale),390,1000);assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),34);
+  try{await chrome.go(base+cvPath(locale),390,1000);assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),33);
    await chrome.evaluate('document.querySelector(".mobile-fallback summary").click()');
    assert.ok(await chrome.evaluate('document.querySelector(".mobile-fallback").open'));assert.equal(await chrome.evaluate('document.querySelectorAll(".mobile-fallback [data-locale-link]").length'),LOCALES.length);
    assert.equal(await chrome.evaluate('document.querySelector(".mobile-fallback [data-cv-menu]").pathname'),data.site.basePath+cvPath(locale));
@@ -78,7 +78,7 @@ try{
   assert.equal(await chrome.evaluate('location.hash'),'#cv-paintings');await capture('pt-paintings-desktop');
   await chrome.evaluate('document.getElementById("cv-analogiaeu").scrollIntoView({behavior:"instant"})');await capture('pt-analogiaeu-desktop');
   await chrome.call('Emulation.setEmulatedMedia',{media:'print'});
-  try{assert.equal(await chrome.evaluate('getComputedStyle(document.querySelector(".site-header")).display'),'none');assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),34);assert.ok(await chrome.evaluate('document.documentElement.scrollWidth<=innerWidth'));}
+  try{assert.equal(await chrome.evaluate('getComputedStyle(document.querySelector(".site-header")).display'),'none');assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),33);assert.ok(await chrome.evaluate('document.documentElement.scrollWidth<=innerWidth'));}
   finally{await chrome.call('Emulation.setEmulatedMedia',{media:'screen',features:[{name:'prefers-reduced-motion',value:'reduce'}]});}
  });
  for(const locale of LOCALES){
@@ -91,7 +91,7 @@ try{
   assert.ok(await chrome.evaluate('document.documentElement.scrollWidth<=innerWidth'));assert.equal(await chrome.evaluate('parseFloat(getComputedStyle(document.body).fontSize)'),32);await capture('pt-BR-text-200');
  });
  await check('Print layout preserves all CV records',async()=>{
-  await chrome.go(base+cvPath('pt-BR'),1440,1000);await chrome.call('Emulation.setEmulatedMedia',{media:'print'});assert.equal(await chrome.evaluate('getComputedStyle(document.querySelector(".site-header")).display'),'none');assert.equal(await chrome.evaluate('getComputedStyle(document.querySelector(".cv-entry")).breakInside'),'avoid');assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),34);await capture('pt-BR-print');await chrome.call('Emulation.setEmulatedMedia',{media:'screen'});
+  await chrome.go(base+cvPath('pt-BR'),1440,1000);await chrome.call('Emulation.setEmulatedMedia',{media:'print'});assert.equal(await chrome.evaluate('getComputedStyle(document.querySelector(".site-header")).display'),'none');assert.equal(await chrome.evaluate('getComputedStyle(document.querySelector(".cv-entry")).breakInside'),'avoid');assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),33);await capture('pt-BR-print');await chrome.call('Emulation.setEmulatedMedia',{media:'screen'});
  });
  const report={date:new Date().toISOString(),live,url:base,browser:(await chrome.call('Browser.getVersion')).product,results,screenshots,checks:results.length,failures:results.filter(r=>r.status==='FAIL').length,limits:['Browser emulation and doubled text are not physical-device or assistive-technology user tests','Independent EN/FR editorial review remains pending']};
  await fs.writeFile(path.join(out,'report.json'),JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify({...report,results:undefined}));if(report.failures){console.log(JSON.stringify(results.filter(r=>r.status==='FAIL')));process.exitCode=1;}

@@ -19,7 +19,7 @@ test('Spanish is the fourth locale and English remains the default',()=>{
  assert.deepEqual(LOCALES,['en','pt-BR','fr','es']);assert.deepEqual(data.site.locales,LOCALES);assert.equal(data.site.defaultLocale,'en');assert.equal(localePath('es'),'es/');assert.equal(cvPath('es'),'es/curriculo/');assert.equal(LOCALE_CONFIG.es.og,'es_ES');assert.throws(()=>localePath('de'));
 });
 test('Spanish covers every public localized field, including the full CV and captions',()=>{
- assert.equal(fields.length,410);for(const keys of fields)assert.ok(get(data,keys).es?.trim(),keys.join('.'));assert.equal(Object.keys(ui).length,75);assert.deepEqual(validateTranslations(data.dictionaries),[]);assert.equal(ui.localeName,'Español');
+ assert.equal(fields.length,408);for(const keys of fields)assert.ok(get(data,keys).es?.trim(),keys.join('.'));assert.equal(Object.keys(ui).length,75);assert.deepEqual(validateTranslations(data.dictionaries),[]);assert.equal(ui.localeName,'Español');
 });
 test('Removing any Spanish field fails instead of falling back to another language',()=>{
  for(const keys of fields){const d=structuredClone(data);delete get(d,keys).es;assert.ok(validateContent(d).some(x=>x.includes('es')),keys.join('.'));}
@@ -38,9 +38,9 @@ test('Spanish artwork and film titles preserve original names, dates and authors
  assert.equal(data.works.find(w=>w.id==='maternidade-2026').title.es,'Poço da Maternidade');assert.match(data.works.find(w=>w.id==='maternidade-2026').description.es,/Cachoeira da Fumaça/);
  assert.ok(data.artist.bio.es.includes('exposición colectiva'));assert.ok(data.artist.bio.es.includes('50 docentes'));assert.ok(data.artist.bio.es.includes('3 de junio de 2017'));
 });
-test('Spanish CV has all 34 dated records, eight work links, and no personal or schooling information',()=>{
+test('Spanish CV has all 33 dated records, eight work links, and no personal or schooling information',()=>{
  const route=cvPath('es'),html=files.get(route+'index.html'),md=files.get(route+'index.md'),json=files.get(route+'curriculum.json');
- assert.equal((html.match(/class="cv-entry"/g)||[]).length,34);assert.equal((html.match(/class="control cv-work-link"/g)||[]).length,8);
+ assert.equal((html.match(/class="cv-entry"/g)||[]).length,33);assert.equal((html.match(/class="control cv-work-link"/g)||[]).length,8);
  for(const text of [html,md,json])assert.doesNotMatch(text,/1993|Petrolina|mailto:|@gmail|birthDate|homeLocation|alumniOf|autodidacta|enseñanza media completa|Renata da Silva|9158-6972/i);
  for(const s of curriculumRecords(data,'es')){assert.ok(html.includes(e(s.title)));for(const row of s.entries){assert.ok(html.includes(e(row.title)));assert.ok(md.includes(row.dateLabel));}}
  for(const other of LOCALES)assert.ok(html.includes('data-locale-link href="/'+cvPath(other)+'"'));

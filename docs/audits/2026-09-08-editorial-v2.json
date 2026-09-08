@@ -1,0 +1,82 @@
+{
+  "date": "2026-09-08T18:14:18.443Z",
+  "baseline": "1129c3ed5bb0db4e5bbb768ac48e83dc354b90d9",
+  "scope": "Confirmed curriculum corrections, dimensions and original-title translation hints",
+  "locales": [
+    "en",
+    "pt-BR",
+    "fr",
+    "es"
+  ],
+  "records": 33,
+  "exhibitionEntries": 9,
+  "unitTests": {
+    "passed": 199,
+    "failed": 0
+  },
+  "audits": {
+    "editorial": {
+      "date": "2026-09-08T18:06:02.050Z",
+      "checks": 12,
+      "failures": 0
+    },
+    "apple": {
+      "date": "2026-09-08T18:11:55.066Z",
+      "checks": 56,
+      "failures": 0,
+      "interactions": 9,
+      "status": "PASS_WITH_EDITORIAL_PENDING"
+    },
+    "curriculum": {
+      "date": "2026-09-08T18:12:47.782Z",
+      "checks": 72,
+      "failures": 0
+    },
+    "locales": {
+      "date": "2026-09-08T18:13:24.650Z",
+      "checks": 57,
+      "failures": 0
+    }
+  },
+  "build": {
+    "files": 496,
+    "works": 21
+  },
+  "visualInspection": [
+    "PT mobile revised exhibitions",
+    "EN and FR desktop dated entries",
+    "ES mobile revised exhibitions",
+    "Three-page administrative PDF rendered and inspected separately"
+  ],
+  "preserved": {
+    "images": true,
+    "biography": true,
+    "domain": true,
+    "noindex": true,
+    "personalPDFNotPublished": true
+  },
+  "interpretation": {
+    "correnteza": "70 cm × 100, no numeric measurement changed",
+    "nibia": "130 × 130, no unit inferred",
+    "mobileIssue": "The alleged alternate titles were absent in source and not reproduced in mobile emulation; external translation remains an unconfirmed hypothesis."
+  },
+  "sourceHashes": {
+    "scripts/audit-curriculum.mjs": "6600213bb8f846ba8d1b7270233012dad5641963d589ce7f43888b09b66f5854",
+    "scripts/audit-spanish.mjs": "6a69aab3e460673c2932bdff5c522950ce6ed472c6c7659effac4e9b872f7dbf",
+    "scripts/cv-render.mjs": "37f8146eca79f7980d9743abeae549b6d407715c3f75398a23b96556cf1bf644",
+    "scripts/render.mjs": "fa0fe9fc44f3a42213bfeef47ab191f804eb4ee291df23e1071125dbaf693f4d",
+    "site/content/curriculum.json": "4c03959b5f3c20eb5d1e0b9c92087f390c60df70a5e56c5eff60586ae9fd6484",
+    "site/content/works.json": "d0e1a2f444fb582abaee9b4ab4ddff94d7ab3863923eacd48f69cee47d7477f3",
+    "tests/curriculum.test.mjs": "9a38bd972f6bb0567bf81e10bc1d5a43277a63ec6846ab0ea7d472059feb9b70",
+    "tests/editorial-revision.test.mjs": "4290e54135c5ae9101593fb49de19a5cee5acb4e1ffb603b0e1255a42e9cb8b3",
+    "tests/spanish-i18n.test.mjs": "2f06a7159500b9bc954ada2d0149bb1141a45c1ed7300d2b1504c6ec896dd032",
+    "scripts/audit-editorial-v2.mjs": "9461d1e3284f99c9c302bb6d853e40d2e9229177cf0a207f06c0a6e88aa12ca8",
+    "tests/editorial-v2.test.mjs": "084ff718dc718daa6360db3ffce1cd777506fd879c078a2ef61843a93e79b072"
+  },
+  "publication": "Deployment and live checks recorded separately in PR #1",
+  "limits": [
+    "Independent native-speaker review remains pending",
+    "No access to the user phone or its automatic translation settings",
+    "translate=no is a request to compatible translators, not a guarantee against all third-party tools"
+  ]
+}

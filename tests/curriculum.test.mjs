@@ -19,7 +19,7 @@ for(const locale of LOCALES){
  test('CV '+locale+': complete static HTML, Markdown and privacy-safe metadata',()=>{
   const html=get(locale),md=get(locale,'index.md'),json=get(locale,'curriculum.json');
   for(const v of [html,md,json]){assert.ok(v);assert.doesNotMatch(v,forbidden);assert.doesNotMatch(v,/\{\{[A-Z]+\}\}|>undefined<|>null</);}
-  assert.equal((html.match(/<h1\b/g)||[]).length,1);assert.equal((html.match(/class="grid cv-section"/g)||[]).length,5);assert.equal((html.match(/class="cv-entry"/g)||[]).length,34);
+  assert.equal((html.match(/<h1\b/g)||[]).length,1);assert.equal((html.match(/class="grid cv-section"/g)||[]).length,5);assert.equal((html.match(/class="cv-entry"/g)||[]).length,33);
   assert.ok(html.includes('<html lang="'+locale+'">'));assert.ok(html.includes(e(data.dictionaries[locale].cvTitle)));
   const graph=JSON.parse(json);assert.equal(graph['@type'],'WebPage');assert.deepEqual(graph.about,{'@type':'Person',name:'Renata Alberigi'});assert.equal(graph.hasPart.length,5);assert.equal(graph.inLanguage,locale);
   assert.ok(!html.includes('portfolio.json'));assert.ok(!html.includes('data-project='));assert.ok(!html.includes('<iframe'));assert.ok(!html.includes('type="application/pdf"'));
@@ -46,14 +46,14 @@ for(const locale of LOCALES){
   const html=get(locale);assert.equal((html.match(/class="control cv-work-link"/g)||[]).length,8);
   for(const r of curriculumRecords(data,locale).find(s=>s.id==='paintings').entries){if(r.workPath)assert.ok(html.includes('href="'+data.site.basePath+r.workPath+'"'));}
   assert.doesNotMatch(html,/href="[^"]*works\/(?:nibia|vale-do-capao)/);
-  const nibia=html.match(/id="cv-paintings-nibia-2023"[\s\S]*?<\/li>/)?.[0];assert.ok(nibia);assert.doesNotMatch(nibia,/130|cm/);
+  const nibia=html.match(/id="cv-paintings-nibia-2023"[\s\S]*?<\/li>/)?.[0];assert.ok(nibia);assert.ok(nibia.includes("130 × 130"));assert.doesNotMatch(nibia,/cm/);
  });
  test('Home '+locale+': biography CTA and all menu variants link to the public CV',()=>{
   const html=pages.get(localePath(locale)+'index.html'),about=html.match(/<section id="about"[\s\S]*?<\/section>/)[0];assert.ok(about.includes('data-cv-link href="'+data.site.basePath+cvPath(locale)+'"'));assert.ok(about.includes(e(data.dictionaries[locale].cvLink)));assert.equal((html.match(/data-cv-menu/g)||[]).length,3);assert.ok(html.includes(data.artist.bio[locale].slice(0,100)));
  });
 }
 test('Curriculum retains the approved five sections and selected record counts',()=>{
- assert.deepEqual(data.curriculum.sections.map(s=>s.id),CV_SECTIONS);assert.deepEqual(data.curriculum.sections.map(s=>s.entries.length),[4,6,10,10,4]);assert.deepEqual(validateCurriculum(data.curriculum),[]);
+ assert.deepEqual(data.curriculum.sections.map(s=>s.id),CV_SECTIONS);assert.deepEqual(data.curriculum.sections.map(s=>s.entries.length),[4,6,9,10,4]);assert.deepEqual(validateCurriculum(data.curriculum),[]);
 });
 test('CV paths are explicit, locale-safe and independent of work IDs',()=>{
  assert.deepEqual(LOCALES.map(cvPath),['cv/','pt-br/curriculo/','fr/cv/','es/curriculo/']);assert.throws(()=>cvPath('de'));assert.throws(()=>cvPath('../'));
@@ -91,7 +91,7 @@ test('CV escapes authored text and does not insert inline executable code',()=>{
  const html=renderPage(copy,template,'en',{curriculum:true});assert.ok(html.includes('&lt;script&gt;'));assert.ok(!html.includes('<script>alert'));assert.doesNotMatch(html,/<script(?![^>]*src=)|\sonclick=|\sstyle=/);
 });
 test('Absent or draft gallery records never create broken CV work links',()=>{
- const copy=structuredClone(data);copy.works=[];const out=generatePages(copy,template);assert.doesNotMatch(out.get(cvPath('en')+'index.html'),/class="control cv-work-link"/);assert.ok(out.get(cvPath('en')+'index.html').includes('Nibia'));
+ const copy=structuredClone(data);copy.works=[];const out=generatePages(copy,template);assert.doesNotMatch(out.get(cvPath('en')+'index.html'),/class="control cv-work-link"/);assert.ok(out.get(cvPath('en')+'index.html').includes('Níbia'));
 });
 test('CV appears in discovery but does not change noindex or the existing domain',()=>{
  for(const locale of LOCALES){assert.ok(pages.get('llms.txt').includes(cvPath(locale)+'index.md'));assert.ok(pages.get('llms-full.txt').includes(curriculumMarkdown(data,locale)));assert.ok(get(locale).includes('content="noindex,follow"'));}

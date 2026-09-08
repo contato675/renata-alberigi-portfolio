@@ -17,7 +17,7 @@ export function renderCurriculum(data,locale) {
       const title=entry.workPath?'<a class="control cv-work-link" href="'+e(local(entry.workPath))+'">'+e(entry.title)+'<span aria-hidden="true"> ↗</span></a>':e(entry.title);
       const details=[entry.technique,entry.dimensions].filter(Boolean).join(' · ');
       const description=entry.description?entry.description.split(/\n+/).map(p=>'<p class="cv-detail">'+e(p)+'</p>').join(''):'';
-      return '<li class="cv-entry" id="cv-'+e(section.id)+'-'+e(entry.id)+'"><div class="cv-date">'+dateMarkup(entry)+'</div><div class="cv-entry-content"><h3>'+title+'</h3>'+(details?'<p class="cv-detail">'+e(details)+'</p>':'')+description+'</div></li>';
+      return '<li class="cv-entry" id="cv-'+e(section.id)+'-'+e(entry.id)+'"><div class="cv-date">'+dateMarkup(entry)+'</div><div class="cv-entry-content"><h3 translate="no" class="notranslate">'+title+'</h3>'+(details?'<p class="cv-detail">'+e(details)+'</p>':'')+description+'</div></li>';
     }).join('')+'</ol></section>').join('\n');
   return '<article class="cv-page" aria-labelledby="cv-title"><div class="grid cv-heading"><div class="cv-heading-copy"><a class="control cv-back" href="'+e(local(localePath(locale)))+'">← '+e(u.cvBack)+'</a><p class="eyebrow">'+e(data.artist.name)+'</p><h1 id="cv-title">'+e(u.cvTitle)+'</h1><p class="intro">'+e(u.cvIntro)+'</p></div></div>'+index+content+'</article>';
 }

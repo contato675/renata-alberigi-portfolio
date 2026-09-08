@@ -680,7 +680,7 @@
       "fr": "Acrylique et pastel sur toile, vernie",
       "es": "Acrílico y pastel sobre lienzo, barnizado"
     },
-    "dimensions": "100 × 120 cm",
+    "dimensions": "100 × 120",
     "status": "published",
     "cover": 0,
     "collection": "paintings",
@@ -1117,7 +1117,7 @@
       "fr": "Huile sur toile",
       "es": "Óleo sobre lienzo"
     },
-    "dimensions": "70 × 100 cm",
+    "dimensions": "70 cm × 100",
     "status": "published",
     "cover": 0,
     "collection": "paintings",

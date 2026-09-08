@@ -15,10 +15,10 @@ const specs=[
  ['ponte-nova-2025','Ponte Nova','Óleo sobre tela','Oil on canvas','120 × 80 cm'],
  ['maternidade-2026','Poço da Maternidade','Óleo sobre tela','Oil on canvas','100 × 80 cm'],
  ['maternidade1-2025','Maternidade','Acrílica e giz pastel sobre tela, envernizada','Acrylic and pastel on canvas, varnished','100 × 80 cm'],
- ['lar-2026','Lar','Acrílica e giz pastel sobre tela, envernizada','Acrylic and pastel on canvas, varnished','100 × 120 cm'],
+ ['lar-2026','Lar','Acrílica e giz pastel sobre tela, envernizada','Acrylic and pastel on canvas, varnished','100 × 120'],
  ['aureo-2025','Áureo','Óleo sobre tela','Oil on canvas','40 × 60 cm'],
  ['analogiaeu-part4-2024','ANALOGIAEU part4','Óleo sobre tela','Oil on canvas','100 × 80 cm'],
- ['correnteza-2022','Correnteza','Óleo sobre tela','Oil on canvas','70 × 100 cm'],
+ ['correnteza-2022','Correnteza','Óleo sobre tela','Oil on canvas','70 cm × 100'],
  ['analogiaeu-2018','ANALOGIAEU','Acrílica sobre tela','Acrylic on canvas','130 × 800 cm']
 ];
 for(const [id,title,pt,en,size] of specs)test('Requested painting specification: '+title,()=>{

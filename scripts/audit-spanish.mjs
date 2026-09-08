@@ -43,7 +43,7 @@ try{
  });
  await check('Desktop disclosure works without JavaScript and changes to Spanish CV',async()=>{
   await chrome.call('Emulation.setScriptExecutionDisabled',{value:true});
-  try{await chrome.go(base+'cv/',1440,1000);await chrome.evaluate('document.querySelector("[data-language-picker] summary").click()');assert.ok(await chrome.evaluate('document.querySelector("[data-language-picker]").open'));await chrome.evaluate('document.querySelector("[data-language-picker] a[hreflang=es]").click()');await settle(data.site.basePath+'es/curriculo/');assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),34);await shot('es-cv-no-js');}
+  try{await chrome.go(base+'cv/',1440,1000);await chrome.evaluate('document.querySelector("[data-language-picker] summary").click()');assert.ok(await chrome.evaluate('document.querySelector("[data-language-picker]").open'));await chrome.evaluate('document.querySelector("[data-language-picker] a[hreflang=es]").click()');await settle(data.site.basePath+'es/curriculo/');assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),33);await shot('es-cv-no-js');}
   finally{await chrome.call('Emulation.setScriptExecutionDisabled',{value:false});}
  });
  await check('Spanish CV has public-only content and translated chronology',async()=>{

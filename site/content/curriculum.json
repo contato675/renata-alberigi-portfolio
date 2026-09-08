@@ -23,10 +23,10 @@
           "id": "rdfs",
           "date": "2017–2026",
           "title": {
-            "pt-BR": "Designer das roupas RDFS · Residência RUADOFLOW",
-            "en": "RDFS clothing designer · Residência RUADOFLOW",
-            "fr": "Créatrice de vêtements RDFS · Residência RUADOFLOW",
-            "es": "Diseñadora de indumentaria RDFS · Residência RUADOFLOW"
+            "pt-BR": "Designer das roupas RDFS · RUADOFLOW",
+            "en": "RDFS clothing designer · RUADOFLOW",
+            "fr": "Créatrice de vêtements RDFS · RUADOFLOW",
+            "es": "Diseñadora de indumentaria RDFS · RUADOFLOW"
           }
         },
         {
@@ -82,10 +82,10 @@
             "es": "Talleres de pintura para niños de las escuelas municipales"
           },
           "description": {
-            "pt-BR": "Jacareí, SP.",
-            "en": "Jacareí, SP.",
-            "fr": "Jacareí, SP.",
-            "es": "Jacareí, SP."
+            "en": "Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.",
+            "pt-BR": "Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.",
+            "fr": "Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.",
+            "es": "Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP."
           }
         },
         {
@@ -285,42 +285,26 @@
             "es": "ANALOGIAEU · Presentación el 3 de junio"
           },
           "description": {
-            "pt-BR": "Estúdio Folha Filmes · São José dos Campos, SP.",
-            "en": "Estúdio Folha Filmes · São José dos Campos, SP.",
-            "fr": "Estúdio Folha Filmes · São José dos Campos, SP.",
-            "es": "Estúdio Folha Filmes · São José dos Campos, SP."
+            "en": "Installation · Estúdio Folha Filmes · São José dos Campos, SP.",
+            "pt-BR": "Instalação · Estúdio Folha Filmes · São José dos Campos, SP.",
+            "fr": "Installation · Estúdio Folha Filmes · São José dos Campos, SP.",
+            "es": "Instalación · Estúdio Folha Filmes · São José dos Campos, SP."
           }
         },
         {
           "id": "pos-futurismo",
           "date": "2016",
           "title": {
-            "pt-BR": "O começo do Pós-Futurismo",
-            "en": "O começo do Pós-Futurismo",
-            "fr": "O começo do Pós-Futurismo",
-            "es": "O começo do Pós-Futurismo"
+            "en": "O começo do pós-futurismo",
+            "pt-BR": "O começo do pós-futurismo",
+            "fr": "O começo do pós-futurismo",
+            "es": "O começo do pós-futurismo"
           },
           "description": {
-            "pt-BR": "Instalações na Magia do Amor · São José dos Campos, SP.",
-            "en": "Installations at Magia do Amor · São José dos Campos, SP.",
-            "fr": "Installations à Magia do Amor · São José dos Campos, SP.",
-            "es": "Instalaciones en Magia do Amor · São José dos Campos, SP."
-          }
-        },
-        {
-          "id": "duo",
-          "date": "2016",
-          "title": {
-            "pt-BR": "Duo Du’ Vent",
-            "en": "Duo Du’ Vent",
-            "fr": "Duo Du’ Vent",
-            "es": "Duo Du’ Vent"
-          },
-          "description": {
-            "pt-BR": "Instalação coletiva · São José dos Campos, SP.",
-            "en": "Group installation · São José dos Campos, SP.",
-            "fr": "Installation collective · São José dos Campos, SP.",
-            "es": "Instalación colectiva · São José dos Campos, SP."
+            "pt-BR": "Instalação Re-nascida, centro de São José dos Campos, SP.",
+            "en": "Re-nascida installation · City centre, São José dos Campos, SP.",
+            "fr": "Installation Re-nascida · Centre-ville de São José dos Campos, SP.",
+            "es": "Instalación Re-nascida · Centro de São José dos Campos, SP."
           }
         },
         {
@@ -333,10 +317,10 @@
             "es": "Re-nascida"
           },
           "description": {
-            "pt-BR": "Instalação individual · São José dos Campos, SP.",
-            "en": "Solo installation · São José dos Campos, SP.",
-            "fr": "Installation individuelle · São José dos Campos, SP.",
-            "es": "Instalación individual · São José dos Campos, SP."
+            "pt-BR": "Instalação individual · Café del Tiempo · São José dos Campos, SP.",
+            "en": "Solo installation · Café del Tiempo · São José dos Campos, SP.",
+            "fr": "Installation individuelle · Café del Tiempo · São José dos Campos, SP.",
+            "es": "Instalación individual · Café del Tiempo · São José dos Campos, SP."
           }
         }
       ]
@@ -414,7 +398,7 @@
             "fr": "Acrylique et pastel sur toile, vernie",
             "es": "Acrílico y pastel sobre lienzo, barnizado"
           },
-          "dimensions": "100 × 120 cm"
+          "dimensions": "100 × 120"
         },
         {
           "id": "maternidade1-2025",
@@ -486,17 +470,18 @@
           "id": "nibia-2023",
           "date": "2023",
           "title": {
-            "pt-BR": "Nibia",
-            "en": "Nibia",
-            "fr": "Nibia",
-            "es": "Nibia"
+            "en": "Níbia",
+            "pt-BR": "Níbia",
+            "fr": "Níbia",
+            "es": "Níbia"
           },
           "technique": {
             "pt-BR": "Acrílica sobre tela",
             "en": "Acrylic on canvas",
             "fr": "Acrylique sur toile",
             "es": "Acrílico sobre lienzo"
-          }
+          },
+          "dimensions": "130 × 130"
         },
         {
           "id": "correnteza-2022",
@@ -514,7 +499,7 @@
             "fr": "Huile sur toile",
             "es": "Óleo sobre lienzo"
           },
-          "dimensions": "70 × 100 cm"
+          "dimensions": "70 cm × 100"
         },
         {
           "id": "vale-do-capao-2019",
@@ -598,10 +583,10 @@
             "es": "Presentación de ANALOGIAEU"
           },
           "description": {
-            "pt-BR": "Estúdio Folha Filmes · São José dos Campos, SP.",
-            "en": "Estúdio Folha Filmes · São José dos Campos, SP.",
-            "fr": "Estúdio Folha Filmes · São José dos Campos, SP.",
-            "es": "Estúdio Folha Filmes · São José dos Campos, SP."
+            "en": "Installation · Estúdio Folha Filmes · São José dos Campos, SP.",
+            "pt-BR": "Instalação · Estúdio Folha Filmes · São José dos Campos, SP.",
+            "fr": "Installation · Estúdio Folha Filmes · São José dos Campos, SP.",
+            "es": "Instalación · Estúdio Folha Filmes · São José dos Campos, SP."
           },
           "dateLabel": {
             "pt-BR": "3 de junho de 2017",
