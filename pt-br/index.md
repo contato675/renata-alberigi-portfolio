@@ -10,22 +10,26 @@ Chapada Diamantina · Bahia - Brasil
 
 ## Sobre
 
-Renata Alberigi é pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão. Árvores, rochas e águas de rios são suas principais fontes de inspiração. As formas, texturas e movimentos desses elementos alimentam um processo de criação que mantém o gesto manual presente tanto na pintura quanto no meio digital. Mãe desde 2019, Renata mantém seu próprio ateliê de pintura na Chapada Diamantina, Bahia, onde desenvolve uma produção autoral independente em contato cotidiano com a paisagem da Chapada Diamantina. Entre seus trabalhos, destaca-se ANALOGIAEU, série de pinturas construída entre 2014 e 2019 e apresentada em espaços como o Museu de Antropologia do Vale do Paraíba e o Espaço Tomie Ohtake, no EducaMais Jacareí. Sua trajetória também inclui oficinas e palestras para crianças, jovens e professores, além da atuação como diretora de arte da RUADOFLOW entre 2016 e 2026. Ao longo desse percurso, reúne a criação em ateliê, o design de roupas e de capas de CDs, a participação em exposições e instalações e a experiência de compartilhar práticas artísticas em espaços culturais e educativos.
+Renata Alberigi é pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão. Árvores, rochas e águas de rios são suas principais fontes de inspiração. As formas, texturas e movimentos desses elementos alimentam um processo de criação que mantém o gesto manual presente tanto na pintura quanto no meio digital. Mãe desde 2019, Renata mantém seu próprio ateliê de pintura na Chapada Diamantina, Bahia, onde desenvolve uma produção autoral independente em contato cotidiano com a paisagem da Chapada Diamantina.
+
+Entre seus trabalhos, destaca-se ANALOGIAEU. Os rascunhos começaram em 2014; a pintura foi desenvolvida no ateliê de 2015 a 2017 e lançada em 3 de junho de 2017 no Estúdio Folha Filmes, em São José dos Campos. Após o lançamento, Renata continuou pintando a obra durante as instalações, até 2018. A obra foi apresentada em 2017 no Espaço Tomie Ohtake do EducaMais Jacareí e na Diretoria de Cultura José Maria de Abreu, em Jacareí. Em 2018, integrou a 16ª Semana Nacional de Museus no Museu de Antropologia do Vale do Paraíba (MAV), em Jacareí, e a exposição coletiva do FIA — Festival Integrações de Arte, no Teatro da Cidade, em São José dos Campos.
+
+Sua trajetória também inclui oficinas e palestras para crianças, jovens e professores. Em 2017, realizou no EducaMais Jacareí — Espaço Tomie Ohtake uma palestra sobre a construção de ANALOGIAEU para 50 professores de artes do ensino fundamental, uma oficina de pintura para professores da educação infantil e uma palestra para jovens do ensino médio. Atuou como diretora de arte da RUADOFLOW entre 2016 e 2026. Ao longo desse percurso, reúne a criação em ateliê, o design de roupas e de capas de CDs, a participação em exposições e instalações e a experiência de compartilhar práticas artísticas em espaços culturais e educativos.
 
 ## Obras selecionadas
 
 
 ### Pinturas feitas à mão
 
-- [Amor incondicional](https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
-- [Ponte nova](https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/index.md): 2025; Óleo sobre tela; 120 × 80 cm.
-- [Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
-- [Maternidade 1](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
+- [Amor Incondicional](https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
+- [Ponte Nova](https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/index.md): 2025; Óleo sobre tela; 120 × 80 cm.
+- [Poço da Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
+- [Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
 - [Lar](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120 cm.
 - [Áureo](https://renataalberigi.com.br/pt-br/works/aureo-2025/index.md): 2025; Óleo sobre tela; 40 × 60 cm.
 - [ANALOGIAEU part4](https://renataalberigi.com.br/pt-br/works/analogiaeu-part4-2024/index.md): 2024; Óleo sobre tela; 100 × 80 cm.
 - [Correnteza](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 × 100 cm.
-- [ANALOGIAEU](https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/index.md): 2018; Acrílica sobre tela; 130 × 800 cm.
+- [ANALOGIAEU](https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/index.md): 2015–2018; Acrílica sobre tela; 130 × 800 cm.
 
 ### Pinturas digitais feitas à mão
 

@@ -16,18 +16,18 @@ Artwork titles and credited institutions retain their original names. A listed w
 
 ## Hand-painted works — primary collection
 
-- [Amor incondicional (en)](https://renataalberigi.com.br/works/amor-incondicional-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
-- [Amor incondicional (pt-BR)](https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
-- [Amor incondicional (fr)](https://renataalberigi.com.br/fr/works/amor-incondicional-2026/index.md): 2026; Huile sur toile; 100 × 80 cm.
-- [Ponte nova (en)](https://renataalberigi.com.br/works/ponte-nova-2025/index.md): 2025; Oil on canvas; 120 × 80 cm.
-- [Ponte nova (pt-BR)](https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/index.md): 2025; Óleo sobre tela; 120 × 80 cm.
-- [Ponte nova (fr)](https://renataalberigi.com.br/fr/works/ponte-nova-2025/index.md): 2025; Huile sur toile; 120 × 80 cm.
-- [Maternidade (en)](https://renataalberigi.com.br/works/maternidade-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
-- [Maternidade (pt-BR)](https://renataalberigi.com.br/pt-br/works/maternidade-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
-- [Maternidade (fr)](https://renataalberigi.com.br/fr/works/maternidade-2026/index.md): 2026; Huile sur toile; 100 × 80 cm.
-- [Maternidade 1 (en)](https://renataalberigi.com.br/works/maternidade1-2025/index.md): 2025; Acrylic and pastel on canvas, varnished; 100 × 80 cm.
-- [Maternidade 1 (pt-BR)](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
-- [Maternidade 1 (fr)](https://renataalberigi.com.br/fr/works/maternidade1-2025/index.md): 2025; Acrylique et pastel sur toile, vernie; 100 × 80 cm.
+- [Amor Incondicional (en)](https://renataalberigi.com.br/works/amor-incondicional-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
+- [Amor Incondicional (pt-BR)](https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
+- [Amor Incondicional (fr)](https://renataalberigi.com.br/fr/works/amor-incondicional-2026/index.md): 2026; Huile sur toile; 100 × 80 cm.
+- [Ponte Nova (en)](https://renataalberigi.com.br/works/ponte-nova-2025/index.md): 2025; Oil on canvas; 120 × 80 cm.
+- [Ponte Nova (pt-BR)](https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/index.md): 2025; Óleo sobre tela; 120 × 80 cm.
+- [Ponte Nova (fr)](https://renataalberigi.com.br/fr/works/ponte-nova-2025/index.md): 2025; Huile sur toile; 120 × 80 cm.
+- [Poço da Maternidade (en)](https://renataalberigi.com.br/works/maternidade-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
+- [Poço da Maternidade (pt-BR)](https://renataalberigi.com.br/pt-br/works/maternidade-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
+- [Poço da Maternidade (fr)](https://renataalberigi.com.br/fr/works/maternidade-2026/index.md): 2026; Huile sur toile; 100 × 80 cm.
+- [Maternidade (en)](https://renataalberigi.com.br/works/maternidade1-2025/index.md): 2025; Acrylic and pastel on canvas, varnished; 100 × 80 cm.
+- [Maternidade (pt-BR)](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
+- [Maternidade (fr)](https://renataalberigi.com.br/fr/works/maternidade1-2025/index.md): 2025; Acrylique et pastel sur toile, vernie; 100 × 80 cm.
 - [Lar (en)](https://renataalberigi.com.br/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120 cm.
 - [Lar (pt-BR)](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120 cm.
 - [Lar (fr)](https://renataalberigi.com.br/fr/works/lar-2026/index.md): 2026; Acrylique et pastel sur toile, vernie; 100 × 120 cm.
@@ -40,9 +40,9 @@ Artwork titles and credited institutions retain their original names. A listed w
 - [Correnteza (en)](https://renataalberigi.com.br/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 × 100 cm.
 - [Correnteza (pt-BR)](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 × 100 cm.
 - [Correnteza (fr)](https://renataalberigi.com.br/fr/works/correnteza-2022/index.md): 2022; Huile sur toile; 70 × 100 cm.
-- [ANALOGIAEU (en)](https://renataalberigi.com.br/works/analogiaeu-2018/index.md): 2018; Acrylic on canvas; 130 × 800 cm.
-- [ANALOGIAEU (pt-BR)](https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/index.md): 2018; Acrílica sobre tela; 130 × 800 cm.
-- [ANALOGIAEU (fr)](https://renataalberigi.com.br/fr/works/analogiaeu-2018/index.md): 2018; Acrylique sur toile; 130 × 800 cm.
+- [ANALOGIAEU (en)](https://renataalberigi.com.br/works/analogiaeu-2018/index.md): 2015–2018; Acrylic on canvas; 130 × 800 cm.
+- [ANALOGIAEU (pt-BR)](https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/index.md): 2015–2018; Acrílica sobre tela; 130 × 800 cm.
+- [ANALOGIAEU (fr)](https://renataalberigi.com.br/fr/works/analogiaeu-2018/index.md): 2015–2018; Acrylique sur toile; 130 × 800 cm.
 
 ## Hand-drawn digital paintings — separate collection
 

@@ -6,7 +6,7 @@
       "@id": "https://renataalberigi.com.br/#artist",
       "name": "Renata Alberigi",
       "jobTitle": "Pintora e artista visual brasileira",
-      "description": "Renata Alberigi é pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão. Árvores, rochas e águas de rios são suas principais fontes de inspiração. As formas, texturas e movimentos desses elementos alimentam um processo de criação que mantém o gesto manual presente tanto na pintura quanto no meio digital. Mãe desde 2019, Renata mantém seu próprio ateliê de pintura na Chapada Diamantina, Bahia, onde desenvolve uma produção autoral independente em contato cotidiano com a paisagem da Chapada Diamantina. Entre seus trabalhos, destaca-se ANALOGIAEU, série de pinturas construída entre 2014 e 2019 e apresentada em espaços como o Museu de Antropologia do Vale do Paraíba e o Espaço Tomie Ohtake, no EducaMais Jacareí. Sua trajetória também inclui oficinas e palestras para crianças, jovens e professores, além da atuação como diretora de arte da RUADOFLOW entre 2016 e 2026. Ao longo desse percurso, reúne a criação em ateliê, o design de roupas e de capas de CDs, a participação em exposições e instalações e a experiência de compartilhar práticas artísticas em espaços culturais e educativos.",
+      "description": "Renata Alberigi é pintora e artista visual brasileira, nascida em Petrolina, Pernambuco, em 1993, e radicada na Chapada Diamantina, Bahia. Autodidata, pinta desde a infância e desenvolve uma produção que tem como foco a pintura feita à mão, a óleo e com tinta acrílica, e também reúne retratos, instalações e trabalhos digitais feitos à mão. Árvores, rochas e águas de rios são suas principais fontes de inspiração. As formas, texturas e movimentos desses elementos alimentam um processo de criação que mantém o gesto manual presente tanto na pintura quanto no meio digital. Mãe desde 2019, Renata mantém seu próprio ateliê de pintura na Chapada Diamantina, Bahia, onde desenvolve uma produção autoral independente em contato cotidiano com a paisagem da Chapada Diamantina.\n\nEntre seus trabalhos, destaca-se ANALOGIAEU. Os rascunhos começaram em 2014; a pintura foi desenvolvida no ateliê de 2015 a 2017 e lançada em 3 de junho de 2017 no Estúdio Folha Filmes, em São José dos Campos. Após o lançamento, Renata continuou pintando a obra durante as instalações, até 2018. A obra foi apresentada em 2017 no Espaço Tomie Ohtake do EducaMais Jacareí e na Diretoria de Cultura José Maria de Abreu, em Jacareí. Em 2018, integrou a 16ª Semana Nacional de Museus no Museu de Antropologia do Vale do Paraíba (MAV), em Jacareí, e a exposição coletiva do FIA — Festival Integrações de Arte, no Teatro da Cidade, em São José dos Campos.\n\nSua trajetória também inclui oficinas e palestras para crianças, jovens e professores. Em 2017, realizou no EducaMais Jacareí — Espaço Tomie Ohtake uma palestra sobre a construção de ANALOGIAEU para 50 professores de artes do ensino fundamental, uma oficina de pintura para professores da educação infantil e uma palestra para jovens do ensino médio. Atuou como diretora de arte da RUADOFLOW entre 2016 e 2026. Ao longo desse percurso, reúne a criação em ateliê, o design de roupas e de capas de CDs, a participação em exposições e instalações e a experiência de compartilhar práticas artísticas em espaços culturais e educativos.",
       "url": "https://renataalberigi.com.br/pt-br/",
       "email": "estudiorenascida@gmail.com",
       "sameAs": [
@@ -18,7 +18,7 @@
       "@type": "VisualArtwork",
       "@id": "https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/",
       "url": "https://renataalberigi.com.br/pt-br/works/amor-incondicional-2026/",
-      "name": "Amor incondicional",
+      "name": "Amor Incondicional",
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
@@ -28,102 +28,103 @@
       "artMedium": "Óleo sobre tela",
       "size": "100 × 80 cm",
       "inLanguage": "pt-BR",
+      "description": "Estudo de campo: Ponte Velha, Chapada Diamantina, Bahia.",
       "image": [
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-01.webp",
-          "caption": "Amor incondicional — Um rio rosa entre rochas, com uma árvore de flores alaranjadas sob um céu de nuvens.",
+          "caption": "Amor Incondicional — Um rio rosa entre rochas, com uma árvore de flores alaranjadas sob um céu de nuvens.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-02.webp",
-          "caption": "Amor incondicional — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-03.webp",
-          "caption": "Amor incondicional — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-04.webp",
-          "caption": "Amor incondicional — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-05.webp",
-          "caption": "Amor incondicional — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-06.webp",
-          "caption": "Amor incondicional — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-07.webp",
-          "caption": "Amor incondicional — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-08.webp",
-          "caption": "Amor incondicional — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-09.webp",
-          "caption": "Amor incondicional — Fotografia 9 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 9 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-10.webp",
-          "caption": "Amor incondicional — Fotografia 10 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 10 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-11.webp",
-          "caption": "Amor incondicional — Fotografia 11 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 11 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-12.webp",
-          "caption": "Amor incondicional — Fotografia 12 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 12 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-13.webp",
-          "caption": "Amor incondicional — Fotografia 13 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 13 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-14.webp",
-          "caption": "Amor incondicional — Fotografia 14 da pintura feita à mão e de seus detalhes.",
+          "caption": "Amor Incondicional — Fotografia 14 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         }
@@ -133,7 +134,7 @@
       "@type": "VisualArtwork",
       "@id": "https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/",
       "url": "https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/",
-      "name": "Ponte nova",
+      "name": "Ponte Nova",
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
@@ -143,60 +144,61 @@
       "artMedium": "Óleo sobre tela",
       "size": "120 × 80 cm",
       "inLanguage": "pt-BR",
+      "description": "Estudo de campo: Ponte Velha, Chapada Diamantina, Bahia.",
       "image": [
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-01.webp",
-          "caption": "Ponte nova — Uma paisagem de rio rochoso, águas vermelhas e âmbar e vegetação verde.",
+          "caption": "Ponte Nova — Uma paisagem de rio rochoso, águas vermelhas e âmbar e vegetação verde.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-02.webp",
-          "caption": "Ponte nova — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "caption": "Ponte Nova — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-03.webp",
-          "caption": "Ponte nova — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "caption": "Ponte Nova — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-04.webp",
-          "caption": "Ponte nova — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "caption": "Ponte Nova — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-05.webp",
-          "caption": "Ponte nova — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "caption": "Ponte Nova — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-06.webp",
-          "caption": "Ponte nova — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "caption": "Ponte Nova — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-07.webp",
-          "caption": "Ponte nova — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "caption": "Ponte Nova — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-08.webp",
-          "caption": "Ponte nova — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "caption": "Ponte Nova — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         }
@@ -206,7 +208,7 @@
       "@type": "VisualArtwork",
       "@id": "https://renataalberigi.com.br/pt-br/works/maternidade-2026/",
       "url": "https://renataalberigi.com.br/pt-br/works/maternidade-2026/",
-      "name": "Maternidade",
+      "name": "Poço da Maternidade",
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
@@ -216,88 +218,89 @@
       "artMedium": "Óleo sobre tela",
       "size": "100 × 80 cm",
       "inLanguage": "pt-BR",
+      "description": "Estudo de campo: Cachoeira da Fumaça, Chapada Diamantina, Bahia.",
       "image": [
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-01.webp",
-          "caption": "Maternidade — Um rio azul estreito cercado por rochas avermelhadas e árvores verdes.",
+          "caption": "Poço da Maternidade — Um rio azul estreito cercado por rochas avermelhadas e árvores verdes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-02.webp",
-          "caption": "Maternidade — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 1080,
           "height": 1440
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-03.webp",
-          "caption": "Maternidade — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-04.webp",
-          "caption": "Maternidade — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-05.webp",
-          "caption": "Maternidade — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 1200,
           "height": 1600
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-06.webp",
-          "caption": "Maternidade — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-07.webp",
-          "caption": "Maternidade — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-08.webp",
-          "caption": "Maternidade — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-09.webp",
-          "caption": "Maternidade — Fotografia 9 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 9 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-10.webp",
-          "caption": "Maternidade — Fotografia 10 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 10 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-11.webp",
-          "caption": "Maternidade — Fotografia 11 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 11 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-12.webp",
-          "caption": "Maternidade — Fotografia 12 da pintura feita à mão e de seus detalhes.",
+          "caption": "Poço da Maternidade — Fotografia 12 da pintura feita à mão e de seus detalhes.",
           "width": 1440,
           "height": 1920
         }
@@ -307,7 +310,7 @@
       "@type": "VisualArtwork",
       "@id": "https://renataalberigi.com.br/pt-br/works/maternidade1-2025/",
       "url": "https://renataalberigi.com.br/pt-br/works/maternidade1-2025/",
-      "name": "Maternidade 1",
+      "name": "Maternidade",
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
@@ -321,91 +324,91 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-01.webp",
-          "caption": "Maternidade 1 — Uma trama de árvores, galhos e pequenas marcas rosas e verdes.",
+          "caption": "Maternidade — Uma trama de árvores, galhos e pequenas marcas rosas e verdes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-02.webp",
-          "caption": "Maternidade 1 — Fotografia 2 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 2 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-03.webp",
-          "caption": "Maternidade 1 — Fotografia 3 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 3 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-04.webp",
-          "caption": "Maternidade 1 — Fotografia 4 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 4 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-05.webp",
-          "caption": "Maternidade 1 — Fotografia 5 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 5 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-06.webp",
-          "caption": "Maternidade 1 — Fotografia 6 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 6 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-07.webp",
-          "caption": "Maternidade 1 — Fotografia 7 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 7 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-08.webp",
-          "caption": "Maternidade 1 — Fotografia 8 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 8 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-09.webp",
-          "caption": "Maternidade 1 — Fotografia 9 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 9 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-10.webp",
-          "caption": "Maternidade 1 — Fotografia 10 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 10 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-11.webp",
-          "caption": "Maternidade 1 — Fotografia 11 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 11 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-12.webp",
-          "caption": "Maternidade 1 — Fotografia 12 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 12 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-13.webp",
-          "caption": "Maternidade 1 — Fotografia 13 da pintura feita à mão e de seus detalhes.",
+          "caption": "Maternidade — Fotografia 13 da pintura feita à mão e de seus detalhes.",
           "width": 640,
           "height": 800
         }
@@ -540,6 +543,7 @@
       "artMedium": "Óleo sobre tela",
       "size": "40 × 60 cm",
       "inLanguage": "pt-BR",
+      "description": "Estudo de campo: Ponte Velha, Chapada Diamantina, Bahia.",
       "image": [
         {
           "@type": "ImageObject",
@@ -753,12 +757,13 @@
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
-      "dateCreated": "2018",
+      "temporalCoverage": "2015/2018",
       "artform": "Painting",
       "keywords": "Pinturas feitas à mão",
       "artMedium": "Acrílica sobre tela",
       "size": "130 × 800 cm",
       "inLanguage": "pt-BR",
+      "description": "Rascunhos iniciados em 2014. Pintura desenvolvida no ateliê entre 2015 e 2017, lançada em 3 de junho de 2017 no Estúdio Folha Filmes, em São José dos Campos, e continuada durante as instalações até 2018.",
       "image": [
         {
           "@type": "ImageObject",

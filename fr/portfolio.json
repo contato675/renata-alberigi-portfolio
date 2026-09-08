@@ -6,7 +6,7 @@
       "@id": "https://renataalberigi.com.br/#artist",
       "name": "Renata Alberigi",
       "jobTitle": "Peintre et artiste visuelle brésilienne",
-      "description": "Renata Alberigi est une peintre et artiste visuelle brésilienne, née à Petrolina, dans le Pernambouc, en 1993 et établie dans la Chapada Diamantina, en Bahia. Autodidacte, elle peint depuis l’enfance. Sa pratique se concentre sur des œuvres réalisées à la main, à l’huile et à l’acrylique, et comprend également des portraits, des installations et des œuvres numériques dessinées à la main. Les arbres, les roches et les eaux des rivières sont ses principales sources d’inspiration. Leurs formes, leurs textures et leurs mouvements nourrissent un processus de création qui préserve le geste manuel aussi bien en peinture que dans le travail numérique. Mère depuis 2019, Renata dirige son propre atelier de peinture dans la Chapada Diamantina, en Bahia, où elle développe une pratique artistique indépendante au contact quotidien du paysage de la Chapada Diamantina.\n\nParmi ses œuvres figure ANALOGIAEU, une série de peintures réalisée entre 2014 et 2019 et présentée notamment au Museu de Antropologia do Vale do Paraíba et à l’Espaço Tomie Ohtake, au sein d’EducaMais Jacareí.\n\nSon parcours comprend également des ateliers et des conférences destinés aux enfants, aux jeunes et aux enseignants, ainsi que son activité de directrice artistique de RUADOFLOW entre 2016 et 2026. Il réunit le travail en atelier, la création de vêtements et de pochettes de CD, la participation à des expositions et à des installations, ainsi que le partage de pratiques artistiques dans des espaces culturels et éducatifs.",
+      "description": "Renata Alberigi est une peintre et artiste visuelle brésilienne, née à Petrolina, dans le Pernambouc, en 1993 et établie dans la Chapada Diamantina, en Bahia. Autodidacte, elle peint depuis l’enfance. Sa pratique se concentre sur des œuvres réalisées à la main, à l’huile et à l’acrylique, et comprend également des portraits, des installations et des œuvres numériques dessinées à la main. Les arbres, les roches et les eaux des rivières sont ses principales sources d’inspiration. Leurs formes, leurs textures et leurs mouvements nourrissent un processus de création qui préserve le geste manuel aussi bien en peinture que dans le travail numérique. Mère depuis 2019, Renata dirige son propre atelier de peinture dans la Chapada Diamantina, en Bahia, où elle développe une pratique artistique indépendante au contact quotidien du paysage de la Chapada Diamantina.\n\nParmi ses œuvres figure ANALOGIAEU. Les premiers croquis datent de 2014 ; la peinture a été développée dans son atelier de 2015 à 2017, puis présentée pour son lancement le 3 juin 2017 à l’Estúdio Folha Filmes, à São José dos Campos. Après ce lancement, Renata a continué à peindre l’œuvre au cours de ses installations, jusqu’en 2018. L’œuvre a été présentée en 2017 à l’Espaço Tomie Ohtake, au sein d’EducaMais Jacareí, ainsi qu’à la Diretoria de Cultura José Maria de Abreu, à Jacareí. En 2018, elle a été présentée lors de la 16ª Semana Nacional de Museus au Museu de Antropologia do Vale do Paraíba (MAV), à Jacareí, et dans l’exposition collective du FIA — Festival Integrações de Arte, au Teatro da Cidade, à São José dos Campos.\n\nSon parcours comprend également des ateliers et des conférences destinés aux enfants, aux jeunes et aux enseignants. En 2017, à EducaMais Jacareí — Espaço Tomie Ohtake, elle a donné une conférence sur la création d’ANALOGIAEU pour 50 enseignants d’arts de l’enseignement fondamental, un atelier de peinture pour des enseignants de la petite enfance et une conférence pour des lycéens. Elle a été directrice artistique de RUADOFLOW entre 2016 et 2026. Son parcours réunit le travail en atelier, la création de vêtements et de pochettes de CD, la participation à des expositions et à des installations, ainsi que le partage de pratiques artistiques dans des espaces culturels et éducatifs.",
       "url": "https://renataalberigi.com.br/fr/",
       "email": "estudiorenascida@gmail.com",
       "sameAs": [
@@ -18,7 +18,7 @@
       "@type": "VisualArtwork",
       "@id": "https://renataalberigi.com.br/fr/works/amor-incondicional-2026/",
       "url": "https://renataalberigi.com.br/fr/works/amor-incondicional-2026/",
-      "name": "Amor incondicional",
+      "name": "Amor Incondicional",
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
@@ -28,102 +28,103 @@
       "artMedium": "Huile sur toile",
       "size": "100 × 80 cm",
       "inLanguage": "fr",
+      "description": "Étude de terrain : Ponte Velha, Chapada Diamantina, Bahia, Brésil.",
       "image": [
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-01.webp",
-          "caption": "Amor incondicional — Une rivière rose entre des roches, avec un arbre aux fleurs orangées sous un ciel nuageux.",
+          "caption": "Amor Incondicional — Une rivière rose entre des roches, avec un arbre aux fleurs orangées sous un ciel nuageux.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-02.webp",
-          "caption": "Amor incondicional — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 2 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-03.webp",
-          "caption": "Amor incondicional — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 3 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-04.webp",
-          "caption": "Amor incondicional — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 4 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-05.webp",
-          "caption": "Amor incondicional — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 5 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-06.webp",
-          "caption": "Amor incondicional — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 6 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-07.webp",
-          "caption": "Amor incondicional — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 7 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-08.webp",
-          "caption": "Amor incondicional — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 8 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-09.webp",
-          "caption": "Amor incondicional — Photographie 9 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 9 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-10.webp",
-          "caption": "Amor incondicional — Photographie 10 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 10 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-11.webp",
-          "caption": "Amor incondicional — Photographie 11 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 11 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-12.webp",
-          "caption": "Amor incondicional — Photographie 12 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 12 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-13.webp",
-          "caption": "Amor incondicional — Photographie 13 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 13 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-14.webp",
-          "caption": "Amor incondicional — Photographie 14 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Amor Incondicional — Photographie 14 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         }
@@ -133,7 +134,7 @@
       "@type": "VisualArtwork",
       "@id": "https://renataalberigi.com.br/fr/works/ponte-nova-2025/",
       "url": "https://renataalberigi.com.br/fr/works/ponte-nova-2025/",
-      "name": "Ponte nova",
+      "name": "Ponte Nova",
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
@@ -143,60 +144,61 @@
       "artMedium": "Huile sur toile",
       "size": "120 × 80 cm",
       "inLanguage": "fr",
+      "description": "Étude de terrain : Ponte Velha, Chapada Diamantina, Bahia, Brésil.",
       "image": [
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-01.webp",
-          "caption": "Ponte nova — Un paysage de rivière rocheuse, aux eaux rouges et ambrées, entouré de végétation verte.",
+          "caption": "Ponte Nova — Un paysage de rivière rocheuse, aux eaux rouges et ambrées, entouré de végétation verte.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-02.webp",
-          "caption": "Ponte nova — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Ponte Nova — Photographie 2 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-03.webp",
-          "caption": "Ponte nova — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Ponte Nova — Photographie 3 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-04.webp",
-          "caption": "Ponte nova — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Ponte Nova — Photographie 4 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-05.webp",
-          "caption": "Ponte nova — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Ponte Nova — Photographie 5 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-06.webp",
-          "caption": "Ponte nova — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Ponte Nova — Photographie 6 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-07.webp",
-          "caption": "Ponte nova — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Ponte Nova — Photographie 7 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-08.webp",
-          "caption": "Ponte nova — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Ponte Nova — Photographie 8 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         }
@@ -206,7 +208,7 @@
       "@type": "VisualArtwork",
       "@id": "https://renataalberigi.com.br/fr/works/maternidade-2026/",
       "url": "https://renataalberigi.com.br/fr/works/maternidade-2026/",
-      "name": "Maternidade",
+      "name": "Poço da Maternidade",
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
@@ -216,88 +218,89 @@
       "artMedium": "Huile sur toile",
       "size": "100 × 80 cm",
       "inLanguage": "fr",
+      "description": "Étude de terrain : Cachoeira da Fumaça, Chapada Diamantina, Bahia, Brésil.",
       "image": [
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-01.webp",
-          "caption": "Maternidade — Une étroite rivière bleue entourée de roches rougeâtres et d’arbres verts.",
+          "caption": "Poço da Maternidade — Une étroite rivière bleue entourée de roches rougeâtres et d’arbres verts.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-02.webp",
-          "caption": "Maternidade — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 2 de la peinture réalisée à la main et de ses détails.",
           "width": 1080,
           "height": 1440
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-03.webp",
-          "caption": "Maternidade — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 3 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-04.webp",
-          "caption": "Maternidade — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 4 de la peinture réalisée à la main et de ses détails.",
           "width": 960,
           "height": 1280
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-05.webp",
-          "caption": "Maternidade — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 5 de la peinture réalisée à la main et de ses détails.",
           "width": 1200,
           "height": 1600
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-06.webp",
-          "caption": "Maternidade — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 6 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-07.webp",
-          "caption": "Maternidade — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 7 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-08.webp",
-          "caption": "Maternidade — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 8 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-09.webp",
-          "caption": "Maternidade — Photographie 9 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 9 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-10.webp",
-          "caption": "Maternidade — Photographie 10 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 10 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 853
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-11.webp",
-          "caption": "Maternidade — Photographie 11 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 11 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-12.webp",
-          "caption": "Maternidade — Photographie 12 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Poço da Maternidade — Photographie 12 de la peinture réalisée à la main et de ses détails.",
           "width": 1440,
           "height": 1920
         }
@@ -307,7 +310,7 @@
       "@type": "VisualArtwork",
       "@id": "https://renataalberigi.com.br/fr/works/maternidade1-2025/",
       "url": "https://renataalberigi.com.br/fr/works/maternidade1-2025/",
-      "name": "Maternidade 1",
+      "name": "Maternidade",
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
@@ -321,91 +324,91 @@
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-01.webp",
-          "caption": "Maternidade 1 — Un entrelacs d’arbres, de branches et de petites touches roses et vertes.",
+          "caption": "Maternidade — Un entrelacs d’arbres, de branches et de petites touches roses et vertes.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-02.webp",
-          "caption": "Maternidade 1 — Photographie 2 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 2 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-03.webp",
-          "caption": "Maternidade 1 — Photographie 3 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 3 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-04.webp",
-          "caption": "Maternidade 1 — Photographie 4 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 4 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-05.webp",
-          "caption": "Maternidade 1 — Photographie 5 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 5 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-06.webp",
-          "caption": "Maternidade 1 — Photographie 6 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 6 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-07.webp",
-          "caption": "Maternidade 1 — Photographie 7 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 7 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-08.webp",
-          "caption": "Maternidade 1 — Photographie 8 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 8 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-09.webp",
-          "caption": "Maternidade 1 — Photographie 9 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 9 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-10.webp",
-          "caption": "Maternidade 1 — Photographie 10 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 10 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-11.webp",
-          "caption": "Maternidade 1 — Photographie 11 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 11 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-12.webp",
-          "caption": "Maternidade 1 — Photographie 12 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 12 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         },
         {
           "@type": "ImageObject",
           "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-13.webp",
-          "caption": "Maternidade 1 — Photographie 13 de la peinture réalisée à la main et de ses détails.",
+          "caption": "Maternidade — Photographie 13 de la peinture réalisée à la main et de ses détails.",
           "width": 640,
           "height": 800
         }
@@ -540,6 +543,7 @@
       "artMedium": "Huile sur toile",
       "size": "40 × 60 cm",
       "inLanguage": "fr",
+      "description": "Étude de terrain : Ponte Velha, Chapada Diamantina, Bahia, Brésil.",
       "image": [
         {
           "@type": "ImageObject",
@@ -753,12 +757,13 @@
       "creator": {
         "@id": "https://renataalberigi.com.br/#artist"
       },
-      "dateCreated": "2018",
+      "temporalCoverage": "2015/2018",
       "artform": "Painting",
       "keywords": "Peintures réalisées à la main",
       "artMedium": "Acrylique sur toile",
       "size": "130 × 800 cm",
       "inLanguage": "fr",
+      "description": "Premiers croquis en 2014. La peinture a été développée dans l’atelier entre 2015 et 2017, présentée pour son lancement le 3 juin 2017 à l’Estúdio Folha Filmes, à São José dos Campos, puis poursuivie au cours de ses installations jusqu’en 2018.",
       "image": [
         {
           "@type": "ImageObject",

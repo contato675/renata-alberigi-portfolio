@@ -8,6 +8,8 @@ https://renataalberigi.com.br/fr/works/aureo-2025/
 **Dimensions:** 40 × 60 cm
 **Titre original:** Áureo
 
+Étude de terrain : Ponte Velha, Chapada Diamantina, Bahia, Brésil.
+
 ![Áureo — Des formations rocheuses éclairées par le soleil, au bord d’eaux sombres, sous un ciel bleu.](https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-01.webp)
 
 ![Áureo — Photographie 2 de la peinture réalisée à la main et de ses détails.](https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-02.webp)

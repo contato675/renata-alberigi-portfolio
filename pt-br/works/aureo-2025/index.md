@@ -8,6 +8,8 @@ https://renataalberigi.com.br/pt-br/works/aureo-2025/
 **Dimensões:** 40 × 60 cm
 **Título original:** Áureo
 
+Estudo de campo: Ponte Velha, Chapada Diamantina, Bahia.
+
 ![Áureo — Formações rochosas iluminadas junto a águas escuras sob um céu azul.](https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-01.webp)
 
 ![Áureo — Fotografia 2 da pintura feita à mão e de seus detalhes.](https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-02.webp)

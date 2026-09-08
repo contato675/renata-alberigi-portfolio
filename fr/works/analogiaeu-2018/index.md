@@ -3,10 +3,12 @@
 https://renataalberigi.com.br/fr/works/analogiaeu-2018/
 
 **Artiste:** Renata Alberigi
-**Année:** 2018
+**Année:** 2015–2018
 **Technique:** Acrylique sur toile
 **Dimensions:** 130 × 800 cm
 **Titre original:** ANALOGIAEU
+
+Premiers croquis en 2014. La peinture a été développée dans l’atelier entre 2015 et 2017, présentée pour son lancement le 3 juin 2017 à l’Estúdio Folha Filmes, à São José dos Campos, puis poursuivie au cours de ses installations jusqu’en 2018.
 
 ![ANALOGIAEU — Des formes ramifiées bleues et dorées dans une composition peinte avec minutie.](https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-01.webp)
 

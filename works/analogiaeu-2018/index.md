@@ -3,10 +3,12 @@
 https://renataalberigi.com.br/works/analogiaeu-2018/
 
 **Artist:** Renata Alberigi
-**Year:** 2018
+**Year:** 2015–2018
 **Medium:** Acrylic on canvas
 **Dimensions:** 130 × 800 cm
 **Original title:** ANALOGIAEU
+
+Sketches began in 2014. The painting was developed in the studio between 2015 and 2017, launched on 3 June 2017 at Estúdio Folha Filmes in São José dos Campos, and continued during its installations until 2018.
 
 ![ANALOGIAEU — Branching blue and golden shapes in an intricately painted composition.](https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-01.webp)
 
