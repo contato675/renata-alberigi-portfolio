@@ -1,0 +1,1691 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://renataalberigi.com.br/#artist",
+      "name": "Renata Alberigi",
+      "jobTitle": "Pintora y artista visual brasileña",
+      "description": "Renata Alberigi es una pintora y artista visual brasileña, nacida en Petrolina, Pernambuco, en 1993 y radicada en la Chapada Diamantina, Bahia. Autodidacta, pinta desde la infancia. Su práctica se centra en pinturas realizadas a mano, al óleo y con acrílico, y también incluye retratos, instalaciones y obras digitales realizadas a mano. Los árboles, las rocas y las aguas de los ríos son sus principales fuentes de inspiración. Las formas, texturas y movimientos de estos elementos alimentan un proceso creativo que conserva el gesto manual tanto en la pintura como en el medio digital. Madre desde 2019, Renata tiene su propio taller de pintura en la Chapada Diamantina, Bahia, donde desarrolla una práctica artística independiente en contacto cotidiano con el paisaje de la Chapada Diamantina.\n\nEntre sus obras destaca ANALOGIAEU. Los bocetos comenzaron en 2014; la pintura se desarrolló en el taller entre 2015 y 2017 y se presentó el 3 de junio de 2017 en Estúdio Folha Filmes, en São José dos Campos. Tras la presentación, Renata continuó pintando la obra durante las instalaciones, hasta 2018. La obra se presentó en 2017 en Espaço Tomie Ohtake, de EducaMais Jacareí, y en la Diretoria de Cultura José Maria de Abreu, en Jacareí. En 2018 formó parte de la 16ª Semana Nacional de Museus en el Museu de Antropologia do Vale do Paraíba (MAV), en Jacareí, y de la exposición colectiva del FIA — Festival Integrações de Arte, en el Teatro da Cidade, en São José dos Campos.\n\nSu trayectoria también incluye talleres y charlas para niños, jóvenes y docentes. En 2017, en EducaMais Jacareí — Espaço Tomie Ohtake, impartió una charla sobre la creación de ANALOGIAEU para 50 docentes de arte de la enseñanza básica, un taller de pintura para docentes de educación infantil y una charla para estudiantes de enseñanza media. Fue directora de arte de RUADOFLOW entre 2016 y 2026. A lo largo de su trayectoria reúne la creación en el taller, el diseño de indumentaria y de portadas de CD, la participación en exposiciones e instalaciones y el intercambio de prácticas artísticas en espacios culturales y educativos.",
+      "url": "https://renataalberigi.com.br/es/",
+      "email": "estudiorenascida@gmail.com",
+      "sameAs": [
+        "https://www.instagram.com/renataalberigi/"
+      ],
+      "image": "https://renataalberigi.com.br/assets/images/perfil/renata-alberigi-c758528aa6.webp"
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/amor-incondicional-2026/",
+      "url": "https://renataalberigi.com.br/es/works/amor-incondicional-2026/",
+      "name": "Amor Incondicional",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Pinturas realizadas a mano",
+      "artMedium": "Óleo sobre lienzo",
+      "size": "100 × 80 cm",
+      "inLanguage": "es",
+      "description": "Estudio de campo: Ponte Velha, Chapada Diamantina, Bahia.",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-01.webp",
+          "caption": "Amor Incondicional — Un río rosa entre rocas, con un árbol de flores anaranjadas bajo un cielo nublado.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-02.webp",
+          "caption": "Amor Incondicional — Fotografía 2 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-03.webp",
+          "caption": "Amor Incondicional — Fotografía 3 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-04.webp",
+          "caption": "Amor Incondicional — Fotografía 4 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-05.webp",
+          "caption": "Amor Incondicional — Fotografía 5 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-06.webp",
+          "caption": "Amor Incondicional — Fotografía 6 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-07.webp",
+          "caption": "Amor Incondicional — Fotografía 7 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-08.webp",
+          "caption": "Amor Incondicional — Fotografía 8 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-09.webp",
+          "caption": "Amor Incondicional — Fotografía 9 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-10.webp",
+          "caption": "Amor Incondicional — Fotografía 10 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-11.webp",
+          "caption": "Amor Incondicional — Fotografía 11 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-12.webp",
+          "caption": "Amor Incondicional — Fotografía 12 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-13.webp",
+          "caption": "Amor Incondicional — Fotografía 13 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/amor-incondicional-2026/image-14.webp",
+          "caption": "Amor Incondicional — Fotografía 14 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/ponte-nova-2025/",
+      "url": "https://renataalberigi.com.br/es/works/ponte-nova-2025/",
+      "name": "Ponte Nova",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Pinturas realizadas a mano",
+      "artMedium": "Óleo sobre lienzo",
+      "size": "120 × 80 cm",
+      "inLanguage": "es",
+      "description": "Estudio de campo: Ponte Velha, Chapada Diamantina, Bahia.",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-01.webp",
+          "caption": "Ponte Nova — Un paisaje de río rocoso, aguas rojas y ámbar y vegetación verde.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-02.webp",
+          "caption": "Ponte Nova — Fotografía 2 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-03.webp",
+          "caption": "Ponte Nova — Fotografía 3 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-04.webp",
+          "caption": "Ponte Nova — Fotografía 4 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-05.webp",
+          "caption": "Ponte Nova — Fotografía 5 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-06.webp",
+          "caption": "Ponte Nova — Fotografía 6 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-07.webp",
+          "caption": "Ponte Nova — Fotografía 7 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/ponte-nova-2025/image-08.webp",
+          "caption": "Ponte Nova — Fotografía 8 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/maternidade-2026/",
+      "url": "https://renataalberigi.com.br/es/works/maternidade-2026/",
+      "name": "Poço da Maternidade",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Pinturas realizadas a mano",
+      "artMedium": "Óleo sobre lienzo",
+      "size": "100 × 80 cm",
+      "inLanguage": "es",
+      "description": "Estudio de campo: Cachoeira da Fumaça, Chapada Diamantina, Bahia.",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-01.webp",
+          "caption": "Poço da Maternidade — Un río azul y estrecho rodeado de rocas rojizas y árboles verdes.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-02.webp",
+          "caption": "Poço da Maternidade — Fotografía 2 de la pintura realizada a mano y sus detalles.",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-03.webp",
+          "caption": "Poço da Maternidade — Fotografía 3 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-04.webp",
+          "caption": "Poço da Maternidade — Fotografía 4 de la pintura realizada a mano y sus detalles.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-05.webp",
+          "caption": "Poço da Maternidade — Fotografía 5 de la pintura realizada a mano y sus detalles.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-06.webp",
+          "caption": "Poço da Maternidade — Fotografía 6 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-07.webp",
+          "caption": "Poço da Maternidade — Fotografía 7 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-08.webp",
+          "caption": "Poço da Maternidade — Fotografía 8 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-09.webp",
+          "caption": "Poço da Maternidade — Fotografía 9 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-10.webp",
+          "caption": "Poço da Maternidade — Fotografía 10 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-11.webp",
+          "caption": "Poço da Maternidade — Fotografía 11 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade-2026/image-12.webp",
+          "caption": "Poço da Maternidade — Fotografía 12 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/maternidade1-2025/",
+      "url": "https://renataalberigi.com.br/es/works/maternidade1-2025/",
+      "name": "Maternidade",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Pinturas realizadas a mano",
+      "artMedium": "Acrílico y pastel sobre lienzo, barnizado",
+      "size": "100 × 80 cm",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-01.webp",
+          "caption": "Maternidade — Una trama de árboles, ramas y pequeñas marcas rosas y verdes.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-02.webp",
+          "caption": "Maternidade — Fotografía 2 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-03.webp",
+          "caption": "Maternidade — Fotografía 3 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-04.webp",
+          "caption": "Maternidade — Fotografía 4 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-05.webp",
+          "caption": "Maternidade — Fotografía 5 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-06.webp",
+          "caption": "Maternidade — Fotografía 6 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-07.webp",
+          "caption": "Maternidade — Fotografía 7 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-08.webp",
+          "caption": "Maternidade — Fotografía 8 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-09.webp",
+          "caption": "Maternidade — Fotografía 9 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-10.webp",
+          "caption": "Maternidade — Fotografía 10 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-11.webp",
+          "caption": "Maternidade — Fotografía 11 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-12.webp",
+          "caption": "Maternidade — Fotografía 12 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/maternidade1-2025/image-13.webp",
+          "caption": "Maternidade — Fotografía 13 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/lar-2026/",
+      "url": "https://renataalberigi.com.br/es/works/lar-2026/",
+      "name": "Lar",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2026",
+      "artform": "Painting",
+      "keywords": "Pinturas realizadas a mano",
+      "artMedium": "Acrílico y pastel sobre lienzo, barnizado",
+      "size": "100 × 120 cm",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-01.webp",
+          "caption": "Lar — Árboles y raíces entrelazados en un paisaje de pintura densa, rosa y verde.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-02.webp",
+          "caption": "Lar — Fotografía 2 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-03.webp",
+          "caption": "Lar — Fotografía 3 de la pintura realizada a mano y sus detalles.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-04.webp",
+          "caption": "Lar — Fotografía 4 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-05.webp",
+          "caption": "Lar — Fotografía 5 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-06.webp",
+          "caption": "Lar — Fotografía 6 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-07.webp",
+          "caption": "Lar — Fotografía 7 de la pintura realizada a mano y sus detalles.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-08.webp",
+          "caption": "Lar — Fotografía 8 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-09.webp",
+          "caption": "Lar — Fotografía 9 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-10.webp",
+          "caption": "Lar — Fotografía 10 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-11.webp",
+          "caption": "Lar — Fotografía 11 de la pintura realizada a mano y sus detalles.",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-12.webp",
+          "caption": "Lar — Fotografía 12 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-13.webp",
+          "caption": "Lar — Fotografía 13 de la pintura realizada a mano y sus detalles.",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/lar-2026/image-14.webp",
+          "caption": "Lar — Fotografía 14 de la pintura realizada a mano y sus detalles.",
+          "width": 1080,
+          "height": 1129
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/aureo-2025/",
+      "url": "https://renataalberigi.com.br/es/works/aureo-2025/",
+      "name": "Áureo",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2025",
+      "artform": "Painting",
+      "keywords": "Pinturas realizadas a mano",
+      "artMedium": "Óleo sobre lienzo",
+      "size": "40 × 60 cm",
+      "inLanguage": "es",
+      "description": "Estudio de campo: Ponte Velha, Chapada Diamantina, Bahia.",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-01.webp",
+          "caption": "Áureo — Formaciones rocosas iluminadas junto a aguas oscuras bajo un cielo azul.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-02.webp",
+          "caption": "Áureo — Fotografía 2 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-03.webp",
+          "caption": "Áureo — Fotografía 3 de la pintura realizada a mano y sus detalles.",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-04.webp",
+          "caption": "Áureo — Fotografía 4 de la pintura realizada a mano y sus detalles.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-05.webp",
+          "caption": "Áureo — Fotografía 5 de la pintura realizada a mano y sus detalles.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-06.webp",
+          "caption": "Áureo — Fotografía 6 de la pintura realizada a mano y sus detalles.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-07.webp",
+          "caption": "Áureo — Fotografía 7 de la pintura realizada a mano y sus detalles.",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/aureo-2025/image-08.webp",
+          "caption": "Áureo — Fotografía 8 de la pintura realizada a mano y sus detalles.",
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/analogiaeu-part4-2024/",
+      "url": "https://renataalberigi.com.br/es/works/analogiaeu-part4-2024/",
+      "name": "ANALOGIAEU part4",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2024",
+      "artform": "Painting",
+      "keywords": "Pinturas realizadas a mano",
+      "artMedium": "Óleo sobre lienzo",
+      "size": "100 × 80 cm",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-01.webp",
+          "caption": "ANALOGIAEU part4 — Un tronco y sus raíces en múltiples colores, en un paisaje rosa.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-02.webp",
+          "caption": "ANALOGIAEU part4 — Fotografía 2 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-03.webp",
+          "caption": "ANALOGIAEU part4 — Fotografía 3 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-04.webp",
+          "caption": "ANALOGIAEU part4 — Fotografía 4 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-05.webp",
+          "caption": "ANALOGIAEU part4 — Fotografía 5 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-06.webp",
+          "caption": "ANALOGIAEU part4 — Fotografía 6 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-07.webp",
+          "caption": "ANALOGIAEU part4 — Fotografía 7 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-part4-2024/image-08.webp",
+          "caption": "ANALOGIAEU part4 — Fotografía 8 de la pintura realizada a mano y sus detalles.",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/correnteza-2022/",
+      "url": "https://renataalberigi.com.br/es/works/correnteza-2022/",
+      "name": "Correnteza",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "dateCreated": "2022",
+      "artform": "Painting",
+      "keywords": "Pinturas realizadas a mano",
+      "artMedium": "Óleo sobre lienzo",
+      "size": "70 × 100 cm",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-01.webp",
+          "caption": "Correnteza — Un río de aguas claras que serpentea por un paisaje de rocas y vegetación.",
+          "width": 859,
+          "height": 1073
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-02.webp",
+          "caption": "Correnteza — Fotografía 2 de la pintura realizada a mano y sus detalles.",
+          "width": 858,
+          "height": 1071
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-03.webp",
+          "caption": "Correnteza — Fotografía 3 de la pintura realizada a mano y sus detalles.",
+          "width": 900,
+          "height": 1124
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-04.webp",
+          "caption": "Correnteza — Fotografía 4 de la pintura realizada a mano y sus detalles.",
+          "width": 892,
+          "height": 1115
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-05.webp",
+          "caption": "Correnteza — Fotografía 5 de la pintura realizada a mano y sus detalles.",
+          "width": 900,
+          "height": 1125
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-06.webp",
+          "caption": "Correnteza — Fotografía 6 de la pintura realizada a mano y sus detalles.",
+          "width": 899,
+          "height": 1122
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-07.webp",
+          "caption": "Correnteza — Fotografía 7 de la pintura realizada a mano y sus detalles.",
+          "width": 900,
+          "height": 1124
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-08.webp",
+          "caption": "Correnteza — Fotografía 8 de la pintura realizada a mano y sus detalles.",
+          "width": 899,
+          "height": 1123
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/analogiaeu-2018/",
+      "url": "https://renataalberigi.com.br/es/works/analogiaeu-2018/",
+      "name": "ANALOGIAEU",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2015/2018",
+      "artform": "Painting",
+      "keywords": "Pinturas realizadas a mano",
+      "artMedium": "Acrílico sobre lienzo",
+      "size": "130 × 800 cm",
+      "inLanguage": "es",
+      "description": "Bocetos iniciados en 2014. Pintura desarrollada en el taller entre 2015 y 2017, presentada el 3 de junio de 2017 en Estúdio Folha Filmes, en São José dos Campos, y continuada durante las instalaciones hasta 2018.",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-01.webp",
+          "caption": "ANALOGIAEU — Formas ramificadas azules y doradas en una composición pictórica detallada.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-02.webp",
+          "caption": "ANALOGIAEU — Fotografía 2 de la pintura realizada a mano y sus detalles.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-03.webp",
+          "caption": "ANALOGIAEU — Fotografía 3 de la pintura realizada a mano y sus detalles.",
+          "width": 1080,
+          "height": 810
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-04.webp",
+          "caption": "ANALOGIAEU — Fotografía 4 de la pintura realizada a mano y sus detalles.",
+          "width": 848,
+          "height": 848
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-05.webp",
+          "caption": "ANALOGIAEU — Fotografía 5 de la pintura realizada a mano y sus detalles.",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-06.webp",
+          "caption": "ANALOGIAEU — Fotografía 6 de la pintura realizada a mano y sus detalles.",
+          "width": 1080,
+          "height": 610
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-07.webp",
+          "caption": "ANALOGIAEU — Fotografía 7 de la pintura realizada a mano y sus detalles.",
+          "width": 480,
+          "height": 600
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-08.webp",
+          "caption": "ANALOGIAEU — Fotografía 8 de la pintura realizada a mano y sus detalles.",
+          "width": 720,
+          "height": 900
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/analogiaeu-2018/image-09.webp",
+          "caption": "ANALOGIAEU — Fotografía 9 de la pintura realizada a mano y sus detalles.",
+          "width": 720,
+          "height": 900
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-01/",
+      "url": "https://renataalberigi.com.br/es/works/digital-01/",
+      "name": "Mãe",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-01/image-01.webp",
+          "caption": "Mãe — pintura digital realizada a mano, imagen 1.",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-02/",
+      "url": "https://renataalberigi.com.br/es/works/digital-02/",
+      "name": "Renascida",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-01.webp",
+          "caption": "Renascida — pintura digital realizada a mano, imagen 1.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-02.webp",
+          "caption": "Renascida — pintura digital realizada a mano, imagen 2.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-03.webp",
+          "caption": "Renascida — pintura digital realizada a mano, imagen 3.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-04.webp",
+          "caption": "Renascida — pintura digital realizada a mano, imagen 4.",
+          "width": 640,
+          "height": 800
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-02/image-05.webp",
+          "caption": "Renascida — pintura digital realizada a mano, imagen 5.",
+          "width": 640,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-03/",
+      "url": "https://renataalberigi.com.br/es/works/digital-03/",
+      "name": "Fluir",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-01.webp",
+          "caption": "Fluir — pintura digital realizada a mano, imagen 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-02.webp",
+          "caption": "Fluir — pintura digital realizada a mano, imagen 2.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-03.webp",
+          "caption": "Fluir — pintura digital realizada a mano, imagen 3.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-04.webp",
+          "caption": "Fluir — pintura digital realizada a mano, imagen 4.",
+          "width": 944,
+          "height": 1180
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-03/image-05.webp",
+          "caption": "Fluir — pintura digital realizada a mano, imagen 5.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-04/",
+      "url": "https://renataalberigi.com.br/es/works/digital-04/",
+      "name": "Balanço",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-01.webp",
+          "caption": "Balanço — pintura digital realizada a mano, imagen 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-02.webp",
+          "caption": "Balanço — pintura digital realizada a mano, imagen 2.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-03.webp",
+          "caption": "Balanço — pintura digital realizada a mano, imagen 3.",
+          "width": 916,
+          "height": 1144
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-04/image-04.webp",
+          "caption": "Balanço — pintura digital realizada a mano, imagen 4.",
+          "width": 1080,
+          "height": 1349
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-05/",
+      "url": "https://renataalberigi.com.br/es/works/digital-05/",
+      "name": "Alexandrina",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-05/image-01.webp",
+          "caption": "Alexandrina — pintura digital realizada a mano, imagen 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-05/image-02.webp",
+          "caption": "Alexandrina — pintura digital realizada a mano, imagen 2.",
+          "width": 944,
+          "height": 1180
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-06/",
+      "url": "https://renataalberigi.com.br/es/works/digital-06/",
+      "name": "Nara",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-06/image-01.webp",
+          "caption": "Nara — pintura digital realizada a mano, imagen 1.",
+          "width": 1080,
+          "height": 1352
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-07/",
+      "url": "https://renataalberigi.com.br/es/works/digital-07/",
+      "name": "Nadine",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-07/image-01.webp",
+          "caption": "Nadine — pintura digital realizada a mano, imagen 1.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-08/",
+      "url": "https://renataalberigi.com.br/es/works/digital-08/",
+      "name": "Sol",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-08/image-01.webp",
+          "caption": "Sol — pintura digital realizada a mano, imagen 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-08/image-02.webp",
+          "caption": "Sol — pintura digital realizada a mano, imagen 2.",
+          "width": 1080,
+          "height": 1349
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-09/",
+      "url": "https://renataalberigi.com.br/es/works/digital-09/",
+      "name": "Fernanda",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-09/image-01.webp",
+          "caption": "Fernanda — pintura digital realizada a mano, imagen 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-09/image-02.webp",
+          "caption": "Fernanda — pintura digital realizada a mano, imagen 2.",
+          "width": 720,
+          "height": 900
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-09/image-03.webp",
+          "caption": "Fernanda — pintura digital realizada a mano, imagen 3.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-10/",
+      "url": "https://renataalberigi.com.br/es/works/digital-10/",
+      "name": "Raio Rubi",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-01.webp",
+          "caption": "Raio Rubi — pintura digital realizada a mano, imagen 1.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-02.webp",
+          "caption": "Raio Rubi — pintura digital realizada a mano, imagen 2.",
+          "width": 536,
+          "height": 670
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-03.webp",
+          "caption": "Raio Rubi — pintura digital realizada a mano, imagen 3.",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-10/image-04.webp",
+          "caption": "Raio Rubi — pintura digital realizada a mano, imagen 4.",
+          "width": 1080,
+          "height": 1350
+        }
+      ]
+    },
+    {
+      "@type": "VisualArtwork",
+      "@id": "https://renataalberigi.com.br/es/works/digital-11/",
+      "url": "https://renataalberigi.com.br/es/works/digital-11/",
+      "name": "Capa do Disco de Rap",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2026",
+      "artform": "Painting",
+      "keywords": "Pinturas digitales",
+      "artMedium": "Pintura digital realizada a mano",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/obras/digital-11/image-01.webp",
+          "caption": "Capa do Disco de Rap — pintura digital realizada a mano, imagen 1.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://renataalberigi.com.br/es/works/ruadoflow-brand-design-2024-2025/",
+      "url": "https://renataalberigi.com.br/es/works/ruadoflow-brand-design-2024-2025/",
+      "name": "RUADOFLOW — Colección de diseño",
+      "creator": {
+        "@id": "https://renataalberigi.com.br/#artist"
+      },
+      "temporalCoverage": "2024/2025",
+      "keywords": "Diseño de marca",
+      "genre": "Ilustración y diseño para indumentaria",
+      "inLanguage": "es",
+      "description": "Una colección completa diseñada por Renata Alberigi para RUADOFLOW entre 2024 y 2025, presentada oficialmente en el sitio web de la marca. Las imágenes muestran sus diseños aplicados a camisetas y sudaderas.",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-01.webp",
+          "caption": "Camiseta de corte amplio — diseño 01 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-02.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 02 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-03.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 03 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-04.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 04 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-05.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 05 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-06.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 06 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-07.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 07 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-08.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 08 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-09.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 09 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-10.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 10 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-11.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 11 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-12.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 12 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-13.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 13 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-14.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 14 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-15.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 15 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-16.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 16 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-17.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 17 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-18.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 18 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-19.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 19 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-20.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 20 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-21.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 21 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-22.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 22 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-23.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 23 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-24.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 24 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-25.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 25 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-26.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 26 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-27.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 27 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-28.webp",
+          "caption": "Camiseta de corte amplio, vista posterior — diseño 28 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-29.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 29 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-30.webp",
+          "caption": "Camiseta de corte amplio, vista frontal — diseño 30 de la colección RUADOFLOW.",
+          "width": 1920,
+          "height": 1920
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-31.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 31 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-32.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 32 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-33.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 33 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-34.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 34 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-35.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 35 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-36.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 36 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-37.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 37 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-38.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 38 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-39.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 39 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-40.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 40 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-41.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 41 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-42.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 42 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-43.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 43 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-44.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 44 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-45.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 45 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-46.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 46 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-47.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 47 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-48.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 48 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-49.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 49 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-50.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 50 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-51.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 51 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-52.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 52 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-53.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 53 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-54.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 54 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-55.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 55 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-56.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 56 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-57.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 57 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-58.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 58 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-59.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 59 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-60.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 60 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-61.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 61 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-62.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 62 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-63.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 63 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-64.webp",
+          "caption": "Sudadera con capucha, vista posterior — diseño 64 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-65.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 65 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "@type": "ImageObject",
+          "contentUrl": "https://renataalberigi.com.br/assets/images/brand-design/ruadoflow-2024-2025/image-66.webp",
+          "caption": "Sudadera con capucha, vista frontal — diseño 66 de la colección RUADOFLOW.",
+          "width": 1080,
+          "height": 1080
+        }
+      ]
+    }
+  ]
+}

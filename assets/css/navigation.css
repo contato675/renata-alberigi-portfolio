@@ -47,3 +47,18 @@
 .locale-nav { flex-wrap: wrap; }
 .desktop-navigation .main-nav { flex-wrap: wrap; min-width: 0; }
 .desktop-navigation .locale-nav { flex-shrink: 0; }
+
+/* Desktop language disclosure: the current language, not four permanent labels. */
+.language-picker { position: relative; flex: 0 0 auto; }
+.language-picker-trigger { display: inline-flex; justify-content: space-between; gap: 16px; min-height: 44px; padding: 8px 12px; border-radius: 8px; cursor: pointer; list-style: none; white-space: nowrap; }
+.language-picker-trigger::-webkit-details-marker { display: none; }
+.language-picker-trigger::marker { content: ''; }
+.language-picker-trigger:hover, .language-picker[open] .language-picker-trigger { background: var(--support); }
+.language-picker-trigger:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
+.language-chevron { width: 7px; height: 7px; border-right: 1.5px solid currentColor; border-bottom: 1.5px solid currentColor; transform: translateY(-2px) rotate(45deg); }
+.language-picker[open] .language-chevron { transform: translateY(2px) rotate(225deg); }
+.language-picker-panel { position: absolute; inset-inline-end: 0; top: calc(100% + 8px); width: max-content; min-width: 176px; max-width: calc(100vw - 32px); padding: 8px; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); z-index: 20; }
+.language-picker-panel .locale-nav { display: flex; flex-direction: column; gap: 0; }
+.language-picker-panel .locale-nav a { justify-content: flex-start; min-height: 44px; padding: 8px 16px; border-radius: 6px; }
+.language-picker-panel .locale-nav a:hover { background: var(--support); }
+.language-picker-panel .locale-nav [aria-current] { background: var(--support); text-decoration: none; font-weight: 600; }
