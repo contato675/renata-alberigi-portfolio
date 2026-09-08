@@ -27,10 +27,10 @@ Her experience also includes workshops and talks for children, young people and 
 - [Ponte Nova](https://renataalberigi.com.br/works/ponte-nova-2025/index.md): 2025; Oil on canvas; 120 × 80 cm.
 - [Poço da Maternidade](https://renataalberigi.com.br/works/maternidade-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
 - [Maternidade](https://renataalberigi.com.br/works/maternidade1-2025/index.md): 2025; Acrylic and pastel on canvas, varnished; 100 × 80 cm.
-- [Lar](https://renataalberigi.com.br/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120 cm.
+- [Lar](https://renataalberigi.com.br/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120.
 - [Áureo](https://renataalberigi.com.br/works/aureo-2025/index.md): 2025; Oil on canvas; 40 × 60 cm.
 - [ANALOGIAEU part4](https://renataalberigi.com.br/works/analogiaeu-part4-2024/index.md): 2024; Oil on canvas; 100 × 80 cm.
-- [Correnteza](https://renataalberigi.com.br/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 × 100 cm.
+- [Correnteza](https://renataalberigi.com.br/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 cm × 100.
 - [ANALOGIAEU](https://renataalberigi.com.br/works/analogiaeu-2018/index.md): 2015–2018; Acrylic on canvas; 130 × 800 cm.
 
 ### Hand-drawn digital paintings

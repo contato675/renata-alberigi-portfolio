@@ -8,7 +8,7 @@ Direção de arte, ações culturais, instalações, exposições e pinturas sel
 
 ### 2016–2026 — Diretora de arte · RUADOFLOW
 
-### 2017–2026 — Designer das roupas RDFS · Residência RUADOFLOW
+### 2017–2026 — Designer das roupas RDFS · RUADOFLOW
 
 ### 2018 — Direção de Cultura · Residência Artística RUADOFLOW
 
@@ -23,7 +23,7 @@ Jacareí, SP.
 
 ### 2018 — Oficinas de pintura para crianças da rede municipal de ensino
 
-Jacareí, SP.
+Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.
 
 ### 2018 — Oficinas de Pintura e Linguagens
 
@@ -75,19 +75,15 @@ Instalação · Jacareí, SP.
 
 ### 2017 — ANALOGIAEU · Lançamento em 3 de junho
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Instalação · Estúdio Folha Filmes · São José dos Campos, SP.
 
-### 2016 — O começo do Pós-Futurismo
+### 2016 — O começo do pós-futurismo
 
-Instalações na Magia do Amor · São José dos Campos, SP.
-
-### 2016 — Duo Du’ Vent
-
-Instalação coletiva · São José dos Campos, SP.
+Instalação Re-nascida, centro de São José dos Campos, SP.
 
 ### 2015 — Re-nascida
 
-Instalação individual · São José dos Campos, SP.
+Instalação individual · Café del Tiempo · São José dos Campos, SP.
 
 
 ## Pinturas selecionadas
@@ -106,7 +102,7 @@ Estudo de campo: Cachoeira da Fumaça, Chapada Diamantina, Bahia.
 
 ### 2026 — [Lar](https://renataalberigi.com.br/pt-br/works/lar-2026/)
 
-Acrílica e giz pastel sobre tela, envernizada · 100 × 120 cm
+Acrílica e giz pastel sobre tela, envernizada · 100 × 120
 
 ### 2025 — [Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/)
 
@@ -124,13 +120,13 @@ Estudo de campo: Ponte Velha, Chapada Diamantina, Bahia.
 
 Estudo de campo: Ponte Velha, Chapada Diamantina, Bahia.
 
-### 2023 — Nibia
+### 2023 — Níbia
 
-Acrílica sobre tela
+Acrílica sobre tela · 130 × 130
 
 ### 2022 — [Correnteza](https://renataalberigi.com.br/pt-br/works/correnteza-2022/)
 
-Óleo sobre tela · 70 × 100 cm
+Óleo sobre tela · 70 cm × 100
 
 ### 2019 — Vale do Capão
 
@@ -151,7 +147,7 @@ Acrílica sobre tela · 130 × 800 cm
 
 ### 3 de junho de 2017 — Lançamento de ANALOGIAEU
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Instalação · Estúdio Folha Filmes · São José dos Campos, SP.
 
 ### 2017–2018 — Pintura durante as instalações
 

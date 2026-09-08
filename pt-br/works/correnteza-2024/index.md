@@ -5,7 +5,7 @@ https://renataalberigi.com.br/pt-br/works/correnteza-2022/
 **Artista:** Renata Alberigi
 **Ano:** 2022
 **Técnica:** Óleo sobre tela
-**Dimensões:** 70 × 100 cm
+**Dimensões:** 70 cm × 100
 **Título original:** Correnteza
 
 ![Correnteza — Um rio claro serpenteando por uma paisagem de rochas e vegetação.](https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-01.webp)

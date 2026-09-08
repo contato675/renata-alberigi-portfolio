@@ -8,7 +8,7 @@ Art direction, cultural activities, installations, exhibitions and selected pain
 
 ### 2016–2026 — Art director · RUADOFLOW
 
-### 2017–2026 — RDFS clothing designer · Residência RUADOFLOW
+### 2017–2026 — RDFS clothing designer · RUADOFLOW
 
 ### 2018 — Cultural direction · Residência Artística RUADOFLOW
 
@@ -23,7 +23,7 @@ Jacareí, SP.
 
 ### 2018 — Painting workshops for children in municipal schools
 
-Jacareí, SP.
+Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.
 
 ### 2018 — Painting and Artistic Languages workshops
 
@@ -75,19 +75,15 @@ Installation · Jacareí, SP.
 
 ### 2017 — ANALOGIAEU · Launch on 3 June
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Installation · Estúdio Folha Filmes · São José dos Campos, SP.
 
-### 2016 — O começo do Pós-Futurismo
+### 2016 — O começo do pós-futurismo
 
-Installations at Magia do Amor · São José dos Campos, SP.
-
-### 2016 — Duo Du’ Vent
-
-Group installation · São José dos Campos, SP.
+Re-nascida installation · City centre, São José dos Campos, SP.
 
 ### 2015 — Re-nascida
 
-Solo installation · São José dos Campos, SP.
+Solo installation · Café del Tiempo · São José dos Campos, SP.
 
 
 ## Selected paintings
@@ -106,7 +102,7 @@ Field study: Cachoeira da Fumaça, Chapada Diamantina, Bahia, Brazil.
 
 ### 2026 — [Lar](https://renataalberigi.com.br/works/lar-2026/)
 
-Acrylic and pastel on canvas, varnished · 100 × 120 cm
+Acrylic and pastel on canvas, varnished · 100 × 120
 
 ### 2025 — [Maternidade](https://renataalberigi.com.br/works/maternidade1-2025/)
 
@@ -124,13 +120,13 @@ Oil on canvas · 40 × 60 cm
 
 Field study: Ponte Velha, Chapada Diamantina, Bahia, Brazil.
 
-### 2023 — Nibia
+### 2023 — Níbia
 
-Acrylic on canvas
+Acrylic on canvas · 130 × 130
 
 ### 2022 — [Correnteza](https://renataalberigi.com.br/works/correnteza-2022/)
 
-Oil on canvas · 70 × 100 cm
+Oil on canvas · 70 cm × 100
 
 ### 2019 — Vale do Capão
 
@@ -151,7 +147,7 @@ Acrylic on canvas · 130 × 800 cm
 
 ### 3 June 2017 — Launch of ANALOGIAEU
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Installation · Estúdio Folha Filmes · São José dos Campos, SP.
 
 ### 2017–2018 — Painting during the installations
 

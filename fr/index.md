@@ -27,10 +27,10 @@ Son parcours comprend également des ateliers et des conférences destinés aux 
 - [Ponte Nova](https://renataalberigi.com.br/fr/works/ponte-nova-2025/index.md): 2025; Huile sur toile; 120 × 80 cm.
 - [Poço da Maternidade](https://renataalberigi.com.br/fr/works/maternidade-2026/index.md): 2026; Huile sur toile; 100 × 80 cm.
 - [Maternidade](https://renataalberigi.com.br/fr/works/maternidade1-2025/index.md): 2025; Acrylique et pastel sur toile, vernie; 100 × 80 cm.
-- [Lar](https://renataalberigi.com.br/fr/works/lar-2026/index.md): 2026; Acrylique et pastel sur toile, vernie; 100 × 120 cm.
+- [Lar](https://renataalberigi.com.br/fr/works/lar-2026/index.md): 2026; Acrylique et pastel sur toile, vernie; 100 × 120.
 - [Áureo](https://renataalberigi.com.br/fr/works/aureo-2025/index.md): 2025; Huile sur toile; 40 × 60 cm.
 - [ANALOGIAEU part4](https://renataalberigi.com.br/fr/works/analogiaeu-part4-2024/index.md): 2024; Huile sur toile; 100 × 80 cm.
-- [Correnteza](https://renataalberigi.com.br/fr/works/correnteza-2022/index.md): 2022; Huile sur toile; 70 × 100 cm.
+- [Correnteza](https://renataalberigi.com.br/fr/works/correnteza-2022/index.md): 2022; Huile sur toile; 70 cm × 100.
 - [ANALOGIAEU](https://renataalberigi.com.br/fr/works/analogiaeu-2018/index.md): 2015–2018; Acrylique sur toile; 130 × 800 cm.
 
 ### Peintures numériques dessinées à la main

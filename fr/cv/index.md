@@ -8,7 +8,7 @@ Direction artistique, actions culturelles, installations, expositions et peintur
 
 ### 2016–2026 — Directrice artistique · RUADOFLOW
 
-### 2017–2026 — Créatrice de vêtements RDFS · Residência RUADOFLOW
+### 2017–2026 — Créatrice de vêtements RDFS · RUADOFLOW
 
 ### 2018 — Direction culturelle · Residência Artística RUADOFLOW
 
@@ -23,7 +23,7 @@ Jacareí, SP.
 
 ### 2018 — Ateliers de peinture pour les enfants des écoles municipales
 
-Jacareí, SP.
+Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.
 
 ### 2018 — Ateliers de peinture et de langages artistiques
 
@@ -75,19 +75,15 @@ Installation · Jacareí, SP.
 
 ### 2017 — ANALOGIAEU · Lancement le 3 juin
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Installation · Estúdio Folha Filmes · São José dos Campos, SP.
 
-### 2016 — O começo do Pós-Futurismo
+### 2016 — O começo do pós-futurismo
 
-Installations à Magia do Amor · São José dos Campos, SP.
-
-### 2016 — Duo Du’ Vent
-
-Installation collective · São José dos Campos, SP.
+Installation Re-nascida · Centre-ville de São José dos Campos, SP.
 
 ### 2015 — Re-nascida
 
-Installation individuelle · São José dos Campos, SP.
+Installation individuelle · Café del Tiempo · São José dos Campos, SP.
 
 
 ## Peintures sélectionnées
@@ -106,7 +102,7 @@ Huile sur toile · 100 × 80 cm
 
 ### 2026 — [Lar](https://renataalberigi.com.br/fr/works/lar-2026/)
 
-Acrylique et pastel sur toile, vernie · 100 × 120 cm
+Acrylique et pastel sur toile, vernie · 100 × 120
 
 ### 2025 — [Maternidade](https://renataalberigi.com.br/fr/works/maternidade1-2025/)
 
@@ -124,13 +120,13 @@ Huile sur toile · 40 × 60 cm
 
 Étude de terrain : Ponte Velha, Chapada Diamantina, Bahia, Brésil.
 
-### 2023 — Nibia
+### 2023 — Níbia
 
-Acrylique sur toile
+Acrylique sur toile · 130 × 130
 
 ### 2022 — [Correnteza](https://renataalberigi.com.br/fr/works/correnteza-2022/)
 
-Huile sur toile · 70 × 100 cm
+Huile sur toile · 70 cm × 100
 
 ### 2019 — Vale do Capão
 
@@ -151,7 +147,7 @@ Acrylique sur toile · 130 × 800 cm
 
 ### 3 juin 2017 — Lancement d’ANALOGIAEU
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Installation · Estúdio Folha Filmes · São José dos Campos, SP.
 
 ### 2017–2018 — Peinture au cours des installations
 

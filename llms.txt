@@ -37,10 +37,10 @@ Artwork titles and credited institutions retain their original names. A listed w
 - [Maternidade (pt-BR)](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
 - [Maternidade (fr)](https://renataalberigi.com.br/fr/works/maternidade1-2025/index.md): 2025; Acrylique et pastel sur toile, vernie; 100 × 80 cm.
 - [Maternidade (es)](https://renataalberigi.com.br/es/works/maternidade1-2025/index.md): 2025; Acrílico y pastel sobre lienzo, barnizado; 100 × 80 cm.
-- [Lar (en)](https://renataalberigi.com.br/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120 cm.
-- [Lar (pt-BR)](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120 cm.
-- [Lar (fr)](https://renataalberigi.com.br/fr/works/lar-2026/index.md): 2026; Acrylique et pastel sur toile, vernie; 100 × 120 cm.
-- [Lar (es)](https://renataalberigi.com.br/es/works/lar-2026/index.md): 2026; Acrílico y pastel sobre lienzo, barnizado; 100 × 120 cm.
+- [Lar (en)](https://renataalberigi.com.br/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120.
+- [Lar (pt-BR)](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120.
+- [Lar (fr)](https://renataalberigi.com.br/fr/works/lar-2026/index.md): 2026; Acrylique et pastel sur toile, vernie; 100 × 120.
+- [Lar (es)](https://renataalberigi.com.br/es/works/lar-2026/index.md): 2026; Acrílico y pastel sobre lienzo, barnizado; 100 × 120.
 - [Áureo (en)](https://renataalberigi.com.br/works/aureo-2025/index.md): 2025; Oil on canvas; 40 × 60 cm.
 - [Áureo (pt-BR)](https://renataalberigi.com.br/pt-br/works/aureo-2025/index.md): 2025; Óleo sobre tela; 40 × 60 cm.
 - [Áureo (fr)](https://renataalberigi.com.br/fr/works/aureo-2025/index.md): 2025; Huile sur toile; 40 × 60 cm.
@@ -49,10 +49,10 @@ Artwork titles and credited institutions retain their original names. A listed w
 - [ANALOGIAEU part4 (pt-BR)](https://renataalberigi.com.br/pt-br/works/analogiaeu-part4-2024/index.md): 2024; Óleo sobre tela; 100 × 80 cm.
 - [ANALOGIAEU part4 (fr)](https://renataalberigi.com.br/fr/works/analogiaeu-part4-2024/index.md): 2024; Huile sur toile; 100 × 80 cm.
 - [ANALOGIAEU part4 (es)](https://renataalberigi.com.br/es/works/analogiaeu-part4-2024/index.md): 2024; Óleo sobre lienzo; 100 × 80 cm.
-- [Correnteza (en)](https://renataalberigi.com.br/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 × 100 cm.
-- [Correnteza (pt-BR)](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 × 100 cm.
-- [Correnteza (fr)](https://renataalberigi.com.br/fr/works/correnteza-2022/index.md): 2022; Huile sur toile; 70 × 100 cm.
-- [Correnteza (es)](https://renataalberigi.com.br/es/works/correnteza-2022/index.md): 2022; Óleo sobre lienzo; 70 × 100 cm.
+- [Correnteza (en)](https://renataalberigi.com.br/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 cm × 100.
+- [Correnteza (pt-BR)](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 cm × 100.
+- [Correnteza (fr)](https://renataalberigi.com.br/fr/works/correnteza-2022/index.md): 2022; Huile sur toile; 70 cm × 100.
+- [Correnteza (es)](https://renataalberigi.com.br/es/works/correnteza-2022/index.md): 2022; Óleo sobre lienzo; 70 cm × 100.
 - [ANALOGIAEU (en)](https://renataalberigi.com.br/works/analogiaeu-2018/index.md): 2015–2018; Acrylic on canvas; 130 × 800 cm.
 - [ANALOGIAEU (pt-BR)](https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/index.md): 2015–2018; Acrílica sobre tela; 130 × 800 cm.
 - [ANALOGIAEU (fr)](https://renataalberigi.com.br/fr/works/analogiaeu-2018/index.md): 2015–2018; Acrylique sur toile; 130 × 800 cm.

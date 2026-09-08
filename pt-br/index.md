@@ -27,10 +27,10 @@ Sua trajetória também inclui oficinas e palestras para crianças, jovens e pro
 - [Ponte Nova](https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/index.md): 2025; Óleo sobre tela; 120 × 80 cm.
 - [Poço da Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
 - [Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
-- [Lar](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120 cm.
+- [Lar](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120.
 - [Áureo](https://renataalberigi.com.br/pt-br/works/aureo-2025/index.md): 2025; Óleo sobre tela; 40 × 60 cm.
 - [ANALOGIAEU part4](https://renataalberigi.com.br/pt-br/works/analogiaeu-part4-2024/index.md): 2024; Óleo sobre tela; 100 × 80 cm.
-- [Correnteza](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 × 100 cm.
+- [Correnteza](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 cm × 100.
 - [ANALOGIAEU](https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/index.md): 2015–2018; Acrílica sobre tela; 130 × 800 cm.
 
 ### Pinturas digitais feitas à mão

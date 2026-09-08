@@ -31,10 +31,10 @@ Her experience also includes workshops and talks for children, young people and 
 - [Ponte Nova](https://renataalberigi.com.br/works/ponte-nova-2025/index.md): 2025; Oil on canvas; 120 × 80 cm.
 - [Poço da Maternidade](https://renataalberigi.com.br/works/maternidade-2026/index.md): 2026; Oil on canvas; 100 × 80 cm.
 - [Maternidade](https://renataalberigi.com.br/works/maternidade1-2025/index.md): 2025; Acrylic and pastel on canvas, varnished; 100 × 80 cm.
-- [Lar](https://renataalberigi.com.br/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120 cm.
+- [Lar](https://renataalberigi.com.br/works/lar-2026/index.md): 2026; Acrylic and pastel on canvas, varnished; 100 × 120.
 - [Áureo](https://renataalberigi.com.br/works/aureo-2025/index.md): 2025; Oil on canvas; 40 × 60 cm.
 - [ANALOGIAEU part4](https://renataalberigi.com.br/works/analogiaeu-part4-2024/index.md): 2024; Oil on canvas; 100 × 80 cm.
-- [Correnteza](https://renataalberigi.com.br/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 × 100 cm.
+- [Correnteza](https://renataalberigi.com.br/works/correnteza-2022/index.md): 2022; Oil on canvas; 70 cm × 100.
 - [ANALOGIAEU](https://renataalberigi.com.br/works/analogiaeu-2018/index.md): 2015–2018; Acrylic on canvas; 130 × 800 cm.
 
 ### Hand-drawn digital paintings
@@ -264,7 +264,7 @@ https://renataalberigi.com.br/works/lar-2026/
 **Artist:** Renata Alberigi
 **Year:** 2026
 **Medium:** Acrylic and pastel on canvas, varnished
-**Dimensions:** 100 × 120 cm
+**Dimensions:** 100 × 120
 **Original title:** Lar
 
 ![Lar — Interwoven trees and roots across a densely painted pink and green landscape.](https://renataalberigi.com.br/assets/images/obras/lar-2026/image-01.webp)
@@ -386,7 +386,7 @@ https://renataalberigi.com.br/works/correnteza-2022/
 **Artist:** Renata Alberigi
 **Year:** 2022
 **Medium:** Oil on canvas
-**Dimensions:** 70 × 100 cm
+**Dimensions:** 70 cm × 100
 **Original title:** Correnteza
 
 ![Correnteza — A pale river winding through a landscape of rocks and vegetation.](https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-01.webp)
@@ -1017,7 +1017,7 @@ Art direction, cultural activities, installations, exhibitions and selected pain
 
 ### 2016–2026 — Art director · RUADOFLOW
 
-### 2017–2026 — RDFS clothing designer · Residência RUADOFLOW
+### 2017–2026 — RDFS clothing designer · RUADOFLOW
 
 ### 2018 — Cultural direction · Residência Artística RUADOFLOW
 
@@ -1032,7 +1032,7 @@ Jacareí, SP.
 
 ### 2018 — Painting workshops for children in municipal schools
 
-Jacareí, SP.
+Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.
 
 ### 2018 — Painting and Artistic Languages workshops
 
@@ -1084,19 +1084,15 @@ Installation · Jacareí, SP.
 
 ### 2017 — ANALOGIAEU · Launch on 3 June
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Installation · Estúdio Folha Filmes · São José dos Campos, SP.
 
-### 2016 — O começo do Pós-Futurismo
+### 2016 — O começo do pós-futurismo
 
-Installations at Magia do Amor · São José dos Campos, SP.
-
-### 2016 — Duo Du’ Vent
-
-Group installation · São José dos Campos, SP.
+Re-nascida installation · City centre, São José dos Campos, SP.
 
 ### 2015 — Re-nascida
 
-Solo installation · São José dos Campos, SP.
+Solo installation · Café del Tiempo · São José dos Campos, SP.
 
 
 ## Selected paintings
@@ -1115,7 +1111,7 @@ Field study: Cachoeira da Fumaça, Chapada Diamantina, Bahia, Brazil.
 
 ### 2026 — [Lar](https://renataalberigi.com.br/works/lar-2026/)
 
-Acrylic and pastel on canvas, varnished · 100 × 120 cm
+Acrylic and pastel on canvas, varnished · 100 × 120
 
 ### 2025 — [Maternidade](https://renataalberigi.com.br/works/maternidade1-2025/)
 
@@ -1133,13 +1129,13 @@ Oil on canvas · 40 × 60 cm
 
 Field study: Ponte Velha, Chapada Diamantina, Bahia, Brazil.
 
-### 2023 — Nibia
+### 2023 — Níbia
 
-Acrylic on canvas
+Acrylic on canvas · 130 × 130
 
 ### 2022 — [Correnteza](https://renataalberigi.com.br/works/correnteza-2022/)
 
-Oil on canvas · 70 × 100 cm
+Oil on canvas · 70 cm × 100
 
 ### 2019 — Vale do Capão
 
@@ -1160,7 +1156,7 @@ Acrylic on canvas · 130 × 800 cm
 
 ### 3 June 2017 — Launch of ANALOGIAEU
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Installation · Estúdio Folha Filmes · São José dos Campos, SP.
 
 ### 2017–2018 — Painting during the installations
 
@@ -1199,10 +1195,10 @@ Sua trajetória também inclui oficinas e palestras para crianças, jovens e pro
 - [Ponte Nova](https://renataalberigi.com.br/pt-br/works/ponte-nova-2025/index.md): 2025; Óleo sobre tela; 120 × 80 cm.
 - [Poço da Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade-2026/index.md): 2026; Óleo sobre tela; 100 × 80 cm.
 - [Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/index.md): 2025; Acrílica e giz pastel sobre tela, envernizada; 100 × 80 cm.
-- [Lar](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120 cm.
+- [Lar](https://renataalberigi.com.br/pt-br/works/lar-2026/index.md): 2026; Acrílica e giz pastel sobre tela, envernizada; 100 × 120.
 - [Áureo](https://renataalberigi.com.br/pt-br/works/aureo-2025/index.md): 2025; Óleo sobre tela; 40 × 60 cm.
 - [ANALOGIAEU part4](https://renataalberigi.com.br/pt-br/works/analogiaeu-part4-2024/index.md): 2024; Óleo sobre tela; 100 × 80 cm.
-- [Correnteza](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 × 100 cm.
+- [Correnteza](https://renataalberigi.com.br/pt-br/works/correnteza-2022/index.md): 2022; Óleo sobre tela; 70 cm × 100.
 - [ANALOGIAEU](https://renataalberigi.com.br/pt-br/works/analogiaeu-2018/index.md): 2015–2018; Acrílica sobre tela; 130 × 800 cm.
 
 ### Pinturas digitais feitas à mão
@@ -1432,7 +1428,7 @@ https://renataalberigi.com.br/pt-br/works/lar-2026/
 **Artista:** Renata Alberigi
 **Ano:** 2026
 **Técnica:** Acrílica e giz pastel sobre tela, envernizada
-**Dimensões:** 100 × 120 cm
+**Dimensões:** 100 × 120
 **Título original:** Lar
 
 ![Lar — Árvores e raízes entrelaçadas em uma paisagem de pintura densa, rosa e verde.](https://renataalberigi.com.br/assets/images/obras/lar-2026/image-01.webp)
@@ -1554,7 +1550,7 @@ https://renataalberigi.com.br/pt-br/works/correnteza-2022/
 **Artista:** Renata Alberigi
 **Ano:** 2022
 **Técnica:** Óleo sobre tela
-**Dimensões:** 70 × 100 cm
+**Dimensões:** 70 cm × 100
 **Título original:** Correnteza
 
 ![Correnteza — Um rio claro serpenteando por uma paisagem de rochas e vegetação.](https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-01.webp)
@@ -2185,7 +2181,7 @@ Direção de arte, ações culturais, instalações, exposições e pinturas sel
 
 ### 2016–2026 — Diretora de arte · RUADOFLOW
 
-### 2017–2026 — Designer das roupas RDFS · Residência RUADOFLOW
+### 2017–2026 — Designer das roupas RDFS · RUADOFLOW
 
 ### 2018 — Direção de Cultura · Residência Artística RUADOFLOW
 
@@ -2200,7 +2196,7 @@ Jacareí, SP.
 
 ### 2018 — Oficinas de pintura para crianças da rede municipal de ensino
 
-Jacareí, SP.
+Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.
 
 ### 2018 — Oficinas de Pintura e Linguagens
 
@@ -2252,19 +2248,15 @@ Instalação · Jacareí, SP.
 
 ### 2017 — ANALOGIAEU · Lançamento em 3 de junho
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Instalação · Estúdio Folha Filmes · São José dos Campos, SP.
 
-### 2016 — O começo do Pós-Futurismo
+### 2016 — O começo do pós-futurismo
 
-Instalações na Magia do Amor · São José dos Campos, SP.
-
-### 2016 — Duo Du’ Vent
-
-Instalação coletiva · São José dos Campos, SP.
+Instalação Re-nascida, centro de São José dos Campos, SP.
 
 ### 2015 — Re-nascida
 
-Instalação individual · São José dos Campos, SP.
+Instalação individual · Café del Tiempo · São José dos Campos, SP.
 
 
 ## Pinturas selecionadas
@@ -2283,7 +2275,7 @@ Estudo de campo: Cachoeira da Fumaça, Chapada Diamantina, Bahia.
 
 ### 2026 — [Lar](https://renataalberigi.com.br/pt-br/works/lar-2026/)
 
-Acrílica e giz pastel sobre tela, envernizada · 100 × 120 cm
+Acrílica e giz pastel sobre tela, envernizada · 100 × 120
 
 ### 2025 — [Maternidade](https://renataalberigi.com.br/pt-br/works/maternidade1-2025/)
 
@@ -2301,13 +2293,13 @@ Estudo de campo: Ponte Velha, Chapada Diamantina, Bahia.
 
 Estudo de campo: Ponte Velha, Chapada Diamantina, Bahia.
 
-### 2023 — Nibia
+### 2023 — Níbia
 
-Acrílica sobre tela
+Acrílica sobre tela · 130 × 130
 
 ### 2022 — [Correnteza](https://renataalberigi.com.br/pt-br/works/correnteza-2022/)
 
-Óleo sobre tela · 70 × 100 cm
+Óleo sobre tela · 70 cm × 100
 
 ### 2019 — Vale do Capão
 
@@ -2328,7 +2320,7 @@ Acrílica sobre tela · 130 × 800 cm
 
 ### 3 de junho de 2017 — Lançamento de ANALOGIAEU
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Instalação · Estúdio Folha Filmes · São José dos Campos, SP.
 
 ### 2017–2018 — Pintura durante as instalações
 
@@ -2367,10 +2359,10 @@ Son parcours comprend également des ateliers et des conférences destinés aux 
 - [Ponte Nova](https://renataalberigi.com.br/fr/works/ponte-nova-2025/index.md): 2025; Huile sur toile; 120 × 80 cm.
 - [Poço da Maternidade](https://renataalberigi.com.br/fr/works/maternidade-2026/index.md): 2026; Huile sur toile; 100 × 80 cm.
 - [Maternidade](https://renataalberigi.com.br/fr/works/maternidade1-2025/index.md): 2025; Acrylique et pastel sur toile, vernie; 100 × 80 cm.
-- [Lar](https://renataalberigi.com.br/fr/works/lar-2026/index.md): 2026; Acrylique et pastel sur toile, vernie; 100 × 120 cm.
+- [Lar](https://renataalberigi.com.br/fr/works/lar-2026/index.md): 2026; Acrylique et pastel sur toile, vernie; 100 × 120.
 - [Áureo](https://renataalberigi.com.br/fr/works/aureo-2025/index.md): 2025; Huile sur toile; 40 × 60 cm.
 - [ANALOGIAEU part4](https://renataalberigi.com.br/fr/works/analogiaeu-part4-2024/index.md): 2024; Huile sur toile; 100 × 80 cm.
-- [Correnteza](https://renataalberigi.com.br/fr/works/correnteza-2022/index.md): 2022; Huile sur toile; 70 × 100 cm.
+- [Correnteza](https://renataalberigi.com.br/fr/works/correnteza-2022/index.md): 2022; Huile sur toile; 70 cm × 100.
 - [ANALOGIAEU](https://renataalberigi.com.br/fr/works/analogiaeu-2018/index.md): 2015–2018; Acrylique sur toile; 130 × 800 cm.
 
 ### Peintures numériques dessinées à la main
@@ -2600,7 +2592,7 @@ https://renataalberigi.com.br/fr/works/lar-2026/
 **Artiste:** Renata Alberigi
 **Année:** 2026
 **Technique:** Acrylique et pastel sur toile, vernie
-**Dimensions:** 100 × 120 cm
+**Dimensions:** 100 × 120
 **Titre original:** Lar
 
 ![Lar — Des arbres et des racines entrelacés dans un paysage à la peinture dense, rose et vert.](https://renataalberigi.com.br/assets/images/obras/lar-2026/image-01.webp)
@@ -2722,7 +2714,7 @@ https://renataalberigi.com.br/fr/works/correnteza-2022/
 **Artiste:** Renata Alberigi
 **Année:** 2022
 **Technique:** Huile sur toile
-**Dimensions:** 70 × 100 cm
+**Dimensions:** 70 cm × 100
 **Titre original:** Correnteza
 
 ![Correnteza — Une rivière claire serpentant dans un paysage de roches et de végétation.](https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-01.webp)
@@ -3353,7 +3345,7 @@ Direction artistique, actions culturelles, installations, expositions et peintur
 
 ### 2016–2026 — Directrice artistique · RUADOFLOW
 
-### 2017–2026 — Créatrice de vêtements RDFS · Residência RUADOFLOW
+### 2017–2026 — Créatrice de vêtements RDFS · RUADOFLOW
 
 ### 2018 — Direction culturelle · Residência Artística RUADOFLOW
 
@@ -3368,7 +3360,7 @@ Jacareí, SP.
 
 ### 2018 — Ateliers de peinture pour les enfants des écoles municipales
 
-Jacareí, SP.
+Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.
 
 ### 2018 — Ateliers de peinture et de langages artistiques
 
@@ -3420,19 +3412,15 @@ Installation · Jacareí, SP.
 
 ### 2017 — ANALOGIAEU · Lancement le 3 juin
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Installation · Estúdio Folha Filmes · São José dos Campos, SP.
 
-### 2016 — O começo do Pós-Futurismo
+### 2016 — O começo do pós-futurismo
 
-Installations à Magia do Amor · São José dos Campos, SP.
-
-### 2016 — Duo Du’ Vent
-
-Installation collective · São José dos Campos, SP.
+Installation Re-nascida · Centre-ville de São José dos Campos, SP.
 
 ### 2015 — Re-nascida
 
-Installation individuelle · São José dos Campos, SP.
+Installation individuelle · Café del Tiempo · São José dos Campos, SP.
 
 
 ## Peintures sélectionnées
@@ -3451,7 +3439,7 @@ Huile sur toile · 100 × 80 cm
 
 ### 2026 — [Lar](https://renataalberigi.com.br/fr/works/lar-2026/)
 
-Acrylique et pastel sur toile, vernie · 100 × 120 cm
+Acrylique et pastel sur toile, vernie · 100 × 120
 
 ### 2025 — [Maternidade](https://renataalberigi.com.br/fr/works/maternidade1-2025/)
 
@@ -3469,13 +3457,13 @@ Huile sur toile · 40 × 60 cm
 
 Étude de terrain : Ponte Velha, Chapada Diamantina, Bahia, Brésil.
 
-### 2023 — Nibia
+### 2023 — Níbia
 
-Acrylique sur toile
+Acrylique sur toile · 130 × 130
 
 ### 2022 — [Correnteza](https://renataalberigi.com.br/fr/works/correnteza-2022/)
 
-Huile sur toile · 70 × 100 cm
+Huile sur toile · 70 cm × 100
 
 ### 2019 — Vale do Capão
 
@@ -3496,7 +3484,7 @@ Acrylique sur toile · 130 × 800 cm
 
 ### 3 juin 2017 — Lancement d’ANALOGIAEU
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Installation · Estúdio Folha Filmes · São José dos Campos, SP.
 
 ### 2017–2018 — Peinture au cours des installations
 
@@ -3535,10 +3523,10 @@ Su trayectoria también incluye talleres y charlas para niños, jóvenes y docen
 - [Ponte Nova](https://renataalberigi.com.br/es/works/ponte-nova-2025/index.md): 2025; Óleo sobre lienzo; 120 × 80 cm.
 - [Poço da Maternidade](https://renataalberigi.com.br/es/works/maternidade-2026/index.md): 2026; Óleo sobre lienzo; 100 × 80 cm.
 - [Maternidade](https://renataalberigi.com.br/es/works/maternidade1-2025/index.md): 2025; Acrílico y pastel sobre lienzo, barnizado; 100 × 80 cm.
-- [Lar](https://renataalberigi.com.br/es/works/lar-2026/index.md): 2026; Acrílico y pastel sobre lienzo, barnizado; 100 × 120 cm.
+- [Lar](https://renataalberigi.com.br/es/works/lar-2026/index.md): 2026; Acrílico y pastel sobre lienzo, barnizado; 100 × 120.
 - [Áureo](https://renataalberigi.com.br/es/works/aureo-2025/index.md): 2025; Óleo sobre lienzo; 40 × 60 cm.
 - [ANALOGIAEU part4](https://renataalberigi.com.br/es/works/analogiaeu-part4-2024/index.md): 2024; Óleo sobre lienzo; 100 × 80 cm.
-- [Correnteza](https://renataalberigi.com.br/es/works/correnteza-2022/index.md): 2022; Óleo sobre lienzo; 70 × 100 cm.
+- [Correnteza](https://renataalberigi.com.br/es/works/correnteza-2022/index.md): 2022; Óleo sobre lienzo; 70 cm × 100.
 - [ANALOGIAEU](https://renataalberigi.com.br/es/works/analogiaeu-2018/index.md): 2015–2018; Acrílico sobre lienzo; 130 × 800 cm.
 
 ### Pinturas digitales realizadas a mano
@@ -3768,7 +3756,7 @@ https://renataalberigi.com.br/es/works/lar-2026/
 **Artista:** Renata Alberigi
 **Año:** 2026
 **Técnica:** Acrílico y pastel sobre lienzo, barnizado
-**Dimensiones:** 100 × 120 cm
+**Dimensiones:** 100 × 120
 **Título original:** Lar
 
 ![Lar — Árboles y raíces entrelazados en un paisaje de pintura densa, rosa y verde.](https://renataalberigi.com.br/assets/images/obras/lar-2026/image-01.webp)
@@ -3890,7 +3878,7 @@ https://renataalberigi.com.br/es/works/correnteza-2022/
 **Artista:** Renata Alberigi
 **Año:** 2022
 **Técnica:** Óleo sobre lienzo
-**Dimensiones:** 70 × 100 cm
+**Dimensiones:** 70 cm × 100
 **Título original:** Correnteza
 
 ![Correnteza — Un río de aguas claras que serpentea por un paisaje de rocas y vegetación.](https://renataalberigi.com.br/assets/images/obras/correnteza-2024/image-01.webp)
@@ -4521,7 +4509,7 @@ Dirección de arte, actividades culturales, instalaciones, exposiciones y pintur
 
 ### 2016–2026 — Directora de arte · RUADOFLOW
 
-### 2017–2026 — Diseñadora de indumentaria RDFS · Residência RUADOFLOW
+### 2017–2026 — Diseñadora de indumentaria RDFS · RUADOFLOW
 
 ### 2018 — Dirección cultural · Residência Artística RUADOFLOW
 
@@ -4536,7 +4524,7 @@ Jacareí, SP.
 
 ### 2018 — Talleres de pintura para niños de las escuelas municipales
 
-Jacareí, SP.
+Museu de Antropologia do Vale do Paraíba (MAV) · Jacareí, SP.
 
 ### 2018 — Talleres de pintura y lenguajes artísticos
 
@@ -4588,19 +4576,15 @@ Instalación · Jacareí, SP.
 
 ### 2017 — ANALOGIAEU · Presentación el 3 de junio
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Instalación · Estúdio Folha Filmes · São José dos Campos, SP.
 
-### 2016 — O começo do Pós-Futurismo
+### 2016 — O começo do pós-futurismo
 
-Instalaciones en Magia do Amor · São José dos Campos, SP.
-
-### 2016 — Duo Du’ Vent
-
-Instalación colectiva · São José dos Campos, SP.
+Instalación Re-nascida · Centro de São José dos Campos, SP.
 
 ### 2015 — Re-nascida
 
-Instalación individual · São José dos Campos, SP.
+Instalación individual · Café del Tiempo · São José dos Campos, SP.
 
 
 ## Pinturas seleccionadas
@@ -4619,7 +4603,7 @@ Estudio de campo: Cachoeira da Fumaça, Chapada Diamantina, Bahia.
 
 ### 2026 — [Lar](https://renataalberigi.com.br/es/works/lar-2026/)
 
-Acrílico y pastel sobre lienzo, barnizado · 100 × 120 cm
+Acrílico y pastel sobre lienzo, barnizado · 100 × 120
 
 ### 2025 — [Maternidade](https://renataalberigi.com.br/es/works/maternidade1-2025/)
 
@@ -4637,13 +4621,13 @@ Estudio de campo: Ponte Velha, Chapada Diamantina, Bahia.
 
 Estudio de campo: Ponte Velha, Chapada Diamantina, Bahia.
 
-### 2023 — Nibia
+### 2023 — Níbia
 
-Acrílico sobre lienzo
+Acrílico sobre lienzo · 130 × 130
 
 ### 2022 — [Correnteza](https://renataalberigi.com.br/es/works/correnteza-2022/)
 
-Óleo sobre lienzo · 70 × 100 cm
+Óleo sobre lienzo · 70 cm × 100
 
 ### 2019 — Vale do Capão
 
@@ -4664,7 +4648,7 @@ Acrílico sobre lienzo · 130 × 800 cm
 
 ### 3 de junio de 2017 — Presentación de ANALOGIAEU
 
-Estúdio Folha Filmes · São José dos Campos, SP.
+Instalación · Estúdio Folha Filmes · São José dos Campos, SP.
 
 ### 2017–2018 — Pintura durante las instalaciones
 

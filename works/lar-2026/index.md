@@ -5,7 +5,7 @@ https://renataalberigi.com.br/works/lar-2026/
 **Artist:** Renata Alberigi
 **Year:** 2026
 **Medium:** Acrylic and pastel on canvas, varnished
-**Dimensions:** 100 × 120 cm
+**Dimensions:** 100 × 120
 **Original title:** Lar
 
 ![Lar — Interwoven trees and roots across a densely painted pink and green landscape.](https://renataalberigi.com.br/assets/images/obras/lar-2026/image-01.webp)
