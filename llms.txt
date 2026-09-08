@@ -13,6 +13,9 @@ Artwork titles and credited institutions retain their original names. A listed w
 - [English portfolio and biography](https://renataalberigi.com.br/index.md): Artist profile, biography, contact and selected works.
 - [Portfólio e biografia em português](https://renataalberigi.com.br/pt-br/index.md): Perfil da artista, biografia, contato e obras selecionadas.
 - [Portfolio et biographie en français](https://renataalberigi.com.br/fr/index.md): Présentation de l’artiste, biographie, contact et œuvres sélectionnées.
+- [Artist CV (en)](https://renataalberigi.com.br/cv/index.md): Art direction, cultural activities, installations, exhibitions and selected paintings, with the creative timeline of ANALOGIAEU.
+- [Currículo artístico (pt-BR)](https://renataalberigi.com.br/pt-br/curriculo/index.md): Direção de arte, ações culturais, instalações, exposições e pinturas selecionadas, com o percurso de criação de ANALOGIAEU.
+- [Parcours artistique (fr)](https://renataalberigi.com.br/fr/cv/index.md): Direction artistique, actions culturelles, installations, expositions et peintures sélectionnées, avec le parcours de création d’ANALOGIAEU.
 
 ## Hand-painted works — primary collection
 

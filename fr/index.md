@@ -18,6 +18,8 @@ Son parcours comprend également des ateliers et des conférences destinés aux 
 
 ## Œuvres sélectionnées
 
+[Voir le parcours artistique](https://renataalberigi.com.br/fr/cv/)
+
 
 ### Peintures réalisées à la main
 

@@ -18,6 +18,8 @@ Her experience also includes workshops and talks for children, young people and 
 
 ## Selected works
 
+[View the artistic CV](https://renataalberigi.com.br/cv/)
+
 
 ### Hand-painted works
 

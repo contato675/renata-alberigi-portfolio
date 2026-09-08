@@ -18,6 +18,8 @@ Sua trajetória também inclui oficinas e palestras para crianças, jovens e pro
 
 ## Obras selecionadas
 
+[Ver currículo artístico](https://renataalberigi.com.br/pt-br/curriculo/)
+
 
 ### Pinturas feitas à mão
 
