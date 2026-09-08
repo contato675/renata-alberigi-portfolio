@@ -1,5 +1,5 @@
 import {LOCALES,localePath,validateLocalized,localized as l} from './i18n.mjs';
-const routes = Object.freeze({en:'cv/','pt-BR':'curriculo/',fr:'cv/'});
+const routes = Object.freeze({en:'cv/','pt-BR':'curriculo/',fr:'cv/',es:'curriculo/'});
 export const cvPath = locale => localePath(locale) + routes[locale];
 export const CV_SECTIONS = Object.freeze(['art-direction','cultural-actions','exhibitions','paintings','analogiaeu']);
 const object = value => !!value && typeof value === 'object' && !Array.isArray(value);

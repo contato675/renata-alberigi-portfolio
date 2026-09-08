@@ -10,7 +10,7 @@ import {renderPage} from '../scripts/render.mjs';
 import {pageMarkdown,llmsIndex,structuredPortfolio} from '../scripts/discovery.mjs';
 const root=fileURLToPath(new URL('../',import.meta.url));
 const original=await loadContent(root),template=await readFile(path.join(root,'site/index.template.html'),'utf8');
-const t=(en,pt=en)=>({en,'pt-BR':pt,fr:en});
+const t=(en,pt=en)=>Object.fromEntries(LOCALES.map(locale=>[locale,locale==='pt-BR'?pt:en]));
 const image={path:'assets/images/obras/test/one.webp',alt:t('A painting'),width:1200,height:1600,variants:[{path:'assets/images/obras/test/small.webp',width:600,height:800}]};
 const work=(collection)=>({id:collection,title:t(collection),year:'2026',technique:t('Hand-painted artwork'),dimensions:null,status:'published',cover:0,collection,images:[image]});
 function data(){const d=structuredClone(original);d.works=[work('paintings'),{...work('digital'),year:'2024–2026',yearIsCollectionPeriod:true,titleStatus:'catalogue-label'}];return d;}

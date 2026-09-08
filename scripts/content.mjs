@@ -76,7 +76,7 @@ export function validateContent({artist, site, works, dictionaries, curriculum})
   else artist.studioImages.forEach((im) => errors.push(...validateImage(im, 'Studio')));
   if (artist.pdf !== null && !(typeof artist.pdf === 'string' && /^downloads\/[a-z0-9-]+\.pdf$/.test(artist.pdf))) errors.push('Invalid PDF path.');
   if(artist.additionalVideos!==undefined&&!Array.isArray(artist.additionalVideos))errors.push('Invalid additional videos.');
-  for (const [label, value] of [['Portuguese',artist.pdfPt],['French',artist.pdfFr]]) if(value && !/^downloads\/[a-z0-9-]+\.pdf$/.test(value))errors.push(`Invalid ${label} PDF path.`);
+  for (const [label, value] of [['Portuguese',artist.pdfPt],['French',artist.pdfFr],['Spanish',artist.pdfEs]]) if(value && !/^downloads\/[a-z0-9-]+\.pdf$/.test(value))errors.push(`Invalid ${label} PDF path.`);
   for (const video of allVideos(artist)) {
     if (!['youtube','vimeo'].includes(video.provider) || !/^[a-zA-Z0-9_-]+$/.test(video.id ?? '') || (video.provider === 'vimeo' && !/^\d+$/.test(video.id))) errors.push('Invalid video provider/id.');
     errors.push(...validateLocalized(video.title, 'Video title'), ...validateLocalized(video.transcript??undefined, 'Video transcript',true), ...validateLocalized(video.description,'Video description',true), ...validateImage(video.poster, 'Video poster'));
@@ -98,5 +98,5 @@ export const allVideos = artist => [artist.featuredVideo,...(Array.isArray(artis
 export const imagePaths = images => images.flatMap(im=>[im.path,...(im.variants||[]).map(v=>v.path)]);
 export const pdfPath = (artist,locale) => {
   if (!LOCALES.includes(locale)) throw new Error('Unsupported locale');
-  return ({'pt-BR':artist.pdfPt,fr:artist.pdfFr}[locale]) || artist.pdf;
+  return ({'pt-BR':artist.pdfPt,fr:artist.pdfFr,es:artist.pdfEs}[locale]) || artist.pdf;
 };

@@ -29,7 +29,7 @@ export async function verifyFiles(root, data) {
   await scan(base);
   const {artist,works} = data;
   const images = [artist.portrait, ...allVideos(artist).map(v=>v.poster), ...artist.studioImages, ...works.flatMap((w) => w.images)].filter(Boolean);
-  const paths = [...imagePaths(images), artist.pdf, artist.pdfPt, artist.pdfFr].filter(Boolean);
+  const paths = [...imagePaths(images), artist.pdf, artist.pdfPt, artist.pdfFr, artist.pdfEs].filter(Boolean);
   const baseReal = await realpath(base);
   for (const relative of paths) {
     try {

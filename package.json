@@ -20,6 +20,7 @@
     "design:brand": "node scripts/audit-brand.mjs",
     "design:media": "node scripts/audit-real-media.mjs",
     "design:locales": "node scripts/audit-locale-navigation.mjs",
-    "design:curriculum": "node scripts/audit-curriculum.mjs"
+    "design:curriculum": "node scripts/audit-curriculum.mjs",
+    "design:spanish": "node scripts/audit-spanish.mjs"
   }
 }

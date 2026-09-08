@@ -6,7 +6,7 @@ export function renderNavigation(data,locale,{homeUrl,localeMarkup,hasDigital,ha
   const links=items.map(([id,label])=>`<a class="control" href="${e(homeUrl)}#${id}">${e(label)}</a>`).join('')+(cvUrl?`<a class="control" data-cv-menu href="${e(cvUrl)}"${curriculum?' aria-current="page"':''}>${e(u.cvNav)}</a>`:'')+`<a class="control" href="${curriculum?e(homeUrl):''}#contact">${e(u.contact)}</a>`;
   const nav=`<nav class="main-nav" aria-label="${e(u.mainNav)}">${links}</nav>`;
   return `<header class="site-header"><div class="wrap header-inner">
-    <div class="desktop-navigation">${nav}${localeMarkup}</div>
+    <div class="desktop-navigation">${nav}<details class="language-picker" data-language-picker><summary class="control language-picker-trigger"><span class="sr-only">${e(u.language)}: </span><span>${e(u.localeName)}</span><span class="language-chevron" aria-hidden="true"></span></summary><div class="language-picker-panel">${localeMarkup}</div></details></div>
     <details class="mobile-fallback" data-mobile-fallback><summary class="control">${e(u.menu)}</summary><div class="fallback-links">${nav}${localeMarkup}</div></details>
     <button class="menu-toggle" type="button" data-menu-open hidden aria-controls="mobile-navigation" aria-haspopup="dialog" aria-expanded="false" aria-label="${e(u.openMenu)}"><span>${e(u.menu)}</span><span class="menu-icon" aria-hidden="true"><i></i><i></i><i></i></span></button>
   </div></header>

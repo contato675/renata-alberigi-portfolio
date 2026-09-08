@@ -25,7 +25,7 @@ test('locale dictionary key parity',()=>assert.ok(validateTranslations({en:{a:'x
 test('blank UI translation rejected',()=>assert.ok(validateTranslations({en:{a:'x'},'pt-BR':{a:''}}).length));
 test('complete UI passes',()=>assert.deepEqual(validateTranslations(data.dictionaries),[]));
 test('English is required at entrance',()=>{const d=structuredClone(data);d.site.defaultLocale='pt-BR';assert.ok(validateContent(d).length);});
-test('invalid locale rejected',()=>assert.throws(()=>localized(text('x'),'es')));
+test('invalid locale rejected',()=>assert.throws(()=>localized(text('x'),'de')));
 test('canonical origin rejects credentials/query/path',()=>{for(const origin of ['http://example.com','https://a:b@example.com','https://example.com/x','https://example.com?x']){const d=structuredClone(data);d.site.origin=origin;assert.ok(validateContent(d).length);}});
 test('base path rejects traversal and control characters',()=>{for(const basePath of ['/../','//','/bad\n/']){const d=structuredClone(data);d.site.basePath=basePath;assert.ok(validateContent(d).length);}});
 test('release denied before content and approval',()=>assert.ok(publicationErrors(data).length>=4));

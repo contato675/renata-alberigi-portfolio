@@ -18,8 +18,8 @@ function localizedPaths(value,prefix=[]){
 }
 const contentPaths=localizedPaths({artist:data.artist,works:data.works});
 test('French is the third explicit locale, with its own path and Open Graph locale',()=>{
- assert.deepEqual(LOCALES,['en','pt-BR','fr']);assert.deepEqual(data.site.locales,LOCALES);
- assert.deepEqual(LOCALES.map(localePath),['','pt-br/','fr/']);assert.equal(LOCALE_CONFIG.fr.og,'fr_FR');
+ assert.deepEqual(LOCALES,['en','pt-BR','fr','es']);assert.deepEqual(data.site.locales,LOCALES);
+ assert.deepEqual(LOCALES.map(localePath),['','pt-br/','fr/','es/']);assert.equal(LOCALE_CONFIG.fr.og,'fr_FR');
  assert.throws(()=>localePath('fr-CA'),/Unsupported/);assert.throws(()=>localePath('../'),/Unsupported/);
 });
 test('Every UI key has a nonempty French translation; parity rejects missing and blank keys',()=>{
@@ -63,7 +63,7 @@ test('Every language selector offers three named, equivalent routes and a curren
   const html=files.get(pagePath(locale,work)+'index.html');
   const header=html.match(/<header[\s\S]*?<\/header>/)[0];
   for(const [,nav] of header.matchAll(/<nav class="locale-nav"[^>]*>([\s\S]*?)<\/nav>/g)){
-   assert.equal((nav.match(/data-locale-link/g)||[]).length,3);assert.equal((nav.match(/aria-current="page"/g)||[]).length,1);
+   assert.equal((nav.match(/data-locale-link/g)||[]).length,LOCALES.length);assert.equal((nav.match(/aria-current="page"/g)||[]).length,1);
    for(const other of LOCALES){assert.ok(nav.includes(`href="/${pagePath(other,work)}"`));assert.ok(nav.includes(`lang="${other}"`));assert.ok(nav.includes(data.dictionaries[other].localeName));}
   }
  }
@@ -113,6 +113,6 @@ test('Project-subpath mode generates the same three locales without root-only as
 });
 test('A ready test fixture produces reciprocal three-language sitemap entries; actual noindex stays intact',()=>{
  const copy=structuredClone(data);Object.assign(copy.site,{phase:'ready',implementationComplete:true,publicationApproved:true,robotsRootVerified:true});copy.artist.editorialReview=Object.fromEntries(LOCALES.map(locale=>[locale,true]));copy.artist.pdf='downloads/test-only.pdf';
- const sitemap=generatePages(copy,template,{release:true}).get('sitemap.xml');assert.equal((sitemap.match(/<url>/g)||[]).length,69);assert.ok(sitemap.includes('hreflang="fr"'));
+ const sitemap=generatePages(copy,template,{release:true}).get('sitemap.xml');assert.equal((sitemap.match(/<url>/g)||[]).length,(data.works.length+2)*LOCALES.length);assert.ok(sitemap.includes('hreflang="fr"'));
  assert.equal(data.artist.editorialReview.fr,false);assert.equal(data.site.publicationApproved,false);assert.equal(files.get('CNAME'),'renataalberigi.com.br\n');assert.doesNotMatch(files.get('sitemap.xml'),/<url>/);
 });

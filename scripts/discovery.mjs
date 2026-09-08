@@ -37,7 +37,7 @@ export function pageMarkdown(data,locale,work=null) {
 export function llmsIndex(data,{release=false}={}) {
   const {artist,site}=data;
   let out=`# ${mdText(artist.name)}\n\n> ${mdText(l(artist.role,'en'))}. ${mdText(l(artist.intro,'en'))}\n\n`;
-  out+='English is the default language. Brazilian Portuguese is available at pt-br/ and French at fr/. These documents describe the same portfolio shown to people; there are no additional credentials or private artwork records for agents.\n\n';
+  out+='English is the default language. Brazilian Portuguese is available at pt-br/, French at fr/ and Spanish at es/. These documents describe the same portfolio shown to people; there are no additional credentials or private artwork records for agents.\n\n';
   if (!release) out+=(site.previewPublic?'Public portfolio preview for editorial review; not the final release.':'Review build; URLs describe the planned deployment.')+'\n\n';
   out+='Artwork titles and credited institutions retain their original names. A listed work is not automatically available for sale or licensed for reuse. This index neither authorizes training nor guarantees inclusion in search or any selection process.\n\n## Portfolio\n\n';
   for (const locale of LOCALES) out+=`- [${mdText(data.dictionaries[locale].portfolioBiography)}](${absoluteUrl(site,localePath(locale)+'index.md')}): ${mdText(data.dictionaries[locale].portfolioSummary)}\n`;
@@ -51,7 +51,7 @@ export function llmsIndex(data,{release=false}={}) {
     }
   }
   out+='\n## Optional\n\n';
-  out+=`- [Full trilingual portfolio text](${absoluteUrl(site,'llms-full.txt')}): Same public biography and work descriptions in one text document.\n`;
+  out+=`- [Full multilingual portfolio text](${absoluteUrl(site,'llms-full.txt')}): Same public biography and work descriptions in one text document.\n`;
   for (const locale of LOCALES) out+=`- [Structured portfolio (${locale})](${absoluteUrl(site,localePath(locale)+'portfolio.json')}): Public Person and VisualArtwork data; no prices, stock or unsupported claims.\n`;
   return out;
 }

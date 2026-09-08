@@ -1,7 +1,8 @@
 export const LOCALE_CONFIG = Object.freeze({
   en: Object.freeze({path: '', og: 'en_US'}),
   'pt-BR': Object.freeze({path: 'pt-br/', og: 'pt_BR'}),
-  fr: Object.freeze({path: 'fr/', og: 'fr_FR'})
+  fr: Object.freeze({path: 'fr/', og: 'fr_FR'}),
+  es: Object.freeze({path: 'es/', og: 'es_ES'})
 });
 export const LOCALES = Object.freeze(Object.keys(LOCALE_CONFIG));
 export function localized(value, locale) {

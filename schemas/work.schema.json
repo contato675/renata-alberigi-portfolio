@@ -136,7 +136,8 @@
       "required": [
         "en",
         "pt-BR",
-        "fr"
+        "fr",
+        "es"
       ],
       "properties": {
         "en": {
@@ -148,6 +149,10 @@
           "minLength": 1
         },
         "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "es": {
           "type": "string",
           "minLength": 1
         }

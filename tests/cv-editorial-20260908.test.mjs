@@ -37,7 +37,7 @@ test('ANALOGIAEU distinguishes 2014 sketches, 2015–2018 painting and 2017 laun
  assert.equal(data.works.find(w=>w.id==='analogiaeu-part4-2024').year,'2024');
 });
 test('Confirmed institutions, group exhibition and school talks appear in each biography',()=>{
- const collective={en:'group exhibition','pt-BR':'exposição coletiva',fr:'exposition collective'};
+ const collective={en:'group exhibition','pt-BR':'exposição coletiva',fr:'exposition collective',es:'exposición colectiva'};
  for(const locale of LOCALES){const bio=data.artist.bio[locale];for(const phrase of ['16ª Semana Nacional de Museus','2018','FIA — Festival Integrações de Arte','Teatro da Cidade','Diretoria de Cultura José Maria de Abreu','EducaMais Jacareí — Espaço Tomie Ohtake','50',collective[locale]])assert.ok(bio.includes(phrase),locale+': '+phrase);const person=JSON.parse(pages.get(localePath(locale)+'portfolio.json'))['@graph'][0];assert.equal(person.description,bio);}
 });
 test('No retired title, incorrect contact or old ANALOGIAEU range remains in public copy',()=>{
@@ -45,6 +45,6 @@ test('No retired title, incorrect contact or old ANALOGIAEU range remains in pub
  for(const [name,body] of pages){if(/\.(html|md|json|txt)$/.test(name))assert.doesNotMatch(body,/Maternidade 1|estudorenascida@|2014 (?:e|and|et) 2019|2014–2019|9158-6972/,name);}
 });
 test('Domain, noindex mode, three locales and regional residence remain unchanged',()=>{
- assert.equal(data.site.customDomain,'renataalberigi.com.br');assert.equal(data.site.basePath,'/');assert.equal(data.site.publicationApproved,false);assert.deepEqual(LOCALES,['en','pt-BR','fr']);assert.equal(pages.get('CNAME'),'renataalberigi.com.br\n');
+ assert.equal(data.site.customDomain,'renataalberigi.com.br');assert.equal(data.site.basePath,'/');assert.equal(data.site.publicationApproved,false);assert.deepEqual(LOCALES,['en','pt-BR','fr','es']);assert.equal(pages.get('CNAME'),'renataalberigi.com.br\n');
  for(const locale of LOCALES){assert.ok(!data.artist.location[locale].includes('Caeté'));assert.ok(!data.artist.intro[locale].includes('Caeté'));assert.ok(pages.get(localePath(locale)+'index.html').includes('content="noindex,follow"'));}
 });

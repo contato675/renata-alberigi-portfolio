@@ -52,14 +52,14 @@ try{
   await chrome.call('Emulation.setScriptExecutionDisabled',{value:true});
   try{await chrome.go(base+cvPath(locale),390,1000);assert.equal(await chrome.evaluate('document.querySelectorAll(".cv-entry").length'),34);
    await chrome.evaluate('document.querySelector(".mobile-fallback summary").click()');
-   assert.ok(await chrome.evaluate('document.querySelector(".mobile-fallback").open'));assert.equal(await chrome.evaluate('document.querySelectorAll(".mobile-fallback [data-locale-link]").length'),3);
+   assert.ok(await chrome.evaluate('document.querySelector(".mobile-fallback").open'));assert.equal(await chrome.evaluate('document.querySelectorAll(".mobile-fallback [data-locale-link]").length'),LOCALES.length);
    assert.equal(await chrome.evaluate('document.querySelector(".mobile-fallback [data-cv-menu]").pathname'),data.site.basePath+cvPath(locale));
    await capture(locale+'-no-js');
   }finally{await chrome.call('Emulation.setScriptExecutionDisabled',{value:false});}
  });
  for(const locale of LOCALES)await check(locale+' CV privacy includes metadata and footer',async()=>{
   await chrome.go(base+cvPath(locale),390,1000);
-  assert.doesNotMatch(await chrome.evaluate('document.documentElement.outerHTML'),/mailto:|tel:|@gmail|birthDate|birthPlace|telephone|homeLocation|alumniOf|1993|Petrolina|autodidata|self-taught|autodidacte|Ensino médio completo/i);
+  assert.doesNotMatch(await chrome.evaluate('document.documentElement.outerHTML'),/mailto:|tel:|@gmail|birthDate|birthPlace|telephone|homeLocation|alumniOf|1993|Petrolina|autodidata|self-taught|autodidacte|autodidacta|Ensino médio completo/i);
   assert.equal(await chrome.evaluate('document.querySelectorAll("main img,main iframe").length'),0);
  });
  for(const locale of LOCALES)await check(locale+' back to portfolio and existing painting links',async()=>{

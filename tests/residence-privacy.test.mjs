@@ -12,7 +12,7 @@ const data=await loadContent(root),template=await fs.readFile(path.join(root,'si
 const generated=generatePages(data,template);
 const folded=text=>String(text).normalize('NFD').replace(/\p{M}/gu,'').toLowerCase();
 const localResidence=/caete[\s\p{Pd}]*acu/u;
-const expected={en:'Chapada Diamantina · Bahia - Brazil','pt-BR':'Chapada Diamantina · Bahia - Brasil',fr:'Chapada Diamantina · Bahia - Brésil'};
+const expected={en:'Chapada Diamantina · Bahia - Brazil','pt-BR':'Chapada Diamantina · Bahia - Brasil',fr:'Chapada Diamantina · Bahia - Brésil',es:'Chapada Diamantina · Bahia - Brasil'};
 for(const locale of LOCALES){
  test('Residence is regional only in '+locale,()=>{assert.equal(data.artist.location[locale],expected[locale]);for(const field of ['intro','bio']){assert.match(data.artist[field][locale],/Chapada Diamantina/);assert.match(data.artist[field][locale],/Bahia/);assert.doesNotMatch(folded(data.artist[field][locale]),localResidence);}});
  test('Birthplace and personal name are preserved in '+locale,()=>{for(const field of ['intro','bio']){assert.match(data.artist[field][locale],/Petrolina/);assert.match(data.artist[field][locale],/1993/);}assert.equal(data.artist.name,'Renata Alberigi');});
@@ -22,6 +22,6 @@ test('No specific residence is exposed; the approved 2019 field-study location i
  const field=data.curriculum.sections.find(s=>s.id==='paintings').entries.find(e=>e.id==='vale-do-capao-2019').description;
  for(const [file,content] of generated){let safe=String(content);if(file==='llms-full.txt'||LOCALES.some(l=>file.startsWith(cvPath(l))))for(const locale of LOCALES)safe=safe.replaceAll(field[locale],'');assert.doesNotMatch(folded(safe),localResidence,file);}
 });
-test('All configured locales are protected, including French',()=>assert.deepEqual(LOCALES,['en','pt-BR','fr']));
+test('All configured locales are protected, including French',()=>assert.deepEqual(LOCALES,['en','pt-BR','fr','es']));
 test('Regional copy is retained in consolidated AI-readable text',()=>{const all=generated.get('llms-full.txt');for(const locale of LOCALES){assert.ok(all.includes(data.artist.intro[locale]));assert.ok(all.includes(data.artist.bio[locale]));assert.ok(all.includes(expected[locale]));}assert.ok(generated.get('llms.txt').includes(data.artist.intro.en));});
 test('Residence edit does not change the live host or preview publication flags',()=>{assert.equal(data.site.customDomain,'renataalberigi.com.br');assert.equal(data.site.basePath,'/');assert.equal(generated.get('CNAME'),'renataalberigi.com.br\n');assert.match(generated.get('index.html'),/noindex/);assert.equal(data.artist.email,'estudiorenascida@gmail.com');});

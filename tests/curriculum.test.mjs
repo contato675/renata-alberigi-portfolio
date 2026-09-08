@@ -12,7 +12,7 @@ import {cvPath,CV_SECTIONS,validateCurriculum,curriculumRecords} from '../script
 import {curriculumStructured,curriculumMarkdown} from '../scripts/cv-discovery.mjs';
 const root=fileURLToPath(new URL('../',import.meta.url));
 const data=await loadContent(root),template=await readFile(path.join(root,'site/index.template.html'),'utf8'),pages=generatePages(data,template);
-const forbidden=/mailto:|tel:|@gmail|1993|Petrolina|birthDate|birthPlace|telephone|homeLocation|alumniOf|autodidata|self-taught|autodidacte|Ensino médio completo|Formação e cursos|Renata da Silva/i;
+const forbidden=/mailto:|tel:|@gmail|1993|Petrolina|birthDate|birthPlace|telephone|homeLocation|alumniOf|autodidata|self-taught|autodidacte|autodidacta|Ensino médio completo|Formação e cursos|Renata da Silva/i;
 const get=(locale,suffix='index.html')=>pages.get(cvPath(locale)+suffix);
 const records=data.curriculum.sections.flatMap(s=>s.entries);
 for(const locale of LOCALES){
@@ -56,7 +56,7 @@ test('Curriculum retains the approved five sections and selected record counts',
  assert.deepEqual(data.curriculum.sections.map(s=>s.id),CV_SECTIONS);assert.deepEqual(data.curriculum.sections.map(s=>s.entries.length),[4,6,10,10,4]);assert.deepEqual(validateCurriculum(data.curriculum),[]);
 });
 test('CV paths are explicit, locale-safe and independent of work IDs',()=>{
- assert.deepEqual(LOCALES.map(cvPath),['cv/','pt-br/curriculo/','fr/cv/']);assert.throws(()=>cvPath('es'));assert.throws(()=>cvPath('../'));
+ assert.deepEqual(LOCALES.map(cvPath),['cv/','pt-br/curriculo/','fr/cv/','es/curriculo/']);assert.throws(()=>cvPath('de'));assert.throws(()=>cvPath('../'));
 });
 test('Every existing painting matches the canonical gallery record',()=>{
  for(const row of data.curriculum.sections.find(s=>s.id==='paintings').entries.filter(r=>r.workId)){

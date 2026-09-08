@@ -18,6 +18,7 @@ async function settled(pathname){
 }
 async function choose(locale,width){
  if(width<1024)await chrome.evaluate("document.querySelector('[data-menu-open]').click()");
+ else await chrome.evaluate("document.querySelector('[data-language-picker] summary').click()");
  const selector=(width<1024?'[data-navigation]':'.desktop-navigation')+' [data-locale-link][hreflang="'+locale+'"]';
  const destination=await chrome.evaluate(`document.querySelector(${JSON.stringify(selector)}).pathname`);
  await chrome.evaluate(`document.querySelector(${JSON.stringify(selector)}).click()`);
@@ -73,7 +74,7 @@ try{
  });
  await check('French permanent detail and all three menu links remain usable without JavaScript',async()=>{
   await chrome.call('Emulation.setScriptExecutionDisabled',{value:true});
-  try{await chrome.go(base+'fr/works/digital-02/',390,900);assert.equal(await chrome.evaluate("document.querySelectorAll('.work-images img').length"),5);await chrome.evaluate("document.querySelector('.mobile-fallback summary').click()");assert.equal(await chrome.evaluate("document.querySelectorAll('.mobile-fallback [data-locale-link]').length"),3);assert.equal(await chrome.evaluate('document.documentElement.lang'),'fr');await capture('fr-detail-no-javascript');}
+  try{await chrome.go(base+'fr/works/digital-02/',390,900);assert.equal(await chrome.evaluate("document.querySelectorAll('.work-images img').length"),5);await chrome.evaluate("document.querySelector('.mobile-fallback summary').click()");assert.equal(await chrome.evaluate("document.querySelectorAll('.mobile-fallback [data-locale-link]').length"),LOCALES.length);assert.equal(await chrome.evaluate('document.documentElement.lang'),'fr');await capture('fr-detail-no-javascript');}
   finally{await chrome.call('Emulation.setScriptExecutionDisabled',{value:false});}
  });
  await check('French desktop, mobile, drawer and gallery use full translated controls without overflow',async()=>{
