@@ -1,3 +1,4 @@
+import {cvPath} from './curriculum.mjs';
 import {escapeHtml as xml,allVideos} from './content.mjs';
 import {localized as l, LOCALES,localePath} from './i18n.mjs';
 import {absoluteUrl, pagePath, publicWorks} from './render.mjs';
@@ -9,6 +10,7 @@ export function pageMarkdown(data,locale,work=null) {
   text += `${absoluteUrl(site,pagePath(locale,work))}\n\n`;
   if (!work) {
     text += `> ${mdText(l(artist.role,locale))}\n\n${mdText(l(artist.intro,locale))}\n\n${mdText(l(artist.location,locale))}\n\n## ${mdText(u.about)}\n\n${mdText(l(artist.bio,locale))}\n\n## ${mdText(u.selection)}\n\n`;
+    if(data.curriculum)text+=`[${mdText(u.cvLink)}](${absoluteUrl(site,cvPath(locale))})\n\n`;
     const works=publicWorks(data);
     for(const key of ['paintings','digital','brand-design']){
       const collection=works.filter(w=>(w.collection||'paintings')===key);
@@ -39,6 +41,7 @@ export function llmsIndex(data,{release=false}={}) {
   if (!release) out+=(site.previewPublic?'Public portfolio preview for editorial review; not the final release.':'Review build; URLs describe the planned deployment.')+'\n\n';
   out+='Artwork titles and credited institutions retain their original names. A listed work is not automatically available for sale or licensed for reuse. This index neither authorizes training nor guarantees inclusion in search or any selection process.\n\n## Portfolio\n\n';
   for (const locale of LOCALES) out+=`- [${mdText(data.dictionaries[locale].portfolioBiography)}](${absoluteUrl(site,localePath(locale)+'index.md')}): ${mdText(data.dictionaries[locale].portfolioSummary)}\n`;
+  if(data.curriculum)for(const locale of LOCALES)out+=`- [${mdText(data.dictionaries[locale].cvTitle)} (${locale})](${absoluteUrl(site,cvPath(locale)+'index.md')}): ${mdText(data.dictionaries[locale].cvIntro)}\n`;
   if (publicWorks(data).length) {
     for(const key of ['paintings','digital','brand-design']){
       const works=publicWorks(data).filter(w=>(w.collection||'paintings')===key);
@@ -61,7 +64,8 @@ export function robotsText(site,{release=false}={}) {
 }
 export function sitemap(data,{release=false}={}) {
   const pages=[null,...publicWorks(data)];
-  const urls=release ? pages.flatMap((work)=>LOCALES.map((locale)=>`  <url><loc>${xml(absoluteUrl(data.site,pagePath(locale,work)))}</loc>${[...LOCALES,'x-default'].map((lang)=>`<xhtml:link rel="alternate" hreflang="${lang}" href="${xml(absoluteUrl(data.site,pagePath(lang==='x-default'?'en':lang,work)))}"/>`).join('')}</url>`)).join('\n') : '';
+  let urls=release ? pages.flatMap((work)=>LOCALES.map((locale)=>`  <url><loc>${xml(absoluteUrl(data.site,pagePath(locale,work)))}</loc>${[...LOCALES,'x-default'].map((lang)=>`<xhtml:link rel="alternate" hreflang="${lang}" href="${xml(absoluteUrl(data.site,pagePath(lang==='x-default'?'en':lang,work)))}"/>`).join('')}</url>`)).join('\n') : '';
+  if(release&&data.curriculum) urls+='\n'+LOCALES.map(locale=>`  <url><loc>${xml(absoluteUrl(data.site,cvPath(locale)))}</loc>${[...LOCALES,'x-default'].map(lang=>`<xhtml:link rel="alternate" hreflang="${lang}" href="${xml(absoluteUrl(data.site,cvPath(lang==='x-default'?'en':lang)))}"/>`).join('')}</url>`).join('\n');
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${urls}\n</urlset>\n`;
 }
 export function structuredPortfolio(data,locale) {

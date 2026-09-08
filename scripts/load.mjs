@@ -4,9 +4,10 @@ import {validateContent, containedPath, allVideos, imagePaths} from './content.m
 import {LOCALES} from './i18n.mjs';
 export async function loadContent(root) {
   const load = async (name) => JSON.parse(await readFile(path.join(root, 'site/content', name), 'utf8'));
-  const [artist, site, works] = await Promise.all(['artist.json','site.json','works.json'].map(load));
+  const [artist, site, works, curriculum] = await Promise.all(['artist.json','site.json','works.json','curriculum.json'].map(load));
   const dictionaries = Object.fromEntries(await Promise.all(LOCALES.map(async (locale) => [locale, await load(`locales/${locale}.json`)])));
-  const data = {artist,site,works,dictionaries};
+  if (!curriculum) throw new Error('Public curriculum content is required in the source tree.');
+  const data = {artist,site,works,dictionaries,curriculum};
   const errors = validateContent(data);
   if (errors.length) throw new Error(errors.join('\n'));
   return data;

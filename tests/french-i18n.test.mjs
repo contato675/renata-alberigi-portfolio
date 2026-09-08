@@ -113,6 +113,6 @@ test('Project-subpath mode generates the same three locales without root-only as
 });
 test('A ready test fixture produces reciprocal three-language sitemap entries; actual noindex stays intact',()=>{
  const copy=structuredClone(data);Object.assign(copy.site,{phase:'ready',implementationComplete:true,publicationApproved:true,robotsRootVerified:true});copy.artist.editorialReview=Object.fromEntries(LOCALES.map(locale=>[locale,true]));copy.artist.pdf='downloads/test-only.pdf';
- const sitemap=generatePages(copy,template,{release:true}).get('sitemap.xml');assert.equal((sitemap.match(/<url>/g)||[]).length,66);assert.ok(sitemap.includes('hreflang="fr"'));
+ const sitemap=generatePages(copy,template,{release:true}).get('sitemap.xml');assert.equal((sitemap.match(/<url>/g)||[]).length,69);assert.ok(sitemap.includes('hreflang="fr"'));
  assert.equal(data.artist.editorialReview.fr,false);assert.equal(data.site.publicationApproved,false);assert.equal(files.get('CNAME'),'renataalberigi.com.br\n');assert.doesNotMatch(files.get('sitemap.xml'),/<url>/);
 });

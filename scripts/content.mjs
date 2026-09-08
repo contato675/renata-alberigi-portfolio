@@ -1,4 +1,5 @@
 import path from 'node:path';
+import {validateCurriculum} from './curriculum.mjs';
 import {hostingErrors} from './hosting.mjs';
 import {validateLocalized, validateTranslations, LOCALES} from './i18n.mjs';
 export function escapeHtml(value) {
@@ -56,8 +57,8 @@ export function validateWorks(works) {
   }
   return errors;
 }
-export function validateContent({artist, site, works, dictionaries}) {
-  const errors = [...validateWorks(works), ...validateTranslations(dictionaries), ...hostingErrors(site)];
+export function validateContent({artist, site, works, dictionaries, curriculum}) {
+  const errors = [...validateWorks(works), ...validateTranslations(dictionaries), ...hostingErrors(site), ...validateCurriculum(curriculum)];
   if (artist.name !== 'Renata Alberigi') errors.push('Unexpected artist identity.');
   for (const key of ['role','intro','bio','location']) errors.push(...validateLocalized(artist[key], `artist.${key}`));
   if (!/^[^\s@<>"']+@[^\s@<>"']+\.[^\s@<>"']+$/.test(artist.email ?? '')) errors.push('Invalid public email.');

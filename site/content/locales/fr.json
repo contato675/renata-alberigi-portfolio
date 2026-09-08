@@ -66,5 +66,12 @@
   "portfolioSummary": "Présentation de l’artiste, biographie, contact et œuvres sélectionnées.",
   "structuredDataTitle": "Données structurées du portfolio",
   "instagram": "Instagram",
-  "instagramProfile": "Renata Alberigi sur Instagram"
+  "instagramProfile": "Renata Alberigi sur Instagram",
+  "cvNav": "CV",
+  "cvTitle": "Parcours artistique",
+  "cvLink": "Voir le parcours artistique",
+  "cvIntro": "Direction artistique, actions culturelles, installations, expositions et peintures sélectionnées, avec le parcours de création d’ANALOGIAEU.",
+  "cvIndex": "Sur cette page",
+  "cvBack": "Retour au portfolio",
+  "cvDataTitle": "Données structurées du parcours artistique"
 }

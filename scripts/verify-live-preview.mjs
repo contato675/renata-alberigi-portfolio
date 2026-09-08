@@ -1,4 +1,5 @@
 import {LOCALES,localePath} from './i18n.mjs';
+import {cvPath} from './curriculum.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -14,23 +15,30 @@ const first=await get('preview-build.json');assert.equal(first.status,200,'Live 
 const manifest=await first.json();assert.equal(manifest.sourceCommit,source,'Deployed source differs');assert.equal(manifest.mode,'public-preview-noindex');
 const localFiles=JSON.parse(await fs.readFile(path.join(root,'dist/.build-manifest.json'),'utf8'));assert.deepEqual(Object.keys(manifest.hashes).sort(),[...localFiles].sort());assert.equal(manifest.repo,data.site.repo);
 const entries=Object.entries(manifest.hashes),results=[];let next=0;
+const field=data.curriculum.sections.find(s=>s.id==='paintings').entries.find(e=>e.id==='vale-do-capao-2019').description;
 async function worker(){while(next<entries.length){const [rel,expected]=entries[next++];
  if(rel.includes('..')||rel.startsWith('/')||rel.includes('\\'))throw new Error('Unsafe manifest path');
- const r=await get(rel),bytes=Buffer.from(await r.arrayBuffer());
- const exact=r.status===200&&createHash('sha256').update(bytes).digest('hex')===expected;
- const privacyChecked=/\.(html|md|json|txt|xml|css|js)$/.test(rel);
- const text=privacyChecked?bytes.toString('utf8').normalize('NFD').replace(/\p{M}/gu,'').toLowerCase():'';
+ const r=await get(rel),bytes=Buffer.from(await r.arrayBuffer()),localBytes=await fs.readFile(path.join(root,'dist',rel));
+ const exact=r.status===200&&createHash('sha256').update(bytes).digest('hex')===expected&&createHash('sha256').update(localBytes).digest('hex')===expected;
+ const privacyChecked=/\.(html|md|json|txt|xml|css|js)$/.test(rel),isCV=LOCALES.some(locale=>rel.startsWith(cvPath(locale)));
+ const originalText=privacyChecked?bytes.toString('utf8'):'';
+ let text=originalText;
+ // Only the approved artwork field-study sentence is distinct from residence information.
+ if(isCV||rel==='llms-full.txt')for(const locale of LOCALES)text=text.replaceAll(field[locale],'');
+ text=text.normalize('NFD').replace(/\p{M}/gu,'').toLowerCase();
  const residenceSafe=!/caete[\s\p{Pd}]*acu/u.test(text);
- results.push({path:rel,status:r.status,hashMatch:exact,privacyChecked,residenceSafe,mime:r.headers.get('content-type'),bytes:bytes.length});
+ const curriculumPrivacySafe=!isCV||!/mailto:|tel:|@gmail|birthDate|birthPlace|telephone|homeLocation|alumniOf|1993|Petrolina|autodidata|self-taught|autodidacte|Ensino médio completo/i.test(originalText);
+ results.push({path:rel,status:r.status,hashMatch:exact,privacyChecked,residenceSafe,curriculumPrivacySafe,mime:r.headers.get('content-type'),bytes:bytes.length});
  if(!exact)console.log('LIVE_FILE_FAIL',rel,r.status);
+ if(results.length%100===0)console.log('LIVE_HASH_PROGRESS '+results.length+'/'+entries.length);
 }}
 await Promise.all([worker(),worker(),worker(),worker()]);
 const html=await(await get('')).text(),pt=await(await get('pt-br/')).text(),fr=await(await get('fr/')).text();
 const frenchData=await(await get('fr/portfolio.json')).json();
 const json=await(await get('portfolio.json')).json();
 const pagesForChecks=[html,pt,fr];
-const checks={regionalResidence:LOCALES.every((l,i)=>pagesForChecks[i].includes(data.artist.location[l])),regionalBiography:LOCALES.every((l,i)=>pagesForChecks[i].includes(data.artist.intro[l])),specificResidenceRemoved:results.every(r=>r.residenceSafe),instagramInAllFooters:pagesForChecks.every(h=>h.match(/<footer[\s\S]*?<\/footer>/)?.[0].includes('href="'+data.artist.instagram+'"')),videoSubtitleRemoved:pagesForChecks.every(h=>!/<h2 id="film-title">[^<]*<\/h2>\s*<p/.test(h)),frenchRoute:fr.includes('<html lang="fr">'),frenchMetadata:fr.includes('content="fr_FR"')&&fr.includes('rel="canonical" href="'+base+'fr/"'),frenchCatalogue:frenchData['@graph'].length===data.works.length+1&&frenchData['@graph'].slice(1).every(w=>w.inLanguage==='fr'),frenchBiography:frenchData['@graph'][0].description===data.artist.bio.fr,threeLanguageNavigation:[html,pt,fr].every(h=>{const nav=h.match(/<nav class="locale-nav"[^>]*>([\s\S]*?)<\/nav>/)?.[1]||'';return (nav.match(/data-locale-link/g)||[]).length===LOCALES.length&&LOCALES.every(l=>nav.includes(data.dictionaries[l].localeName));}),englishAtRoot:html.includes('<html lang="en">'),portugueseRoute:pt.includes('<html lang="pt-BR">'),noindex:html.includes('content="noindex'),brandAfterDigital:html.indexOf('<section id="brand-design"')>html.indexOf('<section id="digital"'),newEmail:html.includes('mailto:estudiorenascida@gmail.com')&&!html.includes('ataneribero@gmail.com'),newPortrait:html.includes(data.artist.portrait.path),noGridControl:!html.includes('data-grid-toggle'),noReviewBanner:!html.includes('class="wrap notice"'),noHeaderName:!html.match(/<header[\s\S]*?<\/header>/)[0].includes('Renata Alberigi'),mobileDrawer:html.includes('id="mobile-navigation"'),brandImages:json['@graph'].some(w=>w['@type']==='CreativeWork'&&w.image?.length===66),correnteza2022:json['@graph'].some(w=>w.name==='Correnteza'&&w.dateCreated==='2022')};
+const checks={regionalResidence:LOCALES.every((l,i)=>pagesForChecks[i].includes(data.artist.location[l])),regionalBiography:LOCALES.every((l,i)=>pagesForChecks[i].includes(data.artist.intro[l])),specificResidenceRemoved:results.every(r=>r.residenceSafe),curriculumPrivacy:results.every(r=>r.curriculumPrivacySafe),instagramInAllFooters:pagesForChecks.every(h=>h.match(/<footer[\s\S]*?<\/footer>/)?.[0].includes('href="'+data.artist.instagram+'"')),videoSubtitleRemoved:pagesForChecks.every(h=>!/<h2 id="film-title">[^<]*<\/h2>\s*<p/.test(h)),frenchRoute:fr.includes('<html lang="fr">'),frenchMetadata:fr.includes('content="fr_FR"')&&fr.includes('rel="canonical" href="'+base+'fr/"'),frenchCatalogue:frenchData['@graph'].length===data.works.length+1&&frenchData['@graph'].slice(1).every(w=>w.inLanguage==='fr'),frenchBiography:frenchData['@graph'][0].description===data.artist.bio.fr,threeLanguageNavigation:[html,pt,fr].every(h=>{const nav=h.match(/<nav class="locale-nav"[^>]*>([\s\S]*?)<\/nav>/)?.[1]||'';return (nav.match(/data-locale-link/g)||[]).length===LOCALES.length&&LOCALES.every(l=>nav.includes(data.dictionaries[l].localeName));}),englishAtRoot:html.includes('<html lang="en">'),portugueseRoute:pt.includes('<html lang="pt-BR">'),noindex:html.includes('content="noindex'),brandAfterDigital:html.indexOf('<section id="brand-design"')>html.indexOf('<section id="digital"'),newEmail:html.includes('mailto:estudiorenascida@gmail.com')&&!html.includes('ataneribero@gmail.com'),newPortrait:html.includes(data.artist.portrait.path),noGridControl:!html.includes('data-grid-toggle'),noReviewBanner:!html.includes('class="wrap notice"'),noHeaderName:!html.match(/<header[\s\S]*?<\/header>/)[0].includes('Renata Alberigi'),mobileDrawer:html.includes('id="mobile-navigation"'),brandImages:json['@graph'].some(w=>w['@type']==='CreativeWork'&&w.image?.length===66),correnteza2022:json['@graph'].some(w=>w.name==='Correnteza'&&w.dateCreated==='2022')};
 const rootRobots=await fetch(data.site.origin+'/robots.txt',{signal:AbortSignal.timeout(15000)});
-const report={date:new Date().toISOString(),url:base,sourceCommit:source,files:results.length,privacyTextFiles:results.filter(r=>r.privacyChecked).length,privacyFailures:results.filter(r=>!r.residenceSafe).length,failures:results.filter(r=>!r.hashMatch||!r.residenceSafe).length,checks,robotsAtOrigin:{status:rootRobots.status,verifiedForRelease:false},results};
+const report={date:new Date().toISOString(),url:base,sourceCommit:source,files:results.length,privacyTextFiles:results.filter(r=>r.privacyChecked).length,privacyFailures:results.filter(r=>!r.residenceSafe||!r.curriculumPrivacySafe).length,failures:results.filter(r=>!r.hashMatch||!r.residenceSafe||!r.curriculumPrivacySafe).length,checks,robotsAtOrigin:{status:rootRobots.status,verifiedForRelease:false},results};
 await fs.mkdir(path.join(root,'artifacts'),{recursive:true});await fs.writeFile(path.join(root,'artifacts/live-preview-report.json'),JSON.stringify(report,null,2)+'\n');
 console.log(JSON.stringify({...report,results:undefined}));if(report.failures||Object.values(checks).some(v=>!v))process.exitCode=1;

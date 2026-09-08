@@ -1,3 +1,4 @@
+import {cvPath} from '../scripts/curriculum.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
@@ -17,7 +18,10 @@ for(const locale of LOCALES){
  test('Birthplace and personal name are preserved in '+locale,()=>{for(const field of ['intro','bio']){assert.match(data.artist[field][locale],/Petrolina/);assert.match(data.artist[field][locale],/1993/);}assert.equal(data.artist.name,'Renata Alberigi');});
  test('HTML, Markdown and artist metadata share regional residence in '+locale,()=>{const prefix=localePath(locale),html=generated.get(prefix+'index.html'),md=generated.get(prefix+'index.md'),json=JSON.parse(generated.get(prefix+'portfolio.json'));assert.ok(html.includes(data.artist.intro[locale]));assert.ok(html.includes(expected[locale]));assert.ok(md.includes(expected[locale]));assert.ok(md.includes(data.artist.bio[locale]));assert.equal(json['@graph'][0].description,data.artist.bio[locale]);});
 }
-test('No generated page or discovery document names the specific residence',()=>{for(const [file,content] of generated)assert.doesNotMatch(folded(content),localResidence,file);});
+test('No specific residence is exposed; the approved 2019 field-study location is not residence data',()=>{
+ const field=data.curriculum.sections.find(s=>s.id==='paintings').entries.find(e=>e.id==='vale-do-capao-2019').description;
+ for(const [file,content] of generated){let safe=String(content);if(file==='llms-full.txt'||LOCALES.some(l=>file.startsWith(cvPath(l))))for(const locale of LOCALES)safe=safe.replaceAll(field[locale],'');assert.doesNotMatch(folded(safe),localResidence,file);}
+});
 test('All configured locales are protected, including French',()=>assert.deepEqual(LOCALES,['en','pt-BR','fr']));
 test('Regional copy is retained in consolidated AI-readable text',()=>{const all=generated.get('llms-full.txt');for(const locale of LOCALES){assert.ok(all.includes(data.artist.intro[locale]));assert.ok(all.includes(data.artist.bio[locale]));assert.ok(all.includes(expected[locale]));}assert.ok(generated.get('llms.txt').includes(data.artist.intro.en));});
 test('Residence edit does not change the live host or preview publication flags',()=>{assert.equal(data.site.customDomain,'renataalberigi.com.br');assert.equal(data.site.basePath,'/');assert.equal(generated.get('CNAME'),'renataalberigi.com.br\n');assert.match(generated.get('index.html'),/noindex/);assert.equal(data.artist.email,'estudiorenascida@gmail.com');});

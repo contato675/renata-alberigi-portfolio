@@ -1,3 +1,4 @@
+import {cvPath} from '../scripts/curriculum.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -23,13 +24,14 @@ test('All home, work, alias and error footers link to the requested Instagram pr
  for(const [route,html] of pages)if(route.endsWith('.html')){
   const footer=html.match(/<footer[\s\S]*?<\/footer>/)?.[0];assert.ok(footer,route);
   const locale=html.match(/<html lang="([^"]+)"/)[1],u=data.dictionaries[locale];
+  if(LOCALES.some(l=>route.startsWith(cvPath(l)))){assert.ok(!footer.includes(data.artist.email));assert.ok(!footer.includes(data.artist.instagram));assert.ok(footer.includes('href="'+data.site.basePath+localePath(locale)+'"'));continue;}
   assert.ok(footer.includes('href="'+data.artist.instagram+'" target="_blank" rel="noopener noreferrer"'),route);
   assert.ok(footer.includes('aria-label="'+escapeHtml(u.instagramProfile)+'"'),route);
   assert.ok(footer.includes('mailto:'+data.artist.email),route);
  }
 });
 test('Public Markdown and Person data use the same approved Instagram URL',()=>{
- for(const [route,text] of pages)if(route.endsWith('.md'))assert.ok(text.includes('[Instagram]('+data.artist.instagram+')'),route);
+ for(const [route,text] of pages)if(route.endsWith('.md')){if(LOCALES.some(l=>route.startsWith(cvPath(l))))assert.ok(!text.includes(data.artist.instagram),route);else assert.ok(text.includes('[Instagram]('+data.artist.instagram+')'),route);}
  for(const locale of LOCALES)assert.deepEqual(JSON.parse(pages.get(localePath(locale)+'portfolio.json'))['@graph'][0].sameAs,[data.artist.instagram]);
 });
 test('Invalid Instagram URLs and injected attributes are rejected by validation',()=>{

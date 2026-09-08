@@ -1,3 +1,4 @@
+import {cvPath} from '../scripts/curriculum.mjs';
 import {LOCALES,localePath} from '../scripts/i18n.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
@@ -36,7 +37,7 @@ test('Requested Portuguese introduction replaces the previous summary',()=>{
 });
 test('Contact and country are consistent in all supported languages and all public formats',()=>{
  assert.equal(data.artist.email,'estudiorenascida@gmail.com');assert.ok(data.artist.location.en.endsWith('Brazil'));assert.ok(data.artist.location['pt-BR'].endsWith('Brasil'));
- for(const [name,body] of pages)if(/\.(html|md|json|txt)$/.test(name)){assert.ok(!body.includes('ataneribero@gmail.com'),name);if(/\.(html|md|json)$/.test(name))assert.ok(body.includes(data.artist.email),name);}
+ for(const [name,body] of pages)if(/\.(html|md|json|txt)$/.test(name)){assert.ok(!body.includes('ataneribero@gmail.com'),name);if(/\.(html|md|json)$/.test(name)){if(LOCALES.some(l=>name.startsWith(cvPath(l))))assert.ok(!body.includes(data.artist.email),name);else assert.ok(body.includes(data.artist.email),name);}}
 });
 test('No redundant header name, review banner or grid control; noindex retained',()=>{
  for(const [name,html] of pages)if(name.endsWith('.html')){const header=html.match(/<header[\s\S]*?<\/header>/)?.[0];assert.ok(header);assert.ok(!header.includes('Renata Alberigi'),name);assert.doesNotMatch(html,/data-grid-toggle|class="wrap notice"|Preview do portfólio|Portfolio preview · Editorial review/);assert.match(html,/<meta name="robots" content="noindex,follow">/);}

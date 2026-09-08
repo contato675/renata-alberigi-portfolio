@@ -1,0 +1,137 @@
+{
+  "date": "2026-09-08T16:38:39.779Z",
+  "baselineSource": "9cf04c069c58fb4bb6275a9130f22a3d2a156674",
+  "scope": "Public artist curriculum in three languages; five selected sections; no personal or schooling information",
+  "routes": {
+    "en": "/cv/",
+    "pt-BR": "/pt-br/curriculo/",
+    "fr": "/fr/cv/"
+  },
+  "records": 34,
+  "sections": 5,
+  "paintings": 10,
+  "existingArtworkLinks": 8,
+  "unitTests": {
+    "passed": 176,
+    "failed": 0
+  },
+  "build": {
+    "files": 444,
+    "works": 21,
+    "locales": [
+      "en",
+      "pt-BR",
+      "fr"
+    ],
+    "mode": "public-preview-noindex"
+  },
+  "curriculumAudit": {
+    "checks": 52,
+    "layouts": 21,
+    "failures": 0,
+    "date": "2026-09-08T16:37:36.099Z"
+  },
+  "appleAudit": {
+    "status": "PASS_WITH_EDITORIAL_PENDING",
+    "layouts": 42,
+    "interactions": 9,
+    "failures": 0,
+    "date": "2026-09-08T16:37:02.107Z"
+  },
+  "menuAudit": {
+    "checks": 32,
+    "failures": 0
+  },
+  "localeAudit": {
+    "checks": 38,
+    "failures": 0
+  },
+  "visualInspection": {
+    "reviewed": [
+      "PT desktop overview",
+      "PT mobile paintings",
+      "FR tablet cultural activities",
+      "EN desktop ANALOGIAEU timeline"
+    ],
+    "result": "Dates, headings and descriptions readable with shared grid and spacious rows. No clipping or horizontal overflow observed in these views."
+  },
+  "preserved": {
+    "artistBiography": true,
+    "artworkCatalogue": true,
+    "existingImages": true,
+    "workIds": true,
+    "personalPDFNotPublished": true,
+    "main": true,
+    "https": true,
+    "noindex": true
+  },
+  "sourceHashes": {
+    "package.json": "e5874d795e4d402d9367580010e72878ed12cb4db0ae190b51b0e910cd34bb9d",
+    "schemas/work.schema.json": "4287414d72d9dcc3a1576457ca5ee599ec49da6fcc367f8658b121de7bcf909a",
+    "scripts/audit-brand.mjs": "a8a3cb79e195b3ada7ec98e6297c9d1719a3c6a64d10efa9836de96661c39a4b",
+    "scripts/audit-curriculum.mjs": "be8f15732b91ed9d306e5e2f49f60f5dafd3585da3cb31a4563852976921de15",
+    "scripts/audit-locale-navigation.mjs": "db78abdeb3d04fe9c49ffa32d3ede893fa4d428596819aa6d2440119c9b44be6",
+    "scripts/audit-navigation.mjs": "e9a49bb08a5f48876b8d47430bdef48c8a7e6e486782ec867754738d2fe9aaa7",
+    "scripts/audit-real-media.mjs": "0d249fdfee284f7663187741912e8c37734cd648fa948d5192c134da4ef5c7ac",
+    "scripts/audit/cdp.mjs": "2b272fd31cb0bebe4245329afef45a836606d11f99e306c2c76d8b9fbb97019d",
+    "scripts/audit/fixtures.mjs": "3b4c65c6edf3c82a7b4a5f18940a143e51e25163103ce84668dc7d4f3b8c99d7",
+    "scripts/audit/media-metadata.mjs": "d3d64f05f501d013818557e30a4ddf992c043ad9752a35d171b8fe249b06a6ce",
+    "scripts/audit/metrics.mjs": "5a085fdbc66b545524fa9c3ad1faebd39dd8fb21179a2273c729936aa4511283",
+    "scripts/brand-render.mjs": "de29af39c3eed7e156cfd548f9c4288c51d7d7dc375ca7ebe2f7336a1f2fb03d",
+    "scripts/build.mjs": "d5b62507a07f151be22349253851d8fe13e5731d15fac449c76303b626497b3b",
+    "scripts/check.mjs": "cd1ee20a8e72c39dcb0307468bf9c7b8a567c3c96994c4ab175e927ef5379d3d",
+    "scripts/content.mjs": "b3caaa0928d640fd814d4b1974152724f75db7bd1baf4e269ae11abcc0f8ac54",
+    "scripts/curriculum.mjs": "35d4cd884afcf0637963bf80505cf009a365f9cb23b2ab0b3ea2dc230c580dfd",
+    "scripts/cv-discovery.mjs": "5d4c928261f9903c5a9274a888c5fa563eca8db3ec41f6a3d77c3de0b559eed0",
+    "scripts/cv-render.mjs": "c76d812a94941feb6f0619935fc116dc6ab29cb4a1fdfe17ab7835a3ff457657",
+    "scripts/design-audit.mjs": "dfeb9e23f1b8ae410d61f9be4a7256bd8f3c0340265e08a512e49e48f139c7b5",
+    "scripts/discovery.mjs": "46b15e2cdc51a96249b914a54f61ea86950ff8074bc442acc4bd5908bf629d93",
+    "scripts/hosting.mjs": "800572bb11d8aaebdde69584101e496ca979dd5318b421183aa4d7633b95229a",
+    "scripts/i18n.mjs": "d8806fb220c2ac1eddea47821235edb9249f016ed625cdd64cfec1410fba56d1",
+    "scripts/import-media.mjs": "c0df7515213eb8014567d60a6483949997b2d5cfc81ce6a72e8b54ba1fae49a5",
+    "scripts/load.mjs": "61f69a4ae39589fa069bd3f3901b74c8ec80bc7174530033158217d7f03d5590",
+    "scripts/navigation.mjs": "65ae48cfdcbcb4826664b763fa1e487129ac8cef704aad696b90b189004cf016",
+    "scripts/publish-preview.mjs": "afaac0013d63140d318a948f2e2fbe328c0f44ebf474cc6279323ef834581a7c",
+    "scripts/render.mjs": "1a2cebe823d6e9c1dd385ee61eccdfa6e7de3e10466ebf4cac157998f1dd71fe",
+    "scripts/route-aliases.mjs": "717793c3b2a200a600b3e649c057e6aa94a3f007397b69520fc7c9632a212c32",
+    "scripts/serve.mjs": "c163edf445288a17e615fa23328ee46dcf480c04bfcb5caf4a4f75c0599167d8",
+    "scripts/verify-live-preview.mjs": "b7bcc626d391e13ab63cb0f5976ed0eabdb7661526699e44c954e07196700b4f",
+    "site/assets/css/brand.css": "df135724501187668c30b762de2f6a2142d81e154f0ad2b529711cc82c1c8ff7",
+    "site/assets/css/curriculum.css": "71b8d930b59e2d19ba39fbcd98605a6e20b2cf3a5ef0d5c42b44ba0cfe53cd53",
+    "site/assets/css/gallery.css": "1bcda5eb2963ad6061c2ff2c385dd2e4f22d81224aa275bc84c17dcd29a126be",
+    "site/assets/css/navigation.css": "1bd9c340c9474362e72e95f15d4cfedb99d57a8c8e110bd3a5ec41c9d716f95c",
+    "site/assets/css/scaffold.css": "63785423ae6f002f67a7e51ddc66beaf166f7eafd1ac3f8ac1d0f46873d81a59",
+    "site/assets/css/tokens.css": "7e18e4e1e4608b0df3a986f963df5c31f8c5853968a2d63d667341f70bd6efbd",
+    "site/assets/js/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "site/assets/js/brand-carousel.js": "b720dfdec19c95da7bb8c94c9b2003c715d69d02f88566f02fafb9f5836cd8a4",
+    "site/assets/js/gallery.js": "74247e4387a7754e402a5b455a2320c68e55579b331bd867185337617b449e2d",
+    "site/assets/js/locale-navigation.js": "522876b70b7177156ad7003bc4c4983b184ea534aa69272912f45d7703cb8183",
+    "site/assets/js/navigation.js": "059342b8d517e180f49717cceb6e71e25c89417b5fc353716b8d8ebb5472c01b",
+    "site/content/artist.json": "c3ab4371120cb83b66523b5570835973875a5ec083f05bc8c74a50528bade09c",
+    "site/content/curriculum.json": "41639b39e6a5cce3b45b1a206fd063409226dd65409cdf1299b3c8150d9f3ae2",
+    "site/content/locales/en.json": "eef2b43f950e7c49862283afbc7116c6d1b4b998a079b23629619cf1c08d0e66",
+    "site/content/locales/fr.json": "b6d805b2cb170aa1e43418a7516cff5488979410d892eea58b91b64e4c08dd21",
+    "site/content/locales/pt-BR.json": "f2d7cf1116fe330b8b1f189a69ea74ab5278c69a393abf27e06d7ef9369aeff2",
+    "site/content/site.json": "2502f687d7ab8dd0139649656776f64046425c90ec2120b3bf8c5ac668ba8f88",
+    "site/content/works.json": "0e3879df6cf82b65e18b555eb93a024cad2bcde62a8aa7cb79430146664ce27c",
+    "site/downloads/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "site/index.template.html": "97cdc239f0b72860015a77662d7c5ed5e3ee8b7640342ee1c2a69fe83a293a09",
+    "tests/brand-collection.test.mjs": "541f033f3f759ce7afb6ad147b6812904a34bfd31c46f1cb8b61f0abe4c1eb7a",
+    "tests/collections.test.mjs": "bb1efbe3b009110209e936ef98749f33279b0058a5de861b4442f7087caacb57",
+    "tests/content.test.mjs": "fc88e18e720be6e65e43aa7a77f5d5cd34b6328e557dd72ec9deeb2a41ca2cfd",
+    "tests/curriculum.test.mjs": "a249f32d0542705b5c0ef96214250edd1f330ec1ebd9bb9169955a0531c6d7c6",
+    "tests/custom-domain.test.mjs": "52e1a864733c71e54296bdbf7a4eb231ddd0d888b9c18db7724b75aecef26f5b",
+    "tests/cv-editorial-20260908.test.mjs": "66687f17a044a88d9aa8d23daea8e35f6dfd17c467c8a7ced3f11eeff07260a6",
+    "tests/discovery.test.mjs": "d4cc2cc108bdcdf80ea1dbb9365a170cc699ce734a6d0b1b1cff63a5e61c3396",
+    "tests/editorial-revision.test.mjs": "5a9e0608fbbdfb0199f29e44e2d2f6a27d4041838834e885b68973c7c1fba9c7",
+    "tests/footer-video.test.mjs": "f84f5c68e38b19627f9c3e35ef2b75a4d94266995e00535c4a6e344dbfd4b339",
+    "tests/french-i18n.test.mjs": "fb9a030eda293fe2e720b6a81fd51b549c397ae05b65780c9813666d87e08b1b",
+    "tests/locale-navigation.test.mjs": "cf47d47fe793d8c3f185ce69d28400194832f36de14eb2864dc8c729b6e7d2de",
+    "tests/residence-privacy.test.mjs": "eb31bef90cc39aeee0330fda640a37c3aa2784eb7d2c9fadc79a1779e822a822"
+  },
+  "limitations": [
+    "Browser emulation and doubled text are not physical-device or assistive-technology user tests",
+    "Independent EN/FR editorial review remains pending"
+  ],
+  "publication": "Live verification to be recorded after the deployment."
+}

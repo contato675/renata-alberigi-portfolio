@@ -22,7 +22,7 @@ try {
   if(width===390)await capture('mobile-'+locale);
   await chrome.evaluate("document.querySelector('[data-menu-open]').click()");
   const opened=await chrome.evaluate(`(()=>{const d=document.querySelector('[data-navigation]');return {open:d.open,links:d.querySelectorAll('.main-nav a').length,locales:d.querySelectorAll('[data-locale-link]').length,expanded:document.querySelector('[data-menu-open]').getAttribute('aria-expanded'),overflow:d.scrollWidth-d.clientWidth,focus:document.activeElement.hasAttribute('data-menu-close'),small:[...d.querySelectorAll('a,button')].filter(el=>{const r=el.getBoundingClientRect();return r.width<44||r.height<44;}).length};})()`);
-  assert.deepEqual(opened,{open:true,links:6,locales:LOCALES.length,expanded:'true',overflow:0,focus:true,small:0});
+  assert.deepEqual(opened,{open:true,links:7,locales:LOCALES.length,expanded:'true',overflow:0,focus:true,small:0});
   if(width===390)await capture('drawer-'+locale);
   await key('Escape',27);assert.equal(await chrome.evaluate("document.querySelector('[data-navigation]').open"),false);
   assert.ok(await chrome.evaluate("document.activeElement.hasAttribute('data-menu-open')"));
@@ -30,7 +30,7 @@ try {
  for(const locale of LOCALES)for(const width of [1024,1440,1920])await check(locale+' desktop navigation '+width,async()=>{
   await chrome.go(server.url+(localePath(locale)),width,900);
   const v=await chrome.evaluate(`({display:getComputedStyle(document.querySelector('.desktop-navigation')).display,menu:getComputedStyle(document.querySelector('[data-menu-open]')).display,name:document.querySelector('header').textContent.includes('Renata Alberigi'),links:document.querySelectorAll('.desktop-navigation .main-nav a').length,overflow:Math.max(0,document.documentElement.scrollWidth-document.documentElement.clientWidth)})`);
-  assert.deepEqual(v,{display:'flex',menu:'none',name:false,links:6,overflow:0});
+  assert.deepEqual(v,{display:'flex',menu:'none',name:false,links:7,overflow:0});
   if(width===1440){await chrome.evaluate("document.querySelector('.portrait img').decode()");await capture('desktop-'+locale);}
  });
  await check('Drawer traps Tab and Shift+Tab; Escape restores focus',async()=>{
@@ -64,7 +64,7 @@ try {
   await chrome.call('Emulation.setScriptExecutionDisabled',{value:true});
   try{await chrome.go(server.url+'pt-br/',390,844);await chrome.evaluate("document.querySelector('.mobile-fallback summary').click()");
    assert.ok(await chrome.evaluate("document.querySelector('.mobile-fallback').open&&document.querySelector('[data-menu-open]').hidden"));
-   assert.equal(await chrome.evaluate("document.querySelectorAll('.mobile-fallback a').length"),6+LOCALES.length);
+   assert.equal(await chrome.evaluate("document.querySelectorAll('.mobile-fallback a').length"),7+LOCALES.length);
    assert.ok(await chrome.evaluate("document.documentElement.scrollWidth<=innerWidth"));
   }finally{await chrome.call('Emulation.setScriptExecutionDisabled',{value:false});}
  });

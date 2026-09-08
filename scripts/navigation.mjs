@@ -1,9 +1,9 @@
 import {escapeHtml as e} from './content.mjs';
 /** Static, ordinary anchors are shared by desktop, no-JS disclosure and enhanced drawer. */
-export function renderNavigation(data,locale,{homeUrl,localeMarkup,hasDigital,hasFilm,hasBrand}) {
+export function renderNavigation(data,locale,{homeUrl,localeMarkup,hasDigital,hasFilm,hasBrand,cvUrl=null,curriculum=false}) {
   const u=data.dictionaries[locale];
   const items=[['works',u.paintingNav],...(hasDigital?[['digital',u.digital]]:[]),...(hasBrand?[['brand-design',u.brandNav]]:[]),...(hasFilm?[['film',u.video]]:[]),['about',u.about]];
-  const links=items.map(([id,label])=>`<a class="control" href="${e(homeUrl)}#${id}">${e(label)}</a>`).join('')+`<a class="control" href="#contact">${e(u.contact)}</a>`;
+  const links=items.map(([id,label])=>`<a class="control" href="${e(homeUrl)}#${id}">${e(label)}</a>`).join('')+(cvUrl?`<a class="control" data-cv-menu href="${e(cvUrl)}"${curriculum?' aria-current="page"':''}>${e(u.cvNav)}</a>`:'')+`<a class="control" href="${curriculum?e(homeUrl):''}#contact">${e(u.contact)}</a>`;
   const nav=`<nav class="main-nav" aria-label="${e(u.mainNav)}">${links}</nav>`;
   return `<header class="site-header"><div class="wrap header-inner">
     <div class="desktop-navigation">${nav}${localeMarkup}</div>

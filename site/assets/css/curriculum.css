@@ -1,0 +1,47 @@
+/* Text-first public CV on the shared 12/8/4-column grid. */
+.cv-heading { padding-block: 32px 40px; }
+.cv-heading-copy { grid-column: 1 / -1; }
+.cv-back { margin-bottom: 32px; gap: 8px; }
+.cv-heading .eyebrow { margin-bottom: 16px; }
+.cv-heading h1 { margin-bottom: 24px; }
+.cv-heading .intro { margin: 0; max-width: 64ch; }
+.cv-index { display: grid; grid-template-columns: 1fr; gap: 8px 32px; padding-block: 24px 40px; border-top: 1px solid var(--line); }
+.cv-index a { width: fit-content; max-width: 100%; text-decoration: underline; text-decoration-thickness: 1px; }
+.cv-section { padding-block: 40px 56px; border-top: 1px solid var(--line); row-gap: 32px; }
+.cv-section-title .eyebrow { margin-bottom: 16px; }
+.cv-section-title h2 { font-size: 1.5rem; line-height: 2rem; margin-bottom: 0; max-width: 22ch; }
+.cv-entries { list-style: none; margin: 0; padding: 0; }
+.cv-entry { display: grid; grid-template-columns: 1fr; gap: 8px; padding-block: 0 32px; scroll-margin-top: 24px; }
+.cv-entry:last-child { padding-bottom: 0; }
+.cv-date { color: var(--muted); font-size: .875rem; line-height: 1.5rem; font-variant-numeric: tabular-nums; }
+.cv-entry-content { min-width: 0; }
+.cv-entry h3 { margin: 0 0 8px; font-size: 1.125rem; line-height: 1.5rem; letter-spacing: -.01em; }
+.cv-entry .cv-detail { font-size: 1rem; line-height: 1.5rem; margin: 0; max-width: 68ch; color: var(--muted); overflow-wrap: anywhere; }
+.cv-entry .cv-detail + .cv-detail { margin-top: 8px; }
+.cv-work-link { gap: 8px; text-decoration: none; padding: 0; align-items: center; }
+.cv-work-link:hover { text-decoration: underline; }
+.cv-work-link span { font-size: .875rem; flex-shrink: 0; }
+.cv-biography-link { gap: 8px; }
+.main-nav [data-cv-menu][aria-current="page"] { text-decoration: underline; text-decoration-thickness: 2px; }
+@media (min-width: 768px) {
+  .cv-heading { padding-block: 48px 48px; }
+  .cv-index { grid-template-columns: repeat(2,minmax(0,1fr)); padding-bottom: 48px; }
+  .cv-section { padding-block: 48px 64px; }
+  .cv-entry { grid-template-columns: 104px minmax(0,1fr); column-gap: 24px; padding-bottom: 40px; }
+  .cv-date { padding-top: 2px; }
+}
+@media (min-width: 1024px) {
+  .cv-heading-copy { grid-column: 1 / 11; }
+  .cv-heading h1 { font-size: 4rem; line-height: 4.5rem; }
+  .cv-section { padding-block: 56px 72px; }
+  .cv-section-title h2 { font-size: 1.75rem; line-height: 2.25rem; }
+  .cv-entry { grid-template-columns: 120px minmax(0,1fr); }
+}
+@media print {
+  .site-header, .nav-drawer, .skip, .cv-index, .cv-back, #cv-footer { display: none !important; }
+  .cv-heading { padding-block: 0 24px; }
+  .cv-section { display: block; padding-block: 24px; }
+  .cv-section-title { margin-bottom: 24px; }
+  .cv-entry { break-inside: avoid; grid-template-columns: 100px 1fr; padding-bottom: 24px; }
+  .cv-heading h1 { font-size: 28pt; line-height: 32pt; }
+}
