@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-06T20:53:40.805Z",
+  "browser": "Chrome/152.0.7977.77",
+  "collection": "ruadoflow-brand-design-2024-2025",
+  "images": 66,
+  "results": [
+    {
+      "name": "en one-row brand collection 390",
+      "status": "PASS"
+    },
+    {
+      "name": "en one-row brand collection 768",
+      "status": "PASS"
+    },
+    {
+      "name": "en one-row brand collection 1440",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR one-row brand collection 390",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR one-row brand collection 768",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR one-row brand collection 1440",
+      "status": "PASS"
+    },
+    {
+      "name": "fr one-row brand collection 390",
+      "status": "PASS"
+    },
+    {
+      "name": "fr one-row brand collection 768",
+      "status": "PASS"
+    },
+    {
+      "name": "fr one-row brand collection 1440",
+      "status": "PASS"
+    },
+    {
+      "name": "An image opens the correct position in the complete brand viewer",
+      "status": "PASS"
+    },
+    {
+      "name": "en complete project page with every design",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR complete project page with every design",
+      "status": "PASS"
+    },
+    {
+      "name": "fr complete project page with every design",
+      "status": "PASS"
+    },
+    {
+      "name": "Vertical wheel on the horizontal collection still scrolls the page",
+      "status": "PASS"
+    },
+    {
+      "name": "Collection page remains complete without JavaScript",
+      "status": "PASS"
+    }
+  ],
+  "failures": 0,
+  "limits": [
+    "All imagery is supplied brand presentation material; source files remain local",
+    "Synthetic browser wheel and keyboard checks do not replace real iOS/Android touch or screen-reader-user evaluation"
+  ]
+}

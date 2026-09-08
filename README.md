@@ -1,35 +1,55 @@
-# Renata Alberigi — portfólio de arte visual
+# Renata Alberigi — visual-art portfolio
 
-**Fase 0 · Planejamento e estrutura inicial · 6 de setembro de 2026.**
-Repositório independente e privado. GitHub Pages ainda não ativado. Isto não é o site final.
+**English-first · Português (Brasil) · Français · Apple-like + Müller · 6 September 2026.**
+Independent repository. Public preview authorized for PR #1; the preview is noindex, not an approved final release. Deployment details and status: [Preview and real media](docs/10-preview-e-midias.md).
 
-## Direção escolhida
-Galeria editorial branca, grade Müller-Brockmann e acabamento Apple-like adaptado dos princípios de design da SSSOM. Perfil/release + vídeo em destaque + grade de projetos. Cada projeto abre uma galeria própria, com imagens grandes e ficha da obra. A implementação dessas interações pertence à próxima fase.
+## Implemented foundation
+English is served at the site base path; Brazilian Portuguese at `pt-br/`; French at `fr/`. All three are complete static HTML, with explicit language links, reciprocal hreflang, self-canonicals and Markdown counterparts. No locale detection or redirect based on the browser language.
 
-## Comece por aqui
-- [Plano visual](docs/01-direcao-visual.md)
-- [Layout, movimentos e mobile](docs/02-layout-interacoes-mobile.md)
-- [Conteúdo e armazenamento](docs/03-conteudo-e-midias.md)
-- [GitHub Pages e publicação](docs/04-github-pages.md)
-- [Plano de implementação e aceite](docs/05-implementacao-e-aceite.md)
-- [Portfólio PDF](pdf/README.md)
-- [Fontes e decisões](docs/06-fontes-e-decisoes.md)
+The gallery uses project covers, a native-dialog image viewer, and a permanent static page for each published project. All images and project metadata remain readable without JavaScript. The viewer adds keyboard navigation, browser Back/Forward, reduced-motion handling, and native horizontal scrolling without taking over vertical touch gestures.
 
-## Estrutura
-`site/` contém template, tokens e conteúdo. `schemas/` contém o contrato das obras.
-`scripts/` contém validação, build e servidor local, sem dependências externas.
-`docs/` não é publicada no site. `dist/` é gerada e não deve ser versionada.
+`llms.txt`, `llms-full.txt`, `robots.txt`, `sitemap.xml` and per-language `portfolio.json` are generated from the same approved public records. No fabricated product, price, availability, Gumroad integration, or claim of AI recommendation is emitted.
 
-## Verificar e visualizar
-Requer Node.js 22 ou superior. Não precisa de `npm install`.
+## Design authority
+Apple-like restraint, hierarchy and response from the actual SSSOM design contracts; Müller-Brockmann column discipline. Read [.agents/skills/apple-like-design-audit/SKILL.md](.agents/skills/apple-like-design-audit/SKILL.md) before any gallery or layout change. No proprietary Apple font or copied third-party skill is bundled.
+
+## Run locally
+Node.js 22 or newer; build/tests/site have no third-party dependency or install step. Optional local image re-import uses Sharp installed separately under ignored artifacts/.
 ```sh
 npm run verify
 npm run preview
+npm run design:apple
 ```
-Abra o endereço local informado pelo servidor. A página exibida é uma estrutura de revisão, com campos de mídia explicitamente pendentes, não uma simulação com obras inventadas.
+The browser audit uses an isolated temporary profile in installed Chrome/Chromium/Edge. Set `CHROME_BIN` only when the installed path is not detected. It does not use the normal browser profile or disable security policies. `artifacts/apple-like/` contains local reports and screenshots; it is never published.
 
-## Conteúdo pendente
-Retrato; vídeo e sua capa; seleção de obras com fotografias, títulos, anos, técnicas, dimensões e textos alternativos; PDF final. A biografia aprovada em português já foi incluída. A versão em inglês depende de revisão.
+## Documentation
+- [Visual direction](docs/01-direcao-visual.md), [layout and interaction](docs/02-layout-interacoes-mobile.md)
+- [Content and media](docs/03-conteudo-e-midias.md), [Pages deployment](docs/04-github-pages.md)
+- [Acceptance and remaining work](docs/05-implementacao-e-aceite.md), [sources](docs/06-fontes-e-decisoes.md)
+- [AI discovery and trilingual architecture](docs/08-ai-i18n.md)
+- [Apple-like audit](docs/09-auditoria-apple-like.md), [PDF plan](pdf/README.md)
 
-## Publicação deliberada
-`npm run check:publish` deve falhar nesta fase. Não trocar a visibilidade do repositório nem ativar Pages sem autorização. Nenhuma chave/API, banco de dados, serviço de IA, original de ateliê ou arquivo privado da SSSOM faz parte do site.
+## Editorial and deployment safeguards
+Real media incorporated: 9 hand-painted projects, 11 digital projects, 123 artwork images, a portrait and 2 YouTube films. PDF and complete project metadata/transcripts are still pending. Portuguese biography is preserved; the English and French translations are implemented but await human editorial review. Neutral calibration fixtures exist only in an audit-created temporary directory, never in the artist's published content.
+
+`npm run build` creates a noindex preview. `npm run check:publish` and `npm run build:release` deliberately fail until media, editorial approval, readiness and effective origin-root robots deployment are confirmed. Never publish the preview, change repository visibility, enable Pages, or merge an implementation PR without authorization.
+
+## Approved preview publication
+After reviewing and committing the source branch: `node scripts/publish-preview.mjs --confirm-public-preview`. Publishes only generated files to `pages-preview`, never merges main or changes repository visibility. Configure Pages separately after permission checks. See docs/10.
+
+## Latest editorial revision
+21 projects: 9 physical paintings, 11 digital paintings and one RUADOFLOW brand design collection (66 images, 2024–2025). New portrait, reviewed specifications, corrected Correnteza year (2022), real digital titles, updated studio email and mobile navigation drawer. [Checklist and evidence](docs/11-revisao-editorial-e-brand.md).
+
+## Custom domain configuration
+The owner requested `renataalberigi.com.br`. The build now uses the domain root, persists CNAME and preserves EN/PT-BR routes. DNS, ownership verification and HTTPS activation are tracked separately in [the domain handoff](docs/12-dominio-personalizado.md). Uncommitted artwork edits in the original workstation checkout are not part of this isolated domain change.
+
+## French and locale-navigation correction
+French is the third complete locale: 68 UI keys, 330 localized content fields, 21 projects and 189 artwork image descriptions. HTML, Markdown, structured data, explicit language selectors and reciprocal hreflang share the same validated source. Original artwork names and all existing EN/PT editorial data are preserved.
+
+Language changes no longer copy stale URL fragments such as `#works`. A short-lived, one-shot tab record restores the current reading landmark on the equivalent page; selecting the current language is a no-op. Static links still work without JavaScript or storage. `npm run design:locales` covers all six language directions, narrow/desktop layouts, section preservation, project routes and browser history. [Implementation and evidence](docs/13-francais-et-navigation.md).
+
+## French, locale navigation and footer update
+
+Three explicit languages: English, Português and Français. Every localized UI/editorial field requires all three values with no silent fallback. The locale switch preserves the actual reading position instead of copying stale section hashes. Video section subtitle removed in every language; Instagram added to every footer from the same validated public artist record.
+
+`npm run design:locales` tests every language-switch direction plus navigation, no-JavaScript fallback, video heading and Instagram. Add `-- --live` only after publication to repeat checks on the configured HTTPS domain. Details: [French and navigation](docs/13-francais-et-navigation.md).

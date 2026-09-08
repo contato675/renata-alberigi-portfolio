@@ -1,0 +1,289 @@
+{
+  "date": "2026-09-06T20:58:47.916Z",
+  "browser": "Chrome/152.0.7977.77",
+  "works": 21,
+  "artworkImages": 189,
+  "results": [
+    {
+      "name": "en collection counts and sequence",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer amor-incondicional-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer ponte-nova-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer maternidade-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer maternidade1-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer lar-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer aureo-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer analogiaeu-part4-2024",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer correnteza-2022",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer analogiaeu-2018",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-01",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-02",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-03",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-04",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-05",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-06",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-07",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-08",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-09",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-10",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-11",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer ruadoflow-brand-design-2024-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR collection counts and sequence",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer amor-incondicional-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer ponte-nova-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer maternidade-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer maternidade1-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer lar-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer aureo-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer analogiaeu-part4-2024",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer correnteza-2022",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer analogiaeu-2018",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-01",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-02",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-03",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-04",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-05",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-06",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-07",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-08",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-09",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-10",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-11",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer ruadoflow-brand-design-2024-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "fr collection counts and sequence",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer amor-incondicional-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer ponte-nova-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer maternidade-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer maternidade1-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer lar-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer aureo-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer analogiaeu-part4-2024",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer correnteza-2022",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer analogiaeu-2018",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-01",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-02",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-03",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-04",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-05",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-06",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-07",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-08",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-09",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-10",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer digital-11",
+      "status": "PASS"
+    },
+    {
+      "name": "fr viewer ruadoflow-brand-design-2024-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "both supplied YouTube players are click-to-load without autoplay",
+      "status": "PASS"
+    },
+    {
+      "name": "all 63 permanent project pages return localized complete HTML",
+      "status": "PASS"
+    },
+    {
+      "name": "preview media has no EXIF GPS/XMP metadata and no original file extensions",
+      "status": "PASS"
+    }
+  ],
+  "failures": 0,
+  "limits": [
+    "YouTube frame source and consent verified; playback/network availability controlled by YouTube",
+    "Real-device gestures, assistive-technology and artist colour/title approval remain pending"
+  ]
+}

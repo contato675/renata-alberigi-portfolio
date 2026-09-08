@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-06T17:21:45.169Z",
+  "browser": "Chrome/152.0.7977.77",
+  "works": 20,
+  "artworkImages": 123,
+  "results": [
+    {
+      "name": "en collection counts and sequence",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer amor-incondicional-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer ponte-nova-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer maternidade-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer maternidade1-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer lar-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer aureo-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer analogiaeu-part4-2024",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer correnteza-2024",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer analogiaeu-2018",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-01",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-02",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-03",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-04",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-05",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-06",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-07",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-08",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-09",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-10",
+      "status": "PASS"
+    },
+    {
+      "name": "en viewer digital-11",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR collection counts and sequence",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer amor-incondicional-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer ponte-nova-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer maternidade-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer maternidade1-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer lar-2026",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer aureo-2025",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer analogiaeu-part4-2024",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer correnteza-2024",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer analogiaeu-2018",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-01",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-02",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-03",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-04",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-05",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-06",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-07",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-08",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-09",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-10",
+      "status": "PASS"
+    },
+    {
+      "name": "pt-BR viewer digital-11",
+      "status": "PASS"
+    },
+    {
+      "name": "both supplied YouTube players are click-to-load without autoplay",
+      "status": "PASS"
+    },
+    {
+      "name": "all 40 permanent project pages return localized complete HTML",
+      "status": "PASS"
+    },
+    {
+      "name": "preview media has no EXIF GPS/XMP metadata and no original file extensions",
+      "status": "PASS"
+    }
+  ],
+  "failures": 0,
+  "limits": [
+    "YouTube frame source and consent verified; playback/network availability controlled by YouTube",
+    "Real-device gestures, assistive-technology and artist colour/title approval remain pending"
+  ],
+  "sourceHashes": {
+    "scripts/render.mjs": "03797b4815dfc6ef3f1c3efdd0ebd69d02baa15ce6e5a0dad224c6e11b1f9e89",
+    "scripts/build.mjs": "12e6d6c2c6c2a261abf7467153ddd89ea4b0a63a22eae63f56739633513793e0",
+    "scripts/discovery.mjs": "5700242a9631c24514bd653b6327c3336f01b3de9c8c168e7483cba9b292df09",
+    "scripts/content.mjs": "99d01f3a7d2ebdfc4ac8bd6477d85541589a616c2903494718a4de15a11117ff",
+    "scripts/load.mjs": "e17a46ce27c2659595f7548843a0b1d2fdae0299c662cb0a89259ee9f607664d",
+    "scripts/audit-real-media.mjs": "388dd8512dcb32bc4f17bb0d4b0f70a08352338940c5dd8f4b9a518b6f90adc3",
+    "scripts/design-audit.mjs": "4de8b8c7dfa19618359838b785de5776ef03a8e450a764c5de1e70efbc2a6175",
+    "scripts/audit/metrics.mjs": "5a085fdbc66b545524fa9c3ad1faebd39dd8fb21179a2273c729936aa4511283",
+    "site/content/artist.json": "2397551c8826829615617c14c2f4baba2b329f889d5a0f2b9df64eeeb7fc7bec",
+    "site/content/works.json": "4d131b7c8c1e510ddc04696d4bb5a9ca67270c42bee2fdbbc24d425c83ade05e",
+    "site/assets/js/gallery.js": "d3e33572f21949c72842906e880d5bf52b7e2c43706acb09f7b343b98b2b217d",
+    "site/assets/css/gallery.css": "1bcda5eb2963ad6061c2ff2c385dd2e4f22d81224aa275bc84c17dcd29a126be",
+    "site/assets/css/scaffold.css": "fcb36221739f0f9206627435305121fa781f8295f8fa1871bd4f9ba7e039db23"
+  },
+  "artifactNote": "Screenshots remain in the local audit folder. Source hashes describe audited source, not final editorial approval."
+}

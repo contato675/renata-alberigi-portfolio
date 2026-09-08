@@ -19,19 +19,20 @@
       "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
     },
     "title": {
-      "type": "string",
-      "minLength": 1
+      "$ref": "#/$defs/localized"
     },
     "year": {
       "type": "string",
       "minLength": 1
     },
     "technique": {
-      "type": "string",
-      "minLength": 1
+      "$ref": "#/$defs/localized"
     },
     "dimensions": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "minLength": 1
     },
     "status": {
@@ -41,10 +42,10 @@
       ]
     },
     "description": {
-      "type": "string"
+      "$ref": "#/$defs/localized"
     },
     "category": {
-      "type": "string"
+      "$ref": "#/$defs/localized"
     },
     "cover": {
       "type": "integer",
@@ -68,8 +69,7 @@
             "pattern": "^assets/images/[a-z0-9][a-z0-9/_.-]*\\.(webp|jpg|jpeg|png|avif)$"
           },
           "alt": {
-            "type": "string",
-            "minLength": 1
+            "$ref": "#/$defs/localized"
           },
           "width": {
             "type": "integer",
@@ -80,8 +80,76 @@
             "minimum": 1
           },
           "caption": {
-            "type": "string"
+            "$ref": "#/$defs/localized"
+          },
+          "variants": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "path",
+                "width",
+                "height"
+              ],
+              "properties": {
+                "path": {
+                  "type": "string",
+                  "pattern": "^assets/images/[a-z0-9][a-z0-9/_.-]*\\.(webp|jpg|jpeg|png|avif)$"
+                },
+                "width": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "height": {
+                  "type": "integer",
+                  "minimum": 1
+                }
+              }
+            }
           }
+        }
+      }
+    },
+    "originalTitle": {
+      "type": "string",
+      "minLength": 1
+    },
+    "collection": {
+      "enum": [
+        "paintings",
+        "digital",
+        "brand-design"
+      ]
+    },
+    "titleStatus": {
+      "const": "catalogue-label"
+    },
+    "yearIsCollectionPeriod": {
+      "type": "boolean"
+    }
+  },
+  "$defs": {
+    "localized": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "en",
+        "pt-BR",
+        "fr"
+      ],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pt-BR": {
+          "type": "string",
+          "minLength": 1
+        },
+        "fr": {
+          "type": "string",
+          "minLength": 1
         }
       }
     }

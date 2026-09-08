@@ -1,0 +1,1349 @@
+{
+  "date": "2026-09-06T13:26:18.897Z",
+  "browser": "Chrome/152.0.7977.77",
+  "platform": "win32",
+  "policy": "Apple-like + Müller-Brockmann; no certification by Apple",
+  "status": "PASS_WITH_EDITORIAL_PENDING",
+  "scope": {
+    "actual": "Unpublished portfolio without supplied artwork photographs",
+    "fixture": "Isolated neutral calibration media, not real artwork; never part of dist/",
+    "widths": [
+      320,
+      390,
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "locales": [
+      "en",
+      "pt-BR"
+    ]
+  },
+  "results": [
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Art in motion",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-320.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Art in motion",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-390.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Art in motion",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-480.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Art in motion",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-768.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Art in motion",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-1024.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Art in motion",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-1440.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Art in motion",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-1920.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Arte em movimento",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-320.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Arte em movimento",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-390.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Arte em movimento",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-480.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Arte em movimento",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-768.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Arte em movimento",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-1024.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Arte em movimento",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-1440.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Arte em movimento",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-1920.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Technical video fixture",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-320.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Technical video fixture",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-390.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Technical video fixture",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-480.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Technical video fixture",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-768.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Technical video fixture",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-1024.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Technical video fixture",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-1440.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Technical video fixture",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "Selected works",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-1920.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Fixture técnica de vídeo",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-320.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Fixture técnica de vídeo",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-390.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Fixture técnica de vídeo",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-480.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Fixture técnica de vídeo",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-768.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Fixture técnica de vídeo",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-1024.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Fixture técnica de vídeo",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-1440.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Fixture técnica de vídeo",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Obras selecionadas",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-1920.png"
+    }
+  ],
+  "checks": [
+    {
+      "name": "native dialog: open, next, previous, Escape, focus and page position",
+      "status": "PASS"
+    },
+    {
+      "name": "keyboard focus remains within native dialog",
+      "status": "PASS"
+    },
+    {
+      "name": "single image hides pagination",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile viewer: intact media, contained layout, close target",
+      "status": "PASS"
+    },
+    {
+      "name": "reduced motion disables overlay animation and smooth scroll",
+      "status": "PASS"
+    },
+    {
+      "name": "browser Back closes gallery and Forward restores it",
+      "status": "PASS"
+    },
+    {
+      "name": "project detail works without JavaScript",
+      "status": "PASS"
+    },
+    {
+      "name": "no player iframe or app third-party before click; OS injection recorded separately",
+      "status": "PASS"
+    },
+    {
+      "name": "grid overlay uses the exact content box",
+      "status": "PASS"
+    }
+  ],
+  "environmentResources": [
+    "http://gc.kis.v2.scr.kaspersky-labs.com"
+  ],
+  "environmentNote": "Observed OS antivirus injection, not app code. Security software was not disabled; external hosts are reported without query strings.",
+  "pending": [
+    "Visual judgement using actual artwork, portrait and final video",
+    "Human review of the English biography",
+    "VoiceOver/TalkBack and real iOS/Android touch gestures",
+    "Real browser 200% text zoom and media fidelity/colour",
+    "Field performance measurements and live origin-root robots verification"
+  ],
+  "failures": 0,
+  "sourceHashes": {
+    "scripts/design-audit.mjs": "995ed18b6fa1950a20cdee05c6a78d2bd7b03509424a14045695f4562dd31b9b",
+    "scripts/audit/cdp.mjs": "2b272fd31cb0bebe4245329afef45a836606d11f99e306c2c76d8b9fbb97019d",
+    "scripts/audit/metrics.mjs": "51a8a7a0e51cd0f3b2d8cffb7f3a38139b91adfc4dc6d100dc612b9a609f12bf",
+    "scripts/audit/fixtures.mjs": "9c1bd4904840aacfee0fd17d33def1142553e799e56233d271f297efcbef7d33",
+    "scripts/render.mjs": "f743c0650cd2219d370c6f1e2fa80d09133cfe8b504101cdc0f83f32fdf0fd26",
+    "site/assets/css/scaffold.css": "a244cf760b66d39f8adf546a4a5dcec2890c3e9dab071f40e4ae8821e35555e5",
+    "site/assets/css/gallery.css": "17863043220760fc29a7791986f82a2d1e6eebbe7a567181ddadc1bc9ba52d94",
+    "site/assets/css/tokens.css": "7e18e4e1e4608b0df3a986f963df5c31f8c5853968a2d63d667341f70bd6efbd",
+    "site/assets/js/gallery.js": "959517c83338ccad77aea943a78dc935e8c222b226e3b9d82afff60d8bef2bff"
+  },
+  "baseCommit": "65053e4bc1a4c42b3c901a17a177bef35b1e908e",
+  "artifactNote": "Screenshot paths are relative to artifacts/apple-like on the authorized workstation. Not published to the portfolio. Calibration images are not artworks."
+}

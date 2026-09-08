@@ -1,0 +1,2528 @@
+{
+  "date": "2026-09-06T16:24:05.514Z",
+  "browser": "Chrome/152.0.7977.77",
+  "platform": "win32",
+  "policy": "Apple-like + Müller-Brockmann; no certification by Apple",
+  "status": "PASS_WITH_EDITORIAL_PENDING",
+  "scope": {
+    "actual": "Portfolio preview with 20 supplied artwork records and their photographs",
+    "fixture": "Isolated neutral calibration media, not real artwork; never part of dist/",
+    "widths": [
+      320,
+      390,
+      480,
+      768,
+      1024,
+      1440,
+      1920
+    ],
+    "locales": [
+      "en",
+      "pt-BR"
+    ]
+  },
+  "results": [
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-320.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-390.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-480.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-768.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-1024.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-1440.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "en",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Hand-drawn digital paintings",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Digital painting 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-en-1920.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-320.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-390.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-480.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-768.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-1024.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-1440.png"
+    },
+    {
+      "kind": "actual",
+      "locale": "pt-BR",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Pinturas digitais feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Amor incondicional",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Ponte nova",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Maternidade1",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Lar",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Aureo",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "ANALOGIAEU part4",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Correnteza",
+            "firstGlyphInset": 0
+          },
+          {
+            "text": "ANALOGIAEU",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Mãe",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 02",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 03",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 04",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 05",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 06",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 07",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 08",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 09",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 10",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Pintura digital 11",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/actual-pt-BR-1920.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-320.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-390.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-480.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-768.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-1024.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-1440.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "en",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "en",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Hand-painted works",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Films & artistic practice",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Layout fixture 1 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 2 — not an artwork",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Layout fixture 3 — not an artwork",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-en-1920.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 320,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 320,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-320.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 390,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 390,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-390.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 480,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 480,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 3
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-480.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 768,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 768,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 4
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-768.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 1024,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1024,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0.06280000000015207,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-1024.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 1440,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1440,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-1440.png"
+    },
+    {
+      "kind": "fixture",
+      "locale": "pt-BR",
+      "width": 1920,
+      "status": "PASS",
+      "failures": [],
+      "metrics": {
+        "width": 1920,
+        "overflow": 0,
+        "h1": 1,
+        "smallControls": [],
+        "unnamedControls": [],
+        "imageProblems": [],
+        "maxGridDrift": 0,
+        "bodyContrast": 17.9278402530276,
+        "secondaryContrast": 6.09972980752698,
+        "language": "pt-BR",
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "opticalObservations": [
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 6
+          },
+          {
+            "text": "Pinturas feitas à mão",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Vídeos e prática artística",
+            "firstGlyphInset": -1
+          },
+          {
+            "text": "Renata Alberigi",
+            "firstGlyphInset": 2
+          },
+          {
+            "text": "Fixture de layout 1 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 2 — não é uma obra",
+            "firstGlyphInset": 1
+          },
+          {
+            "text": "Fixture de layout 3 — não é uma obra",
+            "firstGlyphInset": 1
+          }
+        ]
+      },
+      "screenshot": "screenshots/fixture-pt-BR-1920.png"
+    }
+  ],
+  "checks": [
+    {
+      "name": "native dialog: open, next, previous, Escape, focus and page position",
+      "status": "PASS"
+    },
+    {
+      "name": "keyboard focus remains within native dialog",
+      "status": "PASS"
+    },
+    {
+      "name": "single image hides pagination",
+      "status": "PASS"
+    },
+    {
+      "name": "mobile viewer: intact media, contained layout, close target",
+      "status": "PASS"
+    },
+    {
+      "name": "reduced motion disables overlay animation and smooth scroll",
+      "status": "PASS"
+    },
+    {
+      "name": "browser Back closes gallery and Forward restores it",
+      "status": "PASS"
+    },
+    {
+      "name": "project detail works without JavaScript",
+      "status": "PASS"
+    },
+    {
+      "name": "no player iframe or app third-party before click; OS injection recorded separately",
+      "status": "PASS"
+    },
+    {
+      "name": "grid overlay uses the exact content box",
+      "status": "PASS"
+    }
+  ],
+  "environmentResources": [
+    "http://gc.kis.v2.scr.kaspersky-labs.com"
+  ],
+  "environmentNote": "Observed OS antivirus injection, not app code. Security software was not disabled; external hosts are reported without query strings.",
+  "pending": [
+    "Final artist approval of titles, years, medium per work and photographic colour",
+    "Human review of the English biography",
+    "VoiceOver/TalkBack and real iOS/Android touch gestures",
+    "Real browser 200% text zoom and media fidelity/colour",
+    "Field performance measurements and live origin-root robots verification"
+  ],
+  "failures": 0,
+  "sourceHashes": {
+    "scripts/render.mjs": "03797b4815dfc6ef3f1c3efdd0ebd69d02baa15ce6e5a0dad224c6e11b1f9e89",
+    "scripts/build.mjs": "12e6d6c2c6c2a261abf7467153ddd89ea4b0a63a22eae63f56739633513793e0",
+    "scripts/discovery.mjs": "5700242a9631c24514bd653b6327c3336f01b3de9c8c168e7483cba9b292df09",
+    "scripts/content.mjs": "99d01f3a7d2ebdfc4ac8bd6477d85541589a616c2903494718a4de15a11117ff",
+    "scripts/load.mjs": "e17a46ce27c2659595f7548843a0b1d2fdae0299c662cb0a89259ee9f607664d",
+    "scripts/audit-real-media.mjs": "388dd8512dcb32bc4f17bb0d4b0f70a08352338940c5dd8f4b9a518b6f90adc3",
+    "scripts/design-audit.mjs": "4de8b8c7dfa19618359838b785de5776ef03a8e450a764c5de1e70efbc2a6175",
+    "scripts/audit/metrics.mjs": "5a085fdbc66b545524fa9c3ad1faebd39dd8fb21179a2273c729936aa4511283",
+    "site/content/artist.json": "2397551c8826829615617c14c2f4baba2b329f889d5a0f2b9df64eeeb7fc7bec",
+    "site/content/works.json": "4d131b7c8c1e510ddc04696d4bb5a9ca67270c42bee2fdbbc24d425c83ade05e",
+    "site/assets/js/gallery.js": "d3e33572f21949c72842906e880d5bf52b7e2c43706acb09f7b343b98b2b217d",
+    "site/assets/css/gallery.css": "1bcda5eb2963ad6061c2ff2c385dd2e4f22d81224aa275bc84c17dcd29a126be",
+    "site/assets/css/scaffold.css": "fcb36221739f0f9206627435305121fa781f8295f8fa1871bd4f9ba7e039db23"
+  },
+  "artifactNote": "Screenshots remain in the local audit folder. Source hashes describe audited source, not final editorial approval."
+}

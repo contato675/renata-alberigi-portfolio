@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-06T19:45:12.473Z",
+  "base": "09a945e712d4c782ed8fbaf841d6f855e4e517a8",
+  "tests": 94,
+  "buildFiles": 384,
+  "apple": {
+    "date": "2026-09-06T19:44:00.871Z",
+    "layouts": 28,
+    "interactions": 9,
+    "failures": 0,
+    "browser": "Chrome/152.0.7977.77"
+  },
+  "sourceHashes": {
+    "scripts/hosting.mjs": "800572bb11d8aaebdde69584101e496ca979dd5318b421183aa4d7633b95229a",
+    "scripts/build.mjs": "a19a3f07beb851de1f4410f743321345b2b4d251ab4483434373d91c4e9721ef",
+    "scripts/content.mjs": "2d4e918ea5a8d3279c8583c9447c27513a0ecb4c933e556debc4dcfaa2dc6779",
+    "scripts/publish-preview.mjs": "afaac0013d63140d318a948f2e2fbe328c0f44ebf474cc6279323ef834581a7c",
+    "scripts/verify-live-preview.mjs": "2518300163022d66fa7b972b2898edd1207958e10621a097cecc668e59923166",
+    "site/content/site.json": "eed56d14ca1adc0f89f9828b887e4d8f77971108cfd9f31399a669b6898d7152",
+    "tests/custom-domain.test.mjs": "5354400e30094f70e744c6d0f0fed3ca46db6e6e088b540aa40d1184313595f8",
+    "tests/discovery.test.mjs": "bd2f60544351e3c643dc56466ee0054fdfb980e2ffa96aceb4b9659239ae84de"
+  },
+  "github": {
+    "cname": "renataalberigi.com.br",
+    "source": {
+      "branch": "pages-preview",
+      "path": "/"
+    },
+    "httpsEnforced": false,
+    "status": "built"
+  },
+  "dns": {
+    "apexResolves": false,
+    "wwwResolves": false
+  },
+  "limits": [
+    "GoDaddy DNS unchanged",
+    "No certificate yet; public domain HTTP/HTTPS verification pending DNS",
+    "Account TXT domain verification not completed",
+    "Preview noindex preserved; no merge or final editorial approval"
+  ]
+}
