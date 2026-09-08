@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-08T15:52:49.079Z",
+  "baselineSource": "a4f1a28f0989c487ca1025b1d3ef543a53d28176",
+  "scope": "Artist-confirmed CV and portfolio editorial corrections only",
+  "unitTests": {
+    "passed": 147,
+    "failed": 0
+  },
+  "build": {
+    "files": 434,
+    "works": 21,
+    "locales": [
+      "en",
+      "pt-BR",
+      "fr"
+    ],
+    "mode": "public-preview-noindex"
+  },
+  "appleAudit": {
+    "status": "PASS_WITH_EDITORIAL_PENDING",
+    "layouts": 42,
+    "interactions": 9,
+    "failures": 0
+  },
+  "localeNavigation": {
+    "checks": 38,
+    "failures": 0
+  },
+  "visualInspection": {
+    "viewports": [
+      "PT desktop and 320px biography",
+      "EN desktop biography",
+      "FR desktop and 390px biography",
+      "PT 390px Poço da Maternidade detail"
+    ],
+    "result": "No horizontal overflow or clipped editorial text in inspected viewports. A full-page French capture artifact was rechecked in fresh viewport captures; complete DOM text and viewport rendering were correct."
+  },
+  "preserved": {
+    "artworkIds": true,
+    "mediaPathsAndDimensions": true,
+    "artworkTechniquesAndSizes": true,
+    "regionalResidencePrivacy": true,
+    "domain": "renataalberigi.com.br",
+    "mainUntouched": true,
+    "noindex": true
+  },
+  "cv": {
+    "pages": 3,
+    "size": "A4",
+    "phoneRemoved": true,
+    "email": "estudiorenascida@gmail.com",
+    "sha256": "c5379b44b03803fd790cbf64f846203e567fe75c403fa7be8627fd6904c4a5d5",
+    "layout": "12-column Muller grid adapted to A4, 48pt margins, 8pt rhythm; regular-width sans serif and expanded entry spacing"
+  },
+  "sourceHashes": {
+    "site/content/artist.json": "c3ab4371120cb83b66523b5570835973875a5ec083f05bc8c74a50528bade09c",
+    "site/content/works.json": "0e3879df6cf82b65e18b555eb93a024cad2bcde62a8aa7cb79430146664ce27c",
+    "scripts/discovery.mjs": "25ad22949aa5fad19df769c6d74d2ad39cd342d5dd0caa430cec30f34b793b6e",
+    "tests/editorial-revision.test.mjs": "b05059de88b7140a0383ee6476e5a071542655d8b464f6340e1faa964caf9123",
+    "tests/cv-editorial-20260908.test.mjs": "66687f17a044a88d9aa8d23daea8e35f6dfd17c467c8a7ced3f11eeff07260a6"
+  },
+  "limitations": [
+    "No Apple or WCAG certification claimed",
+    "Browser emulation is not a real-device or screen-reader-user test",
+    "Independent native-speaker editorial approval of translations remains pending",
+    "Deployment and live verification recorded separately after publication"
+  ]
+}

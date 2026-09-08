@@ -10,10 +10,10 @@ import {pagePath} from '../scripts/render.mjs';
 const root=fileURLToPath(new URL('../',import.meta.url)),data=await loadContent(root);
 const template=await readFile(path.join(root,'site/index.template.html'),'utf8'),pages=generatePages(data,template);
 const specs=[
- ['amor-incondicional-2026','Amor incondicional','Óleo sobre tela','Oil on canvas','100 × 80 cm'],
- ['ponte-nova-2025','Ponte nova','Óleo sobre tela','Oil on canvas','120 × 80 cm'],
- ['maternidade-2026','Maternidade','Óleo sobre tela','Oil on canvas','100 × 80 cm'],
- ['maternidade1-2025','Maternidade 1','Acrílica e giz pastel sobre tela, envernizada','Acrylic and pastel on canvas, varnished','100 × 80 cm'],
+ ['amor-incondicional-2026','Amor Incondicional','Óleo sobre tela','Oil on canvas','100 × 80 cm'],
+ ['ponte-nova-2025','Ponte Nova','Óleo sobre tela','Oil on canvas','120 × 80 cm'],
+ ['maternidade-2026','Poço da Maternidade','Óleo sobre tela','Oil on canvas','100 × 80 cm'],
+ ['maternidade1-2025','Maternidade','Acrílica e giz pastel sobre tela, envernizada','Acrylic and pastel on canvas, varnished','100 × 80 cm'],
  ['lar-2026','Lar','Acrílica e giz pastel sobre tela, envernizada','Acrylic and pastel on canvas, varnished','100 × 120 cm'],
  ['aureo-2025','Áureo','Óleo sobre tela','Oil on canvas','40 × 60 cm'],
  ['analogiaeu-part4-2024','ANALOGIAEU part4','Óleo sobre tela','Oil on canvas','100 × 80 cm'],
